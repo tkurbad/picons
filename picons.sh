@@ -346,6 +346,9 @@ ln -s arirangtv.png 1_0_1_1B63_3FC_1_C00000_0_0_0.png
 ln -s arirangtv.png 1_0_1_43A2_2CEC_13E_820000_0_0_0.png
 ln -s arirangtv.png 1_0_1_29DB_3CF0_13E_820000_0_0_0.png
 
+# arisenews
+ln -s arisenews.png 1_0_1_D337_A29_2_11A0000_0_0_0.png
+
 # arrabiaa
 ln -s arrabiaa.png 1_0_1_4_2E18_B0_820000_0_0_0.png
 
@@ -437,6 +440,9 @@ ln -s atv.png 1_0_1_32D4_45D_1_C00000_0_0_0.png
 ln -s atv2.png 1_0_1_33A7_3EB_1_C00000_0_0_0.png
 
 # atvavrupa
+
+# atvinternational
+ln -s atvinternational.png 1_0_1_1264_3458_13E_820000_0_0_0.png
 
 # automotorsport
 ln -s automotorsport.png 1_0_1_26D_206C_9C_5A0000_0_0_0.png
@@ -713,6 +719,8 @@ ln -s belsattv.png 1_0_1_1BC3_423_1_C00000_0_0_0.png
 
 # ben
 ln -s ben.png 1_0_1_D336_A29_2_11A0000_0_0_0.png
+
+# best24
 
 # bestdirect
 ln -s bestdirect.png 1_0_1_D360_A2A_2_11A0000_0_0_0.png
@@ -993,6 +1001,9 @@ ln -s canaldelasestrellas.png 1_0_1_77F5_404_1_C00000_0_0_0.png
 
 # canaldigitaal
 
+# canalhollywoodhd
+ln -s canalhollywoodhd.png 1_0_19_7882_414_1_C00000_0_0_0.png
+
 # canale5
 ln -s canale5.png 1_0_1_2_1770_110_820000_0_0_0.png
 ln -s canale5.png 1_0_1_5_1770_110_820000_0_0_0.png
@@ -1109,6 +1120,11 @@ ln -s canal+sporthd.png 1_0_19_2278_438_1_C00000_0_0_0.png
 ln -s canal+sporthd.png 1_0_19_32DE_190_13E_820000_0_0_0.png
 ln -s canal+sporthd.png 1_0_1_23AD_44A_1_C00000_0_0_0.png
 ln -s canal+sporthd.png 1_0_1_32DE_190_13E_820000_0_0_0.png
+
+# canal+weekend
+ln -s canal+weekend.png 1_0_1_113E_2AF8_13E_820000_0_0_0.png
+
+# canal+weekendhd
 
 # canalplayinfinity
 ln -s canalplayinfinity.png 1_0_1_23F5_452_1_C00000_0_0_0.png
@@ -1669,6 +1685,9 @@ ln -s deakids.png 1_0_1_2CC4_2580_FBFF_820000_0_0_0.png
 # deakidsplus1
 ln -s deakidsplus1.png 1_0_1_3C04_64_FBFF_820000_0_0_0.png
 
+# deasaperehd
+ln -s deasaperehd.png 1_0_19_2D02_2774_FBFF_820000_0_0_0.png
+
 # deasuper
 ln -s deasuper.png 1_0_1_2C9D_2580_FBFF_820000_0_0_0.png
 
@@ -1733,7 +1752,6 @@ ln -s d17.png 1_0_1_2F8E_454_1_C00000_0_0_0.png
 ln -s discovery.png 1_0_1_1839_7D9_2_11A0000_0_0_0.png
 ln -s discovery.png 1_0_1_1842_7D9_2_11A0000_0_0_0.png
 ln -s discovery.png 1_0_1_13AD_C85_3_EB0000_0_0_0.png
-ln -s discovery.png 1_0_1_7797_424_1_C00000_0_0_0.png
 ln -s discovery.png 1_0_1_E_4_85_C00000_0_0_0.png
 ln -s discovery.png 1_0_1_24C0_43C_1_C00000_0_0_0.png
 ln -s discovery.png 1_0_1_4F4F_447_1_C00000_0_0_0.png
@@ -1811,6 +1829,9 @@ ln -s discoveryrealtime.png 1_0_1_2A95_1838_FBFF_820000_0_0_0.png
 
 # discoveryrealtimeitalia
 ln -s discoveryrealtimeitalia.png 1_0_1_2D02_2774_FBFF_820000_0_0_0.png
+
+# discoveryrealtimehditalia
+ln -s discoveryrealtimehditalia.png 1_0_19_2CF3_2774_FBFF_820000_0_0_0.png
 
 # discoveryrealtimeplus1
 ln -s discoveryrealtimeplus1.png 1_0_1_CCDD_90B_2_11A0000_0_0_0.png
@@ -1935,6 +1956,9 @@ ln -s disneychannelplus1.png 1_0_1_22CA_45A_1_C00000_0_0_0.png
 ln -s disneychannelplus1.png 1_0_1_2509_2260_FBFF_820000_0_0_0.png
 ln -s disneychannelplus1.png 1_0_1_4E85_1AF4_9C_5A0000_0_0_0.png
 ln -s disneychannelplus1.png 1_0_1_2C8B_2580_FBFF_820000_0_0_0.png
+
+# disneychannelplus2
+ln -s disneychannelplus2.png 1_0_1_2B6A_19C8_FBFF_820000_0_0_0.png
 
 # disneycinemagic
 ln -s disneycinemagic.png 1_0_1_232A_803_2_11A0000_0_0_0.png
@@ -2126,7 +2150,6 @@ ln -s dubaisports3.png 1_0_1_251E_13EF_13E_820000_0_0_0.png
 ln -s dubaitv.png 1_0_1_251D_13EF_13E_820000_0_0_0.png
 
 # ducktv
-ln -s ducktv.png 1_0_1_13BB_C85_3_EB0000_0_0_0.png
 ln -s ducktv.png 1_0_1_13BD_C85_3_EB0000_0_0_0.png
 ln -s ducktv.png 1_0_1_1415_C8A_3_EB0000_0_0_0.png
 ln -s ducktv.png 1_0_1_141A_C8A_3_EB0000_0_0_0.png
@@ -2194,7 +2217,6 @@ ln -s eentertainment.png 1_0_1_4EF6_21FC_9C_5A0000_0_0_0.png
 ln -s eentertainment.png 1_0_1_4EFA_21FC_9C_5A0000_0_0_0.png
 ln -s eentertainment.png 1_0_1_1799_963_2_11A0000_0_0_0.png
 ln -s eentertainment.png 1_0_1_CFDF_909_2_11A0000_0_0_0.png
-ln -s eentertainment.png 1_0_1_2B02_417_1_C00000_0_0_0.png
 ln -s eentertainment.png 1_0_1_E2E_1E14_9E_5A0000_0_0_0.png
 ln -s eentertainment.png 1_0_1_E38_1E14_9E_5A0000_0_0_0.png
 ln -s eentertainment.png 1_0_1_6D8_1388_9C_5A0000_0_0_0.png
@@ -2568,6 +2590,9 @@ ln -s extremesports.png 1_0_1_2524_456_1_C00000_0_0_0.png
 # faithworldtv
 ln -s faithworldtv.png 1_0_1_D333_A29_2_11A0000_0_0_0.png
 
+# fanda
+ln -s fanda.png 1_0_1_36F8_C8E_3_EB0000_0_0_0.png
+
 # fashionboxhd
 ln -s fashionboxhd.png 1_0_1_152A_C86_3_EB0000_0_0_0.png
 
@@ -2608,6 +2633,12 @@ ln -s filmboxhd.png 1_0_19_13B3_C95_3_EB0000_0_0_0.png
 
 # filmboxactionhd
 ln -s filmboxactionhd.png 1_0_1_1528_C86_3_EB0000_0_0_0.png
+
+# filmboxextra1
+ln -s filmboxextra1.png 1_0_1_13BB_C85_3_EB0000_0_0_0.png
+
+# filmboxfamily
+ln -s filmboxfamily.png 1_0_1_3D62_2C88_13E_820000_0_0_0.png
 
 # film1action
 ln -s film1action.png 1_0_16_51B8_C96_3_EB0000_0_0_0.png
@@ -3167,7 +3198,6 @@ ln -s hollanddoc24.png 1_0_1_177F_C82_3_EB0000_0_0_0.png
 # hollywoodtv
 ln -s hollywoodtv.png 1_0_1_7625_408_1_C00000_0_0_0.png
 ln -s hollywoodtv.png 1_0_1_77C1_40A_1_C00000_0_0_0.png
-ln -s hollywoodtv.png 1_0_19_7882_414_1_C00000_0_0_0.png
 
 # holidayandcruise
 ln -s holidayandcruise.png 1_0_1_D7C4_A35_2_11A0000_0_0_0.png
@@ -3278,6 +3308,9 @@ ln -s inspirationtv.png 1_0_1_D3C5_A2B_2_11A0000_0_0_0.png
 
 # inspirationaltv
 ln -s inspirationaltv.png 1_0_1_34C8_3C28_13E_820000_0_0_0.png
+
+# interchannel
+ln -s interchannel.png 1_0_1_2CC0_2580_FBFF_820000_0_0_0.png
 
 # intv
 ln -s intv.png 1_0_1_11FA_3FD_1_C00000_0_0_0.png
@@ -3444,7 +3477,9 @@ ln -s jml.png 1_0_1_202_7_85_C00000_0_0_0.png
 
 # journaal24
 ln -s journaal24.png 1_0_16_177A_C82_3_EB0000_0_0_0.png
-ln -s journaal24.png 1_0_1_177A_C82_3_EB0000_0_0_0.png
+
+# journaal24_best24
+ln -s journaal24_best24.png 1_0_1_177A_C82_3_EB0000_0_0_0.png
 
 # jukebox
 ln -s jukebox.png 1_0_19_CF70_2715_F001_EB0000_0_0_0.png
@@ -3810,6 +3845,9 @@ ln -s machainesportbienetre.png 1_0_1_213C_400_1_C00000_0_0_0.png
 # massiverandb
 ln -s massiverandb.png 1_0_1_C6C2_969_2_11A0000_0_0_0.png
 ln -s massiverandb.png 1_0_1_D74A_A34_2_11A0000_0_0_0.png
+
+# mainfranken
+ln -s mainfranken.png 1_0_1_11FE_3FD_1_C00000_0_0_0.png
 
 # maison+
 ln -s maison+.png 1_0_1_23FD_452_1_C00000_0_0_0.png
@@ -5460,6 +5498,9 @@ ln -s sbs6.png 1_0_1_FA2_451_35_C00000_0_0_0.png
 ln -s sbs6hd.png 1_0_19_17CA_C82_3_EB0000_0_0_0.png
 ln -s sbs6hd.png 1_0_1_17CA_C82_3_EB0000_0_0_0.png
 
+# schautv
+ln -s schautv.png 1_0_1_33A9_3EB_1_C00000_0_0_0.png
+
 # sct
 ln -s sct.png 1_0_1_35C2_1388_13E_820000_0_0_0.png
 ln -s sct.png 1_0_1_35C6_1388_13E_820000_0_0_0.png
@@ -6339,6 +6380,9 @@ ln -s smashhits.png 1_0_1_2EF4_7F8_2_11A0000_0_0_0.png
 # smileofachild
 ln -s smileofachild.png 1_0_1_328_3BC4_13E_820000_0_0_0.png
 
+# solmusica
+ln -s solmusica.png 1_0_1_7797_424_1_C00000_0_0_0.png
+
 # sonlifetv
 ln -s sonlifetv.png 1_0_1_CBCA_8FD_2_11A0000_0_0_0.png
 ln -s sonlifetv.png 1_0_1_2760_402_1_C00000_0_0_0.png
@@ -6349,6 +6393,9 @@ ln -s sonnenklartv.png 1_0_19_D16F_2713_F001_EB0000_0_0_0.png
 ln -s sonnenklartv.png 1_0_1_20_21_85_C00000_0_0_0.png
 ln -s sonnenklartv.png 1_0_1_D16F_2713_F001_EB0000_0_0_0.png
 ln -s sonnenklartv.png 1_0_19_1518_455_1_C00000_0_0_0.png
+
+# sonnenklartvhd
+ln -s sonnenklartvhd.png 1_0_1_1518_455_1_C00000_0_0_0.png
 
 # sonshinetv
 ln -s sonshinetv.png 1_0_1_200E_24B8_13E_820000_0_0_0.png
@@ -6390,6 +6437,9 @@ ln -s spiegeltvdigital.png 1_0_19_D099_2712_F001_EB0000_0_0_0.png
 ln -s spiegeltvdigital.png 1_0_1_D099_2712_F001_EB0000_0_0_0.png
 
 # spiegeltvwissen
+
+# sport365
+ln -s sport365.png 1_0_1_2B02_417_1_C00000_0_0_0.png
 
 # sport+
 ln -s sport+.png 1_0_1_1F49_42E_1_C00000_0_0_0.png
@@ -6656,6 +6706,9 @@ ln -s tbn.png 1_0_1_322_3BC4_13E_820000_0_0_0.png
 ln -s tbn.png 1_0_1_323_3BC4_13E_820000_0_0_0.png
 ln -s tbn.png 1_0_1_327_3BC4_13E_820000_0_0_0.png
 ln -s tbn.png 1_0_1_CB9C_8FE_2_11A0000_0_0_0.png
+
+# tbnenlace
+ln -s tbnenlace.png 1_0_1_7A49_410_1_C00000_0_0_0.png
 
 # tcm
 ln -s tcm.png 1_0_1_1652_7E9_2_11A0000_0_0_0.png
@@ -7260,6 +7313,9 @@ ln -s tvgusto.png 1_0_19_19A_1964_9C_5A0000_0_0_0.png
 ln -s tvl_atv_tvoost.png 1_0_1_17A7_C82_3_EB0000_0_0_0.png
 ln -s tvl_atv_tvoost.png 1_0_16_17A7_C82_3_EB0000_0_0_0.png
 
+# tvoberfranken
+ln -s tvoberfranken.png 1_0_1_11FF_3FD_1_C00000_0_0_0.png
+
 # tvoostbe
 
 # tvm_wwtv
@@ -7780,7 +7836,9 @@ ln -s w9hd.png 1_0_19_2488_440_1_C00000_0_0_0.png
 
 # watch
 ln -s watch.png 1_0_1_1978_7D6_2_11A0000_0_0_0.png
-ln -s watch.png 1_0_19_EE2_7E9_2_11A0000_0_0_0.png
+
+# watchhd
+ln -s watchhd.png 1_0_19_EE2_7E9_2_11A0000_0_0_0.png
 
 # watchplus1
 ln -s watchplus1.png 1_0_1_1DBF_7DF_2_11A0000_0_0_0.png
