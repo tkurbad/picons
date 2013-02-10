@@ -2584,8 +2584,10 @@ ln -s extremesports.png 1_0_16_51D1_C96_3_EB0000_0_0_0.png
 ln -s extremesports.png 1_0_1_51D1_C96_3_EB0000_0_0_0.png
 ln -s extremesports.png 1_0_19_1014_2C24_FBFF_820000_0_0_0.png
 ln -s extremesports.png 1_0_16_51D2_C96_3_EB0000_0_0_0.png
-ln -s extremesports.png 1_0_19_2CF2_2774_FBFF_820000_0_0_0.png
 ln -s extremesports.png 1_0_1_2524_456_1_C00000_0_0_0.png
+
+# extremesportshd
+ln -s extremesportshd.png 1_0_19_2CF2_2774_FBFF_820000_0_0_0.png
 
 # faithworldtv
 ln -s faithworldtv.png 1_0_1_D333_A29_2_11A0000_0_0_0.png
@@ -2667,6 +2669,9 @@ ln -s filmfour.png 1_0_1_2404_7F9_2_11A0000_0_0_0.png
 
 # filmfourplus1
 ln -s filmfourplus1.png 1_0_1_2409_7F9_2_11A0000_0_0_0.png
+
+# fishingandhunting
+ln -s fishingandhunting.png 1_0_1_3334_C89_3_EB0000_0_0_0.png
 
 # fitnesstv
 ln -s fitnesstv.png 1_0_1_D395_A2A_2_11A0000_0_0_0.png
@@ -2917,6 +2922,9 @@ ln -s frenchlovertv.png 1_0_1_832_22C4_13E_820000_0_0_0.png
 
 # frisbee
 ln -s frisbee.png 1_0_1_E24_708_C8_820000_0_0_0.png
+
+# ftldeutschland
+ln -s ftldeutschland.png 1_0_1_3164_459_1_C00000_0_0_0.png
 
 # fx
 ln -s fx.png 1_0_1_158B_7E5_2_11A0000_0_0_0.png
@@ -3476,10 +3484,10 @@ ln -s jml.png 1_0_1_202_7_85_C00000_0_0_0.png
 # jstveurope
 
 # journaal24
-ln -s journaal24.png 1_0_16_177A_C82_3_EB0000_0_0_0.png
 
 # journaal24_best24
 ln -s journaal24_best24.png 1_0_1_177A_C82_3_EB0000_0_0_0.png
+ln -s journaal24_best24.png 1_0_16_177A_C82_3_EB0000_0_0_0.png
 
 # jukebox
 ln -s jukebox.png 1_0_19_CF70_2715_F001_EB0000_0_0_0.png
@@ -3571,7 +3579,9 @@ ln -s kanalivoulis.png 1_0_1_180_1C84_13E_820000_0_0_0.png
 # kazakhtv
 
 # kbsworld
-ln -s kbsworld.png 1_0_1_7D7_22C4_13E_820000_0_0_0.png
+
+# kbsworldhd
+ln -s kbsworldhd.png 1_0_1_7D7_22C4_13E_820000_0_0_0.png
 
 # ketnet
 
@@ -7224,11 +7234,13 @@ ln -s tv8sweden.png 1_0_1_1AEA_12_55_300000_0_0_0.png
 ln -s tv8sweden.png 1_0_1_73A_3E_46_7120000_0_0_0.png
 
 # tv8lithuania
-ln -s tv8lithuania.png 1_0_1_13D7_C8A_3_EB0000_0_0_0.png
 
 # tv8mtblanc
 ln -s tv8mtblanc.png 1_0_1_2F67_454_1_C00000_0_0_0.png
 ln -s tv8mtblanc.png 1_0_1_1F6_26AC_13F_820000_0_0_0.png
+
+# tv8slovakia
+ln -s tv8slovakia.png 1_0_1_13D7_C8A_3_EB0000_0_0_0.png
 
 # tv10
 ln -s tv10.png 1_0_1_ED8_17_56_300000_0_0_0.png
@@ -7402,6 +7414,9 @@ ln -s ucbtv.png 1_0_1_CB21_907_2_11A0000_0_0_0.png
 
 # ukrainianfashion
 ln -s ukrainianfashion.png 1_0_1_198C_F_55_300000_0_0_0.png
+
+# ulmallgau
+ln -s ulmallgau.png 1_0_1_11FB_3FD_1_C00000_0_0_0.png
 
 # ummahchannel
 ln -s ummahchannel.png 1_0_1_CB24_907_2_11A0000_0_0_0.png
