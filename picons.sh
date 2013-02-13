@@ -1469,6 +1469,7 @@ ln -s cmorekids.png 1_0_1_CFB_21_46_7120000_0_0_0.png
 
 # cmorelive
 ln -s cmorelive.png 1_0_1_D4D_21_46_7120000_0_0_0.png
+ln -s cmorelive.png 1_0_1_CFC_21_46_7120000_0_0_0.png
 
 # cmorelivehd
 ln -s cmorelivehd.png 1_0_19_1AF6_E_46_7120000_0_0_0.png
@@ -1476,6 +1477,7 @@ ln -s cmorelivehd.png 1_0_19_1AF5_E_46_7120000_0_0_0.png
 
 # cmoreseries
 ln -s cmoreseries.png 1_0_1_134_3_46_7120000_0_0_0.png
+ln -s cmoreseries.png 1_0_1_147_3_46_7120000_0_0_0.png
 
 # cmoreserieshd
 ln -s cmoreserieshd.png 1_0_19_586_E_46_7120000_0_0_0.png
@@ -1483,6 +1485,7 @@ ln -s cmoreserieshd.png 1_0_19_584_E_46_7120000_0_0_0.png
 
 # cmoresport
 ln -s cmoresport.png 1_0_1_12E_3_46_7120000_0_0_0.png
+ln -s cmoresport.png 1_0_1_146_3_46_7120000_0_0_0.png
 
 # cmoresporthd
 ln -s cmoresporthd.png 1_0_19_580_E_46_7120000_0_0_0.png
@@ -2737,7 +2740,7 @@ ln -s fox.png 1_0_1_1BD1_17D4_13E_820000_0_0_0.png
 ln -s foxcrime.png 1_0_1_7468_3F0_1_C00000_0_0_0.png
 ln -s foxcrime.png 1_0_1_1FCB_189C_FBFF_820000_0_0_0.png
 ln -s foxcrime.png 1_0_1_1586_C92_3_EB0000_0_0_0.png
-ln -s foxcrime.png 1_0_1_9D4_47_46_7120000_0_0_0.png
+ln -s foxcrime.png 1_0_1_9D4_A_46_7120000_0_0_0.png
 
 # foxcrimehd
 ln -s foxcrimehd.png 1_0_19_379E_14B4_FBFF_820000_0_0_0.png
@@ -3197,6 +3200,7 @@ ln -s hitv.png 1_0_1_D6DC_A33_2_11A0000_0_0_0.png
 
 # hightv3d
 ln -s hightv3d.png 1_0_1_14C1_C84_3_EB0000_0_0_0.png
+ln -s hightv3d.png 1_0_1_1AF9_46_46_7120000_0_0_0.png
 
 # hollanddoc24
 ln -s hollanddoc24.png 1_0_19_177F_C82_3_EB0000_0_0_0.png
@@ -4046,6 +4050,7 @@ ln -s mtv3faktaxl.png 1_0_19_1329_48_46_7120000_0_0_0.png
 
 # mtv3hd
 ln -s mtv3hd.png 1_0_19_1A94_44_46_7120000_0_0_0.png
+ln -s mtv3hd.png 1_0_19_1A97_44_46_7120000_0_0_0.png
 
 # mtv3juniori
 ln -s mtv3juniori.png 1_0_19_132B_48_46_7120000_0_0_0.png
@@ -6932,8 +6937,6 @@ ln -s tntfilmhd.png 1_0_19_C352_271D_F001_EB0000_0_0_0.png
 
 # tntnordic
 ln -s tntnordic.png 1_0_1_D4A_2_46_7120000_0_0_0.png
-ln -s tntnordic.png 1_0_1_D4A_42_46_7120000_0_0_0.png
-ln -s tntnordic.png 1_0_1_FFA_6_56_300000_0_0_0.png
 
 # tntserie
 ln -s tntserie.png 1_0_19_C47F_2715_F001_EB0000_0_0_0.png
