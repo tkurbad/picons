@@ -6514,6 +6514,9 @@ ln -s srsudwestfernsehen.png 1_0_1_6F46_445_1_EBB115_0_0_0.png
 # star
 ln -s star.png 1_0_1_649_19_46_7120000_0_0_0.png
 
+# star_showtime
+ln -s star_showtime.png 1_0_1_9CB_19_46_7120000_0_0_0.png
+
 # starparadies
 ln -s starparadies.png 1_0_1_33AA_3EB_1_C00000_0_0_0.png
 
