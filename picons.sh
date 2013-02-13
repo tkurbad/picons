@@ -3457,7 +3457,7 @@ ln -s jim.png 1_0_1_5276_C96_3_EB0000_0_0_0.png
 ln -s jim.png 1_0_16_5276_C96_3_EB0000_0_0_0.png
 
 # jimfi
-ln -s jimfi.png 1_0_1_60B_42_46_7120000_0_0_0.png
+ln -s jimfi.png 1_0_19_60B_48_46_7120000_0_0_0.png
 
 # jimjam
 ln -s jimjam.png 1_0_1_232A_C8F_3_EB0000_0_0_0.png
@@ -3739,7 +3739,7 @@ ln -s lifestyletv.png 1_0_1_AF6_47_46_7120000_0_0_0.png
 # ligtv2
 
 # liv
-ln -s liv.png 1_0_1_1195_42_46_7120000_0_0_0.png
+ln -s liv.png 1_0_19_1195_48_46_7120000_0_0_0.png
 
 # liverpoolfctv
 ln -s liverpoolfctv.png 1_0_1_C5C1_967_2_11A0000_0_0_0.png
@@ -4038,38 +4038,35 @@ ln -s movies24plus.png 1_0_1_CC2E_8FF_2_11A0000_0_0_0.png
 # mtamuslimtv
 ln -s mtamuslimtv.png 1_0_1_CB9B_8FE_2_11A0000_0_0_0.png
 
-# mtv3
-ln -s mtv3.png 1_0_1_64E_41_46_7120000_0_0_0.png
-
 # mtv3fakta
-ln -s mtv3fakta.png 1_0_1_1326_41_46_7120000_0_0_0.png
+ln -s mtv3fakta.png 1_0_19_1326_48_46_7120000_0_0_0.png
 
 # mtv3faktaxl
-ln -s mtv3faktaxl.png 1_0_1_1329_41_46_7120000_0_0_0.png
+ln -s mtv3faktaxl.png 1_0_19_1329_48_46_7120000_0_0_0.png
 
 # mtv3hd
 ln -s mtv3hd.png 1_0_19_1A94_44_46_7120000_0_0_0.png
 
 # mtv3juniori
-ln -s mtv3juniori.png 1_0_1_132B_41_46_7120000_0_0_0.png
+ln -s mtv3juniori.png 1_0_19_132B_48_46_7120000_0_0_0.png
 
 # mtv3komedia
-ln -s mtv3komedia.png 1_0_1_1327_41_46_7120000_0_0_0.png
+ln -s mtv3komedia.png 1_0_19_1327_48_46_7120000_0_0_0.png
 
 # mtv3leffa
-ln -s mtv3leffa.png 1_0_1_132A_41_46_7120000_0_0_0.png
+ln -s mtv3leffa.png 1_0_19_132A_48_46_7120000_0_0_0.png
 
 # mtv3max
-ln -s mtv3max.png 1_0_1_1325_41_46_7120000_0_0_0.png
+ln -s mtv3max.png 1_0_19_1325_48_46_7120000_0_0_0.png
 
 # mtv3maxsport1
-ln -s mtv3maxsport1.png 1_0_1_131_41_46_7120000_0_0_0.png
+ln -s mtv3maxsport1.png 1_0_19_131_48_46_7120000_0_0_0.png
 
 # mtv3maxsport2
-ln -s mtv3maxsport2.png 1_0_1_196A_41_46_7120000_0_0_0.png
+ln -s mtv3maxsport2.png 1_0_19_196A_48_46_7120000_0_0_0.png
 
 # mtv3sarja
-ln -s mtv3sarja.png 1_0_1_1328_41_46_7120000_0_0_0.png
+ln -s mtv3sarja.png 1_0_19_1328_48_46_7120000_0_0_0.png
 
 # mtv
 ln -s mtv.png 1_0_1_1B59_7DA_2_11A0000_0_0_0.png
@@ -4328,7 +4325,7 @@ ln -s ned3hd.png 1_0_19_5230_C99_3_EB0000_0_0_0.png
 ln -s ned3hd.png 1_0_1_5230_C99_3_EB0000_0_0_0.png
 
 # nelonen
-ln -s nelonen.png 1_0_1_130_42_46_7120000_0_0_0.png
+ln -s nelonen.png 1_0_19_130_48_46_7120000_0_0_0.png
 
 # net5
 ln -s net5.png 1_0_1_138C_455_35_C00000_0_0_0.png
@@ -6549,7 +6546,7 @@ ln -s stvhd.png 1_0_19_F0F_808_2_11A0000_0_0_0.png
 ln -s stylia.png 1_0_1_428D_446_1_C00000_0_0_0.png
 
 # sub
-ln -s sub.png 1_0_1_8FD_41_46_7120000_0_0_0.png
+ln -s sub.png 1_0_19_8FD_48_46_7120000_0_0_0.png
 
 # sudwestfernsehenbadenwurtemberg
 ln -s sudwestfernsehenbadenwurtemberg.png 1_0_1_6DD1_44D_1_C00000_0_0_0.png
@@ -7505,7 +7502,7 @@ ln -s universalchannelplus1.png 1_0_1_CBFC_8FF_2_11A0000_0_0_0.png
 ln -s unitelclassicahd.png 1_0_19_17D5_C91_3_EB0000_0_0_0.png
 
 # urhotv
-ln -s urhotv.png 1_0_1_132C_42_46_7120000_0_0_0.png
+ln -s urhotv.png 1_0_19_132C_48_46_7120000_0_0_0.png
 
 # ushuaiatv
 ln -s ushuaiatv.png 1_0_1_251E_440_1_C00000_0_0_0.png
@@ -7925,19 +7922,19 @@ ln -s yesterday.png 1_0_1_1969_7D6_2_11A0000_0_0_0.png
 ln -s yesterdayplus1.png 1_0_1_1DE2_7DF_2_11A0000_0_0_0.png
 
 # ylefem
-ln -s ylefem.png 1_0_1_51_42_46_7120000_0_0_0.png
+ln -s ylefem.png 1_0_19_51_48_46_7120000_0_0_0.png
 
 # ylehd
 ln -s ylehd.png 1_0_19_B75_26_46_7120000_0_0_0.png
 
 # yleteema
-ln -s yleteema.png 1_0_1_91_42_46_7120000_0_0_0.png
+ln -s yleteema.png 1_0_19_91_48_46_7120000_0_0_0.png
 
 # yletv1
-ln -s yletv1.png 1_0_1_11_42_46_7120000_0_0_0.png
+ln -s yletv1.png 1_0_19_11_48_46_7120000_0_0_0.png
 
 # yletv2
-ln -s yletv2.png 1_0_1_21_42_46_7120000_0_0_0.png
+ln -s yletv2.png 1_0_19_21_48_46_7120000_0_0_0.png
 
 # yourfamily
 ln -s yourfamily.png 1_0_1_4EE9_21FC_9C_5A0000_0_0_0.png
