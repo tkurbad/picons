@@ -1602,6 +1602,11 @@ ln -s crimeplus1.png 1_0_1_CBC9_8FD_2_11A0000_0_0_0.png
 # ctc
 ln -s ctc.png 1_0_1_1AC2_12_55_300000_0_0_0.png
 
+# ctsport
+
+# ctsporthd
+ln -s ctsporthd.png 1_0_1_13AF_C85_3_EB0000_0_0_0.png
+
 # cubavisioninternacional
 ln -s cubavisioninternacional.png 1_0_1_1B60_3FC_1_C00000_0_0_0.png
 
@@ -2616,7 +2621,6 @@ ln -s fashiononehd.png 1_0_19_DAF_16A8_9C_5A0000_0_0_0.png
 
 # fashiontv
 ln -s fashiontv.png 1_0_1_43A3_2CEC_13E_820000_0_0_0.png
-ln -s fashiontv.png 1_0_1_13D8_C8A_3_EB0000_0_0_0.png
 ln -s fashiontv.png 1_0_1_426_2_AA_5A0000_0_0_0.png
 ln -s fashiontv.png 1_0_1_10CD_418_1_C00000_0_0_0.png
 ln -s fashiontv.png 1_0_1_C80_A_1_7120000_0_0_0.png
@@ -2726,6 +2730,9 @@ ln -s foodnetwork.png 1_0_1_D00C_909_2_11A0000_0_0_0.png
 
 # foodnetworkplus1
 ln -s foodnetworkplus1.png 1_0_1_D016_909_2_11A0000_0_0_0.png
+
+# fooor
+ln -s fooor.png 1_0_1_13D8_C8A_3_EB0000_0_0_0.png
 
 # foot+
 ln -s foot+.png 1_0_1_20D2_43E_1_C00000_0_0_0.png
@@ -3285,6 +3292,9 @@ ln -s idealworld.png 1_0_1_CC08_8FF_2_11A0000_0_0_0.png
 
 # idealextra
 ln -s idealextra.png 1_0_1_CC09_8FF_2_11A0000_0_0_0.png
+
+# ifilm
+ln -s ifilm.png 1_0_1_32A_3BC4_13E_820000_0_0_0.png
 
 # im1
 ln -s im1.png 1_0_1_304_5_85_C00000_0_0_0.png
@@ -3961,6 +3971,9 @@ ln -s mgm.png 1_0_1_13CF_C8A_3_EB0000_0_0_0.png
 ln -s mgmhd.png 1_0_19_EDF_7E0_2_11A0000_0_0_0.png
 ln -s mgmhd.png 1_0_19_3AB7_514_13E_820000_0_0_0.png
 ln -s mgmhd.png 1_0_1_3AB7_514_13E_820000_0_0_0.png
+
+# milanchannel
+ln -s milanchannel.png 1_0_1_57E_320_FBFF_820000_0_0_0.png
 
 # militarychannel
 
@@ -6536,6 +6549,9 @@ ln -s starchannel.png 1_0_1_141_157C_13E_820000_0_0_0.png
 # startvukr
 ln -s startvukr.png 1_0_1_19A0_F_55_300000_0_0_0.png
 
+# sterktv
+ln -s sterktv.png 1_0_1_133C_33F4_13E_820000_0_0_0.png
+
 # stv
 ln -s stv.png 1_0_1_27E2_806_2_11A0000_0_0_0.png
 ln -s stv.png 1_0_1_27EC_806_2_11A0000_0_0_0.png
@@ -7363,6 +7379,9 @@ ln -s tvoranje.png 1_0_1_7DA_449_35_C00000_0_0_0.png
 ln -s tvoranje.png 1_0_1_31F9_45F_35_C00000_0_0_0.png
 ln -s tvoranje.png 1_0_16_51D4_C96_3_EB0000_0_0_0.png
 ln -s tvoranje.png 1_0_1_51D4_C96_3_EB0000_0_0_0.png
+
+# tvpersia
+ln -s tvpersia.png 1_0_1_134A_33F4_13E_820000_0_0_0.png
 
 # tvphistoria
 ln -s tvphistoria.png 1_0_1_1BC1_423_1_C00000_0_0_0.png
