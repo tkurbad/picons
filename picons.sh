@@ -343,7 +343,6 @@ ln -s aone.png 1_0_1_1991_F_55_300000_0_0_0.png
 
 # arirangtv
 ln -s arirangtv.png 1_0_1_1B63_3FC_1_C00000_0_0_0.png
-ln -s arirangtv.png 1_0_1_43A2_2CEC_13E_820000_0_0_0.png
 ln -s arirangtv.png 1_0_1_29DB_3CF0_13E_820000_0_0_0.png
 
 # arisenews
@@ -3120,7 +3119,6 @@ ln -s hbocomedy.png 1_0_1_D98_C_1_7120000_0_0_0.png
 
 # hbocomedyhd
 ln -s hbocomedyhd.png 1_0_1_E0A_2D50_13E_820000_0_0_0.png
-ln -s hbocomedyhd.png 1_0_1_3D63_2C88_13E_820000_0_0_0.png
 
 # hdcampustv
 
@@ -3349,6 +3347,8 @@ ln -s investigationdiscovery.png 1_0_16_179D_C82_3_EB0000_0_0_0.png
 ln -s investigationdiscovery.png 1_0_1_179D_C82_3_EB0000_0_0_0.png
 ln -s investigationdiscovery.png 1_0_16_179E_C82_3_EB0000_0_0_0.png
 ln -s investigationdiscovery.png 1_0_19_179D_C82_3_EB0000_0_0_0.png
+
+# investigationdiscoveryhd
 
 # italiauno
 ln -s italiauno.png 1_0_1_1_1770_110_820000_0_0_0.png
