@@ -7713,7 +7713,6 @@ ln -s universalchannel.png 1_0_1_CC24_8FF_2_11A0000_0_0_0.png
 ln -s universalchannel.png 1_0_1_3A3F_1FA4_13E_820000_0_0_0.png
 ln -s universalchannel.png 1_0_1_3FA_1_AA_5A0000_0_0_0.png
 ln -s universalchannel.png 1_0_1_6D7_1388_9C_5A0000_0_0_0.png
-ln -s universalchannel.png 1_0_1_333D_C89_3_EB0000_0_0_0.png
 
 # universalchannelhd
 ln -s universalchannelhd.png 1_0_19_F28_7F3_2_11A0000_0_0_0.png
