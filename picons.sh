@@ -964,6 +964,12 @@ ln -s buzmuzik.png 1_0_1_D057_90A_2_11A0000_0_0_0.png
 
 # bwfamily
 
+# cacciaepesca
+ln -s cacciaepesca.png 1_0_1_3BF0_64_FBFF_820000_0_0_0.png
+
+# cacciaepesca+
+ln -s cacciaepesca+.png 1_0_1_10FE_1644_FBFF_820000_0_0_0.png
+
 # calle13
 
 # calle13hd
