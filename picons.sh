@@ -4763,7 +4763,7 @@ ln -s novasports7.png 1_0_1_148_157C_13E_820000_0_0_0.png
 ln -s novasportshighlightstv.png 1_0_1_1BC4_17D4_13E_820000_0_0_0.png
 
 # novacinema
-ln -s novacinema.png 1_0_1_36F9_C8E_EB0000_0_0_0.png
+ln -s novacinema.png 1_0_1_36F9_C8E_3_EB0000_0_0_0.png
 
 # novacinemahd
 ln -s novacinemahd.png 1_0_1_3C95_1BBC_13E_820000_0_0_0.png
