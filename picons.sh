@@ -740,6 +740,9 @@ ln -s bet.png 1_0_1_200B_24B8_13E_820000_0_0_0.png
 # betplus1
 ln -s betplus1.png 1_0_1_CB5C_907_2_11A0000_0_0_0.png
 
+# betheltv
+ln -s betheltv.png 1_0_1_2D1_1B58_13E_820000_0_0_0.png
+
 # believetv
 ln -s believetv.png 1_0_1_D377_A2A_2_11A0000_0_0_0.png
 
@@ -980,6 +983,9 @@ ln -s calle13hd.png 1_0_19_7824_428_1_C00000_0_0_0.png
 ln -s calle13hd.png 1_0_19_781F_428_1_C00000_0_0_0.png
 
 # cameradeideputati
+
+# cancaonovainternational
+ln -s cancaonovainternational.png 1_0_1_133A_33F4_13E_820000_0_0_0.png
 
 # canvas
 ln -s canvas.png 1_0_1_31E8_45F_35_C00000_0_0_0.png
@@ -2802,6 +2808,9 @@ ln -s foxcrimehd.png 1_0_19_78BA_3EC_1_C00000_0_0_0.png
 ln -s foxcrimeplus1.png 1_0_1_1FCD_189C_FBFF_820000_0_0_0.png
 ln -s foxcrimeplus1.png 1_0_1_FC1_2DB4_FBFF_820000_0_0_0.png
 
+# foxcrimeplus2
+ln -s foxcrimeplus2.png 1_0_1_FD7_2DB4_FBFF_820000_0_0_0.png
+
 # foxhd
 ln -s foxhd.png 1_0_19_74FE_420_1_C00000_0_0_0.png
 ln -s foxhd.png 1_0_1_7594_422_1_C00000_0_0_0.png
@@ -2841,6 +2850,9 @@ ln -s foxlifehd.png 1_0_19_DB8_1AF4_FBFF_820000_0_0_0.png
 ln -s foxlifeplus1.png 1_0_1_38C1_320_FBFF_820000_0_0_0.png
 ln -s foxlifeplus1.png 1_0_1_38C1_1AF4_FBFF_820000_0_0_0.png
 ln -s foxlifeplus1.png 1_0_1_FC2_2DB4_FBFF_820000_0_0_0.png
+
+# foxlifeplus2
+ln -s foxlifeplus2.png 1_0_1_FD6_2DB4_FBFF_820000_0_0_0.png
 
 # foxnews
 ln -s foxnews.png 1_0_1_16AC_7EB_2_11A0000_0_0_0.png
@@ -3292,6 +3304,12 @@ ln -s horseandcountry.png 1_0_1_D37C_A2A_2_11A0000_0_0_0.png
 
 # hrttv1
 
+# hrttv3
+ln -s hrttv3.png 1_0_1_206F_2328_13E_820000_0_0_0.png
+
+# hrttv4
+ln -s hrttv4.png 1_0_1_2076_2328_13E_820000_0_0_0.png
+
 # hse24
 ln -s hse24.png 1_0_19_D17E_2718_F001_EB0000_0_0_0.png
 ln -s hse24.png 1_0_1_28_21_85_C00000_0_0_0.png
@@ -3533,6 +3551,9 @@ ln -s jimjam.png 1_0_1_290C_1EDC_71_820000_0_0_0.png
 ln -s jimjam.png 1_0_1_DB8_2D50_13E_820000_0_0_0.png
 ln -s jimjam.png 1_0_1_334F_C93_3_EB0000_0_0_0.png
 
+# jimjamplus1
+ln -s jimjamplus1.png 1_0_1_FDE_2DB4_FBFF_820000_0_0_0.png
+
 # jimmy
 ln -s jimmy.png 1_0_1_21FE_44C_1_C00000_0_0_0.png
 ln -s jimmy.png 1_0_1_DCA_2DB4_FBFF_820000_0_0_0.png
@@ -3662,6 +3683,9 @@ ln -s ketnetop12.png 1_0_16_5286_C96_3_EB0000_0_0_0.png
 ln -s kerrang.png 1_0_1_2EEF_7F8_2_11A0000_0_0_0.png
 
 # khabartv
+
+# kleartv
+ln -s kleartv.png 1_0_1_CB66_907_2_11A0000_0_0_0.png
 
 # kiss
 ln -s kiss.png 1_0_1_2EEA_7F8_2_11A0000_0_0_0.png
@@ -4440,6 +4464,9 @@ ln -s net5hd.png 1_0_1_521C_C99_3_EB0000_0_0_0.png
 # newsone
 ln -s newsone.png 1_0_1_196E_F_55_300000_0_0_0.png
 
+# nex1
+ln -s nex1.png 1_0_1_1F54_319C_13E_820000_0_0_0.png
+
 # nationalgeographic
 ln -s nationalgeographic.png 1_0_1_FAF_451_35_C00000_0_0_0.png
 ln -s nationalgeographic.png 1_0_1_11FF_7EE_2_11A0000_0_0_0.png
@@ -5002,6 +5029,9 @@ ln -s picktv.png 1_0_1_13EF_7EB_2_11A0000_0_0_0.png
 ln -s picktv.png 1_0_1_13EF_961_2_11A0000_0_0_0.png
 ln -s picktv.png 1_0_1_128F_7EA_2_11A0000_0_0_0.png
 
+# piktv
+ln -s piktv.png 1_0_1_1B8_1964_13E_820000_0_0_0.png
+
 # rtvpink
 
 # rtvpinkextra
@@ -5094,6 +5124,12 @@ ln -s tvpseriale.png 1_0_1_3D5C_2C88_13E_820000_0_0_0.png
 
 # polsatsport
 ln -s polsatsport.png 1_0_1_3330_3390_71_820000_0_0_0.png
+
+# polsatsporthd
+ln -s polsatsporthd.png 1_0_1_C1E_1E78_71_820000_0_0_0.png
+
+# polsatsportnews
+ln -s polsatsportnews.png 1_0_1_2912_1EDC_71_820000_0_0_0.png
 
 # pokerchannel
 ln -s pokerchannel.png 1_0_1_19E_14_46_7120000_0_0_0.png
@@ -7109,7 +7145,10 @@ ln -s tmc.png 1_0_1_1FEB_434_1_C00000_0_0_0.png
 ln -s tmc.png 1_0_1_1F9_26AC_13F_820000_0_0_0.png
 ln -s tmc.png 1_0_1_136_3E1C_13F_820000_0_0_0.png
 
-# tmf be
+# tmfbe
+
+# tmtv
+ln -s tmtv.png 1_0_1_1F60_319C_13E_820000_0_0_0.png
 
 # tnt
 ln -s tnt.png 1_0_1_77C9_40A_1_C00000_0_0_0.png
@@ -7205,6 +7244,9 @@ ln -s trtbelgesel.png 1_0_1_1CC_1964_13E_820000_0_0_0.png
 # trueentertainment
 ln -s trueentertainment.png 1_0_1_CC97_96A_2_11A0000_0_0_0.png
 ln -s trueentertainment.png 1_0_1_D07F_90A_2_11A0000_0_0_0.png
+
+# trueentertainmentplus1
+ln -s trueentertainmentplus1.png 1_0_1_D084_90A_2_11A0000_0_0_0.png
 
 # truemovies1
 ln -s truemovies1.png 1_0_1_CC60_96A_2_11A0000_0_0_0.png
@@ -7569,6 +7611,9 @@ ln -s tvnorge.png 1_0_1_5E5_47_46_7120000_0_0_0.png
 ln -s tvnorgehd.png 1_0_19_106F_43_46_7120000_0_0_0.png
 ln -s tvnorgehd.png 1_0_19_1007_43_46_7120000_0_0_0.png
 
+# tvnturbohd
+ln -s tvnturbohd.png 1_0_1_3DD0_640_13E_820000_0_0_0.png
+
 # tvoost
 ln -s tvoost.png 1_0_1_514E_C8B_3_EB0000_0_0_0.png
 
@@ -7636,6 +7681,9 @@ ln -s tvela2.png 1_0_1_77C2_40A_1_C00000_0_0_0.png
 
 # tvslovenija3
 ln -s tvslovenija3.png 1_0_1_C87_2328_13E_820000_0_0_0.png
+
+# tvverdade
+ln -s tvverdade.png 1_0_1_43BA_2CEC_13E_820000_0_0_0.png
 
 # tvvlaanderen
 ln -s tvvlaanderen.png 1_0_1_321A_45F_35_C00000_0_0_0.png
@@ -8126,6 +8174,9 @@ ln -s wdrhd.png 1_0_1_6EA5_4B1_1_C00000_0_0_0.png
 ln -s weddingtv.png 1_0_1_D020_909_2_11A0000_0_0_0.png
 ln -s weddingtv.png 1_0_1_1235_2B5C_13E_820000_0_0_0.png
 ln -s weddingtv.png 1_0_1_44C1_258_13E_820000_0_0_0.png
+
+# weddingtvitalia
+ln -s weddingtvitalia.png 1_0_1_2994_3D54_13E_820000_0_0_0.png
 
 # worldfashionchannel
 ln -s worldfashionchannel.png 1_0_1_39DC_1FA4_13E_820000_0_0_0.png
