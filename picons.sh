@@ -792,6 +792,9 @@ ln -s bibeltv.png 1_0_1_19F_1964_9C_5A0000_0_0_0.png
 # bidtv
 ln -s bidtv.png 1_0_1_1C52_7E1_2_11A0000_0_0_0.png
 
+# bikechannel
+ln -s bikechannel.png 1_0_1_2FEE_2C24_FBFF_820000_0_0_0.png
+
 # bio - the biography channel
 ln -s bio.png 1_0_1_122F_968_2_11A0000_0_0_0.png
 ln -s bio.png 1_0_19_C619_2712_F001_EB0000_0_0_0.png
