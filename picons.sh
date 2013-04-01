@@ -1023,6 +1023,9 @@ ln -s canalalgerie.png 1_0_1_367E_C8_13E_820000_0_0_0.png
 ln -s canalclub.png 1_0_1_75FD_408_1_C00000_0_0_0.png
 ln -s canalclub.png 1_0_1_77EF_404_1_C00000_0_0_0.png
 
+# canaldecasa
+ln -s canaldecasa.png 1_0_1_7795_424_1_C00000_0_0_0.png
+
 # canaldelasestrellas
 ln -s canaldelasestrellas.png 1_0_1_77F5_404_1_C00000_0_0_0.png
 
@@ -1155,6 +1158,9 @@ ln -s canal+sporthd.png 1_0_1_32DE_190_13E_820000_0_0_0.png
 ln -s canal+weekend.png 1_0_1_113E_2AF8_13E_820000_0_0_0.png
 
 # canal+weekendhd
+
+# canalpanda
+ln -s canalpanda.png 1_0_1_75FF_408_1_C00000_0_0_0.png
 
 # canalplayinfinity
 ln -s canalplayinfinity.png 1_0_1_23F5_452_1_C00000_0_0_0.png
@@ -1370,6 +1376,9 @@ ln -s cherie25.png 1_0_1_6F87_42C_1_C00000_0_0_0.png
 # childrenitv
 ln -s childrenitv.png 1_0_1_2757_7FC_2_11A0000_0_0_0.png
 ln -s childrenitv.png 1_0_82_275F_7FC_2_11A0000_0_0_0.png
+
+# childrussia
+ln -s childrussia.png 1_0_1_32D_3BC4_13E_820000_0_0_0.png
 
 # cielo
 ln -s cielo.png 1_0_1_2B66_19C8_FBFF_820000_0_0_0.png
@@ -2034,7 +2043,6 @@ ln -s disneycinemagichd.png 1_0_1_75A3_422_1_C00000_0_0_0.png
 ln -s disneycinemagichd.png 1_0_19_7820_428_1_C00000_0_0_0.png
 ln -s disneycinemagichd.png 1_0_19_77EE_404_1_C00000_0_0_0.png
 ln -s disneycinemagichd.png 1_0_19_77EF_404_1_C00000_0_0_0.png
-ln -s disneycinemagichd.png 1_0_19_F21_7EB_2_11A0000_0_0_0.png
 ln -s disneycinemagichd.png 1_0_19_6F_271B_85_EB0000_0_0_0.png
 ln -s disneycinemagichd.png 1_0_19_2457_440_1_C00000_0_0_0.png
 ln -s disneycinemagichd.png 1_0_19_246B_440_1_C00000_0_0_0.png
@@ -2064,6 +2072,7 @@ ln -s disneyjunior.png 1_0_1_608_19_46_7120000_0_0_0.png
 # disneyjuniorhd
 ln -s disneyjuniorhd.png 1_0_19_19DE_444_1_C00000_0_0_0.png
 ln -s disneyjuniorhd.png 1_0_19_19CA_444_1_C00000_0_0_0.png
+ln -s disneyjuniorhd.png 1_0_19_F21_7EB_2_11A0000_0_0_0.png
 
 # disneyjunior_viasatfilmdrama
 ln -s disneyjunior_viasatfilmdrama.png 1_0_1_46A_3_56_300000_0_0_0.png
@@ -2301,6 +2310,9 @@ ln -s einsfestivalhd.png 1_0_19_6EEA_4B1_1_C00000_0_0_0.png
 # einsplus
 ln -s einsplus.png 1_0_1_7033_41B_1_C00000_0_0_0.png
 ln -s einsplus.png 1_0_1_7033_0_0_EBB18C_0_0_0.png
+
+# elgaragetv
+ln -s elgaragetv.png 1_0_1_746A_3F0_1_C00000_0_0_0.png
 
 # encaafrica
 ln -s encaafrica.png 1_0_1_D7E7_A35_2_11A0000_0_0_0.png
@@ -3319,6 +3331,9 @@ ln -s horrorchannelplus1.png 1_0_1_CB22_907_2_11A0000_0_0_0.png
 ln -s horseandcountry.png 1_0_1_D37C_A2A_2_11A0000_0_0_0.png
 
 # hrttv1
+
+# hrttv2
+ln -s hrttv2.png 1_0_1_206E_2328_13E_820000_0_0_0.png
 
 # hrttv3
 ln -s hrttv3.png 1_0_1_206F_2328_13E_820000_0_0_0.png
@@ -5384,6 +5399,9 @@ ln -s really.png 1_0_1_197B_7D6_2_11A0000_0_0_0.png
 ln -s realmadridtv.png 1_0_1_7601_408_1_C00000_0_0_0.png
 ln -s realmadridtv.png 1_0_1_4EF5_1AF4_9C_5A0000_0_0_0.png
 ln -s realmadridtv.png 1_0_1_1139_7EE_2_11A0000_0_0_0.png
+
+# rebeltv
+ln -s rebeltv.png 1_0_1_34C7_3C28_13E_820000_0_0_0.png
 
 # recordinternacional
 ln -s recordinternacional.png 1_0_1_253F_A34_2_11A0000_0_0_0.png
@@ -7689,6 +7707,9 @@ ln -s tvrpl.png 1_0_1_1292_3458_13E_820000_0_0_0.png
 
 # tvromaniainternational
 ln -s tvromaniainternational.png 1_0_1_29D3_3CF0_13E_820000_0_0_0.png
+
+# tvrus
+ln -s tvrus.png 1_0_1_27D_3C8C_13E_820000_0_0_0.png
 
 # tvsaleukr
 ln -s tvsaleukr.png 1_0_1_1810_C_55_300000_0_0_0.png
