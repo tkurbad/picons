@@ -4511,6 +4511,9 @@ ln -s net5hd.png 1_0_19_521C_FFFF_FFFF_EB2F9B_0_0_0.png
 ln -s net5hd.png 1_0_19_521C_C99_3_EB0000_0_0_0.png
 ln -s net5hd.png 1_0_1_521C_C99_3_EB0000_0_0_0.png
 
+# news7kazakhstan
+ln -s news7kazakhstan.png 1_0_1_34D7_3C28_13E_820000_0_0_0.png
+
 # newsone
 ln -s newsone.png 1_0_1_196E_F_55_300000_0_0_0.png
 
