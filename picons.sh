@@ -610,7 +610,6 @@ ln -s bbcfour.png 1_0_1_18AC_7FD_2_11A0000_0_0_0.png
 # bbchd
 ln -s bbchd.png 1_0_1_1B1C_802_2_11A0000_0_0_0.png
 ln -s bbchd.png 1_0_19_E06_2D50_13E_820000_0_0_0.png
-ln -s bbchd.png 1_0_19_1B1C_802_2_11A0000_0_0_0.png
 ln -s bbchd.png 1_0_1_E06_2D50_13E_820000_0_0_0.png
 ln -s bbchd.png 1_0_19_1B21_802_2_11A0000_0_0_0.png
 ln -s bbchd.png 1_0_19_1008_29_46_7120000_0_0_0.png
@@ -701,6 +700,9 @@ ln -s bbctwo.png 1_0_1_1916_7FF_2_11A0000_0_0_0.png
 ln -s bbctwo.png 1_0_1_287A_800_2_11A0000_0_0_0.png
 ln -s bbctwo.png 1_0_1_18A5_7FD_2_11A0000_0_0_0.png
 
+# bbctwohd
+ln -s bbctwohd.png 1_0_19_1B1C_802_2_11A0000_0_0_0.png
+
 # bbcworldnews
 ln -s bbcworldnews.png 1_0_19_CF09_2718_F001_EB0000_0_0_0.png
 ln -s bbcworldnews.png 1_0_1_2742_402_1_C00000_0_0_0.png
@@ -736,9 +738,11 @@ ln -s bestofshopping.png 1_0_1_274E_402_1_C00000_0_0_0.png
 # bet
 ln -s bet.png 1_0_1_CFEE_909_2_11A0000_0_0_0.png
 ln -s bet.png 1_0_1_200B_24B8_13E_820000_0_0_0.png
+ln -s bet.png 1_0_1_c789_96b_2_11a0000_0_0_0.png
 
 # betplus1
 ln -s betplus1.png 1_0_1_CB5C_907_2_11A0000_0_0_0.png
+ln -s betplus1.png 1_0_1_c78a_96b_2_11a0000_0_0_0.png
 
 # betheltv
 ln -s betheltv.png 1_0_1_2D1_1B58_13E_820000_0_0_0.png
@@ -3965,7 +3969,6 @@ ln -s machainesportbienetre.png 1_0_1_213C_400_1_C00000_0_0_0.png
 
 # massiverandb
 ln -s massiverandb.png 1_0_1_C6C2_969_2_11A0000_0_0_0.png
-ln -s massiverandb.png 1_0_1_D74A_A34_2_11A0000_0_0_0.png
 
 # mainfranken
 ln -s mainfranken.png 1_0_1_11FE_3FD_1_C00000_0_0_0.png
@@ -5092,6 +5095,9 @@ ln -s planete+thalassa.png 1_0_1_2138_400_1_C00000_0_0_0.png
 # planetkids
 ln -s planetkids.png 1_0_1_FF5_2DB4_FBFF_820000_0_0_0.png
 
+# planetpop
+ln -s planetpop.png 1_0_1_D74A_A34_2_11A0000_0_0_0.png
+
 # playboytv
 ln -s playboytv.png 1_0_1_D15C_90C_2_11A0000_0_0_0.png
 ln -s playboytv.png 1_0_1_778B_424_1_C00000_0_0_0.png
@@ -6192,6 +6198,12 @@ ln -s skymoviescomedyhduk.png 1_0_19_EEB_7E8_2_11A0000_0_0_0.png
 # skymoviescomedyuk
 ln -s skymoviescomedyuk.png 1_0_1_10CF_7D7_2_11A0000_0_0_0.png
 
+# skymoviesdisneyhduk
+ln -s skymoviesdisneyhduk.png 1_0_19_FAD_7F3_2_11A0000_0_0_0.png
+
+# skymoviesdisneyuk
+ln -s skymoviesdisneyuk.png 1_0_1_10d4_7d7_2_11a0000_0_0_0.png
+
 # skymoviesdramaandromancehduk
 ln -s skymoviesdramaandromancehduk.png 1_0_19_EE8_7E8_2_11A0000_0_0_0.png
 
@@ -6204,12 +6216,6 @@ ln -s skymoviesfamilyhduk.png 1_0_19_EEA_7E0_2_11A0000_0_0_0.png
 # skymoviesfamilyuk
 ln -s skymoviesfamilyuk.png 1_0_1_1133_7D7_2_11A0000_0_0_0.png
 ln -s skymoviesfamilyuk.png 1_0_1_232E_7D7_2_11A0000_0_0_0.png
-
-# skymoviesindiehduk
-ln -s skymoviesindiehduk.png 1_0_19_EEC_7F3_2_11A0000_0_0_0.png
-
-# skymoviesindieuk
-ln -s skymoviesindieuk.png 1_0_1_10D2_7D7_2_11A0000_0_0_0.png
 
 # skymoviesmoderngreatshduk
 ln -s skymoviesmoderngreatshduk.png 1_0_19_EE7_7E8_2_11A0000_0_0_0.png
@@ -6233,6 +6239,12 @@ ln -s skymoviesscifiandhorrorhduk.png 1_0_19_EE9_7E8_2_11A0000_0_0_0.png
 
 # skymoviesscifiandhorroruk
 ln -s skymoviesscifiandhorroruk.png 1_0_1_10D0_7D7_2_11A0000_0_0_0.png
+
+# skymoviesselecthduk
+ln -s skymoviesselecthduk.png 1_0_19_EEC_7F3_2_11A0000_0_0_0.png
+
+# skymoviesselectuk
+ln -s skymoviesselectuk.png 1_0_1_10d2_7d7_2_11a0000_0_0_0.png
 
 # skymoviesshowcasehduk
 ln -s skymoviesshowcasehduk.png 1_0_19_EF9_7D1_2_11A0000_0_0_0.png
