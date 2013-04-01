@@ -2244,6 +2244,9 @@ ln -s e4.png 1_0_1_2F12_7F8_2_11A0000_0_0_0.png
 # e4hd
 ln -s e4hd.png 1_0_19_F24_7D8_2_11A0000_0_0_0.png
 
+# e4me
+ln -s e4me.png 1_0_1_1F6C_319C_13E_820000_0_0_0.png
+
 # e4plus1
 ln -s e4plus1.png 1_0_1_206C_7FA_2_11A0000_0_0_0.png
 ln -s e4plus1.png 1_0_1_2F0D_7F8_2_11A0000_0_0_0.png
@@ -3636,6 +3639,9 @@ ln -s juwelotvhd.png 1_0_1_151B_455_1_C00000_0_0_0.png
 # june
 ln -s june.png 1_0_1_1FE1_434_1_C00000_0_0_0.png
 
+# k+rus
+ln -s k+rus.png 1_0_1_29D9_3CF0_13E_820000_0_0_0.png
+
 # k2
 ln -s k2.png 1_0_1_3A0B_1FA4_13E_820000_0_0_0.png
 
@@ -3780,6 +3786,9 @@ ln -s kix.png 1_0_1_D066_90A_2_11A0000_0_0_0.png
 ln -s kombatsport.png 1_0_19_196B_44E_1_C00000_0_0_0.png
 ln -s kombatsport.png 1_0_19_197F_44E_1_C00000_0_0_0.png
 ln -s kombatsport.png 1_0_1_23CA_44A_1_C00000_0_0_0.png
+
+# kopercapodistria
+ln -s kopercapodistria.png 1_0_1_C83_2328_13E_820000_0_0_0.png
 
 # kosmicatv
 ln -s kosmicatv.png 1_0_1_36EC_FFFF_FFFF_EBAEC5_0_0_0.png
@@ -3975,6 +3984,9 @@ ln -s madanichannel.png 1_0_1_D6E3_A33_2_11A0000_0_0_0.png
 
 # mad
 ln -s mad.png 1_0_1_17C_1C84_13E_820000_0_0_0.png
+
+# madgreekz
+ln -s madgreekz.png 1_0_1_1D99_2F44_13E_820000_0_0_0.png
 
 # makedonia
 ln -s makedonia.png 1_0_1_169_1C84_13E_820000_0_0_0.png
@@ -4380,6 +4392,9 @@ ln -s n24hd.png 1_0_19_527E_41D_1_C00000_0_0_0.png
 ln -s nauticalchannel.png 1_0_1_219F_448_1_C00000_0_0_0.png
 
 # nashekino
+
+# nashtv
+ln -s nashtv.png 1_0_1_43A2_2CEC_13E_820000_0_0_0.png
 
 # nasn
 ln -s nasn.png 1_0_1_6C2_1388_9C_5A0000_0_0_0.png
@@ -5068,6 +5083,9 @@ ln -s picktv.png 1_0_1_128F_7EA_2_11A0000_0_0_0.png
 # piktv
 ln -s piktv.png 1_0_1_1B8_1964_13E_820000_0_0_0.png
 
+# r1
+ln -s r1.png 1_0_1_390F_32C8_13E_820000_0_0_0.png
+
 # rtvpink
 
 # rtvpinkextra
@@ -5079,6 +5097,12 @@ ln -s piktv.png 1_0_1_1B8_1964_13E_820000_0_0_0.png
 # rtvpinkmusic
 
 # rtvpinkplus
+
+# rtvslo1
+ln -s rtvslo1.png 1_0_1_C81_2328_13E_820000_0_0_0.png
+
+# rtvslo2
+ln -s rtvslo2.png 1_0_1_C82_2328_13E_820000_0_0_0.png
 
 # pinktv
 ln -s pinktv.png 1_0_1_24C1_43C_1_C00000_0_0_0.png
