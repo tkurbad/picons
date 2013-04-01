@@ -724,6 +724,9 @@ ln -s beautytv.png 1_0_1_36_7_85_C00000_0_0_0.png
 # belsattv
 ln -s belsattv.png 1_0_1_1BC3_423_1_C00000_0_0_0.png
 
+# bergamotv
+ln -s bergamotv.png 1_0_1_366A_C8_13E_820000_0_0_0.png
+
 # ben
 ln -s ben.png 1_0_1_D336_A29_2_11A0000_0_0_0.png
 
@@ -1035,6 +1038,9 @@ ln -s canale5.png 1_0_1_5_1770_110_820000_0_0_0.png
 # canalj
 ln -s canalj.png 1_0_1_24BC_43C_1_C00000_0_0_0.png
 ln -s canalj.png 1_0_1_2589_458_1_C00000_0_0_0.png
+
+# canalodisea
+ln -s canalodisea.png 1_0_1_778A_424_1_C00000_0_0_0.png
 
 # canal+1
 
@@ -1437,6 +1443,9 @@ ln -s cinepolar.png 1_0_1_4289_446_1_C00000_0_0_0.png
 ln -s cinepolar.png 1_0_1_1FA_26AC_13F_820000_0_0_0.png
 ln -s cinepolar.png 1_0_1_1C9_26AC_13F_820000_0_0_0.png
 
+# citytv
+ln -s citytv.png 1_0_1_151C_C86_3_EB0000_0_0_0.png
+
 # classcnbc
 ln -s classcnbc.png 1_0_1_599_320_FBFF_820000_0_0_0.png
 
@@ -1708,6 +1717,9 @@ ln -s daystartv.png 1_0_1_292_5_85_C00000_0_0_0.png
 ln -s daystartv.png 1_0_1_34C0_3C28_13E_820000_0_0_0.png
 ln -s daystartv.png 1_0_1_D165_2717_F001_EB0000_0_0_0.png
 ln -s daystartv.png 1_0_1_CB8E_8FD_2_11A0000_0_0_0.png
+
+# dcineespanol
+ln -s dcineespanol.png 1_0_1_7736_416_1_C00000_0_0_0.png
 
 # deshtv
 
