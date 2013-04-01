@@ -132,7 +132,7 @@ ln -s aajtak.png 1_0_1_D8E5_962_2_11A0000_0_0_0.png
 ln -s aastha.png 1_0_1_D8CC_962_2_11A0000_0_0_0.png
 
 # ahlebaittv
-ln -s ahlebaittv.png 1_0_1_D6DE_A33_2_11A0000_0_0_0.png
+ln -s ahlebaittv.png 1_0_1_d80b_a36_2_11a0000_0_0_0.png
 
 # ab1
 ln -s ab1.png 1_0_1_427D_446_1_C00000_0_0_0.png
@@ -728,7 +728,7 @@ ln -s belsattv.png 1_0_1_1BC3_423_1_C00000_0_0_0.png
 ln -s bergamotv.png 1_0_1_366A_C8_13E_820000_0_0_0.png
 
 # ben
-ln -s ben.png 1_0_1_D336_A29_2_11A0000_0_0_0.png
+ln -s ben.png 1_0_1_cbab_8fe_2_11a0000_0_0_0.png
 
 # best24
 
@@ -1356,6 +1356,9 @@ ln -s chartshowtv.png 1_0_1_D075_90A_2_11A0000_0_0_0.png
 
 # chartshowtvplus1
 
+# chartshowdance
+ln -s chartshowdance.png 1_0_1_d043_90a_2_11a0000_0_0_0.png
+
 # chasseetpeche
 ln -s chasseetpeche.png 1_0_1_428C_446_1_C00000_0_0_0.png
 ln -s chasseetpeche.png 1_0_1_CC_3E1C_13F_820000_0_0_0.png
@@ -1548,6 +1551,7 @@ ln -s cnbc.png 1_0_19_E1_14B4_9C_5A0000_0_0_0.png
 ln -s cnbc.png 1_0_1_1405_5DC_13E_820000_0_0_0.png
 ln -s cnbc.png 1_0_1_E1_14B4_9C_5A0000_0_0_0.png
 ln -s cnbc.png 1_0_1_43D_4_AA_5A0000_0_0_0.png
+ln -s cnbc.png 1_0_1_c6c2_969_2_11a0000_0_0_0.png
 
 # cnbceurope
 ln -s cnbceurope.png 1_0_1_1054_6_56_300000_0_0_0.png
@@ -1670,6 +1674,7 @@ ln -s ct24.png 1_0_1_B68_8_1_7120000_0_0_0.png
 
 # cncworld
 ln -s cncworld.png 1_0_1_C4B3_964_2_11A0000_0_0_0.png
+ln -s cncworld.png 1_0_1_cd64_902_2_11a0000_0_0_0.png
 
 # daf
 ln -s daf.png 1_0_1_2776_444_1_C00000_0_0_0.png
@@ -1679,7 +1684,6 @@ ln -s daf.png 1_0_1_125E_3F7_1_C00000_0_0_0.png
 ln -s daf.png 1_0_1_33AB_3EB_1_C00000_0_0_0.png
 
 # dancenationtv
-ln -s dancenationtv.png 1_0_1_D043_90A_2_11A0000_0_0_0.png
 
 # dancetrippin
 ln -s dancetrippin.png 1_0_1_69A_1_9D_5A0000_0_0_0.png
@@ -2776,6 +2780,7 @@ ln -s channel5hd.png 1_0_19_F12_7ED_2_11A0000_0_0_0.png
 # channel9uk
 ln -s channel9uk.png 1_0_1_CBC6_8FE_2_11A0000_0_0_0.png
 ln -s channel9uk.png 1_0_1_D6DD_A33_2_11A0000_0_0_0.png
+ln -s channel9uk.png 1_0_1_d335_a29_2_11a0000_0_0_0.png
 
 # channels
 ln -s channels.png 1_0_1_D32E_A29_2_11A0000_0_0_0.png
@@ -3088,6 +3093,7 @@ ln -s godtv.png 1_0_1_D3C2_A2B_2_11A0000_0_0_0.png
 ln -s gospelchannel.png 1_0_1_CBBE_8FE_2_11A0000_0_0_0.png
 ln -s gospelchannel.png 1_0_1_D6D9_A33_2_11A0000_0_0_0.png
 ln -s gospelchannel.png 1_0_1_81_20_46_7120000_0_0_0.png
+ln -s gospelchannel.png 1_0_1_d7ec_a35_2_11a0000_0_0_0.png
 
 # gold
 ln -s gold.png 1_0_1_1968_7D6_2_11A0000_0_0_0.png
@@ -3415,6 +3421,7 @@ ln -s iconcerts.png 1_0_19_DAE_16A8_9C_5A0000_0_0_0.png
 # informationtv
 ln -s informationtv.png 1_0_1_C6C0_969_2_11A0000_0_0_0.png
 ln -s informationtv.png 1_0_1_D332_A29_2_11A0000_0_0_0.png
+ln -s informationtv.png 1_0_1_d808_a36_2_11a0000_0_0_0.png
 
 # infosport+
 ln -s infosport+.png 1_0_1_2011_430_1_C00000_0_0_0.png
@@ -3554,7 +3561,7 @@ ln -s iqraa.png 1_0_1_D326_A29_2_11A0000_0_0_0.png
 # iskelma
 
 # islamchannel
-ln -s islamchannel.png 1_0_1_C49F_964_2_11A0000_0_0_0.png
+ln -s islamchannel.png 1_0_1_d10b_90c_2_11a0000_0_0_0.png
 
 # jctv
 ln -s jctv.png 1_0_1_325_3BC4_13E_820000_0_0_0.png
@@ -3595,7 +3602,6 @@ ln -s jimmy.png 1_0_1_445D_1F40_13E_820000_0_0_0.png
 
 # jml
 ln -s jml.png 1_0_1_2541_A34_2_11A0000_0_0_0.png
-ln -s jml.png 1_0_1_D368_A2A_2_11A0000_0_0_0.png
 ln -s jml.png 1_0_1_D386_A2A_2_11A0000_0_0_0.png
 ln -s jml.png 1_0_1_202_7_85_C00000_0_0_0.png
 
@@ -3777,7 +3783,6 @@ ln -s kombatsport.png 1_0_1_23CA_44A_1_C00000_0_0_0.png
 
 # kosmicatv
 ln -s kosmicatv.png 1_0_1_36EC_FFFF_FFFF_EBAEC5_0_0_0.png
-ln -s kosmicatv.png 1_0_1_4C_21_85_C00000_0_0_0.png
 ln -s kosmicatv.png 1_0_1_36EC_C8E_3_EB0000_0_0_0.png
 
 # kto
@@ -3995,7 +4000,6 @@ ln -s machainesporthd.png 1_0_19_24CF_43C_1_C00000_0_0_0.png
 ln -s machainesportbienetre.png 1_0_1_213C_400_1_C00000_0_0_0.png
 
 # massiverandb
-ln -s massiverandb.png 1_0_1_C6C2_969_2_11A0000_0_0_0.png
 
 # mainfranken
 ln -s mainfranken.png 1_0_1_11FE_3FD_1_C00000_0_0_0.png
@@ -4182,7 +4186,6 @@ ln -s movies24.png 1_0_1_3E2A_2EE0_13E_820000_0_0_0.png
 ln -s movies24.png 1_0_1_CC29_8FF_2_11A0000_0_0_0.png
 
 # movies24plus
-ln -s movies24plus.png 1_0_1_D101_90C_2_11A0000_0_0_0.png
 ln -s movies24plus.png 1_0_1_CC2E_8FF_2_11A0000_0_0_0.png
 
 # mtamuslimtv
@@ -4676,6 +4679,7 @@ ln -s nonstoppeople.png 1_0_19_24D1_43C_1_C00000_0_0_0.png
 ln -s noortv.png 1_0_1_D3BB_A2B_2_11A0000_0_0_0.png
 ln -s noortv.png 1_0_1_32F_3BC4_13E_820000_0_0_0.png
 ln -s noortv.png 1_0_1_D6DF_A33_2_11A0000_0_0_0.png
+ln -s noortv.png 1_0_1_c6c1_969_2_11a0000_0_0_0.png
 
 # nostalgienet
 
@@ -4763,8 +4767,8 @@ ln -s n-tv.png 1_0_1_D166_2717_F001_EB0000_0_0_0.png
 ln -s n-tv.png 1_0_1_CE_1644_9C_5A0000_0_0_0.png
 
 # ntvbangla
-ln -s ntvbangla.png 1_0_1_D335_A29_2_11A0000_0_0_0.png
 ln -s ntvbangla.png 1_0_1_D6E2_A33_2_11A0000_0_0_0.png
+ln -s ntvbangla.png 1_0_1_d3cd_a2b_2_11a0000_0_0_0.png
 
 # ntvmir
 ln -s ntvmir.png 1_0_1_187E_D_55_300000_0_0_0.png
@@ -4873,7 +4877,7 @@ ln -s ocko.png 1_0_1_64_0_1_EBB1C0_0_0_0.png
 ln -s odeon.png 1_0_1_296_3C8C_13E_820000_0_0_0.png
 
 # ohtv
-ln -s ohtv.png 1_0_1_D32D_A29_2_11A0000_0_0_0.png
+ln -s ohtv.png 1_0_1_d80e_a36_2_11a0000_0_0_0.png
 
 # ojomtv
 ln -s ojomtv.png 1_0_1_702_5_85_C00000_0_0_0.png
@@ -5261,6 +5265,7 @@ ln -s ptvglobal.png 1_0_1_3793_44C_13E_820000_0_0_0.png
 ln -s ptvprime.png 1_0_1_C6B1_969_2_11A0000_0_0_0.png
 ln -s ptvprime.png 1_0_1_D3C7_A2B_2_11A0000_0_0_0.png
 ln -s ptvprime.png 1_0_1_D6DB_A33_2_11A0000_0_0_0.png
+ln -s ptvprime.png 1_0_1_d80c_a36_2_11a0000_0_0_0.png
 
 # puls4
 ln -s puls4.png 1_0_1_4E27_43A_1_C00000_0_0_0.png
@@ -5681,7 +5686,7 @@ ln -s s4c.png 1_0_1_1BF8_7E2_2_11A0000_0_0_0.png
 # s4c2
 
 # samaa
-ln -s samaa.png 1_0_1_D6DA_A33_2_11A0000_0_0_0.png
+ln -s samaa.png 1_0_1_d80d_a36_2_11a0000_0_0_0.png
 
 # samadubai
 ln -s samadubai.png 1_0_1_251F_13EF_13E_820000_0_0_0.png
@@ -5826,6 +5831,7 @@ ln -s showtime.png 1_0_1_83F_19_46_7120000_0_0_0.png
 
 # sikhchannel
 ln -s sikhchannel.png 1_0_1_C5B2_967_2_11A0000_0_0_0.png
+ln -s sikhchannel.png 1_0_1_d810_a36_2_11a0000_0_0_0.png
 
 # silverline
 ln -s silverline.png 1_0_19_C481_2715_F001_EB0000_0_0_0.png
@@ -7126,7 +7132,7 @@ ln -s thanedirect.png 1_0_1_CB8D_8FD_2_11A0000_0_0_0.png
 
 # theactivechannel
 ln -s theactivechannel.png 1_0_1_D7CF_A35_2_11A0000_0_0_0.png
-ln -s theactivechannel.png 1_0_1_D8D6_962_2_11A0000_0_0_0.png
+ln -s theactivechannel.png 1_0_1_d822_a36_2_11a0000_0_0_0.png
 
 # thebox
 ln -s thebox.png 1_0_1_2EE5_7F8_2_11A0000_0_0_0.png
@@ -7284,6 +7290,7 @@ ln -s travelchannelplus1.png 1_0_1_CCBC_901_2_11A0000_0_0_0.png
 ln -s trtbelgesel.png 1_0_1_1CC_1964_13E_820000_0_0_0.png
 
 # trtturk
+ln -s trtturk.png 1_0_1_13f9_403_1_c00000_0_0_0.png
 
 # trueentertainment
 ln -s trueentertainment.png 1_0_1_CC97_96A_2_11A0000_0_0_0.png
@@ -7302,6 +7309,7 @@ ln -s truemovies2.png 1_0_1_D04D_90A_2_11A0000_0_0_0.png
 
 # trwam
 ln -s trwam.png 1_0_1_1C80_457_1_C00000_0_0_0.png
+ln -s trwam.png 1_0_1_10d6_418_1_c00000_0_0_0.png
 
 # tunis7
 ln -s tunis7.png 1_0_1_1C22_1C20_13E_820000_0_0_0.png
@@ -8221,6 +8229,7 @@ ln -s wdrhd.png 1_0_1_6EA5_4B1_1_C00000_0_0_0.png
 ln -s weddingtv.png 1_0_1_D020_909_2_11A0000_0_0_0.png
 ln -s weddingtv.png 1_0_1_1235_2B5C_13E_820000_0_0_0.png
 ln -s weddingtv.png 1_0_1_44C1_258_13E_820000_0_0_0.png
+ln -s weddingtv.png 1_0_1_d8d6_962_2_11a0000_0_0_0.png
 
 # weddingtvitalia
 ln -s weddingtvitalia.png 1_0_1_2994_3D54_13E_820000_0_0_0.png
