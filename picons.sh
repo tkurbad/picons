@@ -5308,8 +5308,8 @@ ln -s primafamilyhd.png 1_0_19_13A8_C85_3_EB0000_0_0_0.png
 # primalove
 ln -s primalove.png 1_0_1_3355_C93_3_EB0000_0_0_0.png
 
-# primazoomcz
-ln -s primazoomcz.png 1_0_1_3353_C93_3_EB0000_0_0_0.png
+# primazoom
+ln -s primazoom.png 1_0_1_3353_C93_3_EB0000_0_0_0.png
 
 # primetime
 ln -s primetime.png 1_0_0_D6EC_A35_2_11A0000_0_0_0.png
