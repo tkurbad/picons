@@ -3376,6 +3376,7 @@ ln -s hororfilm.png 1_0_1_333B_C89_3_EB0000_0_0_0.png
 ln -s horseandcountry.png 1_0_1_D37C_A2A_2_11A0000_0_0_0.png
 
 # hrttv1
+ln -s hrttv1.png 1_0_1_206D_2328_13E_820000_0_0_0.png
 
 # hrttv2
 ln -s hrttv2.png 1_0_1_206E_2328_13E_820000_0_0_0.png
@@ -3403,9 +3404,6 @@ ln -s hse24trend.png 1_0_1_4D_21_85_C00000_0_0_0.png
 
 # hse24hd
 ln -s hse24hd.png 1_0_19_5270_41D_1_C00000_0_0_0.png
-
-# htv1
-ln -s htv1.png 1_0_1_206D_2328_13E_820000_0_0_0.png
 
 # humor24
 
@@ -9155,7 +9153,7 @@ ln -s hse24.png 1_0_1_5E28_AB_270F_FFFF0000_0_0_0.png
 ln -s hse24extra.png 1_0_1_560C_D9_A018_FFFF0000_0_0_0.png
 ln -s hse24extra.png 1_0_1_75A0_AB_270F_FFFF0000_0_0_0.png
 ln -s hse24trend.png 1_0_1_42DC_AB_270F_FFFF0000_0_0_0.png
-ln -s htv1.png 1_0_1_65FB_105_270F_FFFF0000_0_0_0.png
+ln -s hrttv1.png 1_0_1_65FB_105_270F_FFFF0000_0_0_0.png
 ln -s im1.png 1_0_1_4E8B_AB_270F_FFFF0000_0_0_0.png
 ln -s im1.png 1_0_1_5609_D9_A018_FFFF0000_0_0_0.png
 ln -s inforegiotv.png 1_0_1_5794_EE_A018_FFFF0000_0_0_0.png
