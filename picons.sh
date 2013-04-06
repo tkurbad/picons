@@ -2521,7 +2521,6 @@ ln -s euronews.png 1_0_1_FB4_6_56_300000_0_0_0.png
 # eurosport
 ln -s eurosport.png 1_0_1_1797_7EE_2_11A0000_0_0_0.png
 ln -s eurosport.png 1_0_1_3331_C89_3_EB0000_0_0_0.png
-ln -s eurosport.png 1_0_1_7732_416_1_C00000_0_0_0.png
 ln -s eurosport.png 1_0_1_79E0_443_1_C00000_0_0_0.png
 ln -s eurosport.png 1_0_1_7E9_449_35_C00000_0_0_0.png
 ln -s eurosport.png 1_0_1_7EA_449_35_C00000_0_0_0.png
@@ -5249,9 +5248,6 @@ ln -s polsatfilmhd.png 1_0_1_3E1E_2EE0_13E_820000_0_0_0.png
 # polsatfoodnetwork
 ln -s polsatfoodnetwork.png 1_0_1_2905_1EDC_71_820000_0_0_0.png
 
-# tvpseriale
-ln -s tvpseriale.png 1_0_1_3D5C_2C88_13E_820000_0_0_0.png
-
 # polsatsport
 ln -s polsatsport.png 1_0_1_3330_3390_71_820000_0_0_0.png
 
@@ -7737,6 +7733,9 @@ ln -s tvglobo.png 1_0_1_34D6_3C28_13E_820000_0_0_0.png
 # tvgusto
 ln -s tvgusto.png 1_0_19_19A_1964_9C_5A0000_0_0_0.png
 
+# tviinternacional
+ln -s tviinternacional.png 1_0_1_7732_416_1_C00000_0_0_0.png
+
 # tvl
 
 # tvl_atv_tvoost
@@ -7819,6 +7818,9 @@ ln -s tvppolonia.png 1_0_19_CFD4_2711_F001_EB0000_0_0_0.png
 ln -s tvppolonia.png 1_0_1_1BC0_423_1_C00000_0_0_0.png
 ln -s tvppolonia.png 1_0_1_13ED_5DC_13E_820000_0_0_0.png
 ln -s tvppolonia.png 1_0_1_5DC_1FA4_9C_5A0000_0_0_0.png
+
+# tvpseriale
+ln -s tvpseriale.png 1_0_1_3D5C_2C88_13E_820000_0_0_0.png
 
 # tvpsport
 ln -s tvpsport.png 1_0_1_3D58_2C88_13E_820000_0_0_0.png
