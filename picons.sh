@@ -3647,9 +3647,10 @@ ln -s jml.png 1_0_1_202_7_85_C00000_0_0_0.png
 # jstveurope
 
 # joj
+ln -s joj.png 1_0_1_13ED_C87_3_EB0000_0_0_0.png
 
 # jojplus
-ln -s jojplus.png 1_0_1_13ED_C87_3_EB0000_0_0_0.png
+ln -s jojplus.png 1_0_1_13EE_C87_3_EB0000_0_0_0.png
 
 # journaal24
 
