@@ -353,6 +353,7 @@ ln -s arisenews.png 1_0_1_D337_A29_2_11A0000_0_0_0.png
 
 # arisenewshd
 ln -s arisenewshd.png 1_0_19_D6E5_A33_2_11A0000_0_0_0.png
+ln -s arisenewshd.png 1_0_19_cf9d_908_2_11a0000_0_0_0.png
 
 # arrabiaa
 ln -s arrabiaa.png 1_0_1_4_2E18_B0_820000_0_0_0.png
@@ -459,6 +460,7 @@ ln -s automotorsporthd.png 1_0_19_17D7_C91_3_EB0000_0_0_0.png
 # atnbangla
 ln -s atnbangla.png 1_0_1_D325_A29_2_11A0000_0_0_0.png
 ln -s atnbangla.png 1_0_1_D6E0_A33_2_11A0000_0_0_0.png
+ln -s atnbangla.png 1_0_1_d74b_a34_2_11a0000_0_0_0.png
 
 # axn
 ln -s axn.png 1_0_1_3333_C89_3_EB0000_0_0_0.png
@@ -1607,6 +1609,7 @@ ln -s comedycentralplus1.png 1_0_1_D444_A2C_2_11A0000_0_0_0.png
 ln -s comedycentralplus1.png 1_0_1_C47C_964_2_11A0000_0_0_0.png
 ln -s comedycentralplus1.png 1_0_1_2FF0_1D4C_FBFF_820000_0_0_0.png
 ln -s comedycentralplus1.png 1_0_1_2FF0_2C24_FBFF_820000_0_0_0.png
+ln -s comedycentralplus1.png 1_0_1_c78b_96b_2_11a0000_0_0_0.png
 
 # comedycentralfamily
 ln -s comedycentralfamily.png 1_0_1_4_3200_13E_820000_0_0_0.png
@@ -1618,6 +1621,7 @@ ln -s comedycentralextra.png 1_0_1_1537_7E7_2_11A0000_0_0_0.png
 
 # comedycentralextraplus1
 ln -s comedycentralextraplus1.png 1_0_1_D7AB_900_2_11A0000_0_0_0.png
+ln -s comedycentralextraplus1.png 1_0_1_c78f_96b_2_11a0000_0_0_0.png
 
 # comedycentralhd
 ln -s comedycentralhd.png 1_0_19_F10_7E4_2_11A0000_0_0_0.png
@@ -2420,6 +2424,7 @@ ln -s espn.png 1_0_1_DC1_2D50_13E_820000_0_0_0.png
 ln -s espn.png 1_0_1_1224_7E9_2_11A0000_0_0_0.png
 ln -s espn.png 1_0_1_1795_7EE_2_11A0000_0_0_0.png
 ln -s espn.png 1_0_1_1CAC_1CE8_71_820000_0_0_0.png
+ln -s espn.png 1_0_1_d80f_a36_2_11a0000_0_0_0.png
 
 # espnamerica
 ln -s espnamerica.png 1_0_1_C5BC_967_2_11A0000_0_0_0.png
@@ -4527,6 +4532,7 @@ ln -s ndrhd.png 1_0_19_285A_401_1_C00000_0_0_0.png
 
 # ndtv24x7
 ln -s ndtv24x7.png 1_0_1_139D_807_2_11A0000_0_0_0.png
+ln -s ndtv24x7.png 1_0_1_d8d1_962_2_11a0000_0_0_0.png
 
 # ned1
 ln -s ned1.png 1_0_1_FAB_451_35_C00000_0_0_0.png
@@ -4676,6 +4682,7 @@ ln -s nickelodeon.png 1_0_1_401_A_46_7120000_0_0_0.png
 # nickelodeonplus1
 ln -s nickelodeonplus1.png 1_0_1_2C31_251C_FBFF_820000_0_0_0.png
 ln -s nickelodeonplus1.png 1_0_1_2FF1_1D4C_FBFF_820000_0_0_0.png
+ln -s nickelodeonplus1.png 1_0_1_15b9_804_2_11a0000_0_0_0.png
 
 # nickelodeon_comedycentral
 ln -s nickelodeon_comedycentral.png 1_0_1_C58_5_56_300000_0_0_0.png
@@ -4726,12 +4733,14 @@ ln -s nickjr.png 1_0_1_590_320_FBFF_820000_0_0_0.png
 
 # nickjrplus1
 ln -s nickjrplus1.png 1_0_1_C6CA_969_2_11A0000_0_0_0.png
+ln -s nickjrplus1.png 1_0_1_c792_96b_2_11a0000_0_0_0.png
 
 # nickjr_vh1.png
 ln -s nickjr_vh1.png 1_0_1_1AE0_12_55_300000_0_0_0.png
 
 # nickjr2
 ln -s nickjr2.png 1_0_1_D025_909_2_11A0000_0_0_0.png
+ln -s nickjr2.png 1_0_1_c791_96b_2_11a0000_0_0_0.png
 
 # nicktoons
 ln -s nicktoons.png 1_0_1_15BA_804_2_11A0000_0_0_0.png
@@ -5356,6 +5365,7 @@ ln -s psychictoday.png 1_0_1_D7BA_900_2_11A0000_0_0_0.png
 ln -s ptvglobal.png 1_0_1_CF7C_908_2_11A0000_0_0_0.png
 ln -s ptvglobal.png 1_0_1_386_17D4_9E_5A0000_0_0_0.png
 ln -s ptvglobal.png 1_0_1_3793_44C_13E_820000_0_0_0.png
+ln -s ptvglobal.png 1_0_1_c6c3_969_2_11a0000_0_0_0.png
 
 # ptvprime
 ln -s ptvprime.png 1_0_1_C6B1_969_2_11A0000_0_0_0.png
@@ -7260,7 +7270,7 @@ ln -s thepubchannel.png 1_0_1_2457_7EF_2_11A0000_0_0_0.png
 ln -s theentrepreneurchannel.png 1_0_1_CCC0_901_2_11A0000_0_0_0.png
 
 # thejewellerychannel
-ln -s thejewellerychannel.png 1_0_1_C4A4_964_2_11A0000_0_0_0.png
+ln -s thejewellerychannel.png 1_0_1_d110_90c_2_11a0000_0_0_0.png
 
 # thestylenetwork
 ln -s thestylenetwork.png 1_0_1_D43F_A2C_2_11A0000_0_0_0.png
