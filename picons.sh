@@ -6730,12 +6730,12 @@ ln -s skyunohdit.png 1_0_1_2C43_251C_FBFF_820000_0_0_0.png
 ln -s skyunoplus1it.png 1_0_1_2B70_19C8_FBFF_820000_0_0_0.png
 
 # showcasetv
-ln -s showcasetv.png 1_0_1_d809_a36_2_11a0000_0_0_0.png
+ln -s showcasetv.png 1_0_1_D809_A36_2_11A0000_0_0_0.png
 
 # showcasetvplus1
 
 # showcasetv2
-ln -s showcasetv2.png 1_0_1_d80a_a36_2_11a0000_0_0_0.png
+ln -s showcasetv2.png 1_0_1_D80A_A36_2_11A0000_0_0_0.png
 
 # smartlivecasino
 ln -s smartlivecasino.png 1_0_1_CB96_8FE_2_11A0000_0_0_0.png
