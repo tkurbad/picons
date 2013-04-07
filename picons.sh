@@ -6358,11 +6358,11 @@ ln -s skymoviesfamilyhduk.png 1_0_19_EEA_7E0_2_11A0000_0_0_0.png
 ln -s skymoviesfamilyuk.png 1_0_1_1133_7D7_2_11A0000_0_0_0.png
 ln -s skymoviesfamilyuk.png 1_0_1_232E_7D7_2_11A0000_0_0_0.png
 
-# skymoviesmoderngreatshduk
-ln -s skymoviesmoderngreatshduk.png 1_0_19_EE7_7E8_2_11A0000_0_0_0.png
+# skymoviesgreatshduk
+ln -s skymoviesgreatshduk.png 1_0_19_EE7_7E8_2_11A0000_0_0_0.png
 
-# skymoviesmoderngreatsuk
-ln -s skymoviesmoderngreatsuk.png 1_0_1_1612_7D7_2_11A0000_0_0_0.png
+# skymoviesgreatsuk
+ln -s skymoviesgreatsuk.png 1_0_1_1612_7D7_2_11A0000_0_0_0.png
 
 # skymoviespremierehduk
 ln -s skymoviespremierehduk.png 1_0_19_EED_7E0_2_11A0000_0_0_0.png
