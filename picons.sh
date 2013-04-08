@@ -3815,6 +3815,7 @@ ln -s kikahd.png 1_0_19_2B98_3F2_1_C00000_0_0_0.png
 
 # kinocs
 ln -s kinocs.png 1_0_1_13C2_C95_3_EB0000_0_0_0.png
+ln -s kinocs.png 1_0_19_13C2_C95_3_EB0000_0_0_0.png
 
 # kinonovabg
 ln -s kinonovabg.png 1_0_1_1583_C92_3_EB0000_0_0_0.png
@@ -3990,7 +3991,6 @@ ln -s leonardo.png 1_0_1_E2F_16A8_FBFF_820000_0_0_0.png
 
 # leotv
 ln -s leotv.png 1_0_1_333F_C89_3_EB0000_0_0_0.png
-ln -s leotv.png 1_0_19_13C2_C95_3_EB0000_0_0_0.png
 
 # loveworld
 ln -s loveworld.png 1_0_1_D3C3_A2B_2_11A0000_0_0_0.png
