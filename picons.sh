@@ -3222,8 +3222,8 @@ ln -s hbo2.png 1_0_1_17B3_C82_3_EB0000_0_0_0.png
 ln -s hbo2.png 1_0_19_17B3_C82_3_EB0000_0_0_0.png
 ln -s hbo2.png 1_0_16_17B3_C82_3_EB0000_0_0_0.png
 
-# hbo2ce
-ln -s hbo2ce.png 1_0_1_3335_C89_3_EB0000_0_0_0.png
+# hbo2centraleurope
+ln -s hbo2centraleurope.png 1_0_1_3335_C89_3_EB0000_0_0_0.png
 
 # hbo3
 ln -s hbo3.png 1_0_1_17B4_C82_3_EB0000_0_0_0.png
