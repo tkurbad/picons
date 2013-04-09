@@ -465,7 +465,6 @@ ln -s atnbangla.png 1_0_1_D6E0_A33_2_11A0000_0_0_0.png
 ln -s atnbangla.png 1_0_1_D74B_A34_2_11A0000_0_0_0.png
 
 # axn
-ln -s axn.png 1_0_1_3333_C89_3_EB0000_0_0_0.png
 ln -s axn.png 1_0_19_C480_2715_F001_EB0000_0_0_0.png
 ln -s axn.png 1_0_19_D09A_2715_F001_EB0000_0_0_0.png
 ln -s axn.png 1_0_1_4F80_427_1_C00000_0_0_0.png
@@ -1863,6 +1862,7 @@ ln -s discovery.png 1_0_1_19C_4_46_7120000_0_0_0.png
 ln -s discovery.png 1_0_1_19F_4_46_7120000_0_0_0.png
 ln -s discovery.png 1_0_1_196_4_46_7120000_0_0_0.png
 ln -s discovery.png 1_0_1_199_4_46_7120000_0_0_0.png
+ln -s discovery.png 1_0_1_3333_C89_3_EB0000_0_0_0.png
 
 # discoveryhd
 ln -s discoveryhd.png 1_0_19_EDB_7F0_2_11A0000_0_0_0.png
@@ -2208,6 +2208,7 @@ ln -s dorceltv.png 1_0_1_3656_1FA4_13E_820000_0_0_0.png
 
 # docuboxhd
 ln -s docuboxhd.png 1_0_1_1529_C86_3_EB0000_0_0_0.png
+ln -s docuboxhd.png 1_0_19_1529_C86_3_EB0000_0_0_0.png
 
 # domatvhr
 ln -s domatvhr.png 1_0_1_13F0_C87_3_EB0000_0_0_0.png
@@ -3213,7 +3214,6 @@ ln -s hbo.png 1_0_1_1167_2AF8_13E_820000_0_0_0.png
 ln -s hbo.png 1_0_1_1AA3_1A90_9E_5A0000_0_0_0.png
 
 # hbo2
-ln -s hbo2.png 1_0_1_3335_C89_3_EB0000_0_0_0.png
 ln -s hbo2.png 1_0_1_3E25_2EE0_13E_820000_0_0_0.png
 ln -s hbo2.png 1_0_1_114F_2AF8_13E_820000_0_0_0.png
 ln -s hbo2.png 1_0_1_1168_2AF8_13E_820000_0_0_0.png
@@ -3221,6 +3221,9 @@ ln -s hbo2.png 1_0_1_1AA4_1A90_9E_5A0000_0_0_0.png
 ln -s hbo2.png 1_0_1_17B3_C82_3_EB0000_0_0_0.png
 ln -s hbo2.png 1_0_19_17B3_C82_3_EB0000_0_0_0.png
 ln -s hbo2.png 1_0_16_17B3_C82_3_EB0000_0_0_0.png
+
+# hbo2ce
+ln -s hbo2ce.png 1_0_1_3335_C89_3_EB0000_0_0_0.png
 
 # hbo3
 ln -s hbo3.png 1_0_1_17B4_C82_3_EB0000_0_0_0.png
@@ -3812,6 +3815,7 @@ ln -s kikahd.png 1_0_19_2B98_3F2_1_C00000_0_0_0.png
 
 # kinocs
 ln -s kinocs.png 1_0_1_13C2_C95_3_EB0000_0_0_0.png
+ln -s kinocs.png 1_0_19_13C2_C95_3_EB0000_0_0_0.png
 
 # kinonovabg
 ln -s kinonovabg.png 1_0_1_1583_C92_3_EB0000_0_0_0.png
@@ -3987,7 +3991,6 @@ ln -s leonardo.png 1_0_1_E2F_16A8_FBFF_820000_0_0_0.png
 
 # leotv
 ln -s leotv.png 1_0_1_333F_C89_3_EB0000_0_0_0.png
-ln -s leotv.png 1_0_19_13C2_C95_3_EB0000_0_0_0.png
 
 # loveworld
 ln -s loveworld.png 1_0_1_D3C3_A2B_2_11A0000_0_0_0.png
