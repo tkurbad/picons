@@ -7341,7 +7341,9 @@ ln -s tlc.png 1_0_1_1A0_4_46_7120000_0_0_0.png
 ln -s tlc.png 1_0_1_1A1_4_46_7120000_0_0_0.png
 ln -s tlc.png 1_0_1_7E4_449_35_C00000_0_0_0.png
 ln -s tlc.png 1_0_1_1859_7D9_2_11A0000_0_0_0.png
-ln -s tlc.png 1_0_1_CCDE_90B_2_11A0000_0_0_0.png # +1
+
+# tlcplus1
+ln -s tlcplus1.png 1_0_1_CCDE_90B_2_11A0000_0_0_0.png
 
 # tlchd
 ln -s tlchd.png 1_0_19_F34_807_2_11A0000_0_0_0.png
