@@ -1104,7 +1104,6 @@ ln -s canal+comediahd.png 1_0_19_77ED_404_1_C00000_0_0_0.png
 ln -s canal+comediahd.png 1_0_19_7857_41A_1_C00000_0_0_0.png
 
 # canal+decale
-ln -s canal+decale.png 1_0_1_200A_430_1_C00000_0_0_0.png
 ln -s canal+decale.png 1_0_1_2071_432_1_C00000_0_0_0.png
 
 # canal+decalehd
@@ -3514,10 +3513,11 @@ ln -s investigationdiscoveryold.png 1_0_19_179D_C82_3_EB0000_0_0_0.png
 # italiauno
 ln -s italiauno.png 1_0_1_1_1770_110_820000_0_0_0.png
 
-# i-tele
-ln -s i-tele.png 1_0_1_1F4A_42E_1_C00000_0_0_0.png
-ln -s i-tele.png 1_0_1_1F55_42E_1_C00000_0_0_0.png
-ln -s i-tele.png 1_0_1_4469_1F40_13E_820000_0_0_0.png
+# itele
+ln -s itele.png 1_0_1_1F4A_42E_1_C00000_0_0_0.png
+ln -s itele.png 1_0_1_1F55_42E_1_C00000_0_0_0.png
+ln -s itele.png 1_0_1_4469_1F40_13E_820000_0_0_0.png
+ln -s itele.png 1_0_1_200A_430_1_C00000_0_0_0.png
 
 # itv1
 ln -s itv1.png 1_0_1_3F7_805_2_11A0000_0_0_0.png
