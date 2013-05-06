@@ -1833,6 +1833,7 @@ ln -s d8.png 1_0_1_22AD_238C_13E_820000_0_0_0.png
 ln -s d8.png 1_0_1_22B0_238C_13E_820000_0_0_0.png
 ln -s d8.png 1_0_1_134_3E1C_13F_820000_0_0_0.png
 ln -s d8.png 1_0_1_2214_44C_1_C00000_0_0_0.png
+ln -s d8.png 1_0_1_21FD_44C_1_C00000_0_0_0.png
 
 # d17
 ln -s d17.png 1_0_1_23F1_452_1_C00000_0_0_0.png
@@ -3019,7 +3020,6 @@ ln -s france4.png 1_0_1_21B_26AC_13F_820000_0_0_0.png
 ln -s france4.png 1_0_1_2263_438_1_C00000_0_0_0.png
 ln -s france4.png 1_0_1_2277_438_1_C00000_0_0_0.png
 ln -s france4.png 1_0_1_13A_3E1C_13F_820000_0_0_0.png
-ln -s france4.png 1_0_1_21FD_44C_1_C00000_0_0_0.png
 ln -s france4.png 1_0_1_21FF_44C_1_C00000_0_0_0.png
 
 # france5
@@ -3308,6 +3308,9 @@ ln -s history.png 1_0_1_1414_C8A_3_EB0000_0_0_0.png
 ln -s history.png 1_0_1_141B_C8A_3_EB0000_0_0_0.png
 ln -s history.png 1_0_1_13D4_C8A_3_EB0000_0_0_0.png
 ln -s history.png 1_0_1_9CF_19_46_7120000_0_0_0.png
+
+# history2
+ln -s history2.png 1_0_1_D421_A2C_2_11A0000_0_0_0.png
 
 # historyhd
 ln -s historyhd.png 1_0_19_13B0_C95_3_EB0000_0_0_0.png
@@ -3928,6 +3931,7 @@ ln -s lcp.png 1_0_1_2406_452_1_C00000_0_0_0.png
 ln -s lcp.png 1_0_1_DB_3E1C_13F_820000_0_0_0.png
 ln -s lcp.png 1_0_1_139_3E1C_13F_820000_0_0_0.png
 ln -s lcp.png 1_0_1_2208_44C_1_C00000_0_0_0.png
+ln -s lcp.png 1_0_1_2203_44C_1_C00000_0_0_0.png
 
 # lequipe21
 ln -s lequipe21.png 1_0_1_18B3_3F4_1_C00000_0_0_0.png
@@ -4197,7 +4201,6 @@ ln -s milanchannel.png 1_0_1_57E_320_FBFF_820000_0_0_0.png
 # militarychannel
 
 # militaryhistory
-ln -s militaryhistory.png 1_0_1_D421_A2C_2_11A0000_0_0_0.png
 
 # minimax
 ln -s minimax.png 1_0_1_3337_C89_3_EB0000_0_0_0.png
@@ -5239,7 +5242,6 @@ ln -s planete+hd.png 1_0_19_377E_44C_13E_820000_0_0_0.png
 ln -s planete+justice.png 1_0_1_2588_458_1_C00000_0_0_0.png
 
 # planete+nolimit
-ln -s planete+nolimit.png 1_0_1_2203_44C_1_C00000_0_0_0.png
 ln -s planete+nolimit.png 1_0_1_2077_432_1_C00000_0_0_0.png
 
 # planete+thalassa
