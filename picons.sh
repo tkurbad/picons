@@ -7235,6 +7235,9 @@ ln -s teletoon+hd.png 1_0_19_379B_44C_13E_820000_0_0_0.png
 # teletoon+1
 ln -s teletoon+1.png 1_0_1_1909_3FA_1_C00000_0_0_0.png
 
+# televisionnationale1tunisia
+ln -s televisionnationale1tunisia.png 1_0_1_1C22_1C20_13E_820000_0_0_0.png
+
 # tet
 ln -s tet.png 1_0_1_17DE_C_55_300000_0_0_0.png
 
@@ -7473,7 +7476,6 @@ ln -s trwam.png 1_0_1_1C80_457_1_C00000_0_0_0.png
 ln -s trwam.png 1_0_1_10D6_418_1_C00000_0_0_0.png
 
 # tunis7
-ln -s tunis7.png 1_0_1_1C22_1C20_13E_820000_0_0_0.png
 
 # tunisiatv1
 
