@@ -9839,3 +9839,46 @@ ln -s yletv2.png 1_0_1_21_1001_20F6_EEEE0000_0_0_0.png
 # RADIO
 
 
+## FRENCH TNT ##
+
+# TV
+
+ln -s tf1.png 1_0_1_601_6_20FA_EEEE0000_0_0_0.png
+ln -s tf1hd.png 1_0_1_501_5_20FA_EEEE0000_0_0_0.png
+ln -s france2.png 1_0_1_101_1_20FA_EEEE0000_0_0_0.png
+ln -s france2hd.png 1_0_1_502_5_20FA_EEEE0000_0_0_0.png
+ln -s france3.png 1_0_1_119_1_20FA_EEEE0000_0_0_0.png
+ln -s canal+.png 1_0_1_301_3_20FA_EEEE0000_0_0_0.png
+ln -s france5.png 1_0_1_104_1_20FA_EEEE0000_0_0_0.png
+ln -s m6.png 1_0_1_401_4_20FA_EEEE0000_0_0_0.png
+ln -s m6hd.png 1_0_1_503_5_20FA_EEEE0000_0_0_0.png
+ln -s arte.png 1_0_1_607_6_20FA_EEEE0000_0_0_0.png
+ln -s artehd.png 1_0_1_407_4_20FA_EEEE0000_0_0_0.png
+ln -s d8.png 1_0_1_201_2_20FA_EEEE0000_0_0_0.png
+ln -s w9.png 1_0_1_402_4_20FA_EEEE0000_0_0_0.png
+ln -s tmc.png 1_0_1_606_6_20FA_EEEE0000_0_0_0.png
+ln -s nt1.png 1_0_1_403_4_20FA_EEEE0000_0_0_0.png
+ln -s nrj12.png 1_0_1_602_6_20FA_EEEE0000_0_0_0.png
+ln -s lcp.png 1_0_1_106_1_20FA_EEEE0000_0_0_0.png
+ln -s france4.png 1_0_1_207_2_20FA_EEEE0000_0_0_0.png
+ln -s bfmtv.png 1_0_1_203_2_20FA_EEEE0000_0_0_0.png
+ln -s itele.png 1_0_1_204_2_20FA_EEEE0000_0_0_0.png
+ln -s d17.png 1_0_1_205_2_20FA_EEEE0000_0_0_0.png
+ln -s gulli.png 1_0_1_206_2_20FA_EEEE0000_0_0_0.png
+ln -s franceo.png 1_0_1_105_1_20FA_EEEE0000_0_0_0.png
+ln -s lequipe21.png 1_0_19_A02_A_20FA_EEEE0000_0_0_0.png
+ln -s numero23.png 1_0_19_B02_B_20FA_EEEE0000_0_0_0.png
+ln -s rmcdecouverte.png 1_0_19_B03_B_20FA_EEEE0000_0_0_0.png
+ln -s cherie25.png 1_0_19_A03_A_20FA_EEEE0000_0_0_0.png
+ln -s parispremiere.png 1_0_1_404_4_20FA_EEEE0000_0_0_0.png
+ln -s canal+sport.png 1_0_1_303_3_20FA_EEEE0000_0_0_0.png
+ln -s canal+cinema.png 1_0_1_302_3_20FA_EEEE0000_0_0_0.png
+ln -s planete+.png 1_0_1_304_3_20FA_EEEE0000_0_0_0.png
+ln -s tf6.png 1_0_1_605_6_20FA_EEEE0000_0_0_0.png
+ln -s lci.png 1_0_1_603_6_20FA_EEEE0000_0_0_0.png
+ln -s eurosport.png 1_0_1_604_6_20FA_EEEE0000_0_0_0.png
+ln -s lmtvsarthe.png 1_0_1_173_1_20FA_EEEE0000_0_0_0.png
+
+# RADIO
+
+
