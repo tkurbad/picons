@@ -965,6 +965,12 @@ ln -s britasiatv.png 1_0_1_D744_A34_2_11A0000_0_0_0.png
 # btv
 ln -s btv.png 1_0_1_B72_34_55_300000_0_0_0.png
 
+# btsport
+ln -s btsport.png 1_0_19_C5E4_967_2_11A0000_0_0_0.png # 1 HD
+ln -s btsport.png 1_0_19_C4B8_964_2_11A0000_0_0_0.png # 2 HD
+ln -s btsport.png 1_0_1_CB2E_907_2_11A0000_0_0_0.png # 1
+ln -s btsport.png 1_0_1_D44E_A2C_2_11A0000_0_0_0.png # 2
+
 # boxnation
 ln -s boxnation.png 1_0_1_C5CB_967_2_11A0000_0_0_0.png
 
@@ -5363,6 +5369,7 @@ ln -s primazoom.png 1_0_1_3353_C93_3_EB0000_0_0_0.png
 # primetime
 ln -s primetime.png 1_0_0_D6EC_A35_2_11A0000_0_0_0.png
 ln -s primetime.png 1_0_4_1031_A35_2_11A0000_0_0_0.png
+ln -s primetime.png 1_0_1_D7CD_A35_11A0000_0_0_0.png
 
 # primocanale
 ln -s primocanale.png 1_0_1_420E_C8_13E_820000_0_0_0.png
