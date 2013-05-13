@@ -158,6 +158,7 @@ ln -s abmoteurs.png 1_0_1_1C5_26AC_13F_820000_0_0_0.png
 
 # abudhabisports
 ln -s abudhabisports.png 1_0_1_29DC_3CF0_13E_820000_0_0_0.png
+ln -s abudhabisports.png 1_0_1_2523_13EF_13E_820000_0_0_0.png
 
 # abudhabitv
 ln -s abudhabitv.png 1_0_1_C6B2_969_2_11A0000_0_0_0.png
@@ -268,6 +269,12 @@ ln -s almaghribia.png 1_0_1_1_2E18_B0_820000_0_0_0.png
 
 # almasriyah
 ln -s almasriyah.png 1_0_1_8_25E4_2BE_820000_0_0_0.png
+
+# alsharjah
+ln -s alsharjah.png 1_0_1_2520_13EF_13E_820000_0_0_0.png
+
+# alsunnahalnabawiyah
+ln -s alsunnahalnabawiyah.png 1_0_1_BC9_20D0_13E_820000_0_0_0.png
 
 # amoretv
 ln -s amoretv.png 1_0_1_1293_3F7_1_C00000_0_0_0.png
@@ -3626,6 +3633,10 @@ ln -s itvpolska.png 1_0_1_13F5_5DC_13E_820000_0_0_0.png
 
 # iqraa
 ln -s iqraa.png 1_0_1_D326_A29_2_11A0000_0_0_0.png
+ln -s iqraa.png 1_0_1_1DA_1964_13E_820000_0_0_0.png
+
+# iqraaeurope
+ln -s iqraaeurope.png 1_0_1_1DB_1964_13E_820000_0_0_0.png
 
 # iskelma
 
@@ -3682,6 +3693,9 @@ ln -s joj.png 1_0_1_13ED_C87_3_EB0000_0_0_0.png
 
 # jojplus
 ln -s jojplus.png 1_0_1_13EE_C87_3_EB0000_0_0_0.png
+
+# jordantv
+ln -s jordantv.png 1_0_1_28_25E4_2BE_820000_0_0_0.png
 
 # journaal24
 
@@ -4601,6 +4615,9 @@ ln -s ned3hd.png 1_0_1_5230_C99_3_EB0000_0_0_0.png
 # nelonen
 ln -s nelonen.png 1_0_19_130_48_46_7120000_0_0_0.png
 
+# nessma
+ln -s nessma.png 1_0_1_29DE_3CF0_13E_820000_0_0_0.png
+
 # net5
 ln -s net5.png 1_0_1_138C_455_35_C00000_0_0_0.png
 ln -s net5.png 1_0_1_FA3_451_35_C00000_0_0_0.png
@@ -5431,6 +5448,9 @@ ln -s puls4.png 1_0_1_4E27_43A_1_C00000_0_0_0.png
 # puls4hd
 ln -s puls4hd.png 1_0_19_14B7_407_1_C00000_0_0_0.png
 
+# qatartv
+ln -s qatartv.png 1_0_1_2_25E4_2BE_820000_0_0_0.png
+
 # quest
 ln -s quest.png 1_0_1_1843_7D9_2_11A0000_0_0_0.png
 
@@ -5896,6 +5916,12 @@ ln -s sat7.png 1_0_1_BBB_20D0_13E_820000_0_0_0.png
 
 # sat7kids
 ln -s sat7kids.png 1_0_1_1D2F_2FA8_13E_820000_0_0_0.png
+
+# saudi1
+ln -s saudi1.png 1_0_1_3_25E4_2BE_820000_0_0_0.png
+
+# saudi2
+ln -s saudi2.png 1_0_1_70_1E14_13E_820000_0_0_0.png
 
 # sbs6
 ln -s sbs6.png 1_0_1_138D_455_35_C00000_0_0_0.png
