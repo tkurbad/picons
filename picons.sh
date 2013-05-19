@@ -78,6 +78,9 @@ ln -s 4pro2.png 1_0_1_1176_18_56_300000_0_0_0.png
 ln -s 6erenhd.png 1_0_19_12C8_43_46_7120000_0_0_0.png
 ln -s 6erenhd.png 1_0_19_12C7_43_46_7120000_0_0_0.png
 
+# 6ter
+ln -s 6ter.png 1_0_19_B01_B_20FA_EEEE0000_0_0_0.png
+
 # 9x
 
 # 9xm
@@ -3276,6 +3279,9 @@ ln -s hbocomedy.png 1_0_19_13AB_C85_3_EB0000_0_0_0.png
 
 # hbocomedyhd
 ln -s hbocomedyhd.png 1_0_1_E0A_2D50_13E_820000_0_0_0.png
+
+# hd1
+ln -s hd1.png 1_0_19_A01_A_20FA_EEEE0000_0_0_0.png
 
 # hdcampustv
 
