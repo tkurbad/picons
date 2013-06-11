@@ -4225,6 +4225,7 @@ ln -s mgm.png 1_0_1_13CF_C8A_3_EB0000_0_0_0.png
 ln -s mgmhd.png 1_0_19_EDF_7E0_2_11A0000_0_0_0.png
 ln -s mgmhd.png 1_0_19_3AB7_514_13E_820000_0_0_0.png
 ln -s mgmhd.png 1_0_1_3AB7_514_13E_820000_0_0_0.png
+ln -s mgmhd.png 1_0_19_73_C_85_C00000_0_0_0.png
 
 # milanchannel
 ln -s milanchannel.png 1_0_1_57E_320_FBFF_820000_0_0_0.png
@@ -7461,6 +7462,9 @@ ln -s tntseriehd.png 1_0_19_7B_E_85_C00000_0_0_0.png
 # toonami
 ln -s toonami.png 1_0_1_1BC4_7E2_2_11A0000_0_0_0.png
 
+# topcrime
+ln -s topcrime.png 1_0_1_C_3DE_110_820000_0_0_0.png
+
 # toutelhistoire
 ln -s toutelhistoire.png 1_0_1_4282_446_1_C00000_0_0_0.png
 ln -s toutelhistoire.png 1_0_1_D0_3E1C_13F_820000_0_0_0.png
@@ -7515,12 +7519,14 @@ ln -s trtbelgesel.png 1_0_1_1CC_1964_13E_820000_0_0_0.png
 # trtturk
 ln -s trtturk.png 1_0_1_13F9_403_1_C00000_0_0_0.png
 
+# truedrama
+ln -s truedrama.png 1_0_1_D084_90A_2_11A0000_0_0_0.png
+
 # trueentertainment
 ln -s trueentertainment.png 1_0_1_CC97_96A_2_11A0000_0_0_0.png
 ln -s trueentertainment.png 1_0_1_D07F_90A_2_11A0000_0_0_0.png
 
 # trueentertainmentplus1
-ln -s trueentertainmentplus1.png 1_0_1_D084_90A_2_11A0000_0_0_0.png
 
 # truemovies1
 ln -s truemovies1.png 1_0_1_CC60_96A_2_11A0000_0_0_0.png
