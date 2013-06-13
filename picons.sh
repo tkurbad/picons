@@ -14,6 +14,7 @@ ln -s 1-2-3.tv.png 1_0_1_296_5_85_C00000_0_0_0.png
 ln -s 1-2-3.tv.png 1_0_19_DD_14B4_9C_5A0000_0_0_0.png
 ln -s 1-2-3.tv.png 1_0_1_C3BE_2711_F001_EB0000_0_0_0.png
 ln -s 1-2-3.tv.png 1_0_1_DD_14B4_9C_5A0000_0_0_0.png
+ln -s 1-2-3.tv.png 1_0_19_157E_41F_1_C00000_0_0_0.png
 
 # 1+1international
 ln -s 1+1international.png 1_0_19_17ED_C_55_300000_0_0_0.png
@@ -492,7 +493,6 @@ ln -s axn.png 1_0_1_4E8C_2134_9C_5A0000_0_0_0.png
 ln -s axn.png 1_0_1_DC3_2D50_13E_820000_0_0_0.png
 ln -s axn.png 1_0_1_2969_22C4_13E_820000_0_0_0.png
 ln -s axn.png 1_0_1_5A3_320_FBFF_820000_0_0_0.png
-ln -s axn.png 1_0_1_5156_C8B_3_EB0000_0_0_0.png
 ln -s axn.png 1_0_1_25_F_85_C00000_0_0_0.png
 ln -s axn.png 1_0_1_13B9_C95_3_EB0000_0_0_0.png
 ln -s axn.png 1_0_1_49C_3_1_7120000_0_0_0.png
@@ -505,7 +505,6 @@ ln -s axncrime.png 1_0_1_1C86_1CE8_71_820000_0_0_0.png
 ln -s axncrime.png 1_0_19_296A_22C4_13E_820000_0_0_0.png
 ln -s axncrime.png 1_0_1_DB6_2D50_13E_820000_0_0_0.png
 ln -s axncrime.png 1_0_1_296A_22C4_13E_820000_0_0_0.png
-ln -s axncrime.png 1_0_1_5157_C8B_3_EB0000_0_0_0.png
 
 # axnhd
 ln -s axnhd.png 1_0_1_75A1_422_1_C00000_0_0_0.png
@@ -532,7 +531,6 @@ ln -s axnscifi.png 1_0_19_296B_22C4_13E_820000_0_0_0.png
 ln -s axnscifi.png 1_0_1_DB7_2D50_13E_820000_0_0_0.png
 ln -s axnscifi.png 1_0_1_296B_22C4_13E_820000_0_0_0.png
 ln -s axnscifi.png 1_0_1_2FED_1D4C_FBFF_820000_0_0_0.png
-ln -s axnscifi.png 1_0_1_5158_C8B_3_EB0000_0_0_0.png
 ln -s axnscifi.png 1_0_1_2DB6_1A2C_FBFF_820000_0_0_0.png
 ln -s axnscifi.png 1_0_1_D70_C_1_7120000_0_0_0.png
 
@@ -649,6 +647,9 @@ ln -s bbci.png 1_0_1_1A39_7DD_2_11A0000_0_0_0.png
 ln -s bbci.png 1_0_1_1A3A_7DD_2_11A0000_0_0_0.png
 ln -s bbci.png 1_0_1_1A3B_7DD_2_11A0000_0_0_0.png
 ln -s bbci.png 1_0_1_18F6_7FD_2_11A0000_0_0_0.png
+ln -s bbci.png 1_0_19_22C4_80D_2_11A0000_0_0_0.png
+ln -s bbci.png 1_0_1_D46C_A2C_2_11A0000_0_0_0.png
+ln -s bbci.png 1_0_1_D46D_A2C_2_11A0000_0_0_0.png
 
 # bbcknowledge
 ln -s bbcknowledge.png 1_0_1_390B_32C8_13E_820000_0_0_0.png
@@ -761,7 +762,6 @@ ln -s bet.png 1_0_1_200B_24B8_13E_820000_0_0_0.png
 ln -s bet.png 1_0_1_C789_96B_2_11A0000_0_0_0.png
 
 # betplus1
-ln -s betplus1.png 1_0_1_CB5C_907_2_11A0000_0_0_0.png
 ln -s betplus1.png 1_0_1_C78A_96B_2_11A0000_0_0_0.png
 
 # betheltv
@@ -1018,6 +1018,7 @@ ln -s cancaonovainternational.png 1_0_1_133A_33F4_13E_820000_0_0_0.png
 
 # canvas
 ln -s canvas.png 1_0_1_31E8_45F_35_C00000_0_0_0.png
+ln -s canvas.png 1_0_16_3202_45F_35_C00000_0_0_0.png
 
 # canvashd
 ln -s canvashd.png 1_0_19_5226_FFFF_FFFF_EB2F9B_0_0_0.png
@@ -1512,6 +1513,7 @@ ln -s clublandtv.png 1_0_1_D749_A34_2_11A0000_0_0_0.png
 ln -s clubrtl.png 1_0_1_3632_C8_13E_820000_0_0_0.png
 ln -s clubrtl.png 1_0_16_1484_40D_1_C00000_0_0_0.png
 ln -s clubrtl.png 1_0_1_1484_40D_1_C00000_0_0_0.png
+ln -s clubrtl.png 1_0_16_3239_45F_35_C00000_0_0_0.png
 
 # cmoreaction
 ln -s cmoreaction.png 1_0_1_CEB_21_46_7120000_0_0_0.png
@@ -2301,6 +2303,7 @@ ln -s e4plus1.png 1_0_1_2F0D_7F8_2_11A0000_0_0_0.png
 
 # ebrutv
 ln -s ebrutv.png 1_0_1_1F67_319C_13E_820000_0_0_0.png
+ln -s ebrutv.png 1_0_1_4C_21_85_C00000_0_0_0.png
 
 # echotv
 ln -s echotv.png 1_0_1_4F67_4FF_1_C00000_0_0_0.png
@@ -2319,6 +2322,7 @@ ln -s edusat.png 1_0_1_3D5B_2C88_13E_820000_0_0_0.png
 
 # een
 ln -s een.png 1_0_1_31E7_45F_35_C00000_0_0_0.png
+ln -s een.png 1_0_16_3201_45F_35_C00000_0_0_0.png
 
 # eenhd
 ln -s eenhd.png 1_0_19_5221_FFFF_FFFF_EB2F9B_0_0_0.png
@@ -4673,6 +4677,7 @@ ln -s nationalgeographic.png 1_0_1_60D_47_46_7120000_0_0_0.png
 ln -s nationalgeographic.png 1_0_1_C9_2_46_7120000_0_0_0.png
 ln -s nationalgeographic.png 1_0_1_407_3_1_7120000_0_0_0.png
 ln -s nationalgeographic.png 1_0_1_1FAC_434_1_C00000_0_0_0.png
+ln -s nationalgeographic.png 1_0_16_325D_45F_35_C00000_0_0_0.png
 
 # nationalgeographichd
 ln -s nationalgeographichd.png 1_0_19_EF8_7E4_2_11A0000_0_0_0.png
@@ -5271,6 +5276,7 @@ ln -s planetde.png 1_0_1_C3B9_2713_F001_EB0000_0_0_0.png
 ln -s planetde.png 1_0_19_C3B9_2713_F001_EB0000_0_0_0.png
 ln -s planetde.png 1_0_1_31FC_45F_35_C00000_0_0_0.png
 ln -s planetde.png 1_0_1_7FC_449_35_C00000_0_0_0.png
+ln -s planetde.png 1_0_16_3251_45F_35_C00000_0_0_0.png
 
 # planethdde
 
@@ -5313,6 +5319,7 @@ ln -s playboytv.png 1_0_1_1D79_2F44_13E_820000_0_0_0.png
 ln -s plugrtl.png 1_0_1_3633_C8_13E_820000_0_0_0.png
 ln -s plugrtl.png 1_0_16_1485_40D_1_C00000_0_0_0.png
 ln -s plugrtl.png 1_0_1_1485_40D_1_C00000_0_0_0.png
+ln -s plugrtl.png 1_0_16_323A_45F_35_C00000_0_0_0.png
 
 # pogodatv
 ln -s pogodatv.png 1_0_1_19A5_F_55_300000_0_0_0.png
@@ -5696,6 +5703,7 @@ ln -s rthd.png 1_0_1_18EE_3F4_1_C00000_0_0_0.png
 ln -s rthd.png 1_0_1_18ED_3F4_1_C00000_0_0_0.png
 ln -s rthd.png 1_0_1_7D1_22C4_13E_820000_0_0_0.png
 ln -s rthd.png 1_0_19_CF9C_908_2_11A0000_0_0_0.png
+ln -s rthd.png 1_0_1_18F8_3F4_1_C00000_0_0_0.png
 
 # rtdocumentary
 ln -s rtdocumentary.png 1_0_1_7D2_22C4_13E_820000_0_0_0.png
@@ -5823,6 +5831,7 @@ ln -s rtltvi.png 1_0_1_3631_C8_13E_820000_0_0_0.png
 # rtltvihd
 ln -s rtltvihd.png 1_0_16_1483_40D_1_C00000_0_0_0.png
 ln -s rtltvihd.png 1_0_1_1483_40D_1_C00000_0_0_0.png
+ln -s rtltvihd.png 1_0_19_3238_45F_35_C00000_0_0_0.png
 
 # rtpi
 ln -s rtpi.png 1_0_1_CFD6_271A_F001_EB0000_0_0_0.png
@@ -6833,6 +6842,7 @@ ln -s skyunoplus1it.png 1_0_1_2B70_19C8_FBFF_820000_0_0_0.png
 ln -s showcasetv.png 1_0_1_D020_909_2_11A0000_0_0_0.png
 
 # showcasetvplus1
+ln -s showcasetvplus1.png 1_0_1_D02F_909_2_11A0000_0_0_0.png
 
 # showcasetv2
 ln -s showcasetv2.png 1_0_1_D025_909_2_11A0000_0_0_0.png
@@ -7885,6 +7895,7 @@ ln -s tvnmeteo.png 1_0_1_10DE_3E8_13E_820000_0_0_0.png
 
 # tvnoord
 ln -s tvnoord.png 1_0_1_514A_C8B_3_EB0000_0_0_0.png
+ln -s tvnoord.png 1_0_16_514A_C8B_3_EB0000_0_0_0.png
 
 # tvnorge
 ln -s tvnorge.png 1_0_1_13B0_7_56_300000_0_0_0.png
