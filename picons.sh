@@ -14,7 +14,9 @@ ln -s 1-2-3.tv.png 1_0_1_296_5_85_C00000_0_0_0.png
 ln -s 1-2-3.tv.png 1_0_19_DD_14B4_9C_5A0000_0_0_0.png
 ln -s 1-2-3.tv.png 1_0_1_C3BE_2711_F001_EB0000_0_0_0.png
 ln -s 1-2-3.tv.png 1_0_1_DD_14B4_9C_5A0000_0_0_0.png
-ln -s 1-2-3.tv.png 1_0_19_157E_41F_1_C00000_0_0_0.png
+
+# 1-2-3.tvhd
+ln -s 1-2-3.tvhd.png 1_0_19_157E_41F_1_C00000_0_0_0.png
 
 # 1+1international
 ln -s 1+1international.png 1_0_19_17ED_C_55_300000_0_0_0.png
@@ -40,6 +42,9 @@ ln -s 2be.png 1_0_16_320C_45F_35_C00000_0_0_0.png
 
 # 2mmonde
 ln -s 2mmonde.png 1_0_1_6A9_3138_13E_820000_0_0_0.png
+
+# 360tunebox
+ln -s 360tunebox.png 1_0_1_36E6_C8C_3_EB0000_0_0_0.png
 
 # 3abn
 ln -s 3abn.png 1_0_1_439E_2CEC_13E_820000_0_0_0.png
@@ -3232,6 +3237,11 @@ ln -s gxtplus1.png 1_0_1_2FE7_1D4C_FBFF_820000_0_0_0.png
 
 # haberturktv
 
+# hallotv
+ln -s hallotv.png 1_0_1_32D7_45D_1_C00000_0_0_0.png
+ln -s hallotv.png 1_0_1_32D8_45D_1_C00000_0_0_0.png
+ln -s hallotv.png 1_0_1_32D9_45D_1_C00000_0_0_0.png
+
 # hayat
 
 # hayatplus
@@ -4820,6 +4830,9 @@ ln -s nicktoons.png 1_0_1_15BA_7D3_2_5A2DE3_0_0_0.png
 ln -s nicktoons.png 1_0_1_15BA_7D3_2_11A0000_0_0_0.png
 ln -s nicktoons.png 1_0_1_D7E9_A35_2_11A0000_0_0_0.png
 
+# nitro
+ln -s nitro.png 1_0_1_75F9_408_1_C00000_0_0_0.png
+
 # noetv
 ln -s noetv.png 1_0_1_1F48_BC6_3_EB0000_0_0_0.png
 
@@ -5301,6 +5314,7 @@ ln -s planete+nolimit.png 1_0_1_2077_432_1_C00000_0_0_0.png
 ln -s planete+thalassa.png 1_0_1_2138_400_1_C00000_0_0_0.png
 ln -s planete+thalassa.png 1_0_1_1F45_42E_1_C00000_0_0_0.png # HD
 ln -s planete+thalassa.png 1_0_19_1F4F_42E_1_C00000_0_0_0.png # HD
+ln -s planete+thalassa.png 1_0_19_1F45_42E_1_C00000_0_0_0.png # HD
 
 # planetkids
 ln -s planetkids.png 1_0_1_FF5_2DB4_FBFF_820000_0_0_0.png
