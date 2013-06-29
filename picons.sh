@@ -799,14 +799,14 @@ ln -s beinsportmax.png 1_0_1_19D6_444_1_C00000_0_0_0.png
 ln -s beinsportmax.png 1_0_1_19D7_444_1_C00000_0_0_0.png
 ln -s beinsportmax.png 1_0_1_19D8_444_1_C00000_0_0_0.png
 ln -s beinsportmax.png 1_0_1_19D9_444_1_C00000_0_0_0.png
-ln -s beinsportmax.png 1_0_1_20D1_45C_1_C00000_00_00_00.png
-ln -s beinsportmax.png 1_0_1_20D2_45C_1_C00000_00_00_00.png
-ln -s beinsportmax.png 1_0_1_20D3_45C_1_C00000_00_00_00.png
-ln -s beinsportmax.png 1_0_1_20D4_45C_1_C00000_00_00_00.png
-ln -s beinsportmax.png 1_0_1_20D5_45C_1_C00000_00_00_00.png
-ln -s beinsportmax.png 1_0_1_20D6_45C_1_C00000_00_00_00.png
-ln -s beinsportmax.png 1_0_1_20D7_45C_1_C00000_00_00_00.png
-ln -s beinsportmax.png 1_0_1_20D8_45C_1_C00000_00_00_00.png
+ln -s beinsportmax.png 1_0_1_20D1_45C_1_C00000_0_0_0.png
+ln -s beinsportmax.png 1_0_1_20D2_45C_1_C00000_0_0_0.png
+ln -s beinsportmax.png 1_0_1_20D3_45C_1_C00000_0_0_0.png
+ln -s beinsportmax.png 1_0_1_20D4_45C_1_C00000_0_0_0.png
+ln -s beinsportmax.png 1_0_1_20D5_45C_1_C00000_0_0_0.png
+ln -s beinsportmax.png 1_0_1_20D6_45C_1_C00000_0_0_0.png
+ln -s beinsportmax.png 1_0_1_20D7_45C_1_C00000_0_0_0.png
+ln -s beinsportmax.png 1_0_1_20D8_45C_1_C00000_0_0_0.png
 
 # bfmtv
 ln -s bfmtv.png 1_0_1_2F8A_454_1_C00000_0_0_0.png
@@ -979,8 +979,8 @@ ln -s brava.png 1_0_1_14D2_C84_3_EB0000_0_0_0.png
 ln -s brava.png 1_0_19_1B72_C88_3_EB0000_0_0_0.png
 ln -s brava.png 1_0_19_19D0_444_1_C00000_0_0_0.png
 ln -s brava.png 1_0_19_19D1_444_1_C00000_0_0_0.png
-ln -s brava.png 1_0_19_26B0_43E_1_C00000_00_00_00.png
-ln -s brava.png 1_0_19_26C4_43E_1_C00000_00_00_00.png
+ln -s brava.png 1_0_19_26B0_43E_1_C00000_0_0_0.png
+ln -s brava.png 1_0_19_26C4_43E_1_C00000_0_0_0.png
 
 # britasiatv
 ln -s britasiatv.png 1_0_1_D744_A34_2_11A0000_0_0_0.png
@@ -3224,8 +3224,8 @@ ln -s golf+.png 1_0_1_23F9_452_1_C00000_0_0_0.png
 # golf+hd
 ln -s golf+hd.png 1_0_19_26B9_45C_1_C00000_0_0_0.png
 ln -s golf+hd.png 1_0_19_26CD_45C_1_C00000_0_0_0.png
-ln -s golf+hd.png 1_0_19_26AF_43E_1_C00000_00_00_00.png
-ln -s golf+hd.png 1_0_19_26C3_43E_1_C00000_00_00_00.png
+ln -s golf+hd.png 1_0_19_26AF_43E_1_C00000_0_0_0.png
+ln -s golf+hd.png 1_0_19_26C3_43E_1_C00000_0_0_0.png
 
 # goodfood
 ln -s goodfood.png 1_0_1_196C_7D6_2_11A0000_0_0_0.png
@@ -4473,7 +4473,7 @@ ln -s mtvhits.png 1_0_1_2FF3_1D4C_FBFF_820000_0_0_0.png
 ln -s mtvidol.png 1_0_1_7003_436_1_C00000_0_0_0.png
 ln -s mtvidol.png 1_0_1_1F43_42E_1_C00000_0_0_0.png # HD
 ln -s mtvidol.png 1_0_1_1F4D_42E_1_C00000_0_0_0.png # HD
-ln -s mtvidol.png 1_0_19_1F4D_42E_1_C00000_00_00_00.png # HD
+ln -s mtvidol.png 1_0_19_1F4D_42E_1_C00000_0_0_0.png # HD
 
 # mtvmusic
 ln -s mtvmusic.png 1_0_1_6FFF_436_1_C00000_0_0_0.png
@@ -4507,7 +4507,7 @@ ln -s mtvpulse.png 1_0_1_7002_436_1_C00000_0_0_0.png
 ln -s mtvpulse.png 1_0_1_2D13_2774_FBFF_820000_0_0_0.png
 ln -s mtvpulse.png 1_0_1_1F42_42E_1_C00000_0_0_0.png # HD
 ln -s mtvpulse.png 1_0_1_1F4C_42E_1_C00000_0_0_0.png # HD
-ln -s mtvpulse.png 1_0_19_1F4C_42E_1_C00000_00_00_00.png # HD
+ln -s mtvpulse.png 1_0_19_1F4C_42E_1_C00000_0_0_0.png # HD
 
 # mtvrocks
 ln -s mtvrocks.png 1_0_1_1B5B_7DA_2_11A0000_0_0_0.png
