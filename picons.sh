@@ -3744,6 +3744,9 @@ ln -s jml.png 1_0_1_D35A_A2A_2_11A0000_0_0_0.png
 
 # jstveurope
 
+# joiz
+ln -s joiz.png 1_0_1_4A_5_85_C00000_0_0_0.png
+
 # joj
 ln -s joj.png 1_0_1_13ED_C87_3_EB0000_0_0_0.png
 
@@ -4534,6 +4537,9 @@ ln -s musicboxrussia.png 1_0_1_2986_3D54_13E_820000_0_0_0.png
 
 # musiq1
 ln -s musiq1.png 1_0_1_FA1_28_46_7120000_0_0_0.png
+
+# muslimworld
+ln -s muslimworld.png 1_0_1_CB75_907_2_11A0000_0_0_0.png
 
 # muzikacs
 ln -s muzikacs.png 1_0_1_13C3_C95_3_EB0000_0_0_0.png
@@ -5423,7 +5429,6 @@ ln -s popgirlplus1.png 1_0_1_D07A_90A_2_11A0000_0_0_0.png
 
 # presstv
 ln -s presstv.png 1_0_19_C3B5_2713_F001_EB0000_0_0_0.png
-ln -s presstv.png 1_0_1_4A_5_85_C00000_0_0_0.png
 ln -s presstv.png 1_0_1_1F08_21FC_13E_820000_0_0_0.png
 ln -s presstv.png 1_0_1_C3B5_2713_F001_EB0000_0_0_0.png
 ln -s presstv.png 1_0_1_1E0_1964_13E_820000_0_0_0.png
