@@ -1559,6 +1559,8 @@ ln -s cmorefirst.png 1_0_1_141_3_46_7120000_0_0_0.png
 # cmorefotball
 ln -s cmorefotball.png 1_0_1_132_3_46_7120000_0_0_0.png
 
+# cmorefotballhd
+
 # cmorefotboll
 ln -s cmorefotboll.png 1_0_1_140_3_46_7120000_0_0_0.png
 
@@ -4197,6 +4199,10 @@ ln -s markizahd.png 1_0_19_13B4_C95_3_EB0000_0_0_0.png
 # matvnational
 ln -s matvnational.png 1_0_1_D41C_A2C_2_11A0000_0_0_0.png
 
+# maxhdscandinavia
+
+# maxscandinavia
+
 # mbc
 ln -s mbc.png 1_0_1_252B_13EF_13E_820000_0_0_0.png
 
@@ -5705,6 +5711,9 @@ ln -s retromusictv.png 1_0_19_13BC_C85_3_EB0000_0_0_0.png
 
 # revelationtv
 ln -s revelationtv.png 1_0_1_CB9F_8FE_2_11A0000_0_0_0.png
+
+# rfooberbayern
+ln -s rfooberbayern.png 1_0_1_11FD_3FD_1_C00000_0_0_0.png
 
 # rheinmaintv
 ln -s rheinmaintv.png 1_0_1_3146_459_1_C00000_0_0_0.png
@@ -7732,6 +7741,8 @@ ln -s tv2sportpremierleague.png 1_0_1_73A_1E_56_300000_0_0_0.png
 # tv2syd
 ln -s tv2syd.png 1_0_1_1216_1A_56_300000_0_0_0.png
 
+# tv2zebra
+
 # tv2zulu
 ln -s tv2zulu.png 1_0_1_712_1E_56_300000_0_0_0.png
 
@@ -8027,6 +8038,10 @@ ln -s tvpsport.png 1_0_1_3D58_2C88_13E_820000_0_0_0.png
 
 # tvpuls
 ln -s tvpuls.png 1_0_1_13F8_5DC_13E_820000_0_0_0.png
+
+# tvprozrywka
+ln -s tvprozrywka.png 1_0_1_4288_2BC0_13E_820000_0_0_0.png
+ln -s tvprozrywka.png 1_0_1_DC6_2D50_13E_820000_0_0_0.png
 
 # tvrpl
 ln -s tvrpl.png 1_0_1_1292_3458_13E_820000_0_0_0.png
@@ -8439,6 +8454,8 @@ ln -s volkstv.png 1_0_1_33A6_3EB_1_C00000_0_0_0.png
 
 # volksmusik
 ln -s volksmusik.png 1_0_1_1267_3F7_1_C00000_0_0_0.png
+
+# voxscandinavia
 
 # vox
 ln -s vox.png 1_0_1_D6ED_A33_2_11A0000_0_0_0.png
