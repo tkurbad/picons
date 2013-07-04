@@ -3586,11 +3586,9 @@ ln -s intv.png 1_0_1_11FA_3FD_1_C00000_0_0_0.png
 ln -s investigationdiscovery.png 1_0_1_CCB0_90B_2_11A0000_0_0_0.png
 ln -s investigationdiscovery.png 1_0_1_3914_32C8_13E_820000_0_0_0.png
 ln -s investigationdiscovery.png 1_0_16_179E_C82_3_EB0000_0_0_0.png
-
-# investigationdiscoveryold
-ln -s investigationdiscoveryold.png 1_0_1_179D_C82_3_EB0000_0_0_0.png
-ln -s investigationdiscoveryold.png 1_0_16_179D_C82_3_EB0000_0_0_0.png
-ln -s investigationdiscoveryold.png 1_0_19_179D_C82_3_EB0000_0_0_0.png
+ln -s investigationdiscovery.png 1_0_1_179D_C82_3_EB0000_0_0_0.png
+ln -s investigationdiscovery.png 1_0_16_179D_C82_3_EB0000_0_0_0.png
+ln -s investigationdiscovery.png 1_0_19_179D_C82_3_EB0000_0_0_0.png
 
 # investigationdiscoveryhd
 
