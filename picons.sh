@@ -5290,7 +5290,6 @@ ln -s penthousehd2.png 1_0_19_1E_1A2C_1_5A2F16_0_0_0.png
 # penthousetv
 
 # petkatv5cz
-ln -s petkatv5cz.png 1_0_1_13D5_C8A_3_EB0000_0_0_0.png
 
 # phoenix
 ln -s phoenix.png 1_0_1_7035_41B_1_C00000_0_0_0.png
@@ -5404,6 +5403,9 @@ ln -s plugrtl.png 1_0_16_323A_45F_35_C00000_0_0_0.png
 
 # pogodatv
 ln -s pogodatv.png 1_0_1_19A5_F_55_300000_0_0_0.png
+
+# pohoda
+ln -s pohoda.png 1_0_1_13D5_C8A_3_EB0000_0_0_0.png
 
 # polonia1
 ln -s polonia1.png 1_0_1_3D5A_2C88_13E_820000_0_0_0.png
