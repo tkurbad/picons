@@ -1040,6 +1040,7 @@ ln -s cancaonovainternational.png 1_0_1_133A_33F4_13E_820000_0_0_0.png
 # canvas
 ln -s canvas.png 1_0_1_31E8_45F_35_C00000_0_0_0.png
 ln -s canvas.png 1_0_16_3202_45F_35_C00000_0_0_0.png
+ln -s canvas.png 1_0_1_3202_45F_35_C00000_0_0_0.png
 
 # canvashd
 ln -s canvashd.png 1_0_19_5226_FFFF_FFFF_EB2F9B_0_0_0.png
@@ -2359,6 +2360,7 @@ ln -s edusat.png 1_0_1_3D5B_2C88_13E_820000_0_0_0.png
 # een
 ln -s een.png 1_0_1_31E7_45F_35_C00000_0_0_0.png
 ln -s een.png 1_0_16_3201_45F_35_C00000_0_0_0.png
+ln -s een.png 1_0_1_3201_45F_35_C00000_0_0_0.png
 
 # eenhd
 ln -s eenhd.png 1_0_19_5221_FFFF_FFFF_EB2F9B_0_0_0.png
@@ -4748,6 +4750,7 @@ ln -s nationalgeographic.png 1_0_1_C9_2_46_7120000_0_0_0.png
 ln -s nationalgeographic.png 1_0_1_407_3_1_7120000_0_0_0.png
 ln -s nationalgeographic.png 1_0_1_1FAC_434_1_C00000_0_0_0.png
 ln -s nationalgeographic.png 1_0_16_325D_45F_35_C00000_0_0_0.png
+ln -s nationalgeographic.png 1_0_1_325D_45F_35_C00000_0_0_0.png
 
 # nationalgeographichd
 ln -s nationalgeographichd.png 1_0_19_EF8_7E4_2_11A0000_0_0_0.png
@@ -10070,6 +10073,20 @@ ln -s tf6.png 1_0_1_605_6_20FA_EEEE0000_0_0_0.png
 ln -s lci.png 1_0_1_603_6_20FA_EEEE0000_0_0_0.png
 ln -s eurosport.png 1_0_1_604_6_20FA_EEEE0000_0_0_0.png
 ln -s lmtvsarthe.png 1_0_1_173_1_20FA_EEEE0000_0_0_0.png
+
+# RADIO
+
+
+## SWEDISH TERACOM ##
+
+# TV
+
+ln -s svt1.png 1_0_1_16EE_3FD_22F1_EEEE0000_0_0_0.png
+ln -s svt2.png 1_0_1_15FE_3FD_22F1_EEEE0000_0_0_0.png
+ln -s tv4.png 1_0_1_1842_3FE_22F1_EEEE0000_0_0_0.png
+ln -s viasat6.png 1_0_1_42E_3FE_22F1_EEEE0000_0_0_0.png
+ln -s svtb_svt24.png 1_0_1_366_3FD_22F1_EEEE0000_0_0_0.png
+ln -s kunskapskanalen.png 1_0_1_4D8_3FD_22F1_EEEE0000_0_0_0.png
 
 # RADIO
 
