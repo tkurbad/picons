@@ -205,6 +205,9 @@ ln -s ahlulbayt.png 1_0_1_D7BC_900_2_11A0000_0_0_0.png
 # aitinternational
 ln -s aitinternational.png 1_0_1_D3CC_A2B_2_11A0000_0_0_0.png
 
+# algerie3
+ln -s algerie3.png 1_0_1_3674_C8_13E_820000_0_0_0.png
+
 # alpha
 ln -s alpha.png 1_0_1_145_157C_13E_820000_0_0_0.png
 
@@ -272,6 +275,9 @@ ln -s aljazeerasportsglobal.png 1_0_1_20FE_1F4_13E_820000_0_0_0.png
 
 # aljazeerasportnews
 ln -s aljazeerasportnews.png 1_0_1_74_1E14_13E_820000_0_0_0.png
+
+# almagharibia
+ln -s almagharibia.png 1_0_1_2981_3D54_13E_820000_0_0_0.png
 
 # almaghribia
 ln -s almaghribia.png 1_0_1_1_2E18_B0_820000_0_0_0.png
@@ -418,6 +424,9 @@ ln -s aryentertainment.png 1_0_1_C4EF_965_2_11A0000_0_0_0.png
 ln -s aryqtv.png 1_0_1_CD37_902_2_11A0000_0_0_0.png
 
 # aryzauq
+
+# assadissa
+ln -s assadissa.png 1_0_1_6_2E18_B0_820000_0_0_0.png
 
 # astra
 ln -s astra.png 1_0_19_14BE_C84_3_EB0000_0_0_0.png
@@ -581,6 +590,9 @@ ln -s babytv.png 1_0_1_2C2E_251C_FBFF_820000_0_0_0.png
 ln -s babytv.png 1_0_1_439D_2CEC_13E_820000_0_0_0.png
 ln -s babytv.png 1_0_1_430_2_AA_5A0000_0_0_0.png
 ln -s babytv.png 1_0_1_15BC_804_2_11A0000_0_0_0.png
+
+# bahraininternational
+ln -s bahraininternational.png 1_0_1_1C5B_1C20_13E_820000_0_0_0.png
 
 # balkanikamusictelevision
 
@@ -3960,6 +3972,9 @@ ln -s kztv.png 1_0_1_445F_1F40_13E_820000_0_0_0.png
 
 # kutonen
 
+# kuwait1
+ln -s kuwait1.png 1_0_1_4_25E4_2BE_820000_0_0_0.png
+
 # k-tv
 ln -s k-tv.png 1_0_1_1_14_2_EBB172_0_0_0.png
 ln -s k-tv.png 1_0_1_3139_459_1_C00000_0_0_0.png
@@ -4032,6 +4047,12 @@ ln -s libertytv.png 1_0_1_2F58_454_1_C00000_0_0_0.png
 
 # libidotv
 ln -s libidotv.png 1_0_1_1902_3FA_1_C00000_0_0_0.png
+
+# libyaalahrar
+ln -s libyaalahrar.png 1_0_1_BBD_20D0_13E_820000_0_0_0.png
+
+# libyaalwatanya
+ln -s libyaalwatanya.png 1_0_1_2B_25E4_2BE_820000_0_0_0.png
 
 # lietuvosrytastv
 ln -s lietuvosrytastv.png 1_0_1_B68_34_55_300000_0_0_0.png
@@ -5137,6 +5158,9 @@ ln -s olivetv.png 1_0_1_CB88_8FD_2_11A0000_0_0_0.png
 
 # oltv
 ln -s oltv.png 1_0_1_2145_400_1_C00000_0_0_0.png
+
+# omantv
+ln -s omantv.png 1_0_1_7_25E4_2BE_820000_0_0_0.png
 
 # omroepbrabant
 ln -s omroepbrabant.png 1_0_1_5154_C8B_3_EB0000_0_0_0.png
@@ -7167,6 +7191,9 @@ ln -s stylia.png 1_0_1_428D_446_1_C00000_0_0_0.png
 # sub
 ln -s sub.png 1_0_19_8FD_48_46_7120000_0_0_0.png
 
+# sudantv
+ln -s sudantv.png 1_0_1_6_25E4_2BE_820000_0_0_0.png
+
 # sudwestfernsehenbadenwurtemberg
 ln -s sudwestfernsehenbadenwurtemberg.png 1_0_1_6DD1_44D_1_C00000_0_0_0.png
 
@@ -7289,6 +7316,9 @@ ln -s ta3.png 1_0_1_13F3_C87_3_EB0000_0_0_0.png
 
 # takbeertv
 ln -s takbeertv.png 1_0_1_D7AD_900_2_11A0000_0_0_0.png
+
+# tamazight
+ln -s tamazight.png 1_0_1_F1_2E18_B0_820000_0_0_0.png
 
 # taquilla
 ln -s taquilla.png 1_0_1_768E_41E_1_C00000_0_0_0.png
@@ -8103,7 +8133,7 @@ ln -s tvrpl.png 1_0_1_1292_3458_13E_820000_0_0_0.png
 ln -s tvrhdpl.png 1_0_1_3E22_2EE0_13E_820000_0_0_0.png
 
 # tvrepublika
-ln -s tvrepublika.png 1_0_1_7289_2BC0_13E_820000_0_0_0.png
+ln -s tvrepublika.png 1_0_1_4289_2BC0_13E_820000_0_0_0.png
 
 # tvromaniainternational
 ln -s tvromaniainternational.png 1_0_1_29D3_3CF0_13E_820000_0_0_0.png
@@ -8656,6 +8686,9 @@ ln -s yachtandsail.png 1_0_1_268_206C_9C_5A0000_0_0_0.png
 # yavido
 ln -s yavido.png 1_0_19_DF_14B4_9C_5A0000_0_0_0.png
 ln -s yavido.png 1_0_1_DF_14B4_9C_5A0000_0_0_0.png
+
+# yementv
+ln -s yementv.png 1_0_1_1E8_1964_13E_820000_0_0_0.png
 
 # yesitalia
 ln -s yesitalia.png 1_0_1_2781_444_1_C00000_0_0_0.png
