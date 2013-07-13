@@ -6076,6 +6076,12 @@ ln -s saudi2.png 1_0_1_70_1E14_13E_820000_0_0_0.png
 # saudiquran
 ln -s saudiquran.png 1_0_1_2A_25E4_2BE_820000_0_0_0.png
 
+# saudisports1
+ln -s saudisports1.png 1_0_1_1F2_1964_13E_820000_0_0_0.png
+
+# saudisports2
+ln -s saudisports2.png 1_0_1_67_1E14_13E_820000_0_0_0.png
+
 # sbs6
 ln -s sbs6.png 1_0_1_138D_455_35_C00000_0_0_0.png
 ln -s sbs6.png 1_0_1_FA2_451_35_C00000_0_0_0.png
