@@ -165,6 +165,9 @@ ln -s abmoteurs.png 1_0_1_427C_446_1_C00000_0_0_0.png
 ln -s abmoteurs.png 1_0_1_CA_3E1C_13F_820000_0_0_0.png
 ln -s abmoteurs.png 1_0_1_1C5_26AC_13F_820000_0_0_0.png
 
+# abpnews
+ln -s abpnews.png 1_0_1_D397_A2A_2_11A0000_0_0_0.png
+
 # abudhabisports
 ln -s abudhabisports.png 1_0_1_29DC_3CF0_13E_820000_0_0_0.png
 ln -s abudhabisports.png 1_0_1_2523_13EF_13E_820000_0_0_0.png
@@ -473,6 +476,9 @@ ln -s atv.png 1_0_1_32D4_45D_1_C00000_0_0_0.png
 
 # atv2
 ln -s atv2.png 1_0_1_33A7_3EB_1_C00000_0_0_0.png
+
+# atvhd
+ln -s atvhd.png 1_0_19_33AC_3EB_1_C00000_0_0_0.png
 
 # atvavrupa
 
