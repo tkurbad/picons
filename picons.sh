@@ -5220,44 +5220,44 @@ ln -s orf3.png 1_0_1_332D_45B_1_C00000_0_0_0.png
 ln -s orfsportplus.png 1_0_1_33A5_3EB_1_C00000_0_0_0.png
 
 # ocsmax
+ln -s ocsmax.png 1_0_1_2B17_417_1_C00000_0_0_0.png
+ln -s ocsmax.png 1_0_1_1FC2_2454_13E_820000_0_0_0.png
+ln -s ocsmax.png 1_0_1_2522_456_1_C00000_0_0_0.png
 
 # ocsmaxhd
 ln -s ocsmaxhd.png 1_0_19_196A_44E_1_C00000_0_0_0.png
 ln -s ocsmaxhd.png 1_0_19_197E_44E_1_C00000_0_0_0.png
 
-# orangecinechoc
-ln -s orangecinechoc.png 1_0_1_1FAB_2454_13E_820000_0_0_0.png
-ln -s orangecinechoc.png 1_0_1_2AFC_417_1_C00000_0_0_0.png
-ln -s orangecinechoc.png 1_0_1_24C2_43C_1_C00000_0_0_0.png
-ln -s orangecinechoc.png 1_0_1_2582_458_1_C00000_0_0_0.png
-ln -s orangecinechoc.png 1_0_19_1F47_42E_1_C00000_0_0_0.png # HD
-ln -s orangecinechoc.png 1_0_19_1F51_42E_1_C00000_0_0_0.png # HD
+# ocsgeants
+ln -s ocsgeants.png 1_0_1_1FAD_2454_13E_820000_0_0_0.png
+ln -s ocsgeants.png 1_0_1_2AFE_417_1_C00000_0_0_0.png
+ln -s ocsgeants.png 1_0_1_219E_448_1_C00000_0_0_0.png
 
-# orangecinegeants
-ln -s orangecinegeants.png 1_0_1_1FAD_2454_13E_820000_0_0_0.png
-ln -s orangecinegeants.png 1_0_1_2AFE_417_1_C00000_0_0_0.png
-ln -s orangecinegeants.png 1_0_1_219E_448_1_C00000_0_0_0.png
-ln -s orangecinegeants.png 1_0_19_19CC_444_1_C00000_0_0_0.png # HD
-ln -s orangecinegeants.png 1_0_19_19E0_444_1_C00000_0_0_0.png # HD
+# ocsgeantshd
+ln -s ocsgeantshd.png 1_0_19_19CC_444_1_C00000_0_0_0.png
+ln -s ocsgeantshd.png 1_0_19_19E0_444_1_C00000_0_0_0.png
 
-# orangecinehappy
-ln -s orangecinehappy.png 1_0_1_1FAA_2454_13E_820000_0_0_0.png
-ln -s orangecinehappy.png 1_0_1_2AFB_417_1_C00000_0_0_0.png
-ln -s orangecinehappy.png 1_0_1_24C4_43C_1_C00000_0_0_0.png
-ln -s orangecinehappy.png 1_0_1_23FC_452_1_C00000_0_0_0.png
+# ocschoc
+ln -s ocschoc.png 1_0_1_1FAB_2454_13E_820000_0_0_0.png
+ln -s ocschoc.png 1_0_1_2AFC_417_1_C00000_0_0_0.png
+ln -s ocschoc.png 1_0_1_24C2_43C_1_C00000_0_0_0.png
+ln -s ocschoc.png 1_0_1_2582_458_1_C00000_0_0_0.png
+ln -s ocschoc.png 1_0_19_1F47_42E_1_C00000_0_0_0.png # HD
+ln -s ocschoc.png 1_0_19_1F51_42E_1_C00000_0_0_0.png # HD
 
-# orangecinenovo
-ln -s orangecinenovo.png 1_0_1_1FAC_2454_13E_820000_0_0_0.png
-ln -s orangecinenovo.png 1_0_1_2AFD_417_1_C00000_0_0_0.png
-ln -s orangecinenovo.png 1_0_1_24C3_43C_1_C00000_0_0_0.png
-ln -s orangecinenovo.png 1_0_1_23FB_452_1_C00000_0_0_0.png
-ln -s orangecinenovo.png 1_0_19_24C0_43C_1_C00000_0_0_0.png # HD
-ln -s orangecinenovo.png 1_0_19_24D4_43C_1_C00000_0_0_0.png # HD
+# ocshappy
+ln -s ocshappy.png 1_0_1_1FAA_2454_13E_820000_0_0_0.png
+ln -s ocshappy.png 1_0_1_2AFB_417_1_C00000_0_0_0.png
+ln -s ocshappy.png 1_0_1_24C4_43C_1_C00000_0_0_0.png
+ln -s ocshappy.png 1_0_1_23FC_452_1_C00000_0_0_0.png
 
-# orangecinemax
-ln -s orangecinemax.png 1_0_1_2B17_417_1_C00000_0_0_0.png
-ln -s orangecinemax.png 1_0_1_1FC2_2454_13E_820000_0_0_0.png
-ln -s orangecinemax.png 1_0_1_2522_456_1_C00000_0_0_0.png
+# ocsnovo
+ln -s ocsnovo.png 1_0_1_1FAC_2454_13E_820000_0_0_0.png
+ln -s ocsnovo.png 1_0_1_2AFD_417_1_C00000_0_0_0.png
+ln -s ocsnovo.png 1_0_1_24C3_43C_1_C00000_0_0_0.png
+ln -s ocsnovo.png 1_0_1_23FB_452_1_C00000_0_0_0.png
+ln -s ocsnovo.png 1_0_19_24C0_43C_1_C00000_0_0_0.png # HD
+ln -s ocsnovo.png 1_0_19_24D4_43C_1_C00000_0_0_0.png # HD
 
 # orangesportinfo
 ln -s orangesportinfo.png 1_0_1_2B00_417_1_C00000_0_0_0.png
