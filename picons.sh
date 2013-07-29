@@ -1560,7 +1560,6 @@ ln -s clublandtv.png 1_0_1_D749_A34_2_11A0000_0_0_0.png
 # clubrtl
 ln -s clubrtl.png 1_0_1_3632_C8_13E_820000_0_0_0.png
 ln -s clubrtl.png 1_0_16_1484_40D_1_C00000_0_0_0.png
-ln -s clubrtl.png 1_0_1_1484_40D_1_C00000_0_0_0.png
 ln -s clubrtl.png 1_0_16_3239_45F_35_C00000_0_0_0.png
 
 # cmoreaction
@@ -1835,6 +1834,7 @@ ln -s dcineespanol.png 1_0_1_7736_416_1_C00000_0_0_0.png
 
 # deutschesmusikfernsehen
 ln -s deutschesmusikfernsehen.png 1_0_1_3163_459_1_C00000_0_0_0.png
+ln -s deutschesmusikfernsehen.png 1_0_1_313c_459_1_c00000_0_0_0.png
 
 # deakids
 ln -s deakids.png 1_0_1_2CC4_2580_FBFF_820000_0_0_0.png
@@ -1873,7 +1873,6 @@ ln -s deutscheswetterfernsehen.png 1_0_1_C3BD_2713_F001_EB0000_0_0_0.png
 ln -s deutscheswetterfernsehen.png 1_0_1_4E2B_43A_1_C00000_0_0_0.png
 
 # dhd24tv
-ln -s dhd24tv.png 1_0_1_313C_459_1_C00000_0_0_0.png
 
 # diablox-tv
 
@@ -1935,6 +1934,7 @@ ln -s discovery.png 1_0_1_19F_4_46_7120000_0_0_0.png
 ln -s discovery.png 1_0_1_196_4_46_7120000_0_0_0.png
 ln -s discovery.png 1_0_1_199_4_46_7120000_0_0_0.png
 ln -s discovery.png 1_0_1_3333_C89_3_EB0000_0_0_0.png
+ln -s discovery.png 1_0_1_1484_40d_1_c00000_0_0_0.png
 
 # discoveryhd
 ln -s discoveryhd.png 1_0_19_EDB_7F0_2_11A0000_0_0_0.png
@@ -3588,7 +3588,6 @@ ln -s informationtv.png 1_0_1_CFEE_909_2_11A0000_0_0_0.png
 ln -s infosport+.png 1_0_1_2073_432_1_C00000_0_0_0.png
 
 # innsattv
-ln -s innsattv.png 1_0_1_3330_45B_1_C00000_0_0_0.png
 
 # inspirationtv
 ln -s inspirationtv.png 1_0_1_D3C5_A2B_2_11A0000_0_0_0.png
@@ -4448,7 +4447,6 @@ ln -s mtv.png 1_0_1_4F84_407_1_C00000_0_0_0.png
 ln -s mtv.png 1_0_1_6FEB_42A_1_C00000_0_0_0.png
 ln -s mtv.png 1_0_1_6FEC_42A_1_C00000_0_0_0.png
 ln -s mtv.png 1_0_1_7001_436_1_C00000_0_0_0.png
-ln -s mtv.png 1_0_1_7007_436_1_C00000_0_0_0.png
 ln -s mtv.png 1_0_1_6FE1_443_1_C00000_0_0_0.png
 ln -s mtv.png 1_0_1_1D4F_2F44_13E_820000_0_0_0.png
 ln -s mtv.png 1_0_1_2_3200_13E_820000_0_0_0.png
@@ -4853,6 +4851,7 @@ ln -s nickelodeon.png 1_0_1_3EA_5_1111_7120000_0_0_0.png
 ln -s nickelodeon.png 1_0_1_CE_A_46_7120000_0_0_0.png
 ln -s nickelodeon.png 1_0_1_401_A_46_7120000_0_0_0.png
 ln -s nickelodeon.png 1_0_1_C793_96B_2_11A0000_0_0_0.png
+ln -s nickelodeon.png 1_0_1_7007_436_1_c00000_0_0_0.png
 
 # nickelodeonhd
 
@@ -5972,7 +5971,6 @@ ln -s rtltvi.png 1_0_1_3631_C8_13E_820000_0_0_0.png
 
 # rtltvihd
 ln -s rtltvihd.png 1_0_16_1483_40D_1_C00000_0_0_0.png
-ln -s rtltvihd.png 1_0_1_1483_40D_1_C00000_0_0_0.png
 ln -s rtltvihd.png 1_0_19_3238_45F_35_C00000_0_0_0.png
 
 # rtpi
@@ -6305,30 +6303,42 @@ ln -s skyatlantichdde.png 1_0_19_6E_D_85_C00000_0_0_0.png
 
 # skybigbrotherde
 
-# skyfussballbundesligade
-ln -s skyfussballbundesligade.png 1_0_1_DF_4_85_C00000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_D3_106_2_85_C00000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_D3_110_3_85_C00000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_D3_11A_3_85_C00000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_D3_124_3_85_C00000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_D3_12E_3_85_C00000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_D3_138_11_85_C00000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_D3_142_11_85_C00000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_D3_14C_11_85_C00000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_D3_156_1_85_C00000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_D3_160_1_85_C00000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_D3_FC_2_85_C00000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_1_106_2_85_C00000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_1_110_3_85_C00000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_1_11A_3_85_C00000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_1_124_3_85_C00000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_1_12E_3_85_C00000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_1_138_11_85_C00000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_1_142_11_85_C00000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_1_14C_11_85_C00000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_1_156_1_85_C00000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_1_160_1_85_C00000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_1_FC_2_85_C00000_0_0_0.png
+# skybundesligade
+ln -s skybundesligade.png 1_0_1_DF_4_85_C00000_0_0_0.png
+ln -s skybundesligade.png 1_0_D3_106_2_85_C00000_0_0_0.png
+ln -s skybundesligade.png 1_0_D3_110_3_85_C00000_0_0_0.png
+ln -s skybundesligade.png 1_0_D3_11A_3_85_C00000_0_0_0.png
+ln -s skybundesligade.png 1_0_D3_124_3_85_C00000_0_0_0.png
+ln -s skybundesligade.png 1_0_D3_12E_3_85_C00000_0_0_0.png
+ln -s skybundesligade.png 1_0_D3_138_11_85_C00000_0_0_0.png
+ln -s skybundesligade.png 1_0_D3_142_11_85_C00000_0_0_0.png
+ln -s skybundesligade.png 1_0_D3_14C_11_85_C00000_0_0_0.png
+ln -s skybundesligade.png 1_0_D3_156_1_85_C00000_0_0_0.png
+ln -s skybundesligade.png 1_0_D3_160_1_85_C00000_0_0_0.png
+ln -s skybundesligade.png 1_0_D3_FC_2_85_C00000_0_0_0.png
+ln -s skybundesligade.png 1_0_1_106_2_85_C00000_0_0_0.png
+ln -s skybundesligade.png 1_0_1_110_3_85_C00000_0_0_0.png
+ln -s skybundesligade.png 1_0_1_11A_3_85_C00000_0_0_0.png
+ln -s skybundesligade.png 1_0_1_124_3_85_C00000_0_0_0.png
+ln -s skybundesligade.png 1_0_1_12E_3_85_C00000_0_0_0.png
+ln -s skybundesligade.png 1_0_1_138_11_85_C00000_0_0_0.png
+ln -s skybundesligade.png 1_0_1_142_11_85_C00000_0_0_0.png
+ln -s skybundesligade.png 1_0_1_14C_11_85_C00000_0_0_0.png
+ln -s skybundesligade.png 1_0_1_156_1_85_C00000_0_0_0.png
+ln -s skybundesligade.png 1_0_1_160_1_85_C00000_0_0_0.png
+ln -s skybundesligade.png 1_0_1_FC_2_85_C00000_0_0_0.png
+
+# skybundesligahdde
+ln -s skybundesligahdde.png 1_0_19_69_c_85_c00000_0_0_0.png
+ln -s skybundesligahdde.png 1_0_19_10b_6_85_c00000_0_0_0.png
+ln -s skybundesligahdde.png 1_0_19_115_d_85_c00000_0_0_0.png
+ln -s skybundesligahdde.png 1_0_19_11f_c_85_c00000_0_0_0.png
+ln -s skybundesligahdde.png 1_0_19_129_b_85_c00000_0_0_0.png
+ln -s skybundesligahdde.png 1_0_19_133_a_85_c00000_0_0_0.png
+ln -s skybundesligahdde.png 1_0_19_13d_e_85_c00000_0_0_0.png
+ln -s skybundesligahdde.png 1_0_19_147_e_85_c00000_0_0_0.png
+ln -s skybundesligahdde.png 1_0_19_151_a_85_c00000_0_0_0.png
+ln -s skybundesligahdde.png 1_0_19_15b_e_85_c00000_0_0_0.png
 
 # skycalciohdit
 ln -s skycalciohdit.png 1_0_19_379F_14B4_FBFF_820000_0_0_0.png
@@ -6814,9 +6824,8 @@ ln -s skysportde.png 1_0_1_139_11_85_C00000_0_0_0.png
 ln -s skysportde.png 1_0_1_143_11_85_C00000_0_0_0.png
 ln -s skysportde.png 1_0_1_175_1_85_C00000_0_0_0.png
 ln -s skysportde.png 1_0_1_FD_2_85_C00000_0_0_0.png
-
-# skysport1de
-ln -s skysport1de.png 1_0_1_DD_4_85_C00000_0_0_0.png
+ln -s skysportde.png 1_0_1_DD_4_85_C00000_0_0_0.png
+ln -s skysportde.png 1_0_1_DE_4_85_C00000_0_0_0.png
 
 # skysport1hdit
 ln -s skysport1hdit.png 1_0_1_2C34_251C_FBFF_820000_0_0_0.png
@@ -6826,9 +6835,6 @@ ln -s skysport1hdit.png 1_0_19_2B0F_1900_FBFF_820000_0_0_0.png
 
 # skysport1it
 ln -s skysport1it.png 1_0_1_2AA8_1838_FBFF_820000_0_0_0.png
-
-# skysport2de
-ln -s skysport2de.png 1_0_1_DE_4_85_C00000_0_0_0.png
 
 # skysport2hdit
 ln -s skysport2hdit.png 1_0_19_2B10_1900_FBFF_820000_0_0_0.png
@@ -6862,14 +6868,19 @@ ln -s skysportaustriade.png 1_0_1_1E_1_85_C00000_0_0_0.png
 # skysportf1hdit
 ln -s skysportf1hdit.png 1_0_19_250D_170C_FBFF_820000_0_0_0.png
 
-# skysporthd1de
-ln -s skysporthd1de.png 1_0_19_81_6_85_C00000_0_0_0.png
-
-# skysporthd2de
-ln -s skysporthd2de.png 1_0_19_7A_FFFF_FFFF_C02A15_0_0_0.png
-ln -s skysporthd2de.png 1_0_19_72_D_85_C00000_0_0_0.png
-
-# skysporthdextrade
+# skysporthdde
+ln -s skysporthdde.png 1_0_19_81_6_85_C00000_0_0_0.png
+ln -s skysporthdde.png 1_0_19_7A_FFFF_FFFF_C02A15_0_0_0.png
+ln -s skysporthdde.png 1_0_19_72_D_85_C00000_0_0_0.png
+ln -s skysporthdde.png 1_0_19_10c_6_85_c00000_0_0_0.png
+ln -s skysporthdde.png 1_0_19_116_d_85_c00000_0_0_0.png
+ln -s skysporthdde.png 1_0_19_120_c_85_c00000_0_0_0.png
+ln -s skysporthdde.png 1_0_19_12a_b_85_c00000_0_0_0.png
+ln -s skysporthdde.png 1_0_19_134_a_85_c00000_0_0_0.png
+ln -s skysporthdde.png 1_0_19_13e_e_85_c00000_0_0_0.png
+ln -s skysporthdde.png 1_0_19_148_e_85_c00000_0_0_0.png
+ln -s skysporthdde.png 1_0_19_152_a_85_c00000_0_0_0.png
+ln -s skysporthdde.png 1_0_19_15c_e_85_c00000_0_0_0.png
 
 # skysportnewshdde
 ln -s skysportnewshdde.png 1_0_19_6C_C_85_C00000_0_0_0.png
@@ -8313,6 +8324,7 @@ ln -s veronica_disneyxd.png 1_0_19_522B_FFFF_FFFF_EB2F9B_0_0_0.png
 ln -s veronica_disneyxd.png 1_0_1_139C_455_35_C00000_0_0_0.png
 ln -s veronica_disneyxd.png 1_0_1_7EF_449_35_C00000_0_0_0.png
 ln -s veronica_disneyxd.png 1_0_1_522B_C99_3_EB0000_0_0_0.png
+ln -s veronica_disneyxd.png 1_0_1_1483_40d_1_c00000_0_0_0.png
 
 # veronicahd_disneyxdhd
 ln -s veronicahd_disneyxdhd.png 1_0_19_522B_C99_3_EB0000_0_0_0.png
@@ -9721,16 +9733,16 @@ ln -s skycinemaplus1de.png 1_0_1_B_2_85_FFFF0000_0_0_0.png
 ln -s skycinemaplus24de.png 1_0_1_2B_2_85_FFFF0000_0_0_0.png
 ln -s skycomedyde.png 1_0_1_8_2_85_FFFF0000_0_0_0.png
 ln -s skyemotionde.png 1_0_1_14_2_85_FFFF0000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_1_DF_4_85_FFFF0000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_1_106_2_85_FFFF0000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_1_110_3_85_FFFF0000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_1_11A_3_85_FFFF0000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_1_124_3_85_FFFF0000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_1_12E_3_85_FFFF0000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_1_138_11_85_FFFF0000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_1_142_11_85_FFFF0000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_1_14C_11_85_FFFF0000_0_0_0.png
-ln -s skyfussballbundesligade.png 1_0_2_156_1_85_FFFF0000_0_0_0.png
+ln -s skybundesligade.png 1_0_1_DF_4_85_FFFF0000_0_0_0.png
+ln -s skybundesligade.png 1_0_1_106_2_85_FFFF0000_0_0_0.png
+ln -s skybundesligade.png 1_0_1_110_3_85_FFFF0000_0_0_0.png
+ln -s skybundesligade.png 1_0_1_11A_3_85_FFFF0000_0_0_0.png
+ln -s skybundesligade.png 1_0_1_124_3_85_FFFF0000_0_0_0.png
+ln -s skybundesligade.png 1_0_1_12E_3_85_FFFF0000_0_0_0.png
+ln -s skybundesligade.png 1_0_1_138_11_85_FFFF0000_0_0_0.png
+ln -s skybundesligade.png 1_0_1_142_11_85_FFFF0000_0_0_0.png
+ln -s skybundesligade.png 1_0_1_14C_11_85_FFFF0000_0_0_0.png
+ln -s skybundesligade.png 1_0_2_156_1_85_FFFF0000_0_0_0.png
 ln -s skykrimide.png 1_0_1_17_4_85_FFFF0000_0_0_0.png
 ln -s skynewsuk.png 1_0_1_69DF_C9_270F_FFFF0000_0_0_0.png
 ln -s skynostalgiede.png 1_0_1_204_3_85_FFFF0000_0_0_0.png
