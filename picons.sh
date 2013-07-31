@@ -7147,6 +7147,10 @@ ln -s sport1plushdde.png 1_0_19_C355_271C_F001_EB0000_0_0_0.png
 ln -s sport1plushdde.png 1_0_19_7A_E_85_C00000_0_0_0.png
 ln -s sport1plushdde.png 1_0_19_7A_B_85_C00000_0_0_0.png
 
+# sport1usde
+
+# sport1ushdde
+
 # sport1lithuania
 ln -s sport1lithuania.png 1_0_1_B7C_34_55_300000_0_0_0.png
 
