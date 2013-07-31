@@ -3038,6 +3038,8 @@ ln -s foxretro.png 1_0_1_1FC8_189C_FBFF_820000_0_0_0.png
 ln -s foxsports.png 1_0_1_1F_C9_6_820000_0_0_0.png
 ln -s foxsports.png 1_0_1_5_1770_64_5A0000_0_0_0.png
 
+# foxsportseredivisie
+
 # foxuk
 ln -s foxuk.png 1_0_1_158B_7E5_2_11A0000_0_0_0.png
 ln -s foxuk.png 1_0_1_1128_1644_FBFF_820000_0_0_0.png
