@@ -2463,13 +2463,8 @@ ln -s equidialive.png 1_0_1_22C9_45A_1_C00000_0_0_0.png
 ln -s equidialive.png 1_0_1_446A_1F40_13E_820000_0_0_0.png
 
 # eredivisielive
-ln -s eredivisielive.png 1_0_1_13A6_455_35_C00000_0_0_0.png
-ln -s eredivisielive.png 1_0_16_51C7_C96_3_EB0000_0_0_0.png
-ln -s eredivisielive.png 1_0_1_51C7_C96_3_EB0000_0_0_0.png
 
 # eredivisielivehd
-ln -s eredivisielivehd.png 1_0_19_17CC_C82_3_EB0000_0_0_0.png
-ln -s eredivisielivehd.png 1_0_1_17CC_C82_3_EB0000_0_0_0.png
 
 # erfeins
 ln -s erfeins.png 1_0_19_D10B_2715_F001_EB0000_0_0_0.png
@@ -3039,6 +3034,10 @@ ln -s foxsports.png 1_0_1_1F_C9_6_820000_0_0_0.png
 ln -s foxsports.png 1_0_1_5_1770_64_5A0000_0_0_0.png
 
 # foxsportseredivisie
+ln -s foxsportseredivisie.png 1_0_1_17CC_C82_3_EB0000_0_0_0.png
+ln -s foxsportseredivisie.png 1_0_1_51C7_C96_3_EB0000_0_0_0.png
+
+# foxsportsinternational
 
 # foxuk
 ln -s foxuk.png 1_0_1_158B_7E5_2_11A0000_0_0_0.png
@@ -3716,6 +3715,7 @@ ln -s itv4plus1.png 1_0_1_271F_801_2_11A0000_0_0_0.png
 
 # itvpolska
 ln -s itvpolska.png 1_0_1_13F5_5DC_13E_820000_0_0_0.png
+ln -s itvpolska.png 1_0_1_75_1E14_13E_820000_0_0_0.png
 
 # iqraa
 ln -s iqraa.png 1_0_1_D326_A29_2_11A0000_0_0_0.png
