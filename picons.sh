@@ -2539,7 +2539,6 @@ ln -s espnamericahd.png 1_0_1_449_4_AA_5A0000_0_0_0.png
 ln -s espnamericahd.png 1_0_19_2CF1_2774_FBFF_820000_0_0_0.png
 ln -s espnamericahd.png 1_0_19_B78_26_46_7120000_0_0_0.png
 ln -s espnamericahd.png 1_0_19_B77_26_46_7120000_0_0_0.png
-ln -s espnamericahd.png 1_0_19_77_E_85_C00000_0_0_0.png
 
 # espnclassic
 ln -s espnclassic.png 1_0_1_CFD5_909_2_11A0000_0_0_0.png
@@ -7152,6 +7151,7 @@ ln -s sport1plushdde.png 1_0_19_7A_B_85_C00000_0_0_0.png
 # sport1usde
 
 # sport1ushdde
+ln -s sport1ushdde.png 1_0_19_77_E_85_C00000_0_0_0.png
 
 # sport1lithuania
 ln -s sport1lithuania.png 1_0_1_B7C_34_55_300000_0_0_0.png
