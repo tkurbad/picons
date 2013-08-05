@@ -1956,6 +1956,7 @@ ln -s discoveryhd.png 1_0_19_26C1_45C_1_C00000_0_0_0.png
 ln -s discoveryhd.png 1_0_19_1B63_C88_3_EB0000_0_0_0.png
 ln -s discoveryhd.png 1_0_19_26AD_43E_1_C00000_0_0_0.png
 ln -s discoveryhd.png 1_0_19_26C1_43E_1_C00000_0_0_0.png
+ln -s discoveryhd.png 1_0_19_F4C_7F2_2_11A0000_0_0_0.png
 
 # discoveryhdshowcase
 ln -s discoveryhdshowcase.png 1_0_19_1B62_C88_3_EB0000_0_0_0.png
@@ -6667,6 +6668,7 @@ ln -s skymoviesshowcasehduk.png 1_0_19_EF9_7D1_2_11A0000_0_0_0.png
 
 # skymoviesshowcaseuk
 ln -s skymoviesshowcaseuk.png 1_0_1_11FA_7EE_2_11A0000_0_0_0.png
+ln -s skymoviesshowcaseuk.png 1_0_19_F47_7F7_2_11A0000_0_0_0.png
 
 # skymoviesthrillerhduk
 ln -s skymoviesthrillerhduk.png 1_0_19_F16_7E0_2_11A0000_0_0_0.png
@@ -6957,6 +6959,7 @@ ln -s skysportshd4uk.png 1_0_19_FA4_7D2_2_11A0000_0_0_0.png
 # skysportsnewshduk
 ln -s skysportsnewshduk.png 1_0_19_F09_7ED_2_11A0000_0_0_0.png
 ln -s skysportsnewshduk.png 1_0_19_F13_7ED_2_11A0000_0_0_0.png
+ln -s skysportsnewshduk.png 1_0_19_F4D_7D5_2_11A0000_0_0_0.png
 
 # skysportsnewsuk
 ln -s skysportsnewsuk.png 1_0_1_132B_7E7_2_11A0000_0_0_0.png
