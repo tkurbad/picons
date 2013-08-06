@@ -2563,6 +2563,7 @@ ln -s espnclassic.png 1_0_1_736_3E_46_7120000_0_0_0.png
 # espnhd
 ln -s espnhd.png 1_0_19_F01_7F0_2_11A0000_0_0_0.png
 ln -s espnhd.png 1_0_19_F02_7F0_2_11A0000_0_0_0.png
+ln -s espnhd.png 1_0_19_C5F8_967_2_11A0000_0_0_0.png
 
 # estradi
 
