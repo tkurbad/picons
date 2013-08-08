@@ -2688,6 +2688,7 @@ ln -s eurosport2hd.png 1_0_19_24BE_43C_1_C00000_0_0_0.png
 ln -s eurosport2hd.png 1_0_19_24D2_43C_1_C00000_0_0_0.png
 ln -s eurosport2hd.png 1_0_19_F51_2198_FBFF_820000_0_0_0.png
 ln -s eurosport2hd.png 1_0_19_1036_1D4C_FBFF_820000_0_0_0.png
+ln -s eurosport2hd.png 1_0_19_6D_E_85_C00000_0_0_0.png
 
 # eurosporthd
 ln -s eurosporthd.png 1_0_19_EDC_7D8_2_11A0000_0_0_0.png
