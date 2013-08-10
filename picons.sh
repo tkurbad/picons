@@ -2935,6 +2935,9 @@ ln -s 5usaplus1.png 1_0_1_1E1F_809_2_11A0000_0_0_0.png
 # flava
 ln -s flava.png 1_0_1_D034_90A_2_11A0000_0_0_0.png
 
+# folxtv
+ln -s folxtv.png 1_0_1_32DA_45D_1_C00000_0_0_0.png
+
 # foodnetwork
 ln -s foodnetwork.png 1_0_1_D00C_909_2_11A0000_0_0_0.png
 
@@ -3039,6 +3042,8 @@ ln -s foxsports.png 1_0_1_5_1770_64_5A0000_0_0_0.png
 # foxsportseredivisie
 ln -s foxsportseredivisie.png 1_0_1_17CC_C82_3_EB0000_0_0_0.png
 ln -s foxsportseredivisie.png 1_0_1_51C7_C96_3_EB0000_0_0_0.png
+ln -s foxsportseredivisie.png 1_0_19_17CC_C82_3_EB0000_0_0_0.png
+ln -s foxsportseredivisie.png 1_0_16_51C7_C96_3_EB0000_0_0_0.png
 
 # foxsportsinternational
 
@@ -3358,6 +3363,10 @@ ln -s hbocomedy.png 1_0_19_13AB_C85_3_EB0000_0_0_0.png
 # hbocomedyhd
 ln -s hbocomedyhd.png 1_0_1_E0A_2D50_13E_820000_0_0_0.png
 
+# hd+smarttv
+ln -s hd+smarttv.png 1_0_19_157C_41F_1_C00000_0_0_0.png
+ln -s hd+smarttv.png 1_0_1_125C_3F7_1_C00000_0_0_0.png
+
 # hd1
 ln -s hd1.png 1_0_19_A01_A_20FA_EEEE0000_0_0_0.png
 
@@ -3582,6 +3591,7 @@ ln -s iconcertshd.png 1_0_19_15EC_C9A_3_EB0000_0_0_0.png
 
 # iconcerts
 ln -s iconcerts.png 1_0_19_DAE_16A8_9C_5A0000_0_0_0.png
+ln -s iconcerts.png 1_0_19_5157_C8B_3_EB0000_0_0_0.png
 
 # inforegiotv
 
@@ -4189,7 +4199,7 @@ ln -s makedonia.png 1_0_1_169_1C84_13E_820000_0_0_0.png
 ln -s mega.png 1_0_1_13F_157C_13E_820000_0_0_0.png
 
 # magic
-ln -s magic.png 1_0_1_C5D5_967_2_11A0000_0_0_0.png
+ln -s magic.png 1_0_1_CB61_907_2_11A0000_0_0_0.png
 
 # magicstar
 ln -s magicstar.png 1_0_1_315A_459_1_C00000_0_0_0.png
@@ -4684,6 +4694,7 @@ ln -s natgeowildhd.png 1_0_19_12C5_26_46_7120000_0_0_0.png
 ln -s natgeowildhd.png 1_0_19_1987_44E_1_C00000_0_0_0.png
 ln -s natgeowildhd.png 1_0_19_15EB_C9A_3_EB0000_0_0_0.png
 ln -s natgeowildhd.png 1_0_19_76_6_85_C00000_0_0_0.png
+ln -s natgeowildhd.png 1_0_1_2F9_C94_3_EB0000_0_0_0.png
 
 # ndr
 ln -s ndr.png 1_0_1_6E40_431_1_C00000_0_0_0.png
@@ -5369,6 +5380,9 @@ ln -s piktv.png 1_0_1_1B8_1964_13E_820000_0_0_0.png
 
 # r1
 ln -s r1.png 1_0_1_390F_32C8_13E_820000_0_0_0.png
+
+# rnf
+ln -s rnf.png 1_0_1_300_7_85_C00000_0_0_0.png
 
 # rtvpink
 
