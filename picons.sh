@@ -235,7 +235,7 @@ ln -s alibi.png 1_0_1_1979_7D6_2_11A0000_0_0_0.png
 ln -s alibi.png 1_0_1_D338_A29_2_11A0000_0_0_0.png
 
 # alibihd
-ln -s alibihd.png 1_0_19_0F45_7F3_2_11A0000_0_0_0.png
+ln -s alibihd.png 1_0_19_F45_7F3_2_11A0000_0_0_0.png
 
 # alibiplus1
 ln -s alibiplus1.png 1_0_1_1DCE_7DF_2_11A0000_0_0_0.png
@@ -2689,7 +2689,7 @@ ln -s eurosport2hd.png 1_0_19_24D2_43C_1_C00000_0_0_0.png
 ln -s eurosport2hd.png 1_0_19_F51_2198_FBFF_820000_0_0_0.png
 ln -s eurosport2hd.png 1_0_19_1036_1D4C_FBFF_820000_0_0_0.png
 ln -s eurosport2hd.png 1_0_19_6D_E_85_C00000_0_0_0.png
-ln -s eurosport2hd.png 1_0_19_0F4E_7D8_2_11A0000_0_0_0.png
+ln -s eurosport2hd.png 1_0_19_F4E_7D8_2_11A0000_0_0_0.png
 
 # eurosporthd
 ln -s eurosporthd.png 1_0_19_EDC_7D8_2_11A0000_0_0_0.png
@@ -4371,7 +4371,7 @@ ln -s more4.png 1_0_1_2094_7FA_2_11A0000_0_0_0.png
 ln -s more4.png 1_0_1_2EFE_7F8_2_11A0000_0_0_0.png
 
 # more4hd
-ln -s more4hd.png 1_0_19_0F4F_7ED_2_11A0000_0_0_0.png
+ln -s more4hd.png 1_0_19_F4F_7ED_2_11A0000_0_0_0.png
 
 # more4plus1
 ln -s more4plus1.png 1_0_1_240E_7F9_2_11A0000_0_0_0.png
@@ -6962,7 +6962,7 @@ ln -s skysportshd1uk.png 1_0_19_FA1_7D2_2_11A0000_0_0_0.png
 ln -s skysportshd2uk.png 1_0_19_F26_7D1_2_11A0000_0_0_0.png
 ln -s skysportshd2uk.png 1_0_19_F29_7D1_2_11A0000_0_0_0.png
 ln -s skysportshd2uk.png 1_0_19_FA2_7D2_2_11A0000_0_0_0.png
-ln -s skysportshd2uk.png 1_0_19_0F46_7F1_2_11A0000_0_0_0.png
+ln -s skysportshd2uk.png 1_0_19_F46_7F1_2_11A0000_0_0_0.png
 
 # skysportshd3uk
 ln -s skysportshd3uk.png 1_0_19_EEE_7F2_2_11A0000_0_0_0.png
