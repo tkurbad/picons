@@ -208,6 +208,12 @@ ln -s ahlulbayt.png 1_0_1_D7BC_900_2_11A0000_0_0_0.png
 # aitinternational
 ln -s aitinternational.png 1_0_1_D3CC_A2B_2_11A0000_0_0_0.png
 
+# alekino+
+
+# alekino+hd
+ln -s alekino+hd.png 1_0_19_3781_44C_13E_820000_0_0_0.png
+ln -s alekino+hd.png 1_0_19_379F_44C_13E_820000_0_0_0.png
+
 # algerie3
 ln -s algerie3.png 1_0_1_3674_C8_13E_820000_0_0_0.png
 
@@ -1225,6 +1231,9 @@ ln -s canal+sporthd.png 1_0_19_32DE_190_13E_820000_0_0_0.png
 ln -s canal+sporthd.png 1_0_1_23AD_44A_1_C00000_0_0_0.png
 ln -s canal+sporthd.png 1_0_1_32DE_190_13E_820000_0_0_0.png
 
+# canal+xtra
+ln -s canal+xtra.png 1_0_1_77C5_40A_1_C00000_0_0_0.png
+
 # canal+weekend
 ln -s canal+weekend.png 1_0_1_113E_2AF8_13E_820000_0_0_0.png
 
@@ -1549,6 +1558,9 @@ ln -s classcnbc.png 1_0_1_599_320_FBFF_820000_0_0_0.png
 # classica
 ln -s classica.png 1_0_1_18_11_85_C00000_0_0_0.png
 ln -s classica.png 1_0_1_2CC8_2580_FBFF_820000_0_0_0.png
+
+# classtv
+ln -s classtv.png 1_0_1_30F_1B58_13E_820000_0_0_0.png
 
 # club1tv
 ln -s club1tv.png 1_0_1_1299_3F7_1_C00000_0_0_0.png
@@ -1957,6 +1969,7 @@ ln -s discoveryhd.png 1_0_19_1B63_C88_3_EB0000_0_0_0.png
 ln -s discoveryhd.png 1_0_19_26AD_43E_1_C00000_0_0_0.png
 ln -s discoveryhd.png 1_0_19_26C1_43E_1_C00000_0_0_0.png
 ln -s discoveryhd.png 1_0_19_F4C_7F2_2_11A0000_0_0_0.png
+ln -s discoveryhd.png 1_0_19_82_6_85_C00000_0_0_0.png
 
 # discoveryhdshowcase
 ln -s discoveryhdshowcase.png 1_0_19_1B62_C88_3_EB0000_0_0_0.png
@@ -1964,7 +1977,6 @@ ln -s discoveryhdshowcase.png 1_0_19_232C_442_1_C00000_0_0_0.png
 ln -s discoveryhdshowcase.png 1_0_19_1069_2008_FBFF_820000_0_0_0.png
 ln -s discoveryhdshowcase.png 1_0_1_1B62_C88_3_EB0000_0_0_0.png
 ln -s discoveryhdshowcase.png 1_0_1_3C91_1BBC_13E_820000_0_0_0.png
-ln -s discoveryhdshowcase.png 1_0_19_82_6_85_C00000_0_0_0.png
 ln -s discoveryhdshowcase.png 1_0_19_1006_29_46_7120000_0_0_0.png
 ln -s discoveryhdshowcase.png 1_0_19_100A_29_46_7120000_0_0_0.png
 
@@ -2288,6 +2300,14 @@ ln -s docuboxhd.png 1_0_19_1529_C86_3_EB0000_0_0_0.png
 
 # domatvhr
 ln -s domatvhr.png 1_0_1_13F0_C87_3_EB0000_0_0_0.png
+
+# domo+
+ln -s domo+.png 1_0_1_12CB_2E7C_13E_820000_0_0_0.png
+ln -s domo+.png 1_0_1_12F9_2E7C_13E_820000_0_0_0.png
+
+# domo+hd
+ln -s domo+hd.png 1_0_19_3780_44C_13E_820000_0_0_0.png
+ln -s domo+hd.png 1_0_19_379E_44C_13E_820000_0_0_0.png
 
 # dovetv
 ln -s dovetv.png 1_0_1_DCF_2DB4_FBFF_820000_0_0_0.png
@@ -2825,6 +2845,9 @@ ln -s fightbox.png 1_0_1_1C88_1CE8_71_820000_0_0_0.png
 ln -s fightboxhd.png 1_0_1_1525_C86_3_EB0000_0_0_0.png
 ln -s fightboxhd.png 1_0_19_1525_C86_3_EB0000_0_0_0.png
 
+# fightklub
+ln -s fightklub.png 1_0_1_4283_2BC0_820000_0_0_0.png
+
 # filmbox
 ln -s filmbox.png 1_0_1_334A_C93_3_EB0000_0_0_0.png
 
@@ -2887,6 +2910,9 @@ ln -s filmfour.png 1_0_1_2404_7F9_2_11A0000_0_0_0.png
 
 # filmfourplus1
 ln -s filmfourplus1.png 1_0_1_2409_7F9_2_11A0000_0_0_0.png
+
+# filmfourhd
+ln -s filmfourhd.png 1_0_19_F04_7F0_2_11A0000_0_0_0.png
 
 # fishingandhunting
 ln -s fishingandhunting.png 1_0_1_3334_C89_3_EB0000_0_0_0.png
@@ -2957,6 +2983,8 @@ ln -s fox.png 1_0_1_746F_3F0_1_C00000_0_0_0.png
 ln -s fox.png 1_0_1_1FBA_189C_FBFF_820000_0_0_0.png
 ln -s fox.png 1_0_1_13F4_5DC_13E_820000_0_0_0.png
 ln -s fox.png 1_0_1_1BD1_17D4_13E_820000_0_0_0.png
+ln -s fox.png 1_0_1_178E_C82_3_EB0000_0_0_0.png
+ln -s fox.png 1_0_19_178E_C82_3_EB0000_0_0_0.png
 
 # foxcrime
 ln -s foxcrime.png 1_0_1_7468_3F0_1_C00000_0_0_0.png
@@ -2996,8 +3024,6 @@ ln -s foxhd.png 1_0_19_7C_A_85_C00000_0_0_0.png
 ln -s foxlife.png 1_0_1_1FC5_189C_FBFF_820000_0_0_0.png
 ln -s foxlife.png 1_0_1_1CCF_1CE8_71_820000_0_0_0.png
 ln -s foxlife.png 1_0_19_2976_22C4_13E_820000_0_0_0.png
-ln -s foxlife.png 1_0_19_178E_C82_3_EB0000_0_0_0.png
-ln -s foxlife.png 1_0_1_178E_C82_3_EB0000_0_0_0.png
 ln -s foxlife.png 1_0_16_178E_C82_3_EB0000_0_0_0.png
 ln -s foxlife.png 1_0_1_2976_22C4_13E_820000_0_0_0.png
 ln -s foxlife.png 1_0_1_1585_C92_3_EB0000_0_0_0.png
@@ -3038,6 +3064,16 @@ ln -s foxretro.png 1_0_1_1FC8_189C_FBFF_820000_0_0_0.png
 # foxsports
 ln -s foxsports.png 1_0_1_1F_C9_6_820000_0_0_0.png
 ln -s foxsports.png 1_0_1_5_1770_64_5A0000_0_0_0.png
+ln -s foxsports.png 1_0_1_2D8C_2260_FBFF_820000_0_0_0.png
+
+# foxsportshd
+ln -s foxsportshd.png 1_0_19_1E4F_15E0_FBFF_820000_0_0_0.png
+
+# foxsportsplus
+ln -s foxsportsplus.png 1_0_1_2E0A_1A2C_FBFF_820000_0_0_0.png
+
+# foxsportsplushd
+ln -s foxsportsplushd.png 1_0_19_1E50_15E0_FBFF_820000_0_0_0.png
 
 # foxsportseredivisie
 ln -s foxsportseredivisie.png 1_0_1_17CC_C82_3_EB0000_0_0_0.png
@@ -3046,6 +3082,7 @@ ln -s foxsportseredivisie.png 1_0_19_17CC_C82_3_EB0000_0_0_0.png
 ln -s foxsportseredivisie.png 1_0_16_51C7_C96_3_EB0000_0_0_0.png
 
 # foxsportsinternational
+ln -s foxsportsinternational.png 1_0_1_5235_C99_3_EB0000_0_0_0.png
 
 # foxuk
 ln -s foxuk.png 1_0_1_158B_7E5_2_11A0000_0_0_0.png
@@ -3342,7 +3379,9 @@ ln -s hbo3.png 1_0_16_17B4_C82_3_EB0000_0_0_0.png
 # hbo3hd
 
 # hbo2hd
-ln -s hbo2hd.png 1_0_1_E09_2D50_13E_820000_0_0_0.png
+
+# hbo2hdpl
+ln -s hbo2hdpl.png 1_0_1_E09_2D50_13E_820000_0_0_0.png
 
 # hbohd
 ln -s hbohd.png 1_0_19_13B7_C95_3_EB0000_0_0_0.png
@@ -3555,6 +3594,10 @@ ln -s hustlertv.png 1_0_1_25D_A_46_7120000_0_0_0.png
 # hustlerhd
 ln -s hustlerhd.png 1_0_1_4225_3DB8_13E_820000_0_0_0.png
 ln -s hustlerhd.png 1_0_1_4230_3DB8_13E_820000_0_0_0.png
+
+# hyper+
+
+# hyper+hd
 
 # i24news
 ln -s i24news.png 1_0_1_7A4B_410_1_C00000_0_0_0.png
@@ -3975,6 +4018,9 @@ ln -s kombatsport.png 1_0_19_196B_44E_1_C00000_0_0_0.png
 ln -s kombatsport.png 1_0_19_197F_44E_1_C00000_0_0_0.png
 ln -s kombatsport.png 1_0_1_23CA_44A_1_C00000_0_0_0.png
 
+# kontrachannel
+ln -s kontrachannel.png 1_0_1_1D51_2F44_13E_820000_0_0_0.png
+
 # kopercapodistria
 ln -s kopercapodistria.png 1_0_1_C83_2328_13E_820000_0_0_0.png
 
@@ -3983,6 +4029,15 @@ ln -s kosmicatv.png 1_0_1_36EC_FFFF_FFFF_EBAEC5_0_0_0.png
 ln -s kosmicatv.png 1_0_1_36EC_C8E_3_EB0000_0_0_0.png
 
 # kto
+
+# kuchnia+
+ln -s kuchnia+.png 1_0_1_1300_2E7C_13E_820000_0_0_0.png
+ln -s kuchnia+.png 1_0_1_12C4_2E7C_13E_820000_0_0_0.png
+ln -s kuchnia+.png 1_0_1_12F6_2E7C_13E_820000_0_0_0.png
+
+# kuchnia+hd
+ln -s kuchnia+hd.png 1_0_19_377F_44C_13E_820000_0_0_0.png
+ln -s kuchnia+hd.png 1_0_19_379D_44C_13E_820000_0_0_0.png
 
 # kunskapskanalen
 ln -s kunskapskanalen.png 1_0_1_139C_7_56_300000_0_0_0.png
@@ -4328,7 +4383,6 @@ ln -s melodieexpress.png 1_0_1_33AD_3EB_1_C00000_0_0_0.png
 ln -s mgm.png 1_0_1_2333_C8F_3_EB0000_0_0_0.png
 ln -s mgm.png 1_0_1_4F7D_427_1_C00000_0_0_0.png
 ln -s mgm.png 1_0_1_203_3_85_C00000_0_0_0.png
-ln -s mgm.png 1_0_1_1D51_2F44_13E_820000_0_0_0.png
 ln -s mgm.png 1_0_1_2505_2260_FBFF_820000_0_0_0.png
 ln -s mgm.png 1_0_1_13CF_C8A_3_EB0000_0_0_0.png
 
@@ -5585,6 +5639,9 @@ ln -s prosiebenhd.png 1_0_19_EF75_3F9_1_C00000_0_0_0.png
 ln -s prosiebenhd.png 1_0_19_130_1EDC_9C_5A0000_0_0_0.png
 ln -s prosiebenhd.png 1_0_19_14B5_407_1_C00000_0_0_0.png
 
+# prosiebenmaxx
+ln -s prosiebenmaxx.png 1_0_1_4461_453_1_C00000_0_0_0.png
+
 # prosiebenfun
 
 # prosiebenfunhd
@@ -6075,7 +6132,6 @@ ln -s sat1.png 1_0_1_4464_453_1_C00000_0_0_0.png
 ln -s sat1.png 1_0_1_D0_1644_9C_5A0000_0_0_0.png
 
 # sat1emotions
-ln -s sat1emotions.png 1_0_1_4461_453_1_C00000_0_0_0.png
 ln -s sat1emotions.png 1_0_1_125D_3F7_1_C00000_0_0_0.png
 
 # sat1comedy
@@ -6299,7 +6355,7 @@ ln -s skyarts1hduk.png 1_0_19_F17_7F7_2_11A0000_0_0_0.png
 ln -s skyarts1uk.png 1_0_1_11FC_7EE_2_11A0000_0_0_0.png
 
 # skyarts2hduk
-ln -s skyarts2hduk.png 1_0_19_F18_7D8_2_11A0000_0_0_0.png
+ln -s skyarts2hduk.png 1_0_19_F4A_7F2_2_11A0000_0_0_0.png
 
 # skyarts2uk
 ln -s skyarts2uk.png 1_0_1_1456_7EB_2_11A0000_0_0_0.png
@@ -7006,6 +7062,9 @@ ln -s skytg24activeit.png 1_0_1_10EC_1644_FBFF_820000_0_0_0.png
 ln -s skytg24it.png 1_0_1_110A_1644_FBFF_820000_0_0_0.png
 ln -s skytg24it.png 1_0_1_1123_1644_FBFF_820000_0_0_0.png
 
+# skytg24hdit
+ln -s skytg24hdit.png 1_0_19_DBF_1AF4_FBFF_820000_0_0_0.png
+
 # skyuk
 ln -s skyuk.png 1_0_1_1199_966_2_11A0000_0_0_0.png
 ln -s skyuk.png 1_0_1_11A3_7DC_2_11A0000_0_0_0.png
@@ -7019,6 +7078,9 @@ ln -s skyuk.png 1_0_1_11AD_7D7_2_11A0000_0_0_0.png
 ln -s skyuk.png 1_0_1_138C_7D7_2_11A0000_0_0_0.png
 
 # skyhduk
+
+# skyhdfanzonede
+ln -s skyhdfanzonede.png 1_0_19_66_A_85_C00000_0_0_0.png
 
 # skyunoit
 ln -s skyunoit.png 1_0_1_2DC6_1A2C_FBFF_820000_0_0_0.png
@@ -7515,6 +7577,12 @@ ln -s teletoon+.png 1_0_1_22CE_45A_1_C00000_0_0_0.png
 # teletoon+hd
 ln -s teletoon+hd.png 1_0_19_377D_44C_13E_820000_0_0_0.png
 ln -s teletoon+hd.png 1_0_19_379B_44C_13E_820000_0_0_0.png
+
+# teletoon+_hyper+
+
+# teletoon+hd_hyper+hd
+ln -s teletoon+hd_hyper+hd.png 1_0_1_3BB9_12C_13E_820000_0_0_0.png
+ln -s teletoon+hd_hyper+hd.png 1_0_1_3B69_12C_13E_820000_0_0_0.png
 
 # teletoon+1
 ln -s teletoon+1.png 1_0_1_1909_3FA_1_C00000_0_0_0.png
@@ -8309,6 +8377,7 @@ ln -s universalchannel.png 1_0_1_6D7_1388_9C_5A0000_0_0_0.png
 
 # universalchannelhd
 ln -s universalchannelhd.png 1_0_19_F28_7F3_2_11A0000_0_0_0.png
+ln -s universalchannelhd.png 1_0_19_65_E_85_C00000_0_0_0.png
 
 # universalchannelplus1
 ln -s universalchannelplus1.png 1_0_1_C7A6_96C_2_11A0000_0_0_0.png
