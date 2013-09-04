@@ -350,6 +350,7 @@ ln -s animax.png 1_0_1_7FF_449_35_C00000_0_0_0.png
 ln -s animax.png 1_0_1_BEA_1BBC_9C_5A0000_0_0_0.png
 ln -s animax.png 1_0_19_1F_19C8_9E_5A0000_0_0_0.png
 ln -s animax.png 1_0_1_D03E_2713_F001_EB0000_0_0_0.png
+ln -s animax.png 1_0_1_1485_40D_1_C00000_0_0_0.png
 
 # antena3
 ln -s antena3.png 1_0_1_7604_408_1_C00000_0_0_0.png
@@ -1426,13 +1427,13 @@ ln -s channel21.png 1_0_1_2F3F_441_1_C00000_0_0_0.png
 ln -s channel21.png 1_0_19_CC_14B4_9C_5A0000_0_0_0.png
 ln -s channel21.png 1_0_1_CC_14B4_9C_5A0000_0_0_0.png
 ln -s channel21.png 1_0_1_D10A_2711_F001_EB0000_0_0_0.png
+ln -s channel21.png 1_0_1_301_7_85_C00000_0_0_0.png
 
 # channeli
 ln -s channeli.png 1_0_1_D334_A29_2_11A0000_0_0_0.png
 ln -s channeli.png 1_0_1_D6E1_A33_2_11A0000_0_0_0.png
 
 # channel21express
-ln -s channel21express.png 1_0_1_301_7_85_C00000_0_0_0.png
 
 # channelaka
 ln -s channelaka.png 1_0_1_CB8B_8FD_2_11A0000_0_0_0.png
@@ -1777,6 +1778,13 @@ ln -s cuatrotv.png 1_0_1_77C7_40A_1_C00000_0_0_0.png
 ln -s ct24.png 1_0_1_1F46_BC6_3_EB0000_0_0_0.png
 ln -s ct24.png 1_0_1_B68_8_1_7120000_0_0_0.png
 
+# ctd
+
+# ctart
+
+# ctd_ctart
+ln -s ctd_ctart.png 1_0_1_1F49_BC6_3_EB0000_0_0_0.png
+
 # cncworld
 ln -s cncworld.png 1_0_1_C4B3_964_2_11A0000_0_0_0.png
 ln -s cncworld.png 1_0_1_CD64_902_2_11A0000_0_0_0.png
@@ -1845,7 +1853,6 @@ ln -s dcineespanol.png 1_0_1_7736_416_1_C00000_0_0_0.png
 # deshtv
 
 # deutschesmusikfernsehen
-ln -s deutschesmusikfernsehen.png 1_0_1_3163_459_1_C00000_0_0_0.png
 ln -s deutschesmusikfernsehen.png 1_0_1_313C_459_1_C00000_0_0_0.png
 
 # deakids
@@ -2761,6 +2768,17 @@ ln -s eurosporthd.png 1_0_19_84_B_85_C00000_0_0_0.png
 # eurosport3d
 ln -s eurosport3d.png 1_0_19_13FA_403_1_C00000_0_0_0.png
 
+# eurosport360hd
+ln -s eurosport360hd.png 1_0_19_10E_6_85_C00000_0_0_0.png
+ln -s eurosport360hd.png 1_0_19_118_D_85_C00000_0_0_0.png
+ln -s eurosport360hd.png 1_0_19_122_C_85_C00000_0_0_0.png
+ln -s eurosport360hd.png 1_0_19_12C_B_85_C00000_0_0_0.png
+ln -s eurosport360hd.png 1_0_19_136_A_85_C00000_0_0_0.png
+ln -s eurosport360hd.png 1_0_19_140_E_85_C00000_0_0_0.png
+ln -s eurosport360hd.png 1_0_19_14A_E_85_C00000_0_0_0.png
+ln -s eurosport360hd.png 1_0_19_154_A_85_C00000_0_0_0.png
+ln -s eurosport360hd.png 1_0_1_104_E_85_C00000_0_0_0.png
+
 # eurosportnews
 ln -s eurosportnews.png 1_0_1_13C_19C8_9E_5A0000_0_0_0.png
 
@@ -2846,7 +2864,7 @@ ln -s fightboxhd.png 1_0_1_1525_C86_3_EB0000_0_0_0.png
 ln -s fightboxhd.png 1_0_19_1525_C86_3_EB0000_0_0_0.png
 
 # fightklub
-ln -s fightklub.png 1_0_1_4283_2BC0_820000_0_0_0.png
+ln -s fightklub.png 1_0_1_4283_2BC0_13E_820000_0_0_0.png
 
 # filmbox
 ln -s filmbox.png 1_0_1_334A_C93_3_EB0000_0_0_0.png
@@ -3237,7 +3255,6 @@ ln -s gaynetwork.png 1_0_1_CB8A_8FD_2_11A0000_0_0_0.png
 
 # gemstv
 ln -s gemstv.png 1_0_1_D746_A34_2_11A0000_0_0_0.png
-ln -s gemstv.png 1_0_1_125F_3F7_1_C00000_0_0_0.png
 
 # gemstvextra
 
@@ -4289,6 +4306,9 @@ ln -s mangas.png 1_0_1_4287_446_1_C00000_0_0_0.png
 ln -s mangas.png 1_0_1_D3_3E1C_13F_820000_0_0_0.png
 ln -s mangas.png 1_0_1_1CE_26AC_13F_820000_0_0_0.png
 
+# manoulenz
+ln -s manoulenz.png 1_0_1_125F_3F7_1_C00000_0_0_0.png
+
 # man-x
 ln -s man-x.png 1_0_1_31F4_45F_35_C00000_0_0_0.png
 ln -s man-x.png 1_0_1_5284_C96_3_EB0000_0_0_0.png
@@ -4655,6 +4675,13 @@ ln -s muslimworld.png 1_0_1_CB75_907_2_11A0000_0_0_0.png
 # muzikacs
 ln -s muzikacs.png 1_0_1_13C3_C95_3_EB0000_0_0_0.png
 ln -s muzikacs.png 1_0_19_13C3_C95_3_EB0000_0_0_0.png
+
+# mabb
+
+# mmv
+
+# mabb_mmv
+ln -s mabb_mmv.png 1_0_1_46_7_85_C00000_0_0_0.png
 
 # manchesterunitedtv
 ln -s manchesterunitedtv.png 1_0_1_C4A9_964_2_11A0000_0_0_0.png
@@ -5519,7 +5546,6 @@ ln -s playboytv.png 1_0_1_1D79_2F44_13E_820000_0_0_0.png
 # plugrtl
 ln -s plugrtl.png 1_0_1_3633_C8_13E_820000_0_0_0.png
 ln -s plugrtl.png 1_0_16_1485_40D_1_C00000_0_0_0.png
-ln -s plugrtl.png 1_0_1_1485_40D_1_C00000_0_0_0.png
 ln -s plugrtl.png 1_0_16_323A_45F_35_C00000_0_0_0.png
 
 # pogodatv
@@ -8668,10 +8694,9 @@ ln -s vivolta.png 1_0_1_2F68_454_1_C00000_0_0_0.png
 ln -s vivolta.png 1_0_1_446D_1F40_13E_820000_0_0_0.png
 
 # volkstv
-ln -s volkstv.png 1_0_1_33A6_3EB_1_C00000_0_0_0.png
 
 # volksmusik
-ln -s volksmusik.png 1_0_1_1267_3F7_1_C00000_0_0_0.png
+ln -s volksmusik.png 1_0_1_33A6_3EB_1_C00000_0_0_0.png
 
 # voxscandinavia
 ln -s voxscandinavia.png 1_0_1_C82_20_46_E080000_0_0_0.png
