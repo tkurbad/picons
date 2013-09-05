@@ -3082,13 +3082,13 @@ ln -s foxretro.png 1_0_1_1FC8_189C_FBFF_820000_0_0_0.png
 # foxsports
 ln -s foxsports.png 1_0_1_1F_C9_6_820000_0_0_0.png
 ln -s foxsports.png 1_0_1_5_1770_64_5A0000_0_0_0.png
-ln -s foxsports.png 1_0_1_2D8C_2260_FBFF_820000_0_0_0.png
+ln -s foxsports.png 1_0_1_2E0A_1A2C_FBFF_820000_0_0_0.png
 
 # foxsportshd
 ln -s foxsportshd.png 1_0_19_1E4F_15E0_FBFF_820000_0_0_0.png
 
 # foxsportsplus
-ln -s foxsportsplus.png 1_0_1_2E0A_1A2C_FBFF_820000_0_0_0.png
+ln -s foxsportsplus.png 1_0_1_2D8C_2260_FBFF_820000_0_0_0.png
 
 # foxsportsplushd
 ln -s foxsportsplushd.png 1_0_19_1E50_15E0_FBFF_820000_0_0_0.png
@@ -5940,6 +5940,7 @@ ln -s rt.png 1_0_1_FF0_6_56_300000_0_0_0.png
 # rthd
 ln -s rthd.png 1_0_1_18EE_3F4_1_C00000_0_0_0.png
 ln -s rthd.png 1_0_1_18ED_3F4_1_C00000_0_0_0.png
+ln -s rthd.png 1_0_19_18ED_3F4_1_C00000_0_0_0.png
 ln -s rthd.png 1_0_1_7D1_22C4_13E_820000_0_0_0.png
 ln -s rthd.png 1_0_19_CF9C_908_2_11A0000_0_0_0.png
 ln -s rthd.png 1_0_1_18F8_3F4_1_C00000_0_0_0.png
