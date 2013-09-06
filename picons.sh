@@ -5824,6 +5824,9 @@ ln -s rbctv.png 1_0_19_1D63_2134_6B2_5A0000_0_0_0.png
 
 # realestate
 
+# relaxrebelretro
+ln -s relaxrebelretro.png 1_0_1_13D1_C8A_3_EB0000_0_0_0.png
+
 # really
 ln -s really.png 1_0_1_197B_7D6_2_11A0000_0_0_0.png
 
@@ -7046,6 +7049,7 @@ ln -s skysportshd2uk.png 1_0_19_F26_7D1_2_11A0000_0_0_0.png
 ln -s skysportshd2uk.png 1_0_19_F29_7D1_2_11A0000_0_0_0.png
 ln -s skysportshd2uk.png 1_0_19_FA2_7D2_2_11A0000_0_0_0.png
 ln -s skysportshd2uk.png 1_0_19_F46_7F1_2_11A0000_0_0_0.png
+ln -s skysportshd2uk.png 1_0_19_F26_7F1_2_11A0000_0_0_0.png
 
 # skysportshd3uk
 ln -s skysportshd3uk.png 1_0_19_EEE_7F2_2_11A0000_0_0_0.png
