@@ -7377,6 +7377,7 @@ ln -s superrtl.png 1_0_1_CB_1644_9C_5A0000_0_0_0.png
 ln -s superrtlhd.png 1_0_1_2E9A_405_1_C00000_0_0_0.png
 ln -s superrtlhd.png 1_0_19_2E9A_405_1_C00000_0_0_0.png
 ln -s superrtlhd.png 1_0_1_2E9B_411_1_C00000_0_0_0.png
+ln -s superrtlhd.png 1_0_19_2E9B_411_1_C00000_0_0_0.png
 
 # supertennis
 ln -s supertennis.png 1_0_1_2C76_251C_FBFF_820000_0_0_0.png
