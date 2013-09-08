@@ -6443,7 +6443,6 @@ ln -s skybundesligade.png 1_0_1_156_1_85_C00000_0_0_0.png
 ln -s skybundesligade.png 1_0_1_160_1_85_C00000_0_0_0.png
 ln -s skybundesligade.png 1_0_1_FC_2_85_C00000_0_0_0.png
 
-
 # skybundesligahdde
 ln -s skybundesligahdde.png 1_0_19_69_C_85_C00000_0_0_0.png
 ln -s skybundesligahdde.png 1_0_19_10B_6_85_C00000_0_0_0.png
