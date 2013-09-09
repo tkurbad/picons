@@ -5562,9 +5562,6 @@ ln -s plugrtl.png 1_0_16_323A_45F_35_C00000_0_0_0.png
 # pogodatv
 ln -s pogodatv.png 1_0_1_19A5_F_55_300000_0_0_0.png
 
-# pohoda
-ln -s pohoda.png 1_0_1_13D5_C8A_3_EB0000_0_0_0.png
-
 # polonia1
 ln -s polonia1.png 1_0_1_3D5A_2C88_13E_820000_0_0_0.png
 
@@ -6158,7 +6155,6 @@ ln -s samaa.png 1_0_1_D80D_A36_2_11A0000_0_0_0.png
 ln -s samadubai.png 1_0_1_251F_13EF_13E_820000_0_0_0.png
 
 # saharaone
-ln -s saharaone.png 1_0_1_D332_A29_2_11A0000_0_0_0.png
 
 # samanyolutv
 
