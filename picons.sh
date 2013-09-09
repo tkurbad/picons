@@ -209,6 +209,9 @@ ln -s ahlulbayt.png 1_0_1_D7BC_900_2_11A0000_0_0_0.png
 # aitinternational
 ln -s aitinternational.png 1_0_1_D3CC_A2B_2_11A0000_0_0_0.png
 
+# akaalchannel
+ln -s akaalchannel.png 1_0_1_D332_A29_2_11A0000_0_0_0.png
+
 # alekino+
 
 # alekino+hd
@@ -5600,6 +5603,14 @@ ln -s popgirl.png 1_0_1_D070_90A_2_11A0000_0_0_0.png
 ln -s popgirlplus1.png 1_0_1_CC92_96A_2_11A0000_0_0_0.png
 ln -s popgirlplus1.png 1_0_1_D07A_90A_2_11A0000_0_0_0.png
 
+# pohodarelax
+ln -s pohodarelax.png 1_0_1_13D5_C8A_3_EB0000_0_0_0.png
+
+# pohodarebel
+ln -s pohodarebel.png 1_0_1_13D1_C8A_3_EB0000_0_0_0.png
+
+# pohodaretro
+
 # powerturktv
 
 # presstv
@@ -5831,9 +5842,6 @@ ln -s rbctv.png 1_0_1_2096_2328_13E_820000_0_0_0.png
 ln -s rbctv.png 1_0_19_1D63_2134_6B2_5A0000_0_0_0.png
 
 # realestate
-
-# relaxrebelretro
-ln -s relaxrebelretro.png 1_0_1_13D1_C8A_3_EB0000_0_0_0.png
 
 # really
 ln -s really.png 1_0_1_197B_7D6_2_11A0000_0_0_0.png
@@ -7282,7 +7290,8 @@ ln -s sport1plushdde.png 1_0_19_7A_B_85_C00000_0_0_0.png
 
 # sport1ushdde
 ln -s sport1ushdde.png 1_0_19_77_E_85_C00000_0_0_0.png
-ln -s sport1ushdde.png 1_0_1_13F_E_85_C00000_0_0_0.png #Feed
+ln -s sport1ushdde.png 1_0_1_13F_E_85_C00000_0_0_0.png
+ln -s sport1ushdde.png 1_0_19_13F_E_85_C00000_0_0_0.png
 
 # sport1lithuania
 ln -s sport1lithuania.png 1_0_1_B7C_34_55_300000_0_0_0.png
@@ -7324,6 +7333,9 @@ ln -s stargold.png 1_0_1_4B2_FFFF_FFFF_5AAE1C_0_0_0.png
 
 # starchannel
 ln -s starchannel.png 1_0_1_141_157C_13E_820000_0_0_0.png
+
+# starjalsha
+ln -s starjalsha.png 1_0_1_CB90_8FD_2_11A0000_0_0_0.png
 
 # startvukr
 ln -s startvukr.png 1_0_1_19A0_F_55_300000_0_0_0.png
