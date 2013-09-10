@@ -607,6 +607,7 @@ ln -s babytv.png 1_0_1_2C2E_251C_FBFF_820000_0_0_0.png
 ln -s babytv.png 1_0_1_439D_2CEC_13E_820000_0_0_0.png
 ln -s babytv.png 1_0_1_430_2_AA_5A0000_0_0_0.png
 ln -s babytv.png 1_0_1_15BC_804_2_11A0000_0_0_0.png
+ln -s babytv.png 1_0_1_749C_41C_1_C00000_0_0_0.png
 
 # bahraininternational
 ln -s bahraininternational.png 1_0_1_1C5B_1C20_13E_820000_0_0_0.png
@@ -1816,6 +1817,7 @@ ln -s dantoto.png 1_0_1_7D1_2_46_7120000_0_0_0.png
 ln -s daringtv.png 1_0_1_43B3_2CEC_13E_820000_0_0_0.png
 ln -s daringtv.png 1_0_1_4223_3DB8_13E_820000_0_0_0.png
 ln -s daringtv.png 1_0_1_422E_3DB8_13E_820000_0_0_0.png
+ln -s daringtv.png 1_0_1_1360_33F4_13E_820000_0_0_0.png
 
 # daserste - ard
 ln -s daserste.png 1_0_1_6DCA_44D_1_C00000_0_0_0.png
@@ -2530,6 +2532,7 @@ ln -s escales.png 1_0_1_1CA_26AC_13F_820000_0_0_0.png
 
 # eskatv
 ln -s eskatv.png 1_0_1_3DC3_640_13E_820000_0_0_0.png
+ln -s eskatv.png 1_0_1_10DB_3E8_13E_820000_0_0_0.png
 
 # espn
 ln -s espn.png 1_0_1_C5DA_967_2_11A0000_0_0_0.png
@@ -2782,6 +2785,7 @@ ln -s eurosport360hd.png 1_0_19_140_E_85_C00000_0_0_0.png
 ln -s eurosport360hd.png 1_0_19_14A_E_85_C00000_0_0_0.png
 ln -s eurosport360hd.png 1_0_19_154_A_85_C00000_0_0_0.png
 ln -s eurosport360hd.png 1_0_1_104_E_85_C00000_0_0_0.png
+ln -s eurosport360hd.png 1_0_19_104_E_85_C00000_0_0_0.png
 
 # eurosportnews
 ln -s eurosportnews.png 1_0_1_13C_19C8_9E_5A0000_0_0_0.png
@@ -3076,6 +3080,7 @@ ln -s foxnews.png 1_0_1_24E6_2260_FBFF_820000_0_0_0.png
 ln -s foxnews.png 1_0_1_1223_7EF_2_11A0000_0_0_0.png
 ln -s foxnews.png 1_0_1_77ED_404_1_C00000_0_0_0.png
 ln -s foxnews.png 1_0_1_12C1_968_2_11A0000_0_0_0.png
+ln -s foxnews.png 1_0_1_749B_41C_1_C00000_0_0_0.png
 
 # foxplus1
 ln -s foxplus1.png 1_0_1_E33_16A8_FBFF_820000_0_0_0.png
@@ -3614,6 +3619,7 @@ ln -s hustlertv.png 1_0_1_7FB_449_35_C00000_0_0_0.png
 ln -s hustlertv.png 1_0_1_443_4_AA_5A0000_0_0_0.png
 ln -s hustlertv.png 1_0_1_267_206C_9C_5A0000_0_0_0.png
 ln -s hustlertv.png 1_0_1_25D_A_46_7120000_0_0_0.png
+ln -s hustlertv.png 1_0_16_3253_45F_35_C00000_0_0_0.png
 
 # hustlerhd
 ln -s hustlerhd.png 1_0_1_4225_3DB8_13E_820000_0_0_0.png
@@ -4570,6 +4576,7 @@ ln -s mtv.png 1_0_1_9C7_20_46_7120000_0_0_0.png
 ln -s mtv.png 1_0_1_CA8_A_1_7120000_0_0_0.png
 ln -s mtv.png 1_0_1_3FC_1_1_7120000_0_0_0.png
 ln -s mtv.png 1_0_1_76CC_2C0_600_7120000_0_0_0.png
+ln -s mtv.png 1_0_1_74A2_41C_1_C00000_0_0_0.png
 
 # mtvhd
 ln -s mtvhd.png 1_0_19_EF7_7E9_2_11A0000_0_0_0.png
@@ -4674,6 +4681,7 @@ ln -s munchentv.png 1_0_1_11FC_3FD_1_C00000_0_0_0.png
 
 # musicboxrussia
 ln -s musicboxrussia.png 1_0_1_2986_3D54_13E_820000_0_0_0.png
+ln -s musicboxrussia.png 1_0_1_38F3_2648_FBFF_820000_0_0_0.png
 
 # musicindia
 
@@ -5125,6 +5133,7 @@ ln -s nrktegnsprak.png 1_0_1_5EC_23_46_7120000_0_0_0.png
 
 # nsporthd
 ln -s nsporthd.png 1_0_1_3AB9_514_13E_820000_0_0_0.png
+ln -s nsporthd.png 1_0_1_10DA_3E8_13E_820000_0_0_0.png
 
 # nt1
 ln -s nt1.png 1_0_1_4290_446_1_C00000_0_0_0.png
@@ -6463,6 +6472,7 @@ ln -s skybundesligahdde.png 1_0_1_147_E_85_C00000_0_0_0.png
 ln -s skybundesligahdde.png 1_0_1_151_A_85_C00000_0_0_0.png
 ln -s skybundesligahdde.png 1_0_1_15B_E_85_C00000_0_0_0.png
 ln -s skybundesligahdde.png 1_0_1_101_E_85_C00000_0_0_0.png
+ln -s skybundesligahdde.png 1_0_19_101_E_85_C00000_0_0_0.png
 
 # skycalciohdit
 ln -s skycalciohdit.png 1_0_19_379F_14B4_FBFF_820000_0_0_0.png
@@ -7008,6 +7018,7 @@ ln -s skysporthdde.png 1_0_19_152_A_85_C00000_0_0_0.png
 ln -s skysporthdde.png 1_0_19_15C_E_85_C00000_0_0_0.png
 ln -s skysporthdde.png 1_0_1_15C_E_85_C00000_0_0_0.png
 ln -s skysporthdde.png 1_0_1_102_E_85_C00000_0_0_0.png
+ln -s skysporthdde.png 1_0_19_102_E_85_C00000_0_0_0.png
 
 # skysportnewshdde
 ln -s skysportnewshdde.png 1_0_19_6C_C_85_C00000_0_0_0.png
@@ -7837,6 +7848,7 @@ ln -s tracesports.png 1_0_1_15E9_C9A_3_EB0000_0_0_0.png
 ln -s tracesports.png 1_0_1_1F5_26AC_13F_820000_0_0_0.png
 ln -s tracesports.png 1_0_1_E_1_9D_5A0000_0_0_0.png
 ln -s tracesports.png 1_0_1_E_170C_9E_5A0000_0_0_0.png
+ln -s tracesports.png 1_0_1_772E_416_1_C00000_0_0_0.png
 
 # tracesportstars
 ln -s tracesportstars.png 1_0_1_1224_963_2_11A0000_0_0_0.png
@@ -8872,6 +8884,7 @@ ln -s xxl.png 1_0_1_1D5_26AC_13F_820000_0_0_0.png
 # yachtandsail
 ln -s yachtandsail.png 1_0_1_2502_2260_FBFF_820000_0_0_0.png
 ln -s yachtandsail.png 1_0_1_268_206C_9C_5A0000_0_0_0.png
+ln -s yachtandsail.png 1_0_1_1FAF_189C_FBFF_820000_0_0_0.png
 
 # yavido
 ln -s yavido.png 1_0_19_DF_14B4_9C_5A0000_0_0_0.png
