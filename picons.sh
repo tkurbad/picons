@@ -3519,7 +3519,8 @@ ln -s histoire.png 1_0_1_2581_458_1_C00000_0_0_0.png
 ln -s histoire.png 1_0_1_446C_1F40_13E_820000_0_0_0.png
 
 # hitradiooe3
-ln -s hitradiooe3.png 1_0_1_32D5_45D_1_C00000_0_0_0.png
+ln -s hitradiooe3.png 1_0_1_32D5_45D_1_C00000_0_0_0.png # with coverflow
+ln -s hitradiooe3.png 1_0_2_334D_45B_1_C00000_0_0_0.png # audio only
 
 # hitv
 ln -s hitv.png 1_0_1_D3C0_A2B_2_11A0000_0_0_0.png
@@ -8974,144 +8975,256 @@ ln -s zoneromantica.png 1_0_1_1C85_1CE8_71_820000_0_0_0.png
 # RADIO
 
 # radio.b5aktuell
+ln -s radio.b5aktuell.png 1_0_2_6EF4_445_1_C00000_0_0_0.png
 
 # radio.b5plus
+ln -s radio.b5plus.png 1_0_2_6EF8_445_1_C00000_0_0_0.png
 
 # radio.bayern1
+ln -s radio.bayern1.png 1_0_2_6EF0_445_1_C00000_0_0_0.png
 
 # radio.bayern2
+ln -s radio.bayern2.png 1_0_2_6EF1_445_1_C00000_0_0_0.png
 
 # radio.bayern3
+ln -s radio.bayern3.png 1_0_2_6EF2_445_1_C00000_0_0_0.png
 
 # radio.bayernplus
+ln -s radio.bayernplus.png 1_0_2_6EF5_445_1_C00000_0_0_0.png
 
 # radio.bbcworldservice
 
 # radio.bremeneins
+ln -s radio.bremeneins.png 1_0_2_6F20_445_1_C00000_0_0_0.png
 
 # radio.bremenvier
+ln -s radio.bremenvier.png 1_0_2_6F22_445_1_C00000_0_0_0.png
 
 # radio.brklassik
+ln -s radio.brklassik.png 1_0_2_6EF3_445_1_C00000_0_0_0.png
 
-# radio.bron3radio
+# radio.brpuls
+ln -s radio.brpuls.png 1_0_2_6EF6_445_1_C00000_0_0_0.png
 
 # radio.deutschlandfunk
+ln -s radio.deutschlandfunk.png 1_0_2_6D6D_437_1_C00000_0_0_0.png
 
 # radio.deutschlandradiokultur
+ln -s radio.deutschlandradiokultur.png 1_0_2_6D6C_437_1_C00000_0_0_0.png
 
 # radio.dradiowissen
+ln -s radio.dradiowissen.png 1_0_2_6D71_437_1_C00000_0_0_0.png
+
+# radio.fm4
+ln -s radio.fm4.png 1_0_2_334E_45B_1_C00000_0_0_0.png
 
 # radio.hr1
+ln -s radio.hr1.png 1_0_2_6F03_445_1_C00000_0_0_0.png
 
 # radio.hr2
+ln -s radio.hr2.png 1_0_2_6F04_445_1_C00000_0_0_0.png
 
 # radio.hr3
+ln -s radio.hr3.png 1_0_2_6F05_445_1_C00000_0_0_0.png
 
 # radio.hr4
+ln -s radio.hr4.png 1_0_2_6F06_445_1_C00000_0_0_0.png
 
 # radio.hrinfo
+ln -s radio.hrinfo.png 1_0_2_6F08_445_1_C00000_0_0_0.png
 
 # radio.jamfm
+ln -s radio.jamfm.png 1_0_2_B1_5_85_C00000_0_0_0.png
+
+# radio.lokaleins
+ln -s radio.lokaleins.png 1_0_1_33AF_3EB_1_C00000_0_0_0.png
+
+# radio.lokalzwei
+ln -s radio.lokalzwei.png 1_0_1_33B0_3EB_1_C00000_0_0_0.png
 
 # radio.mdr1radiosachsen
+ln -s radio.mdr1radiosachsen.png 1_0_2_6F0C_445_1_C00000_0_0_0.png
 
 # radio.mdrfigaro
+ln -s radio.mdrfigaro.png 1_0_2_6F0F_445_1_C00000_0_0_0.png
 
 # radio.mdrinfo
+ln -s radio.mdrinfo.png 1_0_2_6F12_445_1_C00000_0_0_0.png
 
 # radio.mdrjump
+ln -s radio.mdrjump.png 1_0_2_6F10_445_1_C00000_0_0_0.png
 
 # radio.mdrklassik
+ln -s radio.mdrklassik.png 1_0_2_6F13_445_1_C00000_0_0_0.png
 
 # radio.mdrradiosachsenanhalt
+ln -s radio.mdrradiosachsenanhalt.png 1_0_2_6F0D_445_1_C00000_0_0_0.png
 
 # radio.mdrsputnik
+ln -s radio.mdrsputnik.png 1_0_2_6F11_445_1_C00000_0_0_0.png
 
 # radio.mdrthueringen
+ln -s radio.mdrthueringen.png 1_0_2_6F0E_445_1_C00000_0_0_0.png
 
 # radio.ndr1niedersachsen
+ln -s radio.ndr1niedersachsen.png 1_0_2_6F1C_445_1_C00000_0_0_0.png
 
 # radio.ndr1radiomv
+ln -s radio.ndr1radiomv.png 1_0_2_6F1B_445_1_C00000_0_0_0.png
 
 # radio.ndr1wellenord
+ln -s radio.ndr1wellenord.png 1_0_2_6F1A_445_1_C00000_0_0_0.png
 
 # radio.ndr2
+ln -s radio.ndr2.png 1_0_2_6F15_445_1_C00000_0_0_0.png
 
 # radio.ndr903
+ln -s radio.ndr903.png 1_0_2_6F19_445_1_C00000_0_0_0.png
 
 # radio.ndrinfo
+ln -s radio.ndrinfo.png 1_0_2_6F17_445_1_C00000_0_0_0.png
+
+# radio.ndrinfospezial
+ln -s radio.ndrinfospezial.png 1_0_2_6F1D_445_1_C00000_0_0_0.png
 
 # radio.ndrkultur
+ln -s radio.ndrkultur.png 1_0_2_6F16_445_1_C00000_0_0_0.png
 
 # radio.ndrnjoy
+ln -s radio.ndrnjoy.png 1_0_2_6F18_445_1_C00000_0_0_0.png
 
 # radio.nordwestradio
+ln -s radio.nordwestradio.png 1_0_2_6F21_445_1_C00000_0_0_0.png
+
+# radio.oe1
+ln -s radio.oe1.png 1_0_2_3341_45B_1_C00000_0_0_0.png
+ln -s radio.oe1.png 1_0_2_3342_45B_1_C00000_0_0_0.png
+
+# radio.oe2burgenland
+ln -s radio.oe2burgenland.png 1_0_2_3345_45B_1_C00000_0_0_0.png
+
+# radio.oe2kaernten
+ln -s radio.oe2kaernten.png 1_0_2_334B_45B_1_C00000_0_0_0.png
+
+# radio.oe2niederoesterreich
+ln -s radio.oe2niederoesterreich.png 1_0_2_3344_45B_1_C00000_0_0_0.png
+
+# radio.oe2oberoesterreich
+ln -s radio.oe2oberoesterreich.png 1_0_2_3346_45B_1_C00000_0_0_0.png
+
+# radio.oe2salzburg
+ln -s radio.oe2salzburg.png 1_0_2_3347_45B_1_C00000_0_0_0.png
+
+# radio.oe2steiermark
+ln -s radio.oe2steiermark.png 1_0_2_334A_45B_1_C00000_0_0_0.png
+
+# radio.oe2tirol
+ln -s radio.oe2tirol.png 1_0_2_3348_45B_1_C00000_0_0_0.png
+
+# radio.oe2vorarlberg
+ln -s radio.oe2vorarlberg.png 1_0_2_3349_45B_1_C00000_0_0_0.png
+
+# radio.oe2wien
+ln -s radio.oe2wien.png 1_0_2_3343_45B_1_C00000_0_0_0.png
 
 # radio.radiobob
 
 # radio.radiohoreb
+ln -s radio.radiohoreb.png 1_0_2_1C79_457_1_C00000_0_0_0.png
 
 # radio.radiopaloma
+ln -s radio.radiopaloma.png 1_0_2_316F_459_1_C00000_0_0_0.png
 
 # radio.radiosunshinelive
+ln -s radio.radiosunshinelive.png 1_0_2_A9_7_85_C00000_0_0_0.png
 
 # radio.radyometropol
 
 # radio.rairadio1
 
 # radio.rbbantennebrandenburg
+ln -s radio.rbbantennebrandenburg.png 1_0_2_6F26_445_1_C00000_0_0_0.png
 
 # radio.rbbfritz
+ln -s radio.rbbfritz.png 1_0_2_6F29_445_1_C00000_0_0_0.png
 
 # radio.rbbinforadio
+ln -s radio.rbbinforadio.png 1_0_2_6F24_445_1_C00000_0_0_0.png
 
 # radio.rbbkulturradio
+ln -s radio.rbbkulturradio.png 1_0_2_6F25_445_1_C00000_0_0_0.png
 
 # radio.rbbradioberlin888
+ln -s radio.rbbradioberlin888.png 1_0_2_6F27_445_1_C00000_0_0_0.png
 
 # radio.rbbradioeins
+ln -s radio.rbbradioeins.png 1_0_2_6F28_445_1_C00000_0_0_0.png
 
 # radio.sr1europawelle
+ln -s radio.sr1europawelle.png 1_0_2_6F2D_445_1_C00000_0_0_0.png
 
 # radio.sr2kulturradio
+ln -s radio.sr2kulturradio.png 1_0_2_6F2E_445_1_C00000_0_0_0.png
 
 # radio.sr3saarlandwelle
+ln -s radio.sr3saarlandwelle.png 1_0_2_6F2F_445_1_C00000_0_0_0.png
 
 # radio.swr1badenwuerttemberg
+ln -s radio.swr1badenwuerttemberg.png 1_0_2_6F31_445_1_C00000_0_0_0.png
 
 # radio.swr1rheinlandpfalz
+ln -s radio.swr1rheinlandpfalz.png 1_0_2_6F32_445_1_C00000_0_0_0.png
 
 # radio.swr2
+ln -s radio.swr2.png 1_0_2_6F33_445_1_C00000_0_0_0.png
 
 # radio.swr3
+ln -s radio.swr3.png 1_0_2_6F34_445_1_C00000_0_0_0.png
 
 # radio.swr4badenwuerttemberg
+ln -s radio.swr4badenwuerttemberg.png 1_0_2_6F35_445_1_C00000_0_0_0.png
 
 # radio.swr4rheinlandpfalz
+ln -s radio.swr4rheinlandpfalz.png 1_0_2_6F36_445_1_C00000_0_0_0.png
 
 # radio.swrdasding
+ln -s radio.swrdasding.png 1_0_2_6F37_445_1_C00000_0_0_0.png
 
 # radio.swrinfo
+ln -s radio.swrinfo.png 1_0_2_6F38_445_1_C00000_0_0_0.png
+
+# radio.u1tirol
+ln -s radio.u1tirol.png 1_0_2_3350_45B_1_C00000_0_0_0.png
 
 # radio.wdr1live
+ln -s radio.wdr1live.png 1_0_2_6F3B_445_1_C00000_0_0_0.png
 
 # radio.wdr1livediggi
+ln -s radio.wdr1livediggi.png 1_0_2_6F41_445_1_C00000_0_0_0.png
 
 # radio.wdr2
+ln -s radio.wdr2.png 1_0_2_6F3C_445_1_C00000_0_0_0.png
 
 # radio.wdr3
+ln -s radio.wdr3.png 1_0_2_6F3D_445_1_C00000_0_0_0.png
 
 # radio.wdr4
+ln -s radio.wdr4.png 1_0_2_6F3E_445_1_C00000_0_0_0.png
 
 # radio.wdr5
+ln -s radio.wdr5.png 1_0_2_6F3F_445_1_C00000_0_0_0.png
 
 # radio.wdrevent
+ln -s radio.wdrevent.png 1_0_2_6F43_445_1_C00000_0_0_0.png
 
 # radio.wdrfunkhauseuropa
+ln -s radio.wdrfunkhauseuropa.png 1_0_2_6F40_445_1_C00000_0_0_0.png
 
 # radio.wdrkiraka
+ln -s radio.wdrkiraka.png 1_0_2_6F42_445_1_C00000_0_0_0.png
 
 # radio.youfm
+ln -s radio.youfm.png 1_0_2_6F07_445_1_C00000_0_0_0.png
 
 
 ###########
@@ -10082,7 +10195,7 @@ ln -s radio.bbcworldservice.png 1_0_2_372A_8D_270F_FFFF0000_0_0_0.png
 ln -s radio.bremeneins.png 1_0_2_6F20_431_A401_FFFF0000_0_0_0.png
 ln -s radio.bremenvier.png 1_0_2_6F22_431_A401_FFFF0000_0_0_0.png
 ln -s radio.brklassik.png 1_0_2_6EF3_44D_A401_FFFF0000_0_0_0.png
-ln -s radio.bron3radio.png 1_0_2_6EF6_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.brpuls.png 1_0_2_6EF6_44D_A401_FFFF0000_0_0_0.png
 ln -s radio.deutschlandfunk.png 1_0_2_6D6D_437_66_FFFF0000_0_0_0.png
 ln -s radio.deutschlandradiokultur.png 1_0_2_6D6C_437_66_FFFF0000_0_0_0.png
 ln -s radio.dradiowissen.png 1_0_2_6D71_437_66_FFFF0000_0_0_0.png
