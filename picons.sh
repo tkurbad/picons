@@ -1139,7 +1139,6 @@ ln -s canal+.png 1_0_1_2009_430_1_C00000_0_0_0.png
 ln -s canal+.png 1_0_1_200C_430_1_C00000_0_0_0.png
 ln -s canal+.png 1_0_1_201D_430_1_C00000_0_0_0.png
 ln -s canal+.png 1_0_1_76C0_40E_1_C00000_0_0_0.png
-ln -s canal+.png 1_0_1_76CA_40E_1_C00000_0_0_0.png
 ln -s canal+.png 1_0_1_1307_2E7C_13E_820000_0_0_0.png
 ln -s canal+.png 1_0_1_12C1_2E7C_13E_820000_0_0_0.png
 ln -s canal+.png 1_0_1_12E3_2E7C_13E_820000_0_0_0.png
@@ -4857,7 +4856,6 @@ ln -s natgeowildhd.png 1_0_1_3BB5_12C_13E_820000_0_0_0.png
 ln -s natgeowildhd.png 1_0_1_3C8E_1BBC_13E_820000_0_0_0.png
 ln -s natgeowildhd.png 1_0_1_15E1_C9A_3_EB0000_0_0_0.png
 ln -s natgeowildhd.png 1_0_86_F2D_7EC_2_11A0000_0_0_0.png
-ln -s natgeowildhd.png 1_0_19_2266_438_1_C00000_0_0_0.png
 ln -s natgeowildhd.png 1_0_19_227A_438_1_C00000_0_0_0.png
 ln -s natgeowildhd.png 1_0_19_76_B_85_C00000_0_0_0.png
 ln -s natgeowildhd.png 1_0_1_41A_4_AA_5A0000_0_0_0.png
