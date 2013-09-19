@@ -3759,6 +3759,9 @@ ln -s investigationdiscovery.png 1_0_1_179D_C82_3_EB0000_0_0_0.png
 ln -s investigationdiscovery.png 1_0_16_179D_C82_3_EB0000_0_0_0.png
 ln -s investigationdiscovery.png 1_0_19_179D_C82_3_EB0000_0_0_0.png
 
+# investigationdiscoveryplus1
+ln -s investigationdiscoveryplus1.png 1_0_1_CCCA_90B_2_11A0000_0_0_0.png
+
 # investigationdiscoveryhd
 
 # italiauno
@@ -7647,6 +7650,9 @@ ln -s tcm.png 1_0_1_D0A0_2714_F001_EB0000_0_0_0.png
 ln -s tcm.png 1_0_1_76C7_40E_1_C00000_0_0_0.png
 ln -s tcm.png 1_0_1_191_2_46_7120000_0_0_0.png
 
+# tcmplus1
+ln -s tcmplus1.png 1_0_1_CBCF_8FD_2_11A0000_0_0_0.png
+
 # tcmhd
 ln -s tcmhd.png 1_0_19_26B1_45C_1_C00000_0_0_0.png
 ln -s tcmhd.png 1_0_19_26C5_45C_1_C00000_0_0_0.png
@@ -8786,9 +8792,7 @@ ln -s vijf.png 1_0_16_3214_45F_35_C00000_0_0_0.png
 ln -s vijf.png 1_0_1_3214_45F_35_C00000_0_0_0.png
 
 # vintagetv
-ln -s vintagetv.png 1_0_1_CF99_908_2_11A0000_0_0_0.png
-ln -s vintagetv.png 1_0_1_D6EE_A33_2_11A0000_0_0_0.png
-ln -s vintagetv.png 1_0_1_D3CE_A2B_2_11A0000_0_0_0.png
+ln -s vintagetv.png 1_0_1_CBD4_8FD_2_11A0000_0_0_0.png
 
 # visjonnorge
 ln -s visjonnorge.png 1_0_1_711_20_46_7120000_0_0_0.png
