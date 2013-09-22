@@ -204,6 +204,12 @@ ln -s adult.png 1_0_1_E3_A_46_7120000_0_0_0.png
 # adultchannel
 ln -s adultchannel.png 1_0_1_D15B_90C_2_11A0000_0_0_0.png
 
+# adultxxxfirsttimers
+ln -s adultxxxfirsttimers.png 1_0_4_1020_963_2_11A0000_0_0_0.png
+
+# adultxxxmums
+ln -s adultxxxmums.png 1_0_4_1024_963_2_11A0000_0_0_0.png
+
 # aegyptentv
 ln -s aegyptentv.png 1_0_1_313F_459_1_C00000_0_0_0.png
 
@@ -778,6 +784,11 @@ ln -s bbcworldnews.png 1_0_1_CF09_2718_F001_EB0000_0_0_0.png
 ln -s bbcworldnews.png 1_0_1_191_1964_9C_5A0000_0_0_0.png
 ln -s bbcworldnews.png 1_0_1_848_4_56_300000_0_0_0.png
 ln -s bbcworldnews.png 1_0_1_3E9_31_46_7120000_0_0_0.png
+
+# bbtv
+ln -s bbtv.png 1_0_1_D355_A2A_2_11A0000_0_0_0.png
+ln -s bbtv.png 1_0_1_D031_909_2_11A0000_0_0_0.png
+ln -s bbtv.png 1_0_1_CB52_907_2_11A0000_0_0_0.png
 
 # beateuhsetv
 ln -s beateuhsetv.png 1_0_1_15_11_85_C00000_0_0_0.png
@@ -1829,6 +1840,9 @@ ln -s crimehd.png 1_0_19_F30_7EC_2_11A0000_0_0_0.png
 ln -s crimeplus1.png 1_0_1_CBC9_8FD_2_11A0000_0_0_0.png
 
 # croatianmusicchannel
+
+# cruzrgay
+ln -s cruzrgay.png 1_0_1_D805_A36_2_11A0000_0_0_0.png
 
 # ctc
 ln -s ctc.png 1_0_1_1AC2_12_55_300000_0_0_0.png
@@ -2885,6 +2899,9 @@ ln -s ewtn.png 1_0_1_1AFB_3FE_1_C00000_0_0_0.png
 ln -s ewtn.png 1_0_1_34CA_3C28_13E_820000_0_0_0.png
 ln -s ewtn.png 1_0_1_3E_5_85_C00000_0_0_0.png
 ln -s ewtn.png 1_0_1_CBA8_8FE_2_11A0000_0_0_0.png
+
+# exgirlfriends
+ln -s exgirlfriends.png 1_0_1_D15D_90C_2_11A0000_0_0_0.png
 
 # extremaduratv
 ln -s extremaduratv.png 1_0_1_2754_402_1_C00000_0_0_0.png
@@ -5979,6 +5996,9 @@ ln -s rbctv.png 1_0_19_1D63_2134_6B2_5A0000_0_0_0.png
 # really
 ln -s really.png 1_0_1_197B_7D6_2_11A0000_0_0_0.png
 
+# realityhub
+ln -s realityhub.png 1_0_4_102F_963_2_11A0000_0_0_0.png
+
 # realmadridtv
 ln -s realmadridtv.png 1_0_1_7601_408_1_C00000_0_0_0.png
 ln -s realmadridtv.png 1_0_1_4EF5_1AF4_9C_5A0000_0_0_0.png
@@ -7458,6 +7478,9 @@ ln -s sportdigital.png 1_0_1_4EEF_21FC_9C_5A0000_0_0_0.png
 ln -s sportdigital.png 1_0_1_D16B_2712_F001_EB0000_0_0_0.png
 ln -s sportdigital.png 1_0_1_3B_F_85_C00000_0_0_0.png
 
+# sportxxxgirls
+ln -s sportxxxgirls.png 1_0_1_CB48_907_2_11A0000_0_0_0.png
+
 # sritv
 ln -s sritv.png 1_0_1_2995_3D54_13E_820000_0_0_0.png
 ln -s sritv.png 1_0_1_1F5A_319C_13E_820000_0_0_0.png
@@ -7503,6 +7526,9 @@ ln -s starstv.png 1_0_1_3E1F_2EE0_13E_820000_0_0_0.png
 
 # sterktv
 ln -s sterktv.png 1_0_1_133C_33F4_13E_820000_0_0_0.png
+
+# storm
+ln -s storm.png 1_0_1_D106_90C_2_11A0000_0_0_0.png
 
 # studio66
 ln -s studio66.png 1_0_1_D007_909_2_11A0000_0_0_0.png
@@ -8548,6 +8574,9 @@ ln -s ucbtv.png 1_0_1_CB21_907_2_11A0000_0_0_0.png
 # ukrainianfashion
 ln -s ukrainianfashion.png 1_0_1_198C_F_55_300000_0_0_0.png
 
+# ukswingers
+ln -s ukswingers.png 1_0_4_1028_963_2_11A0000_0_0_0.png
+
 # ulmallgau
 ln -s ulmallgau.png 1_0_1_11FB_3FD_1_C00000_0_0_0.png
 
@@ -8957,6 +8986,9 @@ ln -s vier.png 1_0_16_320E_45F_35_C00000_0_0_0.png
 ln -s vier.png 1_0_19_527A_C96_3_EB0000_0_0_0.png
 ln -s vier.png 1_0_1_320E_45F_35_C00000_0_0_0.png
 
+# viewerswives
+ln -s viewerswives.png 1_0_4_1029_963_2_11A0000_0_0_0.png
+
 # vtm
 ln -s vtm.png 1_0_1_31E3_45F_35_C00000_0_0_0.png
 ln -s vtm.png 1_0_16_320A_45F_35_C00000_0_0_0.png
@@ -9055,6 +9087,16 @@ ln -s xxl.png 1_0_1_CD_3E1C_13F_820000_0_0_0.png
 ln -s xxl.png 1_0_1_D7_3E1C_13F_820000_0_0_0.png
 ln -s xxl.png 1_0_1_1D4_26AC_13F_820000_0_0_0.png
 ln -s xxl.png 1_0_1_1D5_26AC_13F_820000_0_0_0.png
+
+# xxxcess
+ln -s xxxcess.png 1_0_4_102B_A35_2_11A0000_0_0_0.png
+
+# xxxgay
+ln -s xxxgay.png 1_0_4_102E_963_2_11A0000_0_0_0.png
+
+# xxxpandedtv
+ln -s xxxpandedtv.png 1_0_1_D806_A36_2_11A0000_0_0_0.png
+ln -s xxxpandedtv.png 1_0_1_D823_A36_2_11A0000_0_0_0.png
 
 # yachtandsail
 ln -s yachtandsail.png 1_0_1_2502_2260_FBFF_820000_0_0_0.png
