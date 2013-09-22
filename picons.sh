@@ -1723,7 +1723,6 @@ ln -s cmoresporthd.png 1_0_19_57C_E_46_7120000_0_0_0.png
 ln -s cmoretennis.png 1_0_1_CEC_21_46_7120000_0_0_0.png
 
 # cnbc
-ln -s cnbc.png 1_0_1_CB8F_8FD_2_11A0000_0_0_0.png
 ln -s cnbc.png 1_0_1_D049_271A_F001_EB0000_0_0_0.png
 ln -s cnbc.png 1_0_1_272E_402_1_C00000_0_0_0.png
 ln -s cnbc.png 1_0_1_3912_32C8_13E_820000_0_0_0.png
@@ -2648,7 +2647,6 @@ ln -s espnamerica.png 1_0_1_297D_22C4_13E_820000_0_0_0.png
 ln -s espnamerica.png 1_0_1_6A5_1388_9C_5A0000_0_0_0.png
 ln -s espnamerica.png 1_0_1_183A_3E_46_7120000_0_0_0.png
 ln -s espnamerica.png 1_0_1_737_3E_46_7120000_0_0_0.png
-ln -s espnamerica.png 1_0_1_D80A_A36_2_11A0000_0_0_0.png
 
 # espnamericahd
 ln -s espnamericahd.png 1_0_19_F11_7ED_2_11A0000_0_0_0.png
@@ -3057,7 +3055,6 @@ ln -s channel9uk.png 1_0_1_D6DD_A33_2_11A0000_0_0_0.png
 ln -s channel9uk.png 1_0_1_D335_A29_2_11A0000_0_0_0.png
 
 # channels
-ln -s channels.png 1_0_1_D32E_A29_2_11A0000_0_0_0.png
 ln -s channels.png 1_0_1_D6E4_A33_2_11A0000_0_0_0.png
 ln -s channels.png 1_0_1_D80A_A36_2_11A0000_0_0_0.png
 
@@ -3583,7 +3580,6 @@ ln -s history.png 1_0_1_13CD_C85_3_EB0000_0_0_0.png
 ln -s history.png 1_0_1_3A_F_85_C00000_0_0_0.png
 ln -s history.png 1_0_1_1414_C8A_3_EB0000_0_0_0.png
 ln -s history.png 1_0_1_141B_C8A_3_EB0000_0_0_0.png
-ln -s history.png 1_0_1_13D4_C8A_3_EB0000_0_0_0.png
 ln -s history.png 1_0_1_9CF_19_46_7120000_0_0_0.png
 
 # history2
@@ -3666,7 +3662,6 @@ ln -s hopechannel.png 1_0_1_2997_3D54_1_822D7A_0_0_0.png
 # horrorchannel
 ln -s horrorchannel.png 1_0_1_CB89_8FD_2_11A0000_0_0_0.png
 ln -s horrorchannel.png 1_0_1_FE3_2648_FBFF_820000_0_0_0.png
-ln -s horrorchannel.png 1_0_1_D449_A2C_2_11A0000_0_0_0.png
 ln -s horrorchannel.png 1_0_1_2C91_2580_FBFF_820000_0_0_0.png
 
 # horrorchannelplus1
@@ -5786,7 +5781,6 @@ ln -s primazoom.png 1_0_1_3353_C93_3_EB0000_0_0_0.png
 
 # primetime
 ln -s primetime.png 1_0_0_D6EC_A35_2_11A0000_0_0_0.png
-ln -s primetime.png 1_0_4_1031_A35_2_11A0000_0_0_0.png
 ln -s primetime.png 1_0_1_D7CD_A35_11A0000_0_0_0.png
 ln -s primetime.png 1_0_0_D7CD_A35_2_11A0000_0_0_0.png
 ln -s primetime.png 1_0_4_1031_A35_2_11A0000_0_0_0.png
@@ -7551,7 +7545,6 @@ ln -s sundancechannelhd.png 1_0_1_3B68_12C_13E_820000_0_0_0.png
 ln -s sundancechannelhd.png 1_0_1_3ABB_12C_13E_820000_0_0_0.png
 
 # sunrisetv
-ln -s sunrisetv.png 1_0_1_D745_A34_2_11A0000_0_0_0.png
 
 # supercasino
 ln -s supercasino.png 1_0_1_C73E_96B_2_11A0000_0_0_0.png
@@ -7866,7 +7859,6 @@ ln -s tf6hd.png 1_0_19_1968_44E_1_C00000_0_0_0.png
 ln -s tg4.png 1_0_1_2583_7FB_2_11A0000_0_0_0.png
 
 # tggcoutlet
-ln -s tggcoutlet.png 1_0_1_D740_A34_2_11A0000_0_0_0.png
 
 # tgrteu
 
