@@ -1927,7 +1927,6 @@ ln -s channelaka.png 1_0_1_CB8B_8FD_2_11A0000_0_0_0.png
 # channelm
 
 # channelonesrilanka
-ln -s channelonesrilanka.png 1_0_1_6E1_578_13E_82ACCF_0_0_0.png
 
 # channelstarz
 # 28.2E
@@ -3889,7 +3888,7 @@ ln -s filmfourhd.png 1_0_19_F04_7F0_2_11A0000_0_0_0.png
 ln -s fishingandhunting.png 1_0_1_3334_C89_3_EB0000_0_0_0.png
 
 # fishingtv
-# UNKNOWN
+# 13.0E
 ln -s fishingtv.png 1_0_1_6D0_578_13E_82ACCE_0_0_0.png
 
 # fitnesstv
@@ -4680,12 +4679,11 @@ ln -s home.png 1_0_1_1965_7D6_2_11A0000_0_0_0.png
 ln -s homeplus1.png 1_0_1_1DB0_7DF_2_11A0000_0_0_0.png
 
 # hopechannel
-# UNKNOWN
-ln -s hopechannel.png 1_0_1_2997_3D54_1_822D7A_0_0_0.png
 # 13.0E
-ln -s hopechannel.png 1_0_1_16_30D4_13E_820000_0_0_0.png
+ln -s hopechannel.png 1_0_1_1245_2B5C_13E_820000_0_0_0.png
 ln -s hopechannel.png 1_0_1_2997_3D54_13E_820000_0_0_0.png
 # 19.2E
+ln -s hopechannel.png 1_0_2_AF_5_85_C00000_0_0_0.png
 ln -s hopechannel.png 1_0_1_47_7_85_C00000_0_0_0.png
 
 # horrorchannel
@@ -4781,7 +4779,7 @@ ln -s hustlerhd.png 1_0_1_4230_3DB8_13E_820000_0_0_0.png
 # hyper+hd
 
 # i24news
-# UNKNOWN
+# 13.0E
 ln -s i24news.png 1_0_1_18_578_13E_82ACCE_0_0_0.png
 ln -s i24news.png 1_0_1_19_578_13E_82ACCE_0_0_0.png
 # 19.2E
@@ -5331,10 +5329,8 @@ ln -s kontrachannel.png 1_0_1_1D51_2F44_13E_820000_0_0_0.png
 ln -s kopercapodistria.png 1_0_1_C83_2328_13E_820000_0_0_0.png
 
 # kosmicatv
-# UNKNOWN
-ln -s kosmicatv.png 1_0_1_36EC_FFFF_FFFF_EBAEC5_0_0_0.png
 # 23.5E
-ln -s kosmicatv.png 1_0_1_36EC_C8E_3_EB0000_0_0_0.png
+ln -s kosmicatv.png 1_0_1_3701_C8E_3_EB0000_0_0_0.png
 
 # kto
 
@@ -5364,8 +5360,6 @@ ln -s kztv.png 1_0_1_445F_1F40_13E_820000_0_0_0.png
 ln -s kuwait1.png 1_0_1_4_25E4_2BE_820000_0_0_0.png
 
 # k-tv
-# UNKNOWN
-ln -s k-tv.png 1_0_1_1_14_2_EBB172_0_0_0.png
 # 19.2E
 ln -s k-tv.png 1_0_1_3139_459_1_C00000_0_0_0.png
 
@@ -5524,18 +5518,10 @@ ln -s luckyjack.png 1_0_1_1D1_26AC_13F_820000_0_0_0.png
 ln -s luxurylife.png 1_0_1_D7D4_A35_2_11A0000_0_0_0.png
 
 # luxetv
-# UNKNOWN
-ln -s luxetv.png 1_0_1_1_88_1_11AACE0_0_0_0.png
-# 13.0E
-ln -s luxetv.png 1_0_1_20D_26AC_13F_820000_0_0_0.png
-ln -s luxetv.png 1_0_1_20D_26AC_13E_820000_0_0_0.png
-ln -s luxetv.png 1_0_1_DCD_15E0_FBFF_820000_0_0_0.png
 # 9.0E
 ln -s luxetv.png 1_0_1_12D_15E0_9E_5A0000_0_0_0.png
 ln -s luxetv.png 1_0_19_198_1964_9C_5A0000_0_0_0.png
 ln -s luxetv.png 1_0_1_198_1964_9C_5A0000_0_0_0.png
-# 19.2E
-ln -s luxetv.png 1_0_1_F98_454_1_C00000_0_0_0.png
 
 # luxetvhd
 # 9.0E
@@ -5796,21 +5782,18 @@ ln -s mezzo.png 1_0_1_2014_430_1_C00000_0_0_0.png
 ln -s mezzo.png 1_0_1_DB6_C_1_7120000_0_0_0.png
 
 # mezzohd
-# UNKNOWN
-ln -s mezzohd.png 1_0_19_77EC_FFFF_FFFF_C0AD6A_0_0_0.png
 # 9.0E
 ln -s mezzohd.png 1_0_19_DB3_16A8_9C_5A0000_0_0_0.png
 ln -s mezzohd.png 1_0_1_DB3_16A8_9C_5A0000_0_0_0.png
 
 # mezzolivehd
 # 19.2E
+ln -s mezzolivehd.png 1_0_1_7607_408_1_C00000_0_0_0.png
 ln -s mezzolivehd.png 1_0_1_7620_408_1_C00000_0_0_0.png
 ln -s mezzolivehd.png 1_0_19_781E_428_1_C00000_0_0_0.png
+ln -s mezzolivehd.png 1_0_19_7823_428_1_C00000_0_0_0.png
 ln -s mezzolivehd.png 1_0_19_1966_44E_1_C00000_0_0_0.png
 ln -s mezzolivehd.png 1_0_19_197A_44E_1_C00000_0_0_0.png
-ln -s mezzolivehd.png 1_0_19_7823_428_1_C00000_0_0_0.png
-# 23.5E
-ln -s mezzolivehd.png 1_0_1_15E6_C9A_3_EB0000_0_0_0.png
 
 # melodieexpress
 # 19.2E
@@ -6583,8 +6566,7 @@ ln -s nickhd_comedycentralhd.png 1_0_19_527D_41D_1_C00000_0_0_0.png
 # nick
 
 # nickhd
-# UNKNOWN
-ln -s nickhd.png 1_0_1_1F_578_13E_82ACCF_0_0_0.png
+# 13.0E
 ln -s nickhd.png 1_0_1_1F_578_13E_82ACCE_0_0_0.png
 # 9.0E
 ln -s nickhd.png 1_0_1_445_4_AA_5A0000_0_0_0.png
@@ -6593,10 +6575,9 @@ ln -s nickhd.png 1_0_19_F1D_7E4_2_11A0000_0_0_0.png
 
 # nickjr
 # UNKNOWN
-ln -s nickjr.png 1_0_1_1E_578_13E_82ACCE_0_0_0.png
-ln -s nickjr.png 1_0_1_1E_578_13E_82ACCF_0_0_0.png
 ln -s nickjr.png 1_0_1_15BB_7D3_2_5A2DE3_0_0_0.png
 # 13.0E
+ln -s nickjr.png 1_0_1_1E_578_13E_82ACCE_0_0_0.png
 ln -s nickjr.png 1_0_1_590_1AF4_FBFF_820000_0_0_0.png
 ln -s nickjr.png 1_0_1_590_320_FBFF_820000_0_0_0.png
 # 9.0E
@@ -6908,13 +6889,8 @@ ln -s nova3d.png 1_0_1_3C98_1BBC_13E_820000_0_0_0.png
 # oberpfalztv
 
 # ocko
-# UNKNOWN
-ln -s ocko.png 1_0_1_64_0_1_EB3168_0_0_0.png
-ln -s ocko.png 1_0_1_64_0_1_EB3169_0_0_0.png
-ln -s ocko.png 1_0_1_64_0_1_EBB1C0_0_0_0.png
 # 23.5E
 ln -s ocko.png 1_0_1_1451_C98_3_EB0000_0_0_0.png
-ln -s ocko.png 1_0_1_F226_C27_3_EB0000_0_0_0.png
 
 # odeon
 # 13.0E
@@ -7145,18 +7121,14 @@ ln -s penthousehd.png 1_0_19_1B7E_C88_3_EB0000_0_0_0.png
 ln -s penthousehd.png 1_0_1_1B7D_C88_3_EB0000_0_0_0.png
 
 # penthousehd1
-# UNKNOWN
-ln -s penthousehd1.png 1_0_19_14_1A2C_1_5A2F16_0_0_0.png
 # 9.0E
 ln -s penthousehd1.png 1_0_1_425_5_AA_5A0000_0_0_0.png
 # 23.5E
-ln -s penthousehd1.png 1_0_1_15E8_C9A_3_EB0000_0_0_0.png
+ln -s penthousehd1.png 1_0_1_1650_CA4_3_EB0000_0_0_0.png
 
 # penthousehd2
-# UNKNOWN
-ln -s penthousehd2.png 1_0_19_1E_1A2C_1_5A2F16_0_0_0.png
 # 23.5E
-ln -s penthousehd2.png 1_0_1_15E2_C9A_3_EB0000_0_0_0.png
+ln -s penthousehd2.png 1_0_1_1651_CA4_3_EB0000_0_0_0.png
 
 # penthousetv
 
@@ -7931,8 +7903,6 @@ ln -s rtl5.png 1_0_1_7D5_449_35_C00000_0_0_0.png
 ln -s rtl5.png 1_0_1_FCD_451_35_C00000_0_0_0.png
 
 # rtl5hd
-# UNKNOWN
-ln -s rtl5hd.png 1_0_19_5217_FFFF_FFFF_EB2F9B_0_0_0.png
 # 23.5E
 ln -s rtl5hd.png 1_0_19_5217_C99_3_EB0000_0_0_0.png
 ln -s rtl5hd.png 1_0_1_5217_C99_3_EB0000_0_0_0.png
@@ -7943,8 +7913,6 @@ ln -s rtl7.png 1_0_1_7D6_449_35_C00000_0_0_0.png
 ln -s rtl7.png 1_0_1_FCF_451_35_C00000_0_0_0.png
 
 # rtl7hd
-# UNKNOWN
-ln -s rtl7hd.png 1_0_19_5212_FFFF_FFFF_EB2F9B_0_0_0.png
 # 23.5E
 ln -s rtl7hd.png 1_0_19_5212_C99_3_EB0000_0_0_0.png
 ln -s rtl7hd.png 1_0_1_5212_C99_3_EB0000_0_0_0.png
@@ -8417,10 +8385,7 @@ ln -s skyondemanduk.png 1_0_0_F39_7F7_2_11A0000_0_0_0.png
 ln -s skyactionde.png 1_0_1_9_2_85_C00000_0_0_0.png
 
 # skyactionhdde
-# UNKNOWN
-ln -s skyactionhdde.png 1_0_19_7B_FFFF_FFFF_C02A15_0_0_0.png
 # 19.2E
-ln -s skyactionhdde.png 1_0_19_6A_C_85_C00000_0_0_0.png
 ln -s skyactionhdde.png 1_0_19_6A_A_85_C00000_0_0_0.png
 
 # skyarts1hduk
@@ -8614,8 +8579,6 @@ ln -s skycinemahdit.png 1_0_1_2C24_251C_FBFF_820000_0_0_0.png
 ln -s skycinemahitsde.png 1_0_1_29_3_85_C00000_0_0_0.png
 
 # skycinemahitshdde
-# UNKNOWN
-ln -s skycinemahitshdde.png 1_0_19_7C_FFFF_FFFF_C02A15_0_0_0.png
 # 19.2E
 ln -s skycinemahitshdde.png 1_0_1_57_9_85_C00000_0_0_0.png
 ln -s skycinemahitshdde.png 1_0_19_6B_C_85_C00000_0_0_0.png
@@ -9125,8 +9088,6 @@ ln -s skysportaustriade.png 1_0_1_1E_1_85_C00000_0_0_0.png
 ln -s skysportf1hdit.png 1_0_19_250D_170C_FBFF_820000_0_0_0.png
 
 # skysporthdde
-# UNKNOWN
-ln -s skysporthdde.png 1_0_19_7A_FFFF_FFFF_C02A15_0_0_0.png
 # 19.2E
 ln -s skysporthdde.png 1_0_19_81_6_85_C00000_0_0_0.png
 ln -s skysporthdde.png 1_0_19_72_D_85_C00000_0_0_0.png
@@ -9517,9 +9478,6 @@ ln -s sritv.png 1_0_1_2995_3D54_13E_820000_0_0_0.png
 ln -s sritv.png 1_0_1_1F5A_319C_13E_820000_0_0_0.png
 
 # srsudwestfernsehen
-# UNKNOWN
-ln -s srsudwestfernsehen.png 1_0_1_6F46_A_1_EBB115_0_0_0.png
-ln -s srsudwestfernsehen.png 1_0_1_6F46_445_1_EBB115_0_0_0.png
 # 19.2E
 ln -s srsudwestfernsehen.png 1_0_1_6F46_445_1_C00000_0_0_0.png
 
@@ -9548,8 +9506,6 @@ ln -s starplus.png 1_0_1_CB8C_8FD_2_11A0000_0_0_0.png
 ln -s starplushd.png 1_0_19_FC9_808_2_11A0000_0_0_0.png
 
 # stargold
-# UNKNOWN
-ln -s stargold.png 1_0_1_4B2_FFFF_FFFF_5AAE1C_0_0_0.png
 # 28.2E
 ln -s stargold.png 1_0_1_CB91_8FD_2_11A0000_0_0_0.png
 
@@ -9788,11 +9744,11 @@ ln -s taquilla.png 1_0_1_769F_41E_1_C00000_0_0_0.png
 ln -s taquilla.png 1_0_1_7575_412_1_C00000_0_0_0.png
 
 # taquillahd
-# UNKNOWN
-ln -s taquillahd.png 1_0_19_7854_FFFF_FFFF_C0A9E9_0_0_0.png
 # 19.2E
-ln -s taquillahd.png 1_0_1_75E6_422_1_C00000_0_0_0.png
+ln -s taquillahd.png 1_0_1_7622_408_1_C00000_0_0_0.png
+ln -s taquillahd.png 1_0_1_762D_408_1_C00000_0_0_0.png
 ln -s taquillahd.png 1_0_19_7854_41A_1_C00000_0_0_0.png
+ln -s taquillahd.png 1_0_19_785E_41A_1_C00000_0_0_0.png
 
 # taquillax
 # 19.2E
@@ -11079,14 +11035,8 @@ ln -s venusclubtv.png 1_0_1_27A9_444_1_C00000_0_0_0.png
 # veronicahd
 
 # veronica_disneyxd
-# UNKNOWN
-ln -s veronica_disneyxd.png 1_0_19_522B_FFFF_FFFF_EB2F9B_0_0_0.png
 # 19.2E
-ln -s veronica_disneyxd.png 1_0_1_139C_455_35_C00000_0_0_0.png
-ln -s veronica_disneyxd.png 1_0_1_7EF_449_35_C00000_0_0_0.png
 ln -s veronica_disneyxd.png 1_0_1_1483_40D_1_C00000_0_0_0.png
-# 23.5E
-ln -s veronica_disneyxd.png 1_0_1_522B_C99_3_EB0000_0_0_0.png
 
 # veronicahd_disneyxdhd
 # 23.5E
