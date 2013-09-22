@@ -5685,6 +5685,7 @@ ln -s playboytv.png 1_0_1_778B_424_1_C00000_0_0_0.png
 ln -s playboytv.png 1_0_1_213A_400_1_C00000_0_0_0.png
 ln -s playboytv.png 1_0_1_1D59_2F44_13E_820000_0_0_0.png
 ln -s playboytv.png 1_0_1_1D79_2F44_13E_820000_0_0_0.png
+ln -s playboytv.png 1_0_4_1023_963_2_11A0000_0_0_0.png
 
 # playboytvchat
 ln -s playboytvchat.png 1_0_1_D157_90C_2_11A0000_0_0_0.png
@@ -7505,6 +7506,9 @@ ln -s sterktv.png 1_0_1_133C_33F4_13E_820000_0_0_0.png
 
 # studio66
 ln -s studio66.png 1_0_1_D007_909_2_11A0000_0_0_0.png
+ln -s studio66.png 1_0_1_D430_A2C_2_11A0000_0_0_0.png
+ln -s studio66.png 1_0_1_D43A_A2C_2_11A0000_0_0_0.png
+ln -s studio66.png 1_0_1_D45D_A2C_2_11A0000_0_0_0.png
 
 # stv
 ln -s stv.png 1_0_1_27E2_806_2_11A0000_0_0_0.png
