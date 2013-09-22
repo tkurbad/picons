@@ -1499,8 +1499,6 @@ ln -s channel21.png 1_0_1_D10A_2711_F001_EB0000_0_0_0.png
 ln -s channel21.png 1_0_1_301_7_85_C00000_0_0_0.png
 
 # channeli
-ln -s channeli.png 1_0_1_D334_A29_2_11A0000_0_0_0.png
-ln -s channeli.png 1_0_1_D6E1_A33_2_11A0000_0_0_0.png
 ln -s channeli.png 1_0_1_D32E_A29_2_11A0000_0_0_0.png
 
 # channel21express
@@ -4385,8 +4383,8 @@ ln -s m6music.png 1_0_19_197B_44E_1_C00000_0_0_0.png # HD
 ln -s m6replay.png 1_0_1_23AA_44A_1_C00000_0_0_0.png
 
 # madanichannel
-ln -s madanichannel.png 1_0_1_D6E3_A33_2_11A0000_0_0_0.png
 ln -s madanichannel.png 1_0_1_D7ED_A35_2_11A0000_0_0_0.png
+ln -s madanichannel.png 1_0_1_D334_A29_2_11A0000_0_0_0.png
 
 # mad
 ln -s mad.png 1_0_1_17C_1C84_13E_820000_0_0_0.png
@@ -6001,10 +5999,13 @@ ln -s redhotmums.png 1_0_1_D7C7_A35_2_11A0000_0_0_0.png
 # redhot18s
 ln -s redhot18s.png 1_0_1_D7C8_A35_2_11A0000_0_0_0.png
 
+# redlightcentral
+ln -s redlightcentral.png 1_0_1_D15E_90C_2_11A0000_0_0_0.png
+ln -s redlightcentral.png 1_0_1_D154_90C_2_11A0000_0_0_0.png
+ln -s redlightcentral.png 1_0_1_D156_90C_2_11A0000_0_0_0.png
+
 # redlighttv
 ln -s redlighttv.png 1_0_1_35C0_1388_13E_820000_0_0_0.png
-ln -s redlighttv.png 1_0_1_D15E_90C_2_11A0000_0_0_0.png
-ln -s redlighttv.png 1_0_1_D154_90C_2_11A0000_0_0_0.png
 
 # redlighthd
 ln -s redlighthd.png 1_0_1_4224_3DB8_13E_820000_0_0_0.png
@@ -9956,7 +9957,6 @@ ln -s einsplus.png 1_0_1_7033_41B_A401_FFFF0000_0_0_0.png
 ln -s erfeins.png 1_0_1_5740_EA_A018_FFFF0000_0_0_0.png
 ln -s ertworld.png 1_0_1_5A3F_E7_270F_FFFF0000_0_0_0.png
 ln -s ertworld.png 1_0_1_CFD9_2711_F001_FFFF0000_0_0_0.png
-ln -s espnamerica.png 1_0_1_371C_8D_270F_FFFF0000_0_0_0.png
 ln -s espnamerica.png 1_0_1_C482_2715_F001_FFFF0000_0_0_0.png
 ln -s espnamerica.png 1_0_1_CF71_2715_F001_FFFF0000_0_0_0.png
 ln -s espnclassic.png 1_0_1_3AFD_97_270F_FFFF0000_0_0_0.png
@@ -10305,7 +10305,6 @@ ln -s skysporthdde.png 1_0_19_81_6_85_FFFF0000_0_0_0.png
 ln -s skysporthdde.png 1_0_19_72_D_85_FFFF0000_0_0_0.png
 ln -s skysporthdde.png 1_0_19_90EE_173_270F_FFFF0000_0_0_0.png
 ln -s skysportnewsde.png 1_0_1_11_3_85_FFFF0000_0_0_0.png
-ln -s skysportnewsde.png 1_0_1_F1_3_85_FFFF0000_0_0_0.png
 ln -s skysportnewshdde.png 1_0_19_6C_C_85_FFFF0000_0_0_0.png
 ln -s skysportnewshdde.png 1_0_19_90EF_173_270F_FFFF0000_0_0_0.png
 ln -s sonlifetv.png 1_0_1_561E_DA_A018_FFFF0000_0_0_0.png
@@ -10322,6 +10321,7 @@ ln -s sport1.png 1_0_1_55F1_D8_A018_FFFF0000_0_0_0.png
 ln -s sport1de.png 1_0_1_2F4C_BF_270F_FFFF0000_0_0_0.png
 ln -s sport1hd.png 1_0_19_5639_DB_A018_FFFF0000_0_0_0.png
 ln -s sport1hdde.png 1_0_19_4E96_19B_270F_FFFF0000_0_0_0.png
+ln -s sport1usde.png 1_0_1_371C_8D_270F_FFFF0000_0_0_0.png
 ln -s sport1plusde.png 1_0_1_3B0C_97_270F_FFFF0000_0_0_0.png
 ln -s sport1plusde.png 1_0_1_572D_E9_A018_FFFF0000_0_0_0.png
 ln -s sport1plusde.png 1_0_1_C47D_2715_F001_FFFF0000_0_0_0.png
