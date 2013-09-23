@@ -540,17 +540,6 @@ ln -s arirangtv.png 1_0_1_29DB_3CF0_13E_820000_0_0_0.png
 # 19.2E
 ln -s arirangtv.png 1_0_1_1B63_3FC_1_C00000_0_0_0.png
 
-# arisenews.png
-# 13.0E
-ln -s arisenews.png 1_0_1_29F9_3CF0_13E_820000_0_0_0.png
-# 28.2E
-ln -s arisenews.png 1_0_1_D337_A29_2_11A0000_0_0_0.png
-
-# arisenewshd.png
-# 28.2E
-ln -s arisenewshd.png 1_0_19_D6E5_A33_2_11A0000_0_0_0.png
-ln -s arisenewshd.png 1_0_19_CF9D_908_2_11A0000_0_0_0.png
-
 # arrabiaa.png
 # 13.0E
 ln -s arrabiaa.png 1_0_1_4_2E18_B0_820000_0_0_0.png
@@ -1326,19 +1315,11 @@ ln -s bralpha.png 1_0_1_6F47_445_1_EBB115_0_0_0.png
 # 19.2E
 ln -s bralpha.png 1_0_1_6F47_445_1_C00000_0_0_0.png
 
-# brava.png
-# 19.2E
-ln -s brava.png 1_0_19_26B0_45C_1_C00000_0_0_0.png
-ln -s brava.png 1_0_19_26C4_45C_1_C00000_0_0_0.png
-ln -s brava.png 1_0_19_19D0_444_1_C00000_0_0_0.png
-ln -s brava.png 1_0_19_19D1_444_1_C00000_0_0_0.png
-ln -s brava.png 1_0_19_26B0_43E_1_C00000_0_0_0.png
-ln -s brava.png 1_0_19_26C4_43E_1_C00000_0_0_0.png
+# bravahd.png
 # 23.5E
-ln -s brava.png 1_0_19_1B71_C88_3_EB0000_0_0_0.png
-ln -s brava.png 1_0_1_1B71_C88_3_EB0000_0_0_0.png
-ln -s brava.png 1_0_1_14D2_C84_3_EB0000_0_0_0.png
-ln -s brava.png 1_0_19_1B72_C88_3_EB0000_0_0_0.png
+ln -s bravahd.png 1_0_19_1B71_C88_3_EB0000_0_0_0.png
+ln -s bravahd.png 1_0_1_1B71_C88_3_EB0000_0_0_0.png
+ln -s bravahd.png 1_0_19_1B72_C88_3_EB0000_0_0_0.png
 
 # britasiatv.png
 # 28.2E
@@ -2793,10 +2774,6 @@ ln -s discoverytravelandliving.png 1_0_16_26_1_40_A00000_0_0_0.png
 ln -s discoverytravelandliving.png 1_0_1_5B9_1AF4_FBFF_820000_0_0_0.png
 ln -s discoverytravelandliving.png 1_0_1_3915_32C8_13E_820000_0_0_0.png
 ln -s discoverytravelandliving.png 1_0_1_5B9_320_FBFF_820000_0_0_0.png
-ln -s discoverytravelandliving.png 1_0_19_1021_2C24_FBFF_820000_0_0_0.png
-ln -s discoverytravelandliving.png 1_0_1_2C70_251C_FBFF_820000_0_0_0.png
-ln -s discoverytravelandliving.png 1_0_19_1C32_206C_FBFF_820000_0_0_0.png
-ln -s discoverytravelandliving.png 1_0_19_1C53_206C_FBFF_820000_0_0_0.png
 # 28.2E
 ln -s discoverytravelandliving.png 1_0_1_183D_7D9_2_11A0000_0_0_0.png
 # 4.8E
@@ -2804,13 +2781,24 @@ ln -s discoverytravelandliving.png 1_0_1_1B_1_2260_300000_0_0_0.png
 # 0.8W
 ln -s discoverytravelandliving.png 1_0_1_3F8_31_46_E080000_0_0_0.png
 
+# discoverytravelandlivinghd.png
+# 13.0E
+ln -s discoverytravelandlivinghd.png 1_0_19_1021_2C24_FBFF_820000_0_0_0.png
+ln -s discoverytravelandlivinghd.png 1_0_1_2C70_251C_FBFF_820000_0_0_0.png
+ln -s discoverytravelandlivinghd.png 1_0_19_1C32_206C_FBFF_820000_0_0_0.png
+ln -s discoverytravelandlivinghd.png 1_0_19_1E3F_15E0_FBFF_820000_0_0_0.png
+ln -s discoverytravelandlivinghd.png 1_0_19_1C53_206C_FBFF_820000_0_0_0.png
+
 # discoveryturbo.png
 # 28.2E
 ln -s discoveryturbo.png 1_0_1_1841_7D9_2_11A0000_0_0_0.png
 
+# discoveryturboxtra.png
+# 13.0E
+ln -s discoveryturboxtra.png 1_0_1_3D57_2C88_13E_820000_0_0_0.png
+
 # discoveryworld.png
 # 13.0E
-ln -s discoveryworld.png 1_0_1_3D57_2C88_13E_820000_0_0_0.png
 ln -s discoveryworld.png 1_0_19_DB0_2D50_13E_820000_0_0_0.png
 ln -s discoveryworld.png 1_0_19_2971_22C4_13E_820000_0_0_0.png
 ln -s discoveryworld.png 1_0_1_DB0_2D50_13E_820000_0_0_0.png
@@ -3124,7 +3112,7 @@ ln -s donautv_isartv_trp1.png 1_0_1_1201_3FD_1_C00000_0_0_0.png
 
 # dovetv.png
 # 13.0E
-ln -s dovetv.png 1_0_1_DCF_2DB4_FBFF_820000_0_0_0.png
+ln -s dovetv.png 1_0_1_3C01_64_FBFF_820000_0_0_0.png
 
 # dr1.png
 # 4.8E
@@ -3764,7 +3752,7 @@ ln -s extremesportshd.png 1_0_19_2CF2_2774_FBFF_820000_0_0_0.png
 
 # faithworldtv.png
 # 28.2E
-ln -s faithworldtv.png 1_0_1_D333_A29_2_11A0000_0_0_0.png
+ln -s faithworldtv.png 1_0_1_D804_A36_2_11A0000_0_0_0.png
 
 # fanda.png
 # 23.5E
@@ -4010,6 +3998,10 @@ ln -s fox.png 1_0_1_10_1_85_C00000_0_0_0.png
 # 23.5E
 ln -s fox.png 1_0_1_178E_C82_3_EB0000_0_0_0.png
 ln -s fox.png 1_0_19_178E_C82_3_EB0000_0_0_0.png
+
+# foxbusiness.png
+# 13.0E
+ln -s foxbusiness.png 1_0_1_38D0_2648_FBFF_820000_0_0_0.png
 
 # foxcrime.png
 # 13.0E
@@ -4554,11 +4546,6 @@ ln -s hd+smarttv.png 1_0_1_125C_3F7_1_C00000_0_0_0.png
 
 # hdcampustv.png
 
-# hdsuisse.png
-# 13.0E
-ln -s hdsuisse.png 1_0_1_3DE_2134_13E_820000_0_0_0.png
-ln -s hdsuisse.png 1_0_19_3DE_2134_13E_820000_0_0_0.png
-
 # hearttv.png
 # 28.2E
 ln -s hearttv.png 1_0_1_D747_A34_2_11A0000_0_0_0.png
@@ -4606,7 +4593,6 @@ ln -s history.png 1_0_1_1AA9_1A90_9E_5A0000_0_0_0.png
 ln -s history.png 1_0_1_122D_968_2_11A0000_0_0_0.png
 # 19.2E
 ln -s history.png 1_0_1_44_9_85_C00000_0_0_0.png
-ln -s history.png 1_0_1_7731_416_1_C00000_0_0_0.png
 ln -s history.png 1_0_1_3A_F_85_C00000_0_0_0.png
 # 23.5E
 ln -s history.png 1_0_19_D035_2713_F001_EB0000_0_0_0.png
@@ -4663,6 +4649,10 @@ ln -s historyplus1.png 1_0_1_1FBB_189C_FBFF_820000_0_0_0.png
 ln -s historyplus1.png 1_0_1_FD9_2648_FBFF_820000_0_0_0.png
 # 28.2E
 ln -s historyplus1.png 1_0_1_138B_968_2_11A0000_0_0_0.png
+
+# historia.png
+# 19.2E
+ln -s historia.png 1_0_1_7731_416_1_C00000_0_0_0.png
 
 # histoire.png
 # 13.0E
@@ -6951,6 +6941,15 @@ ln -s omantv.png 1_0_1_7_25E4_2BE_820000_0_0_0.png
 ln -s omroepbrabant.png 1_0_1_5154_C8B_3_EB0000_0_0_0.png
 ln -s omroepbrabant.png 1_0_16_5154_C8B_3_EB0000_0_0_0.png
 
+# omroepgelderland.png
+# 23.5E
+ln -s omroepgelderland.png 1_0_1_5150_C8B_3_EB0000_0_0_0.png
+
+# omroepwest.png
+# 23.5E
+ln -s omroepwest.png 1_0_16_5144_C8B_3_EB0000_0_0_0.png
+ln -s omroepwest.png 1_0_1_5144_C8B_3_EB0000_0_0_0.png
+
 # omroepzeeland.png
 # 23.5E
 ln -s omroepzeeland.png 1_0_1_5152_C8B_3_EB0000_0_0_0.png
@@ -7869,9 +7868,12 @@ ln -s rthd.png 1_0_1_18ED_3F4_1_C00000_0_0_0.png
 ln -s rthd.png 1_0_19_18ED_3F4_1_C00000_0_0_0.png
 ln -s rthd.png 1_0_1_18F8_3F4_1_C00000_0_0_0.png
 
+# rtdocumentaryhd.png
+# 13.0E
+ln -s rtdocumentaryhd.png 1_0_1_7D2_22C4_13E_820000_0_0_0.png
+
 # rtdocumentary.png
 # 13.0E
-ln -s rtdocumentary.png 1_0_1_7D2_22C4_13E_820000_0_0_0.png
 ln -s rtdocumentary.png 1_0_1_1E7_1964_13E_820000_0_0_0.png
 
 # rtcg.png
@@ -9357,7 +9359,7 @@ ln -s sonytv.png 1_0_1_CB25_907_2_11A0000_0_0_0.png
 
 # sonytvplus1.png
 # 28.2E
-ln -s sonytvplus1.png 1_0_1_D435_A2C_2_11A0000_0_0_0.png
+ln -s sonytvplus1.png 1_0_1_D017_909_2_11A0000_0_0_0.png
 
 # sonytvasia.png
 # 28.2E
@@ -10126,6 +10128,10 @@ ln -s tlc.png 1_0_1_1A1_4_46_7120000_0_0_0.png
 # 28.2E
 ln -s tlcplus1.png 1_0_1_CCDE_90B_2_11A0000_0_0_0.png
 
+# tlcplus2.png
+# 28.2E
+ln -s tlcplus2.png 1_0_1_CCE7_90B_2_11A0000_0_0_0.png
+
 # tlchd.png
 # 28.2E
 ln -s tlchd.png 1_0_19_F34_807_2_11A0000_0_0_0.png
@@ -10717,10 +10723,6 @@ ln -s tvfinland.png 1_0_1_1F6_14_46_7120000_0_0_0.png
 # 19.2E
 ln -s tvgalicia.png 1_0_1_1B6A_3FC_1_C00000_0_0_0.png
 
-# tvgelderland.png
-# 23.5E
-ln -s tvgelderland.png 1_0_1_5150_C8B_3_EB0000_0_0_0.png
-
 # tvglobo.png
 # 13.0E
 ln -s tvglobo.png 1_0_1_34D6_3C28_13E_820000_0_0_0.png
@@ -10798,11 +10800,6 @@ ln -s tvoost.png 1_0_1_514E_C8B_3_EB0000_0_0_0.png
 # tvwarehouse.png
 # 28.2E
 ln -s tvwarehouse.png 1_0_1_D458_A2C_2_11A0000_0_0_0.png
-
-# tvwest.png
-# 23.5E
-ln -s tvwest.png 1_0_16_5144_C8B_3_EB0000_0_0_0.png
-ln -s tvwest.png 1_0_1_5144_C8B_3_EB0000_0_0_0.png
 
 # tvoranje.png
 # 19.2E
