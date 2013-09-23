@@ -623,14 +623,7 @@ ln -s astrotv.png 1_0_19_D16C_2713_F001_EB0000_0_0_0.png
 ln -s astrotv.png 1_0_1_D16C_2713_F001_EB0000_0_0_0.png
 
 # attheraces.png
-# UNKNOWN
-ln -s attheraces.png 1_0_1_2463_804_2_C0AA7C_0_0_0.png
-ln -s attheraces.png 1_0_1_2494_804_2_C0AA7C_0_0_0.png
 # 28.2E
-ln -s attheraces.png 1_0_1_2463_7EF_2_11A0000_0_0_0.png
-ln -s attheraces.png 1_0_1_2490_7EF_2_11A0000_0_0_0.png
-ln -s attheraces.png 1_0_1_2463_804_2_11A0000_0_0_0.png
-ln -s attheraces.png 1_0_1_2494_804_2_11A0000_0_0_0.png
 ln -s attheraces.png 1_0_1_D7A1_900_2_11A0000_0_0_0.png
 ln -s attheraces.png 1_0_1_12C4_968_2_11A0000_0_0_0.png
 ln -s attheraces.png 1_0_1_2463_968_2_11A0000_0_0_0.png
@@ -716,8 +709,6 @@ ln -s axncrime.png 1_0_1_296A_22C4_13E_820000_0_0_0.png
 ln -s axncrime.png 1_0_1_333A_C89_3_EB0000_0_0_0.png
 
 # axnhd.png
-# UNKNOWN
-ln -s axnhd.png 1_0_19_7850_FFFF_FFFF_C0A9E9_0_0_0.png
 # 13.0E
 ln -s axnhd.png 1_0_19_C25_1E78_71_820000_0_0_0.png
 ln -s axnhd.png 1_0_19_1C59_206C_FBFF_820000_0_0_0.png
@@ -1254,40 +1245,19 @@ ln -s bongusto.png 1_0_1_BB8_1BBC_9C_5A0000_0_0_0.png
 ln -s bontv.png 1_0_1_D808_A36_2_11A0000_0_0_0.png
 
 # boomerang.png
-# UNKNOWN
-ln -s boomerang.png 1_0_1_25_8_31_CE40000_0_0_0.png
-ln -s boomerang.png 1_0_1_7A_0_0_1863115_0_0_0.png
-ln -s boomerang.png 1_0_1_7B_1_D5_1C20000_0_0_0.png
-ln -s boomerang.png 1_0_1_94_10_1C_1860000_0_0_0.png
-ln -s boomerang.png 1_0_1_9C_3_D3_DE80000_0_0_0.png
-ln -s boomerang.png 1_0_1_DAC_C_1_E082E7C_0_0_0.png
-ln -s boomerang.png 1_0_1_1B0_4_800_DCA0000_0_0_0.png
-ln -s boomerang.png 1_0_16_33_1_40_A00000_0_0_0.png
 # 13.0E
-ln -s boomerang.png 1_0_1_1BD2_17D4_13E_820000_0_0_0.png
 ln -s boomerang.png 1_0_1_2906_1EDC_71_820000_0_0_0.png
-ln -s boomerang.png 1_0_19_296C_22C4_13E_820000_0_0_0.png
-ln -s boomerang.png 1_0_19_1FAF_2454_13E_820000_0_0_0.png
-ln -s boomerang.png 1_0_1_2CF9_2774_FBFF_820000_0_0_0.png
-ln -s boomerang.png 1_0_1_296C_22C4_13E_820000_0_0_0.png
+ln -s boomerang.png 1_0_1_1BD2_17D4_13E_820000_0_0_0.png
 ln -s boomerang.png 1_0_1_1FAF_2454_13E_820000_0_0_0.png
+ln -s boomerang.png 1_0_1_3C07_64_FBFF_820000_0_0_0.png
 # 9.0E
 ln -s boomerang.png 1_0_1_4E91_2134_9C_5A0000_0_0_0.png
 # 28.2E
 ln -s boomerang.png 1_0_1_1BBE_7E2_2_11A0000_0_0_0.png
 # 19.2E
-ln -s boomerang.png 1_0_1_4F77_427_1_C00000_0_0_0.png
 ln -s boomerang.png 1_0_1_6F6F_42C_1_C00000_0_0_0.png
-ln -s boomerang.png 1_0_1_42_9_85_C00000_0_0_0.png
 ln -s boomerang.png 1_0_1_38_F_85_C00000_0_0_0.png
 # 23.5E
-ln -s boomerang.png 1_0_19_1793_C82_3_EB0000_0_0_0.png
-ln -s boomerang.png 1_0_19_D09F_2714_F001_EB0000_0_0_0.png
-ln -s boomerang.png 1_0_1_D09C_2714_F001_EB0000_0_0_0.png
-ln -s boomerang.png 1_0_1_D09F_2714_F001_EB0000_0_0_0.png
-ln -s boomerang.png 1_0_1_1793_C82_3_EB0000_0_0_0.png
-ln -s boomerang.png 1_0_16_1794_C82_3_EB0000_0_0_0.png
-ln -s boomerang.png 1_0_1_1597_C92_3_EB0000_0_0_0.png
 ln -s boomerang.png 1_0_16_1793_C82_3_EB0000_0_0_0.png
 # 4.8E
 ln -s boomerang.png 1_0_1_F0A_17_56_300000_0_0_0.png
@@ -1309,9 +1279,6 @@ ln -s boomerangplus1.png 1_0_1_1BBD_7E2_2_11A0000_0_0_0.png
 ln -s bntworld.png 1_0_1_157E_C92_3_EB0000_0_0_0.png
 
 # bralpha.png
-# UNKNOWN
-ln -s bralpha.png 1_0_1_6F47_A_1_EBB115_0_0_0.png
-ln -s bralpha.png 1_0_1_6F47_445_1_EBB115_0_0_0.png
 # 19.2E
 ln -s bralpha.png 1_0_1_6F47_445_1_C00000_0_0_0.png
 
@@ -1408,8 +1375,6 @@ ln -s canvas.png 1_0_16_3202_45F_35_C00000_0_0_0.png
 ln -s canvas.png 1_0_1_3202_45F_35_C00000_0_0_0.png
 
 # canvashd.png
-# UNKNOWN
-ln -s canvashd.png 1_0_19_5226_FFFF_FFFF_EB2F9B_0_0_0.png
 # 23.5E
 ln -s canvashd.png 1_0_19_5226_C99_3_EB0000_0_0_0.png
 ln -s canvashd.png 1_0_1_5226_C99_3_EB0000_0_0_0.png
@@ -1528,13 +1493,9 @@ ln -s canal+comedia.png 1_0_1_7473_3F0_1_C00000_0_0_0.png
 ln -s canal+comedia.png 1_0_1_746D_3F0_1_C00000_0_0_0.png
 
 # canal+comediahd.png
-# UNKNOWN
-ln -s canal+comediahd.png 1_0_19_7851_FFFF_FFFF_C0A9E9_0_0_0.png
 # 19.2E
 ln -s canal+comediahd.png 1_0_1_7614_408_1_C00000_0_0_0.png
-ln -s canal+comediahd.png 1_0_1_75A2_422_1_C00000_0_0_0.png
 ln -s canal+comediahd.png 1_0_19_7851_41A_1_C00000_0_0_0.png
-ln -s canal+comediahd.png 1_0_19_77ED_404_1_C00000_0_0_0.png
 ln -s canal+comediahd.png 1_0_19_7857_41A_1_C00000_0_0_0.png
 
 # canal+dcinehd.png
@@ -2715,31 +2676,13 @@ ln -s discoveryrealtimeplus1.png 1_0_1_2FEC_2C24_FBFF_820000_0_0_0.png
 ln -s discoveryrealtimeplus1.png 1_0_1_CCDD_90B_2_11A0000_0_0_0.png
 
 # discoveryscience.png
-# UNKNOWN
-ln -s discoveryscience.png 1_0_1_405_2_1_E0831B3_0_0_0.png
-ln -s discoveryscience.png 1_0_1_30D_28_36_CE40000_0_0_0.png
-ln -s discoveryscience.png 1_0_1_22_2_1_1863167_0_0_0.png
-ln -s discoveryscience.png 1_0_1_38_3_64_DE80000_0_0_0.png
-ln -s discoveryscience.png 1_0_1_E3_2_D5_1C20000_0_0_0.png
-ln -s discoveryscience.png 1_0_16_24_1_40_A00000_0_0_0.png
 # 13.0E
 ln -s discoveryscience.png 1_0_1_3D55_2C88_13E_820000_0_0_0.png
-ln -s discoveryscience.png 1_0_19_DAE_2D50_13E_820000_0_0_0.png
-ln -s discoveryscience.png 1_0_1_5BB_1AF4_FBFF_820000_0_0_0.png
-ln -s discoveryscience.png 1_0_19_296F_22C4_13E_820000_0_0_0.png
-ln -s discoveryscience.png 1_0_1_DAE_2D50_13E_820000_0_0_0.png
-ln -s discoveryscience.png 1_0_1_296F_22C4_13E_820000_0_0_0.png
 ln -s discoveryscience.png 1_0_1_5BB_320_FBFF_820000_0_0_0.png
-ln -s discoveryscience.png 1_0_19_1022_2C24_FBFF_820000_0_0_0.png
-ln -s discoveryscience.png 1_0_1_2C6F_251C_FBFF_820000_0_0_0.png
 # 9.0E
 ln -s discoveryscience.png 1_0_1_411_2_AA_5A0000_0_0_0.png
 # 28.2E
 ln -s discoveryscience.png 1_0_1_183E_7D9_2_11A0000_0_0_0.png
-# 23.5E
-ln -s discoveryscience.png 1_0_19_1798_C82_3_EB0000_0_0_0.png
-ln -s discoveryscience.png 1_0_1_1798_C82_3_EB0000_0_0_0.png
-ln -s discoveryscience.png 1_0_16_1799_C82_3_EB0000_0_0_0.png
 # 4.8E
 ln -s discoveryscience.png 1_0_1_A0A_18_44_300000_0_0_0.png
 ln -s discoveryscience.png 1_0_1_1D_1_2260_300000_0_0_0.png
@@ -2768,11 +2711,6 @@ ln -s discoveryscienceplus1.png 1_0_1_CCBA_90B_2_11A0000_0_0_0.png
 ln -s discoveryshed.png 1_0_1_CCD8_90B_2_11A0000_0_0_0.png
 
 # discoverytravelandliving.png
-# UNKNOWN
-ln -s discoverytravelandliving.png 1_0_1_23_2_1_1863167_0_0_0.png
-ln -s discoverytravelandliving.png 1_0_1_147_67_53_CE40000_0_0_0.png
-ln -s discoverytravelandliving.png 1_0_1_2C0_25_36_CE40000_0_0_0.png
-ln -s discoverytravelandliving.png 1_0_16_26_1_40_A00000_0_0_0.png
 # 13.0E
 ln -s discoverytravelandliving.png 1_0_1_5B9_1AF4_FBFF_820000_0_0_0.png
 ln -s discoverytravelandliving.png 1_0_1_3915_32C8_13E_820000_0_0_0.png
@@ -2887,8 +2825,6 @@ ln -s disneycinemagic.png 1_0_1_22CC_45A_1_C00000_0_0_0.png
 ln -s disneycinemagic.png 1_0_1_7735_416_1_C00000_0_0_0.png
 
 # disneycinemagichd.png
-# UNKNOWN
-ln -s disneycinemagichd.png 1_0_19_77EF_FFFF_FFFF_C0AD6A_0_0_0.png
 # 28.2E
 ln -s disneycinemagichd.png 1_0_19_F21_7F0_2_11A0000_0_0_0.png
 # 19.2E
@@ -3030,8 +2966,6 @@ ln -s divinity.png 1_0_1_749A_41C_1_C00000_0_0_0.png
 ln -s dk4.png 1_0_1_25B_2_46_7120000_0_0_0.png
 
 # dmax.png
-# UNKNOWN
-ln -s dmax.png 1_0_1_2775_444_1_11AAFD1_0_0_0.png
 # 13.0E
 ln -s dmax.png 1_0_1_2CF6_2774_FBFF_820000_0_0_0.png
 # 9.0E
@@ -3234,8 +3168,6 @@ ln -s een.png 1_0_16_3201_45F_35_C00000_0_0_0.png
 ln -s een.png 1_0_1_3201_45F_35_C00000_0_0_0.png
 
 # eenhd.png
-# UNKNOWN
-ln -s eenhd.png 1_0_19_5221_FFFF_FFFF_EB2F9B_0_0_0.png
 # 23.5E
 ln -s eenhd.png 1_0_19_5221_C99_3_EB0000_0_0_0.png
 ln -s eenhd.png 1_0_1_5221_C99_3_EB0000_0_0_0.png
@@ -4617,33 +4549,18 @@ ln -s history.png 1_0_1_9CF_19_46_7120000_0_0_0.png
 ln -s history2.png 1_0_1_D421_A2C_2_11A0000_0_0_0.png
 
 # historyhd.png
-# UNKNOWN
-ln -s historyhd.png 1_0_1_66_2_64_DE80000_0_0_0.png
 # 13.0E
 ln -s historyhd.png 1_0_1_C2F_1E78_71_820000_0_0_0.png
-ln -s historyhd.png 1_0_1_2C71_251C_FBFF_820000_0_0_0.png
-ln -s historyhd.png 1_0_19_DB9_2DB4_FBFF_820000_0_0_0.png
+ln -s historyhd.png 1_0_19_1E40_15E0_FBFF_820000_0_0_0.png
 ln -s historyhd.png 1_0_19_DB9_1AF4_FBFF_820000_0_0_0.png
+ln -s historyhd.png 1_0_1_2C71_251C_FBFF_820000_0_0_0.png
 # 28.2E
 ln -s historyhd.png 1_0_19_F2E_7EC_2_11A0000_0_0_0.png
-ln -s historyhd.png 1_0_86_F2E_7EC_2_11A0000_0_0_0.png
 # 19.2E
-ln -s historyhd.png 1_0_1_54_9_85_C00000_0_0_0.png
-ln -s historyhd.png 1_0_19_80_8_85_C00000_0_0_0.png
-ln -s historyhd.png 1_0_19_71_D_85_C00000_0_0_0.png
 ln -s historyhd.png 1_0_19_71_B_85_C00000_0_0_0.png
 # 23.5E
-ln -s historyhd.png 1_0_19_13B0_C95_3_EB0000_0_0_0.png
-ln -s historyhd.png 1_0_19_80_8_3_EB0000_0_0_0.png
-ln -s historyhd.png 1_0_19_80_271B_85_EB0000_0_0_0.png
-ln -s historyhd.png 1_0_19_13B2_640_13E_EB0000_0_0_0.png
-ln -s historyhd.png 1_0_1_13B0_C95_3_EB0000_0_0_0.png
-ln -s historyhd.png 1_0_19_13C1_C95_3_EB0000_0_0_0.png
-ln -s historyhd.png 1_0_19_71_271B_85_EB0000_0_0_0.png
-ln -s historyhd.png 1_0_19_141F_C85_3_EB0000_0_0_0.png
-ln -s historyhd.png 1_0_19_1420_C85_3_EB0000_0_0_0.png
 ln -s historyhd.png 1_0_19_13AA_C85_3_EB0000_0_0_0.png
-ln -s historyhd.png 1_0_1_141F_C85_3_EB0000_0_0_0.png
+ln -s historyhd.png 1_0_19_141F_C85_3_EB0000_0_0_0.png
 # 0.8W
 ln -s historyhd.png 1_0_19_106A_29_46_7120000_0_0_0.png
 ln -s historyhd.png 1_0_19_106E_29_46_7120000_0_0_0.png
@@ -5903,22 +5820,17 @@ ln -s motoritv.png 1_0_1_1278_3458_13E_820000_0_0_0.png
 ln -s motoritv.png 1_0_1_272_3C8C_13E_820000_0_0_0.png
 
 # motorstv.png
-# UNKNOWN
-ln -s motorstv.png 1_0_1_2_9E34_16E_A00000_0_0_0.png
-ln -s motorstv.png 1_0_1_130_67_53_CE40000_0_0_0.png
 # 13.0E
-ln -s motorstv.png 1_0_1_1C85_332C_13E_820000_0_0_0.png
+ln -s motorstv.png 1_0_1_168_1C84_13E_820000_0_0_0.png
 # 9.0E
 ln -s motorstv.png 1_0_1_4E92_2134_9C_5A0000_0_0_0.png
 # 28.2E
 ln -s motorstv.png 1_0_1_C495_964_2_11A0000_0_0_0.png
 # 19.2E
-ln -s motorstv.png 1_0_1_2525_440_1_C00000_0_0_0.png
-ln -s motorstv.png 1_0_1_2270_438_1_C00000_0_0_0.png
+ln -s motorstv.png 1_0_1_74A4_41C_1_C00000_0_0_0.png
 ln -s motorstv.png 1_0_1_2525_456_1_C00000_0_0_0.png
 # 23.5E
-ln -s motorstv.png 1_0_19_C3B6_2713_F001_EB0000_0_0_0.png
-ln -s motorstv.png 1_0_1_C3B6_2713_F001_EB0000_0_0_0.png
+ln -s motorstv.png 1_0_19_17D7_C91_3_EB0000_0_0_0.png
 # 0.8W
 ln -s motorstv.png 1_0_1_3FF_A_46_7120000_0_0_0.png
 ln -s motorstv.png 1_0_1_3FF_3D_46_E080000_0_0_0.png
@@ -6298,8 +6210,6 @@ ln -s natgeowild.png 1_0_1_CBC_A_1_7120000_0_0_0.png
 ln -s natgeowild.png 1_0_1_DE8_C_1_7120000_0_0_0.png
 
 # natgeowildhd.png
-# UNKNOWN
-ln -s natgeowildhd.png 1_0_1_2F9_1A2C_1_5A2F16_0_0_0.png
 # 13.0E
 ln -s natgeowildhd.png 1_0_19_3B65_12C_13E_820000_0_0_0.png
 ln -s natgeowildhd.png 1_0_19_3BB5_12C_13E_820000_0_0_0.png
@@ -6399,8 +6309,6 @@ ln -s net5.png 1_0_1_138C_455_35_C00000_0_0_0.png
 ln -s net5.png 1_0_1_FA3_451_35_C00000_0_0_0.png
 
 # net5hd.png
-# UNKNOWN
-ln -s net5hd.png 1_0_19_521C_FFFF_FFFF_EB2F9B_0_0_0.png
 # 23.5E
 ln -s net5hd.png 1_0_19_521C_C99_3_EB0000_0_0_0.png
 ln -s net5hd.png 1_0_1_521C_C99_3_EB0000_0_0_0.png
@@ -6462,8 +6370,6 @@ ln -s nationalgeographic.png 1_0_1_C9_2_46_7120000_0_0_0.png
 ln -s nationalgeographic.png 1_0_1_407_3_1_7120000_0_0_0.png
 
 # nationalgeographichd.png
-# UNKNOWN
-ln -s nationalgeographichd.png 1_0_19_77F0_FFFF_FFFF_C0AD6A_0_0_0.png
 # 13.0E
 ln -s nationalgeographichd.png 1_0_19_379C_14B4_FBFF_820000_0_0_0.png
 ln -s nationalgeographichd.png 1_0_1_2C2B_251C_FBFF_820000_0_0_0.png
@@ -6526,8 +6432,6 @@ ln -s nhkworldhd.png 1_0_1_CF9B_908_2_11A0000_0_0_0.png
 ln -s nhkworldhd.png 1_0_19_CF9B_908_2_11A0000_0_0_0.png
 
 # nickelodeon.png
-# UNKNOWN
-ln -s nickelodeon.png 1_0_1_15B8_7D3_2_5A2DE3_0_0_0.png
 # 13.0E
 ln -s nickelodeon.png 1_0_1_B_3200_13E_820000_0_0_0.png
 ln -s nickelodeon.png 1_0_1_2C38_251C_FBFF_820000_0_0_0.png
@@ -6603,8 +6507,6 @@ ln -s nickhd.png 1_0_1_445_4_AA_5A0000_0_0_0.png
 ln -s nickhd.png 1_0_19_F1D_7E4_2_11A0000_0_0_0.png
 
 # nickjr.png
-# UNKNOWN
-ln -s nickjr.png 1_0_1_15BB_7D3_2_5A2DE3_0_0_0.png
 # 13.0E
 ln -s nickjr.png 1_0_1_1E_578_13E_82ACCE_0_0_0.png
 ln -s nickjr.png 1_0_1_590_1AF4_FBFF_820000_0_0_0.png
@@ -6638,8 +6540,6 @@ ln -s nickjr_vh1.png 1_0_1_1AE0_12_55_300000_0_0_0.png
 ln -s nickjr2.png 1_0_1_C791_96B_2_11A0000_0_0_0.png
 
 # nicktoons.png
-# UNKNOWN
-ln -s nicktoons.png 1_0_1_15BA_7D3_2_5A2DE3_0_0_0.png
 # 28.2E
 ln -s nicktoons.png 1_0_1_15BA_804_2_11A0000_0_0_0.png
 ln -s nicktoons.png 1_0_1_15BA_7D3_2_11A0000_0_0_0.png
@@ -7142,8 +7042,6 @@ ln -s peacetvurdu.png 1_0_1_D330_A29_2_11A0000_0_0_0.png
 ln -s pearltvhd.png 1_0_19_151C_455_1_C00000_0_0_0.png
 
 # penthousehd.png
-# UNKNOWN
-ln -s penthousehd.png 1_0_19_A_1A2C_1_5A2F16_0_0_0.png
 # 9.0E
 ln -s penthousehd.png 1_0_19_DB4_16A8_9C_5A0000_0_0_0.png
 # 19.2E
