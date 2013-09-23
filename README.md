@@ -3,12 +3,16 @@ FORMATTING
 
 picons.sh:
 
-    # disneycinemagicplus1
-    ln -s disneycinemagicplus1.png 1_0_1_232B_803_2_11A0000_0_0_0.png
-    ln -s disneycinemagicplus1.png 1_0_1_22CD_45A_1_C00000_0_0_0.png
+    # disneycinemagicplus1.png
+    # 9.0E
     ln -s disneycinemagicplus1.png 1_0_1_4E86_1AF4_9C_5A0000_0_0_0.png
+    # 19.2E
+    ln -s disneycinemagicplus1.png 1_0_1_22CD_45A_1_C00000_0_0_0.png
+    # 28.2E
+    ln -s disneycinemagicplus1.png 1_0_1_232B_803_2_11A0000_0_0_0.png
 
-    # canal+1hd
+    # canal+1hd.png
+    # 19.2E
     ln -s canal+1hd.png 1_0_1_7612_408_1_C00000_0_0_0.png
     ln -s canal+1hd.png 1_0_19_74D5_3F8_1_C00000_0_0_0.png
     ln -s canal+1hd.png 1_0_19_74CC_3F8_1_C00000_0_0_0.png
