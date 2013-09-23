@@ -4098,6 +4098,10 @@ ln -s foxnews.png 1_0_1_749B_41C_1_C00000_0_0_0.png
 ln -s foxplus1.png 1_0_1_E33_16A8_FBFF_820000_0_0_0.png
 ln -s foxplus1.png 1_0_1_FBD_2DB4_FBFF_820000_0_0_0.png
 
+# foxplus2.png
+# 13.0E
+ln -s foxplus2.png 1_0_1_FD5_2DB4_FBFF_820000_0_0_0.png
+
 # foxretro.png
 # 13.0E
 ln -s foxretro.png 1_0_1_1FC8_189C_FBFF_820000_0_0_0.png
