@@ -1316,6 +1316,9 @@ ln -s bralpha.png 1_0_1_6F47_445_1_EBB115_0_0_0.png
 ln -s bralpha.png 1_0_1_6F47_445_1_C00000_0_0_0.png
 
 # bravahd.png
+# 19.2E
+ln -s bravahd.png 1_0_19_26B0_45C_1_C00000_0_0_0.png
+ln -s bravahd.png 1_0_19_26C4_45C_1_C00000_0_0_0.png
 # 23.5E
 ln -s bravahd.png 1_0_19_1B71_C88_3_EB0000_0_0_0.png
 ln -s bravahd.png 1_0_1_1B71_C88_3_EB0000_0_0_0.png
