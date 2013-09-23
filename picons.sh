@@ -1692,7 +1692,6 @@ ln -s cartoonito.png 1_0_1_7699_41E_1_C00000_0_0_0.png
 # 13.0E
 ln -s cartoonnetwork.png 1_0_19_DB1_2D50_13E_820000_0_0_0.png
 ln -s cartoonnetwork.png 1_0_1_3BCC_64_FBFF_820000_0_0_0.png
-ln -s cartoonnetwork.png 1_0_1_168_1C84_13E_820000_0_0_0.png
 ln -s cartoonnetwork.png 1_0_1_DB1_2D50_13E_820000_0_0_0.png
 ln -s cartoonnetwork.png 1_0_1_1D2B_2FA8_13E_820000_0_0_0.png
 # 9.0E
@@ -5829,8 +5828,6 @@ ln -s motorstv.png 1_0_1_C495_964_2_11A0000_0_0_0.png
 # 19.2E
 ln -s motorstv.png 1_0_1_74A4_41C_1_C00000_0_0_0.png
 ln -s motorstv.png 1_0_1_2525_456_1_C00000_0_0_0.png
-# 23.5E
-ln -s motorstv.png 1_0_19_17D7_C91_3_EB0000_0_0_0.png
 # 0.8W
 ln -s motorstv.png 1_0_1_3FF_A_46_7120000_0_0_0.png
 ln -s motorstv.png 1_0_1_3FF_3D_46_E080000_0_0_0.png
@@ -8414,8 +8411,6 @@ ln -s skybundesligahdde.png 1_0_19_101_E_85_C00000_0_0_0.png
 ln -s skycalciohdit.png 1_0_19_379F_14B4_FBFF_820000_0_0_0.png
 ln -s skycalciohdit.png 1_0_19_37A1_14B4_FBFF_820000_0_0_0.png
 ln -s skycalciohdit.png 1_0_19_1E3E_15E0_FBFF_820000_0_0_0.png
-ln -s skycalciohdit.png 1_0_19_1E3F_15E0_FBFF_820000_0_0_0.png
-ln -s skycalciohdit.png 1_0_19_1E40_15E0_FBFF_820000_0_0_0.png
 ln -s skycalciohdit.png 1_0_19_1E41_15E0_FBFF_820000_0_0_0.png
 ln -s skycalciohdit.png 1_0_19_2B15_1900_FBFF_820000_0_0_0.png
 ln -s skycalciohdit.png 1_0_19_106F_2008_FBFF_820000_0_0_0.png
@@ -12099,10 +12094,10 @@ ln -s rai1.png 1_0_1_2DC_7_F3C_FFFF0000_0_0_0.png
 ln -s wdr.png 1_0_1_279_6_F3C_FFFF0000_0_0_0.png
 ln -s tv5mondeeurope.png 1_0_1_276_6_F3C_FFFF0000_0_0_0.png
 ln -s tveinternacional.png 1_0_1_2E0_7_F3C_FFFF0000_0_0_0.png
-ln -s tvgelderland.png 1_0_1_2E1_7_F3C_FFFF0000_0_0_0.png
+ln -s omroepgelderland.png 1_0_1_2E1_7_F3C_FFFF0000_0_0_0.png
 ln -s ndr.png 1_0_1_348_8_F3C_FFFF0000_0_0_0.png
 ln -s ertworld.png 1_0_1_34B_8_F3C_FFFF0000_0_0_0.png
-ln -s brava.png 1_0_1_275_6_F3C_FFFF0000_0_0_0.png
+ln -s bravahd.png 1_0_1_275_6_F3C_FFFF0000_0_0_0.png
 ln -s aljazeera.png 1_0_1_2DE_7_F3C_FFFF0000_0_0_0.png
 ln -s animalplanet_tlc.png 1_0_1_19F_4_F3C_FFFF0000_0_0_0.png
 ln -s ned1hd.png 1_0_19_238D_9_F3C_FFFF0000_0_0_0.png
@@ -12148,7 +12143,7 @@ ln -s ketnetop12.png 1_0_1_ED_17_3E8_FFFF0000_0_0_0.png
 ln -s tvoost.png 1_0_1_91_2_3E8_FFFF0000_0_0_0.png
 ln -s omropfryslan.png 1_0_1_90_2_3E8_FFFF0000_0_0_0.png
 ln -s tvdrenthe.png 1_0_1_8E_2_3E8_FFFF0000_0_0_0.png
-ln -s tvgelderland.png 1_0_1_94_2_3E8_FFFF0000_0_0_0.png
+ln -s omroepgelderland.png 1_0_1_94_2_3E8_FFFF0000_0_0_0.png
 ln -s tvnoord.png 1_0_1_8F_2_3E8_FFFF0000_0_0_0.png
 ln -s film1premierehd.png 1_0_19_55F1_16_3E8_FFFF0000_0_0_0.png
 ln -s film1action.png 1_0_1_B2_C_3E8_FFFF0000_0_0_0.png
@@ -12179,7 +12174,7 @@ ln -s history.png 1_0_1_39_19_3E8_FFFF0000_0_0_0.png
 ln -s animalplanethd.png 1_0_19_D7_12_3E8_FFFF0000_0_0_0.png
 ln -s travelchannel.png 1_0_1_FA7_4_3E8_FFFF0000_0_0_0.png
 ln -s hollanddoc24.png 1_0_1_59D9_17_3E8_FFFF0000_0_0_0.png
-ln -s brava.png 1_0_1_A1_CE_3E8_FFFF0000_0_0_0.png
+ln -s bravahd.png 1_0_1_A1_CE_3E8_FFFF0000_0_0_0.png
 ln -s mezzo.png 1_0_1_50_D_3E8_FFFF0000_0_0_0.png
 ln -s disneyxd.png 1_0_1_D6_1E_3E8_FFFF0000_0_0_0.png
 ln -s disneyjunior.png 1_0_1_DC_1B_3E8_FFFF0000_0_0_0.png
@@ -12283,11 +12278,11 @@ ln -s 24kitchen.png 1_0_1_D4_1_1F4_FFFF0000_0_0_0.png
 ln -s eenhd.png 1_0_19_F1_D_1F4_FFFF0000_0_0_0.png
 ln -s canvashd.png 1_0_19_F2_F_1F4_FFFF0000_0_0_0.png
 ln -s ketnetop12.png 1_0_1_ED_1A_1F4_FFFF0000_0_0_0.png
-ln -s tvwest.png 1_0_1_99_1F5_1F4_FFFF0000_0_0_0.png
+ln -s omroepwest.png 1_0_1_99_1F5_1F4_FFFF0000_0_0_0.png
 ln -s omroepbrabant.png 1_0_1_95_1F5_1F4_FFFF0000_0_0_0.png
 ln -s rtvutrecht.png 1_0_1_93_1F5_1F4_FFFF0000_0_0_0.png
 ln -s omroepzeeland.png 1_0_1_8C_1F5_1F4_FFFF0000_0_0_0.png
-ln -s tvgelderland.png 1_0_1_94_1F5_1F4_FFFF0000_0_0_0.png
+ln -s omroepgelderland.png 1_0_1_94_1F5_1F4_FFFF0000_0_0_0.png
 ln -s tvnoord.png 1_0_1_97_1F5_1F4_FFFF0000_0_0_0.png
 ln -s film1premierehd.png 1_0_19_2713_A_1F4_FFFF0000_0_0_0.png
 ln -s film1action.png 1_0_1_B2_16_1F4_FFFF0000_0_0_0.png
@@ -12318,7 +12313,7 @@ ln -s history.png 1_0_1_1389_5_1F4_FFFF0000_0_0_0.png
 ln -s animalplanethd.png 1_0_19_D7_16_1F4_FFFF0000_0_0_0.png
 ln -s travelchannel.png 1_0_1_BBF_3_1F4_FFFF0000_0_0_0.png
 ln -s hollanddoc24.png 1_0_1_1B70_7_1F4_FFFF0000_0_0_0.png
-ln -s brava.png 1_0_1_A1_18_1F4_FFFF0000_0_0_0.png
+ln -s bravahd.png 1_0_1_A1_18_1F4_FFFF0000_0_0_0.png
 ln -s mezzo.png 1_0_1_50_E_1F4_FFFF0000_0_0_0.png
 ln -s disneyxd.png 1_0_1_D6_9_1F4_FFFF0000_0_0_0.png
 ln -s disneyjunior.png 1_0_1_DC_9_1F4_FFFF0000_0_0_0.png
