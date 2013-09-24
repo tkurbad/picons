@@ -3339,8 +3339,12 @@ ln -s espn.png 1_0_1_C4CD_964_2_11A0000_0_0_0.png
 ln -s espnamerica.png 1_0_1_DB9_2D50_13E_820000_0_0_0.png
 
 # espnamericahd.png
+# 28.2E
+ln -s espnamericahd.png 1_0_19_F11_7ED_2_11A0000_0_0_0.png
 
 # espnclassic.png
+# 19.2E
+ln -s espnclassic.png 1_0_1_2139_400_1_C00000_0_0_0.png
 
 # espnhd.png
 # 28.2E
