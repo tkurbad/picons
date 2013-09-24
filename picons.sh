@@ -357,6 +357,7 @@ ln -s alibi.png 1_0_1_D338_A29_2_11A0000_0_0_0.png
 # alibihd.png
 # 28.2E
 ln -s alibihd.png 1_0_19_F45_7F3_2_11A0000_0_0_0.png
+ln -s alibihd.png 1_0_1_F45_7F3_2_11A0000_0_0_0.png
 
 # alibiplus1.png
 # 28.2E
@@ -1118,10 +1119,13 @@ ln -s bibeltv.png 1_0_1_D09B_2718_F001_EB0000_0_0_0.png
 
 # bibigon.png
 
-# bidtv.png
+# bid.png
 # 28.2E
-ln -s bidtv.png 1_0_1_1C52_7E1_2_11A0000_0_0_0.png
-ln -s bidtv.png 1_0_1_CD2D_902_2_11A0000_0_0_0.png
+ln -s bid.png 1_0_1_CD2D_902_2_11A0000_0_0_0.png
+
+# bidplus.png
+# 28.2E
+ln -s bidplus.png 1_0_1_CD41_902_2_11A0000_0_0_0.png
 
 # bikechannel.png
 # 13.0E
@@ -1305,16 +1309,17 @@ ln -s btv.png 1_0_1_B72_34_55_300000_0_0_0.png
 
 # btsport1.png
 # 28.2E
-ln -s btsport.png 1_0_1_CB2E_907_2_11A0000_0_0_0.png
-ln -s btsport.png 1_0_1_C4BD_964_2_11A0000_0_0_0.png
-ln -s btsport.png 1_0_1_C4BE_964_2_11A0000_0_0_0.png
+ln -s btsport1.png 1_0_1_CB2E_907_2_11A0000_0_0_0.png
+ln -s btsport1.png 1_0_1_C4BD_964_2_11A0000_0_0_0.png
+ln -s btsport1.png 1_0_1_C4BE_964_2_11A0000_0_0_0.png
 
 # btsport2.png
 # 28.2E
-ln -s btsport.png 1_0_1_D44E_A2C_2_11A0000_0_0_0.png
-ln -s btsport.png 1_0_1_D827_A36_2_11A0000_0_0_0.png
-ln -s btsport.png 1_0_1_D828_A36_2_11A0000_0_0_0.png
-ln -s btsport.png 1_0_1_C4C7_964_2_11A0000_0_0_0.png
+ln -s btsport2.png 1_0_1_D44E_A2C_2_11A0000_0_0_0.png
+ln -s btsport2.png 1_0_1_D827_A36_2_11A0000_0_0_0.png
+ln -s btsport2.png 1_0_1_D828_A36_2_11A0000_0_0_0.png
+ln -s btsport2.png 1_0_1_C4C7_964_2_11A0000_0_0_0.png
+ln -s btsport2.png 1_0_1_C4C8_964_2_11A0000_0_0_0.png
 
 # btsport1hd.png
 # 28.2E
@@ -3325,89 +3330,22 @@ ln -s eskatv.png 1_0_1_3DC3_640_13E_820000_0_0_0.png
 ln -s eskatv.png 1_0_1_10DB_3E8_13E_820000_0_0_0.png
 
 # espn.png
-# 13.0E
-ln -s espn.png 1_0_1_DC1_2D50_13E_820000_0_0_0.png
-ln -s espn.png 1_0_1_1CAC_1CE8_71_820000_0_0_0.png
 # 28.2E
-ln -s espn.png 1_0_1_C5DA_967_2_11A0000_0_0_0.png
-ln -s espn.png 1_0_1_1091_7EF_2_11A0000_0_0_0.png
-ln -s espn.png 1_0_1_1224_7E9_2_11A0000_0_0_0.png
-ln -s espn.png 1_0_1_1795_7EE_2_11A0000_0_0_0.png
-ln -s espn.png 1_0_1_D80F_A36_2_11A0000_0_0_0.png
 ln -s espn.png 1_0_1_C4CC_964_2_11A0000_0_0_0.png
+ln -s espn.png 1_0_1_C4CD_964_2_11A0000_0_0_0.png
 
 # espnamerica.png
 # 13.0E
-ln -s espnamerica.png 1_0_19_DC1_2D50_13E_820000_0_0_0.png
-ln -s espnamerica.png 1_0_19_3E31_2EE0_13E_820000_0_0_0.png
-ln -s espnamerica.png 1_0_1_2CD1_2580_FBFF_820000_0_0_0.png
-ln -s espnamerica.png 1_0_1_3E31_2EE0_13E_820000_0_0_0.png
-ln -s espnamerica.png 1_0_1_2B7A_19C8_FBFF_820000_0_0_0.png
-ln -s espnamerica.png 1_0_1_297D_22C4_13E_820000_0_0_0.png
-# 9.0E
-ln -s espnamerica.png 1_0_1_4E95_2134_9C_5A0000_0_0_0.png
-ln -s espnamerica.png 1_0_1_6A5_1388_9C_5A0000_0_0_0.png
-# 28.2E
-ln -s espnamerica.png 1_0_1_C5BC_967_2_11A0000_0_0_0.png
-# 19.2E
-ln -s espnamerica.png 1_0_1_3331_45B_1_C00000_0_0_0.png
-ln -s espnamerica.png 1_0_1_3335_45B_1_C00000_0_0_0.png
-# 23.5E
-ln -s espnamerica.png 1_0_19_C482_2715_F001_EB0000_0_0_0.png
-ln -s espnamerica.png 1_0_1_CF71_2715_F001_EB0000_0_0_0.png
-ln -s espnamerica.png 1_0_1_C482_2715_F001_EB0000_0_0_0.png
-ln -s espnamerica.png 1_0_1_157C_C92_3_EB0000_0_0_0.png
-# 0.8W
-ln -s espnamerica.png 1_0_1_183A_3E_46_7120000_0_0_0.png
-ln -s espnamerica.png 1_0_1_737_3E_46_7120000_0_0_0.png
+ln -s espnamerica.png 1_0_1_DB9_2D50_13E_820000_0_0_0.png
 
 # espnamericahd.png
-# 13.0E
-ln -s espnamericahd.png 1_0_1_2C6E_251C_FBFF_820000_0_0_0.png
-ln -s espnamericahd.png 1_0_19_101F_2C24_FBFF_820000_0_0_0.png
-ln -s espnamericahd.png 1_0_19_2CF1_2774_FBFF_820000_0_0_0.png
-# 9.0E
-ln -s espnamericahd.png 1_0_1_449_4_AA_5A0000_0_0_0.png
-# 28.2E
-ln -s espnamericahd.png 1_0_19_F11_7ED_2_11A0000_0_0_0.png
-# 19.2E
-ln -s espnamericahd.png 1_0_1_5A_9_85_C00000_0_0_0.png
-ln -s espnamericahd.png 1_0_19_77_44B_1_C00000_0_0_0.png
-ln -s espnamericahd.png 1_0_19_77_B_85_C00000_0_0_0.png
-# 0.8W
-ln -s espnamericahd.png 1_0_19_B78_26_46_7120000_0_0_0.png
-ln -s espnamericahd.png 1_0_19_B77_26_46_7120000_0_0_0.png
 
 # espnclassic.png
-# 13.0E
-ln -s espnclassic.png 1_0_19_3E22_2EE0_13E_820000_0_0_0.png
-ln -s espnclassic.png 1_0_19_4466_1F40_13E_820000_0_0_0.png
-ln -s espnclassic.png 1_0_1_2CF7_2774_FBFF_820000_0_0_0.png
-ln -s espnclassic.png 1_0_1_4466_1F40_13E_820000_0_0_0.png
-ln -s espnclassic.png 1_0_1_592_320_FBFF_820000_0_0_0.png
-# 9.0E
-ln -s espnclassic.png 1_0_1_6BD_1388_9C_5A0000_0_0_0.png
-ln -s espnclassic.png 1_0_1_269_52D_52D_5A0000_0_0_0.png
-ln -s espnclassic.png 1_0_1_40A_2_AA_5A0000_0_0_0.png
-ln -s espnclassic.png 1_0_1_6A6_1388_9C_5A0000_0_0_0.png
-# 28.2E
-ln -s espnclassic.png 1_0_1_CFD5_909_2_11A0000_0_0_0.png
-# 19.2E
-ln -s espnclassic.png 1_0_1_2139_400_1_C00000_0_0_0.png
-ln -s espnclassic.png 1_0_1_2139_442_1_C00000_0_0_0.png
-ln -s espnclassic.png 1_0_1_226D_438_1_C00000_0_0_0.png
-# 23.5E
-ln -s espnclassic.png 1_0_19_C47D_2715_F001_EB0000_0_0_0.png
-ln -s espnclassic.png 1_0_19_D09D_2715_F001_EB0000_0_0_0.png
-ln -s espnclassic.png 1_0_1_D09D_2715_F001_EB0000_0_0_0.png
-# 0.8W
-ln -s espnclassic.png 1_0_1_736_3E_46_7120000_0_0_0.png
 
 # espnhd.png
 # 28.2E
-ln -s espnhd.png 1_0_19_F01_7F0_2_11A0000_0_0_0.png
-ln -s espnhd.png 1_0_19_F02_7F0_2_11A0000_0_0_0.png
 ln -s espnhd.png 1_0_19_C5F8_967_2_11A0000_0_0_0.png
+ln -s espnhd.png 1_0_19_F01_967_2_11A0000_0_0_0.png
 
 # estradi.png
 
@@ -3689,6 +3627,7 @@ ln -s extremesportshd.png 1_0_19_2CF2_2774_FBFF_820000_0_0_0.png
 # faithworldtv.png
 # 28.2E
 ln -s faithworldtv.png 1_0_1_D804_A36_2_11A0000_0_0_0.png
+ln -s faithworldtv.png 1_0_1_D333_A29_2_11A0000_0_0_0.png
 
 # fanda.png
 # 23.5E
@@ -3934,6 +3873,7 @@ ln -s fox.png 1_0_1_10_1_85_C00000_0_0_0.png
 # 23.5E
 ln -s fox.png 1_0_1_178E_C82_3_EB0000_0_0_0.png
 ln -s fox.png 1_0_19_178E_C82_3_EB0000_0_0_0.png
+ln -s fox.png 1_0_16_178E_C82_3_EB0000_0_0_0.png
 
 # foxbusiness.png
 # 13.0E
@@ -3995,7 +3935,6 @@ ln -s foxlife.png 1_0_1_1BD0_17D4_13E_820000_0_0_0.png
 # 9.0E
 ln -s foxlife.png 1_0_1_3FB_1_AA_5A0000_0_0_0.png
 # 23.5E
-ln -s foxlife.png 1_0_16_178E_C82_3_EB0000_0_0_0.png
 ln -s foxlife.png 1_0_1_1585_C92_3_EB0000_0_0_0.png
 
 # foxlifehd.png
@@ -4071,6 +4010,7 @@ ln -s foxsportseredivisie.png 1_0_16_51C7_C96_3_EB0000_0_0_0.png
 # foxsportsinternational.png
 # 23.5E
 ln -s foxsportsinternational.png 1_0_1_5235_C99_3_EB0000_0_0_0.png
+ln -s foxsportsinternational.png 1_0_19_5235_C99_3_EB0000_0_0_0.png
 
 # foxuk.png
 # 13.0E
@@ -4774,6 +4714,7 @@ ln -s iconcertshd.png 1_0_19_15EC_C9A_3_EB0000_0_0_0.png
 ln -s iconcerts.png 1_0_19_DAE_16A8_9C_5A0000_0_0_0.png
 # 23.5E
 ln -s iconcerts.png 1_0_19_5157_C8B_3_EB0000_0_0_0.png
+ln -s iconcerts.png 1_0_16_5157_C8B_3_EB0000_0_0_0.png
 
 # inforegiotv.png
 
@@ -5380,12 +5321,10 @@ ln -s lci.png 1_0_1_200F_430_1_C00000_0_0_0.png
 
 # lcp.png
 # 13.0E
-ln -s lcp.png 1_0_1_DB_3E1C_13F_820000_0_0_0.png
 ln -s lcp.png 1_0_1_139_3E1C_13F_820000_0_0_0.png
 # 19.2E
-ln -s lcp.png 1_0_1_23F2_452_1_C00000_0_0_0.png
-ln -s lcp.png 1_0_1_2406_452_1_C00000_0_0_0.png
 ln -s lcp.png 1_0_1_2203_44C_1_C00000_0_0_0.png
+ln -s lcp.png 1_0_1_2217_44C_1_C00000_0_0_0.png
 
 # lequipe21.png
 # 19.2E
@@ -9271,7 +9210,7 @@ ln -s sonytv.png 1_0_1_CB25_907_2_11A0000_0_0_0.png
 
 # sonytvplus1.png
 # 28.2E
-ln -s sonytvplus1.png 1_0_1_D017_909_2_11A0000_0_0_0.png
+ln -s sonytvplus1.png 1_0_1_D435_A2C_2_11A0000_0_0_0.png
 
 # sonytvasia.png
 # 28.2E
@@ -9991,7 +9930,7 @@ ln -s thejewellerychannel.png 1_0_1_D110_90C_2_11A0000_0_0_0.png
 
 # thestylenetwork.png
 # 28.2E
-ln -s thestylenetwork.png 1_0_1_D01C_909_2_11A0000_0_0_0.png
+ln -s thestylenetwork.png 1_0_1_D43F_A2C_2_11A0000_0_0_0.png
 
 # theunexplainedchannel.png
 
