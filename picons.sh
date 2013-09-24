@@ -737,6 +737,7 @@ ln -s axnscifi.png 1_0_1_DB7_2D50_13E_820000_0_0_0.png
 ln -s axnscifi.png 1_0_1_296B_22C4_13E_820000_0_0_0.png
 ln -s axnscifi.png 1_0_1_2FED_1D4C_FBFF_820000_0_0_0.png
 ln -s axnscifi.png 1_0_1_2DB6_1A2C_FBFF_820000_0_0_0.png
+ln -s axnscifi.png 1_0_1_2B60_19C8_FBFF_820000_0_0_0.png
 # 0.8W
 ln -s axnscifi.png 1_0_1_D70_C_1_7120000_0_0_0.png
 
@@ -1227,12 +1228,13 @@ ln -s bodyinbalance.png 1_0_1_17AC_C82_3_EB0000_0_0_0.png
 
 # boing.png
 # 13.0E
-ln -s boing.png 1_0_1_6_1770_110_820000_0_0_0.png
-ln -s boing.png 1_0_1_6_385_110_820000_0_0_0.png
-ln -s boing.png 1_0_1_1FA6_2454_13E_820000_0_0_0.png
+ln -s boing.png 1_0_1_6_3DE_110_820000_0_0_0.png
 # 19.2E
 ln -s boing.png 1_0_1_6F70_42C_1_C00000_0_0_0.png
-ln -s boing.png 1_0_1_77F0_404_1_C00000_0_0_0.png
+
+# boingspain.png
+# 19.2E
+ln -s boingspain.png 1_0_1_749E_41C_1_C00000_0_0_0.png
 
 # bongusto.png
 # 9.0E
@@ -7896,6 +7898,10 @@ ln -s rtetwo.png 1_0_1_2582_7FB_2_11A0000_0_0_0.png
 # 28.2E
 ln -s rtetwohd.png 1_0_19_2588_7FB_2_11A0000_0_0_0.png
 
+# rtejr.png
+# 28.2E
+ln -s rtejr.png 1_0_1_2586_7FB_2_11A0000_0_0_0.png
+
 # rtlhd.png
 # 9.0E
 ln -s rtlhd.png 1_0_19_12D_1EDC_9C_5A0000_0_0_0.png
@@ -8186,12 +8192,18 @@ ln -s slovaksporttv.png 1_0_19_13B2_C95_3_EB0000_0_0_0.png
 # srf1.png
 # 13.0E
 ln -s srf1.png 1_0_1_385_2134_13E_820000_0_0_0.png
-ln -s srf1.png 1_0_19_4331_300C_13E_820000_0_0_0.png
+
+# srf1hd.png
+# 13.0E
+ln -s srf1hd.png 1_0_19_4331_300C_13E_820000_0_0_0.png
 
 # srfzwei.png
 # 13.0E
 ln -s srfzwei.png 1_0_1_38B_2134_13E_820000_0_0_0.png
-ln -s srfzwei.png 1_0_19_4332_300C_13E_820000_0_0_0.png
+
+# srfzweihd.png
+# 13.0E
+ln -s srfzweihd.png 1_0_19_4332_300C_13E_820000_0_0_0.png
 
 # srfinfo.png
 # 13.0E
@@ -9411,9 +9423,9 @@ ln -s sportxxxgirls.png 1_0_1_CB48_907_2_11A0000_0_0_0.png
 ln -s sritv.png 1_0_1_2995_3D54_13E_820000_0_0_0.png
 ln -s sritv.png 1_0_1_1F5A_319C_13E_820000_0_0_0.png
 
-# srsudwestfernsehen.png
+# srfernsehen.png
 # 19.2E
-ln -s srsudwestfernsehen.png 1_0_1_6F46_445_1_C00000_0_0_0.png
+ln -s srfernsehen.png 1_0_1_6F46_445_1_C00000_0_0_0.png
 
 # star.png
 # 0.8W
@@ -9706,15 +9718,19 @@ ln -s taquillaxy.png 1_0_1_7695_41E_1_C00000_0_0_0.png
 # 19.2E
 ln -s tagesschau24.png 1_0_1_7031_41B_1_C00000_0_0_0.png
 
-# tbn.png
+# tbneurope.png
 # 13.0E
-ln -s tbn.png 1_0_1_321_3BC4_13E_820000_0_0_0.png
-ln -s tbn.png 1_0_1_322_3BC4_13E_820000_0_0_0.png
-ln -s tbn.png 1_0_1_323_3BC4_13E_820000_0_0_0.png
-ln -s tbn.png 1_0_1_327_3BC4_13E_820000_0_0_0.png
-# 28.2E
-ln -s tbn.png 1_0_1_C759_96B_2_11A0000_0_0_0.png
-ln -s tbn.png 1_0_1_CB9C_8FE_2_11A0000_0_0_0.png
+ln -s tbneurope.png 1_0_1_321_3BC4_13E_820000_0_0_0.png
+# 28.0E
+ln -s tbneurope.png 1_0_1_CB9C_8FE_2_11A0000_0_0_0.png
+
+# tbnitaly.png
+# 13.0E
+ln -s tbnitaly.png 1_0_1_323_3BC4_13E_820000_0_0_0.png
+
+# tbnrussia.png
+# 13.0E
+ln -s tbnrussia.png 1_0_1_327_3BC4_13E_820000_0_0_0.png
 
 # tbnenlace.png
 # 19.2E
@@ -9935,7 +9951,6 @@ ln -s thanedirect.png 1_0_1_D357_A2A_2_11A0000_0_0_0.png
 
 # theactivechannel.png
 # 28.2E
-ln -s theactivechannel.png 1_0_1_D7CF_A35_2_11A0000_0_0_0.png
 ln -s theactivechannel.png 1_0_1_D822_A36_2_11A0000_0_0_0.png
 
 # thebox.png
@@ -9945,6 +9960,10 @@ ln -s thebox.png 1_0_1_2EE5_7F8_2_11A0000_0_0_0.png
 # theboutique.png
 # 28.2E
 ln -s theboutique.png 1_0_1_2541_A34_2_11A0000_0_0_0.png
+
+# thechurchchannel.png
+# 13.0E
+ln -s thechurchchannel.png 1_0_1_324_3BC4_13E_820000_0_0_0.png
 
 # thedatingchannel.png
 # 28.2E
