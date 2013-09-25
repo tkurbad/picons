@@ -4491,7 +4491,7 @@ ln -s history.png 1_0_1_9CF_19_46_7120000_0_0_0.png
 
 # history2.png
 # 28.2E
-ln -s history2.png 1_0_1_D421_A2C_2_11A0000_0_0_0.png
+ln -s history2.png 1_0_1_D7A5_900_2_11A0000_0_0_0.png
 
 # historyhd.png
 # 13.0E
