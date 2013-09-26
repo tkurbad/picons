@@ -5393,6 +5393,10 @@ ln -s lrttv.png 1_0_1_18E2_E_55_300000_0_0_0.png
 # 19.2E
 ln -s lt1.png 1_0_1_3330_45B_1_C00000_0_0_0.png
 
+# ltv_tvm.png
+# 19.2E
+ln -s ltv_tvm.png 1_0_1_3339_45B_1_C00000_0_0_0.png
+
 # ltv1.png
 # 4.8E
 ln -s ltv1.png 1_0_1_18F6_E_55_300000_0_0_0.png
@@ -11828,9 +11832,9 @@ ln -s radio.oe2wien.png 1_0_2_3343_45B_1_C00000_0_0_0.png
 # 23.5E
 ln -s radio.omroepgelderland.png 1_0_2_516E_C8B_3_EB0000_0_0_0.png
 
-# radio.radio10gold.png
+# radio.radio10.png
 # 19.2E
-ln -s radio.radio10gold.png 1_0_2_813_449_35_C00000_0_0_0.png
+ln -s radio.radio10.png 1_0_2_813_449_35_C00000_0_0_0.png
 
 # radio.radio1.png
 # 19.2E
