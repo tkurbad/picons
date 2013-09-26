@@ -10610,11 +10610,6 @@ ln -s tvoberfranken.png 1_0_1_11FF_3FD_1_C00000_0_0_0.png
 
 # tvoostbe.png
 
-# tvm_wwtv.png
-# 19.2E
-ln -s tvm_wwtv.png 1_0_1_277C_444_1_C00000_0_0_0.png
-ln -s tvm_wwtv.png 1_0_1_3339_45B_1_C00000_0_0_0.png
-
 # tvn24.png
 # 13.0E
 ln -s tvn24.png 1_0_1_10D8_3E8_13E_820000_0_0_0.png
