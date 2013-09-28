@@ -11667,6 +11667,10 @@ ln -s radio.deutschlandradiokultur.png 1_0_2_6D6C_437_1_C00000_0_0_0.png
 # 19.2E
 ln -s radio.dradiowissen.png 1_0_2_6D71_437_1_C00000_0_0_0.png
 
+# radio.ffn.png
+# 19.2E
+ln -s radio.ffn.png 1_0_2_316E_459_1_C00000_0_0_0.png
+
 # radio.fm4.png
 # 19.2E
 ln -s radio.fm4.png 1_0_2_334E_45B_1_C00000_0_0_0.png
@@ -11674,6 +11678,10 @@ ln -s radio.fm4.png 1_0_2_334E_45B_1_C00000_0_0_0.png
 # radio.funx.png
 # 19.2E
 ln -s radio.funx.png 1_0_2_FC3_451_35_C00000_0_0_0.png
+
+# radio.hitradioffh.png
+# 19.2E
+ln -s radio.hitradioffh.png 1_0_2_3174_459_1_C00000_0_0_0.png
 
 # radio.hr1.png
 # 19.2E
@@ -11702,6 +11710,10 @@ ln -s radio.jamfm.png 1_0_2_B1_5_85_C00000_0_0_0.png
 # radio.klara.png
 # 19.2E
 ln -s radio.klara.png 1_0_2_31EE_45F_35_C00000_0_0_0.png
+
+# radio.klassik.png
+# 19.2E
+ln -s radio.klassik.png 1_0_2_AD_5_85_C00000_0_0_0.png
 
 # radio.lokaleins.png
 # 19.2E
@@ -11832,6 +11844,10 @@ ln -s radio.oe2wien.png 1_0_2_3343_45B_1_C00000_0_0_0.png
 # 23.5E
 ln -s radio.omroepgelderland.png 1_0_2_516E_C8B_3_EB0000_0_0_0.png
 
+# radio.planetmoremusic.png
+# 19.2E
+ln -s radio.planetmoremusic.png 1_0_2_3175_459_1_C00000_0_0_0.png
+
 # radio.radio10.png
 # 19.2E
 ln -s radio.radio10.png 1_0_2_813_449_35_C00000_0_0_0.png
@@ -11905,6 +11921,14 @@ ln -s radio.rbbradioeins.png 1_0_2_6F28_445_1_C00000_0_0_0.png
 # radio.rtvoost.png
 # 23.5E
 ln -s radio.rtvoost.png 1_0_2_516C_C8B_3_EB0000_0_0_0.png
+
+# radio.regenbogen.png
+# 19.2E
+ln -s radio.regenbogen.png 1_0_2_3177_459_1_C00000_0_0_0.png
+
+# radio.rockantenne.png
+# 19.2E
+ln -s radio.rockantenne.png 1_0_2_A0_7_85_C00000_0_0_0.png
 
 # radio.skyradio.png
 # 23.5E
@@ -13048,6 +13072,22 @@ ln -s radio.wdrevent.png 1_0_2_6F43_44D_A401_FFFF0000_0_0_0.png
 ln -s radio.wdrfunkhauseuropa.png 1_0_2_6F40_44D_A401_FFFF0000_0_0_0.png
 ln -s radio.wdrkiraka.png 1_0_2_6F42_44D_A401_FFFF0000_0_0_0.png
 ln -s radio.youfm.png 1_0_2_6F07_44D_A401_FFFF0000_0_0_0.png
+
+
+## KABEL DEUTSCHLAND ##
+
+# TV
+
+# RADIO
+
+ln -s radio.ffn.png 1_0_2_37A0_E_A046_FFFF0000_0_0_0.png
+ln -s radio.klassik.png 1_0_2_C4EA_2715_F001_FFFF0000_0_0_0.png
+ln -s radio.klassik.png 1_0_2_C4E5_2714_F001_FFFF0000_0_0_0.png
+ln -s radio.klassik.png 1_0_2_C4E5_2711_F001_FFFF0000_0_0_0.png
+ln -s radio.klassik.png 1_0_2_3818_E_A046_FFFF0000_0_0_0.png
+ln -s radio.planetmoremusic.png 1_0_2_AC5A_1B9_270F_FFFF0000_0_0_0.png
+ln -s radio.regenbogen.png 1_0_2_CF7A_385_270F_FFFF0000_0_0_0.png
+ln -s radio.regenbogen.png 1_0_1_3886_E_A046_FFFF0000_0_0_0.png
 
 
 ###########
