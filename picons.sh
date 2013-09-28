@@ -7170,6 +7170,13 @@ ln -s plugrtl.png 1_0_16_323A_45F_35_C00000_0_0_0.png
 # 4.8E
 ln -s pogodatv.png 1_0_1_19A5_F_55_300000_0_0_0.png
 
+# politiek24.png
+
+# politiek24_best24.png
+# 23.5E
+ln -s politiek24_best24.png 1_0_1_177A_C82_3_EB0000_0_0_0.png
+ln -s politiek24_best24.png 1_0_16_177A_C82_3_EB0000_0_0_0.png
+
 # polonia1.png
 # 13.0E
 ln -s polonia1.png 1_0_1_3D5A_2C88_13E_820000_0_0_0.png
@@ -9273,9 +9280,6 @@ ln -s spiegeltvdigital.png 1_0_1_D099_2712_F001_EB0000_0_0_0.png
 # sport24.png
 
 # sport24_best24.png
-# 23.5E
-ln -s sport24_best24.png 1_0_1_177A_C82_3_EB0000_0_0_0.png
-ln -s sport24_best24.png 1_0_16_177A_C82_3_EB0000_0_0_0.png
 
 # sport365.png
 # 19.2E
