@@ -7396,7 +7396,6 @@ ln -s qvc.png 1_0_1_195_1964_9C_5A0000_0_0_0.png
 ln -s qvc.png 1_0_1_1C3E_7E1_2_11A0000_0_0_0.png
 ln -s qvc.png 1_0_1_1C3F_7E1_2_11A0000_0_0_0.png
 ln -s qvc.png 1_0_1_1C43_7E1_2_11A0000_0_0_0.png
-ln -s qvc.png 1_0_1_1C44_7E1_2_11A0000_0_0_0.png
 ln -s qvc.png 1_0_82_1C40_7E1_2_11A0000_0_0_0.png
 ln -s qvc.png 1_0_1_1C42_7E1_2_11A0000_0_0_0.png
 ln -s qvc.png 1_0_82_1C41_7E1_2_11A0000_0_0_0.png
@@ -7425,6 +7424,10 @@ ln -s qvcplus.png 1_0_1_D4_14B4_9C_5A0000_0_0_0.png
 # 19.2E
 ln -s qvcplus.png 1_0_1_D42_454_1_C00000_0_0_0.png
 ln -s qvcplus.png 1_0_19_1580_41F_1_C00000_0_0_0.png
+
+# qvcstyle.png
+# 28.2E
+ln -s qvcstyle.png 1_0_1_1C44_7E1_2_11A0000_0_0_0.png
 
 # q.png
 
