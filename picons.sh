@@ -3737,9 +3737,9 @@ ln -s filmboxplus.png 1_0_1_334B_C93_3_EB0000_0_0_0.png
 ln -s filmeurope.png 1_0_1_13C6_C95_3_EB0000_0_0_0.png
 ln -s filmeurope.png 1_0_19_13C6_C95_3_EB0000_0_0_0.png
 
-# filmplus.png
+# film+.png
 # 23.5E
-ln -s filmplus.png 1_0_1_332E_C89_3_EB0000_0_0_0.png
+ln -s film+.png 1_0_1_332E_C89_3_EB0000_0_0_0.png
 
 # film1action.png
 # 23.5E
