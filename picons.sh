@@ -5566,6 +5566,10 @@ ln -s mangas.png 1_0_1_1CE_26AC_13F_820000_0_0_0.png
 # 19.2E
 ln -s mangas.png 1_0_1_4287_446_1_C00000_0_0_0.png
 
+# mango24.png
+# 13.0E
+ln -s mango24.png 1_0_1_10DC_3E8_13E_820000_0_0_0.png
+
 # manoulenz.png
 # 19.2E
 ln -s manoulenz.png 1_0_1_125F_3F7_1_C00000_0_0_0.png
