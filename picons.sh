@@ -778,6 +778,10 @@ ln -s tv.babestation.png 1_0_1_D7A7_900_2_11A0000_0_0_0.png
 ln -s tv.babestation.png 1_0_1_CB28_907_2_11A0000_0_0_0.png
 ln -s tv.babestation.png 1_0_1_D7A4_900_2_11A0000_0_0_0.png
 
+# tv.babestation24.png
+# 19.2E
+ln -s tv.babestation24.png 1_0_1_315B_459_1_C00000_0_0_0.png
+
 # tv.banglatv.png
 # 28.2E
 ln -s tv.banglatv.png 1_0_1_D363_A2A_2_11A0000_0_0_0.png
