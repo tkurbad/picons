@@ -8075,6 +8075,10 @@ ln -s tv.sbs6hd.png 1_0_1_17CA_C82_3_EB0000_0_0_0.png
 # 19.2E
 ln -s tv.schautv.png 1_0_1_33A9_3EB_1_C00000_0_0_0.png
 
+# tv.scifipoland.png
+# 13.0E
+ln -s tv.scifipoland.png 1_0_1_3A40_1FA4_13E_820000_0_0_0.png
+
 # tv.sct.png
 # 13.0E
 ln -s tv.sct.png 1_0_1_35C2_1388_13E_820000_0_0_0.png
