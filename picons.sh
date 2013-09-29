@@ -1436,6 +1436,14 @@ ln -s tv.canalhollywoodhd.png 1_0_19_7882_414_1_C00000_0_0_0.png
 ln -s tv.canale5.png 1_0_1_2_1770_110_820000_0_0_0.png
 ln -s tv.canale5.png 1_0_1_5_1770_110_820000_0_0_0.png
 
+# tv.canaleitalia83.png
+# 13.0E
+ln -s tv.canaleitalia83.png 1_0_1_245B_23F0_13F_820000_0_0_0.png
+
+# tv.canaleitalia84.png
+# 13.0E
+ln -s tv.canaleitalia84.png 1_0_1_245C_23F0_13F_820000_0_0_0.png
+
 # tv.canalj.png
 # 19.2E
 ln -s tv.canalj.png 1_0_1_24BC_43C_1_C00000_0_0_0.png
@@ -9375,6 +9383,10 @@ ln -s tv.sportdigital.png 1_0_1_3B_F_85_C00000_0_0_0.png
 # 23.5E
 ln -s tv.sportdigital.png 1_0_19_D16B_2712_F001_EB0000_0_0_0.png
 ln -s tv.sportdigital.png 1_0_1_D16B_2712_F001_EB0000_0_0_0.png
+
+# tv.sportklub.png
+# 13.0E
+ln -s tv.sportklub.png 1_0_1_DC0_2D50_13E_820000_0_0_0.png
 
 # tv.sportxxxgirls.png
 # 28.2E
