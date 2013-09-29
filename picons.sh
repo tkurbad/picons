@@ -5300,8 +5300,6 @@ ln -s tv.ladeux.png 1_0_16_147A_40D_1_C00000_0_0_0.png
 ln -s tv.ladeux.png 1_0_1_147A_40D_1_C00000_0_0_0.png
 ln -s tv.ladeux.png 1_0_16_3234_45F_35_C00000_0_0_0.png
 
-# tv.ladeuxhd.png
-
 # tv.laune.png
 # 13.0E
 ln -s tv.laune.png 1_0_1_362F_C8_13E_820000_0_0_0.png
@@ -5317,8 +5315,6 @@ ln -s tv.launehd.png 1_0_19_3233_45F_35_C00000_0_0_0.png
 ln -s tv.latrois.png 1_0_16_147B_40D_1_C00000_0_0_0.png
 ln -s tv.latrois.png 1_0_1_147B_40D_1_C00000_0_0_0.png
 ln -s tv.latrois.png 1_0_16_3235_45F_35_C00000_0_0_0.png
-
-# tv.latroishd.png
 
 # tv.laziostylechannel.png
 # 13.0E
