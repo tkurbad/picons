@@ -220,7 +220,7 @@ ln -s tv.ab4.png 1_0_1_1D0_26AC_13F_820000_0_0_0.png
 
 # tv.abchannel.png
 # 13.0E
-ln -s tv.abchannel.png 1_0_1_2992_3D54_13E_820000_0_0_0.png
+ln -s tv.abchannel.png 1_0_1_1CA6_332C_13E_820000_0_0_0.png
 
 # tv.abmoteurs.png
 # 13.0E
@@ -2666,7 +2666,7 @@ ln -s tv.discoveryhomeandhealthplus1.png 1_0_1_CCE2_90B_2_11A0000_0_0_0.png
 
 # tv.discoveryplus1.png
 # 13.0E
-ln -s tv.discoveryplus1.png 1_0_1_3BE3_64_FBFF_820000_0_0_0.png
+ln -s tv.discoveryplus1.png 1_0_1_2FD1_2C24_FBFF_820000_0_0_0.png
 # 28.2E
 ln -s tv.discoveryplus1.png 1_0_1_183C_7D9_2_11A0000_0_0_0.png
 
@@ -2985,7 +2985,7 @@ ln -s tv.dk4.png 1_0_1_25B_2_46_7120000_0_0_0.png
 
 # tv.dmax.png
 # 13.0E
-ln -s tv.dmax.png 1_0_1_2CF6_2774_FBFF_820000_0_0_0.png
+ln -s tv.dmax.png 1_0_1_E2B_708_C8_820000_0_0_0.png
 # 9.0E
 ln -s tv.dmax.png 1_0_19_E2_14B4_9C_5A0000_0_0_0.png
 ln -s tv.dmax.png 1_0_1_E2_14B4_9C_5A0000_0_0_0.png
@@ -4189,7 +4189,7 @@ ln -s tv.frenchlovertv.png 1_0_1_1907_3FA_1_C00000_0_0_0.png
 
 # tv.frisbee.png
 # 13.0E
-ln -s tv.frisbee.png 1_0_1_E24_708_C8_820000_0_0_0.png
+ln -s tv.frisbee.png 1_0_1_2FD3_2C24_FBFF_820000_0_0_0.png
 
 # tv.ftldeutschland.png
 # 19.2E
@@ -5042,7 +5042,7 @@ ln -s tv.k+rus.png 1_0_1_29D9_3CF0_13E_820000_0_0_0.png
 
 # tv.k2.png
 # 13.0E
-ln -s tv.k2.png 1_0_1_3A0B_1FA4_13E_820000_0_0_0.png
+ln -s tv.k2.png 1_0_1_2FD5_2C24_FBFF_820000_0_0_0.png
 
 # tv.kabeleins.png
 # 9.0E
@@ -5565,7 +5565,7 @@ ln -s tv.maison+.png 1_0_1_23FD_452_1_C00000_0_0_0.png
 
 # tv.manga.png
 # 13.0E
-ln -s tv.manga.png 1_0_1_DB3_2DB4_FBFF_820000_0_0_0.png
+ln -s tv.manga.png 1_0_1_3452_2710_FBFF_820000_0_0_0.png
 
 # tv.mangas.png
 # 13.0E
@@ -6649,8 +6649,7 @@ ln -s tv.ntvmir.png 1_0_1_A_2_55_300000_0_0_0.png
 
 # tv.nuvolari.png
 # 13.0E
-ln -s tv.nuvolari.png 1_0_1_E30_16A8_FBFF_820000_0_0_0.png
-ln -s tv.nuvolari.png 1_0_1_3426_2710_FBFF_820000_0_0_0.png
+ln -s tv.nuvolari.png 1_0_1_FBC_2DB4_FBFF_820000_0_0_0.png
 
 # tv.numero23.png
 # 19.2E
@@ -10223,79 +10222,79 @@ ln -s tv.turkmax.png 1_0_1_D107_2713_F001_EB0000_0_0_0.png
 
 # tv.tuerkshowtv.png
 
-# TV1lithuania.png
+# tv.tv1lithuania.png
 # 4.8E
 ln -s tv.tv1lithuania.png 1_0_1_B54_34_55_300000_0_0_0.png
 
-# TV2000.png
+# tv.tv2000.png
 # 13.0E
 ln -s tv.tv2000.png 1_0_1_CED_1518_13E_820000_0_0_0.png
 
-# TV2bliss.png
+# tv.tv2bliss.png
 # 4.8E
 ln -s tv.tv2bliss.png 1_0_1_13BA_7_56_300000_0_0_0.png
 
-# TV2bornholm.png
+# tv.tv2bornholm.png
 # 4.8E
 ln -s tv.tv2bornholm.png 1_0_1_123E_1A_56_300000_0_0_0.png
 
-# TV2charlie.png
+# tv.tv2charlie.png
 # 4.8E
 ln -s tv.tv2charlie.png 1_0_1_71C_1E_56_300000_0_0_0.png
 
-# TV2film.png
+# tv.tv2film.png
 # 4.8E
 ln -s tv.tv2film.png 1_0_1_726_1E_56_300000_0_0_0.png
 
-# TV2filmkanalen.png
+# tv.tv2filmkanalen.png
 # 4.8E
 ln -s tv.tv2filmkanalen.png 1_0_1_177A_8_56_300000_0_0_0.png
 
-# TV2fyn.png
+# tv.tv2fyn.png
 # 4.8E
 ln -s tv.tv2fyn.png 1_0_1_1220_1A_56_300000_0_0_0.png
 
-# TV2hdnorge.png
+# tv.tv2hdnorge.png
 # 4.8E
 ln -s tv.tv2hdnorge.png 1_0_19_654_1B_56_300000_0_0_0.png
 
-# TV2lorry.png
+# tv.tv2lorry.png
 # 4.8E
 ln -s tv.tv2lorry.png 1_0_1_1234_1A_56_300000_0_0_0.png
 
-# TV2lorryhd.png
+# tv.tv2lorryhd.png
 # 4.8E
 ln -s tv.tv2lorryhd.png 1_0_19_8CA_21_56_300000_0_0_0.png
 
-# TV2midtvest.png
+# tv.tv2midtvest.png
 # 4.8E
 ln -s tv.tv2midtvest.png 1_0_1_1202_1A_56_300000_0_0_0.png
 
-# TV2news.png
+# tv.tv2news.png
 # 4.8E
 ln -s tv.tv2news.png 1_0_1_74E_1E_56_300000_0_0_0.png
 
-# TV2nord.png
+# tv.tv2nord.png
 # 4.8E
 ln -s tv.tv2nord.png 1_0_1_11F8_1A_56_300000_0_0_0.png
 
-# TV2norge.png
+# tv.tv2norge.png
 # 4.8E
 ln -s tv.tv2norge.png 1_0_1_EE2_17_56_300000_0_0_0.png
 
-# TV2nyhetskanalen.png
+# tv.tv2nyhetskanalen.png
 # 4.8E
 ln -s tv.tv2nyhetskanalen.png 1_0_1_1162_18_56_300000_0_0_0.png
 
-# TV2ost.png
+# tv.tv2ost.png
 # 4.8E
 ln -s tv.tv2ost.png 1_0_1_122A_1A_56_300000_0_0_0.png
 
-# TV2ostjylland.png
+# tv.tv2ostjylland.png
 # 4.8E
 ln -s tv.tv2ostjylland.png 1_0_1_120C_1A_56_300000_0_0_0.png
 
-# TV2premierleaguehd.png
+# tv.tv2premierleaguehd.png
 # 4.8E
 ln -s tv.tv2premierleaguehd.png 1_0_19_532_1F_56_300000_0_0_0.png
 ln -s tv.tv2premierleaguehd.png 1_0_19_53C_1F_56_300000_0_0_0.png
@@ -10308,173 +10307,173 @@ ln -s tv.tv2premierleaguehd.png 1_0_19_40D_44_46_7120000_0_0_0.png
 ln -s tv.tv2premierleaguehd.png 1_0_19_1904_44_46_7120000_0_0_0.png
 ln -s tv.tv2premierleaguehd.png 1_0_19_1905_44_46_7120000_0_0_0.png
 
-# TV2sportdk.png
+# tv.tv2sportdk.png
 # 4.8E
 ln -s tv.tv2sportdk.png 1_0_1_1B94_9_56_300000_0_0_0.png
 # 0.8W
 ln -s tv.tv2sportdk.png 1_0_1_9DA_19_46_7120000_0_0_0.png
 
-# TV2sporthddk.png
+# tv.tv2sporthddk.png
 # 4.8E
 ln -s tv.tv2sporthddk.png 1_0_19_6B8_19_56_300000_0_0_0.png
 
-# TV2sportno.png
+# tv.tv2sportno.png
 # 4.8E
 ln -s tv.tv2sportno.png 1_0_1_730_1E_56_300000_0_0_0.png
 # 0.8W
 ln -s tv.tv2sportno.png 1_0_1_183B_3E_46_7120000_0_0_0.png
 
-# TV2sport2.png
+# tv.tv2sport2.png
 # 4.8E
 ln -s tv.tv2sportno.png 1_0_1_1FA4_A_56_300000_0_0_0.png
 # 0.8W
 ln -s tv.tv2sportno.png 1_0_1_721_3E_46_7120000_0_0_0.png
 
-# TV2sport3.png
+# tv.tv2sport3.png
 # 4.8E
 ln -s tv.tv2sportno.png 1_0_1_1FAE_A_56_300000_0_0_0.png
 # 0.8W
 ln -s tv.tv2sportno.png 1_0_1_CF0_3E_46_7120000_0_0_0.png
 
-# TV2sport4.png
+# tv.tv2sport4.png
 # 4.8E
 ln -s tv.tv2sportno.png 1_0_1_1FC2_A_56_300000_0_0_0.png
 # 0.8W
 ln -s tv.tv2sportno.png 1_0_1_CEF_A_46_7120000_0_0_0.png
 
-# TV2sport5.png
+# tv.tv2sport5.png
 # 4.8E
 ln -s tv.tv2sportno.png 1_0_1_1FCC_A_56_300000_0_0_0.png
 # 0.8W
 ln -s tv.tv2sportno.png 1_0_1_73B_A_46_7120000_0_0_0.png
 
-# TV2sportpremierleague.png
+# tv.tv2sportpremierleague.png
 # 4.8E
 ln -s tv.tv2sportpremierleague.png 1_0_1_73A_1E_56_300000_0_0_0.png
 
-# TV2syd.png
+# tv.tv2syd.png
 # 4.8E
 ln -s tv.tv2syd.png 1_0_1_1216_1A_56_300000_0_0_0.png
 
-# TV2zebra.png
+# tv.tv2zebra.png
 # 0.8W
 ln -s tv.tv2zebra.png 1_0_1_72F_1_46_E080000_0_0_0.png
 
-# TV2zulu.png
+# tv.tv2zulu.png
 # 4.8E
 ln -s tv.tv2zulu.png 1_0_1_712_1E_56_300000_0_0_0.png
 
-# TV3catalunya.png
+# tv.tv3catalunya.png
 # 19.2E
 ln -s tv.tv3catalunya.png 1_0_1_2757_402_1_C00000_0_0_0.png
 
-# TV3hdcatalunya.png
+# tv.tv3hdcatalunya.png
 
-# TV3hdnorge.png
+# tv.tv3hdnorge.png
 
-# TV3hdsverige.png
+# tv.tv3hdsverige.png
 # 0.8W
 ln -s tv.tv3hdsverige.png 1_0_19_100E_29_46_7120000_0_0_0.png
 ln -s tv.tv3hdsverige.png 1_0_19_100D_29_46_7120000_0_0_0.png
 
-# TV3ireland.png
+# tv.tv3ireland.png
 # 28.2E
 ln -s tv.tv3ireland.png 1_0_1_2585_7FB_2_11A0000_0_0_0.png
 
-# TV3latvia.png
+# tv.tv3latvia.png
 # 4.8E
 ln -s tv.tv3latvia.png 1_0_1_189C_E_55_300000_0_0_0.png
 ln -s tv.tv3latvia.png 1_0_1_18BA_E_55_300000_0_0_0.png
 ln -s tv.tv3latvia.png 1_0_1_18C4_E_55_300000_0_0_0.png
 
-# TV3norge.png
+# tv.tv3norge.png
 # 4.8E
 ln -s tv.tv3norge.png 1_0_1_456_3_56_300000_0_0_0.png
 # 0.8W
 ln -s tv.tv3norge.png 1_0_1_73D_3E_46_7120000_0_0_0.png
 
-# TV3hdnorge.png
+# tv.tv3hdnorge.png
 # 4.8E
 ln -s tv.tv3hdnorge.png 1_0_19_8C0_21_56_300000_0_0_0.png
 
-# TV3puls.png
+# tv.tv3puls.png
 # 4.8E
 ln -s tv.tv3puls.png 1_0_1_1FB8_A_56_300000_0_0_0.png
 
-# TV3sverige.png
+# tv.tv3sverige.png
 # 4.8E
 ln -s tv.tv3sverige.png 1_0_1_44C_3_56_300000_0_0_0.png
 # 0.8W
 ln -s tv.tv3sverige.png 1_0_1_D4F_2_46_7120000_0_0_0.png
 ln -s tv.tv3sverige.png 1_0_1_D56_2_46_7120000_0_0_0.png
 
-# TV3hdsverige.png
+# tv.tv3hdsverige.png
 # 4.8E
 ln -s tv.tv3hdsverige.png 1_0_19_596_20_56_300000_0_0_0.png
 
-# TV3+dk.png
+# tv.tv3+dk.png
 # 4.8E
 ln -s tv.tv3+dk.png 1_0_1_852_4_56_300000_0_0_0.png
 
-# TV3+hddk.png
+# tv.tv3+hddk.png
 # 4.8E
 ln -s tv.tv3+hddk.png 1_0_19_65E_1B_56_300000_0_0_0.png
 
-# TV3+latvija.png
+# tv.tv3+latvija.png
 # 4.8E
 ln -s tv.tv3+latvija.png 1_0_1_18A6_E_55_300000_0_0_0.png
 
-# TV4.png
+# tv.tv4.png
 # 4.8E
 ln -s tv.tv4.png 1_0_1_1F9A_A_56_300000_0_0_0.png
 
-# TV4fakta.png
+# tv.tv4fakta.png
 # 4.8E
 ln -s tv.tv4fakta.png 1_0_1_884_4_56_300000_0_0_0.png
 
-# TV4faktaxl.png
+# tv.tv4faktaxl.png
 # 4.8E
 ln -s tv.tv4faktaxl.png 1_0_1_F14_17_56_300000_0_0_0.png
 # 0.8W
 ln -s tv.tv4faktaxl.png 1_0_19_1A96_44_46_7120000_0_0_0.png
 
-# TV4film.png
+# tv.tv4film.png
 # 4.8E
 ln -s tv.tv4film.png 1_0_1_17CA_8_56_300000_0_0_0.png
 
-# TV4guld.png
+# tv.tv4guld.png
 # 4.8E
 ln -s tv.tv4guld.png 1_0_1_13C4_7_56_300000_0_0_0.png
 
-# TV4hd.png
+# tv.tv4hd.png
 # 0.8W
 ln -s tv.tv4hd.png 1_0_19_106C_E_46_7120000_0_0_0.png
 ln -s tv.tv4hd.png 1_0_19_57D_E_46_7120000_0_0_0.png
 
-# TV4komedi.png
+# tv.tv4komedi.png
 # 4.8E
 ln -s tv.tv4komedi.png 1_0_1_F32_17_56_300000_0_0_0.png
 
-# TV4news.png
+# tv.tv4news.png
 # 4.8E
 ln -s tv.tv4news.png 1_0_1_E4C_16_56_300000_0_0_0.png
 # 0.8W
 ln -s tv.tv4news.png 1_0_19_1A93_44_46_7120000_0_0_0.png
 ln -s tv.tv4news.png 1_0_19_1A95_44_46_7120000_0_0_0.png
 
-# TV4sport.png
+# tv.tv4sport.png
 # 4.8E
 ln -s tv.tv4sport.png 1_0_1_F00_17_56_300000_0_0_0.png
 
-# TV4sportxtrahd.png
+# tv.tv4sportxtrahd.png
 # 4.8E
 ln -s tv.tv4sportxtrahd.png 1_0_19_E42_16_56_300000_0_0_0.png
 
-# TV5.png
+# tv.tv5.png
 # 28.2E
 ln -s tv.tv5.png 1_0_1_CD5F_902_2_11A0000_0_0_0.png
 
-# TV5monde.png
+# tv.tv5monde.png
 # 13.0E
 ln -s tv.tv5monde.png 1_0_1_1C99_332C_13E_820000_0_0_0.png
 # 9.0E
@@ -10485,7 +10484,7 @@ ln -s tv.tv5monde.png 1_0_1_1FAE_434_1_C00000_0_0_0.png
 ln -s tv.tv5monde.png 1_0_1_CF0F_2710_F001_EB0000_0_0_0.png
 ln -s tv.tv5monde.png 1_0_1_CF0F_2717_F001_EB0000_0_0_0.png
 
-# TV5mondeeurope.png
+# tv.tv5mondeeurope.png
 # 13.0E
 ln -s tv.tv5mondeeurope.png 1_0_1_1C9A_332C_13E_820000_0_0_0.png
 # 9.0E
@@ -10497,110 +10496,110 @@ ln -s tv.tv5mondeeurope.png 1_0_1_1B03_3FE_1_C00000_0_0_0.png
 # 23.5E
 ln -s tv.tv5mondeeurope.png 1_0_19_CF0F_2717_F001_EB0000_0_0_0.png
 
-# TV7.png
+# tv.tv7.png
 # 0.8W
 ln -s tv.tv7.png 1_0_1_412_3_1111_7120000_0_0_0.png
 
-# TV7bulgaria.png
+# tv.tv7bulgaria.png
 # 23.5E
 ln -s tv.tv7bulgaria.png 1_0_1_158A_C92_3_EB0000_0_0_0.png
 
-# TV8sweden.png
+# tv.tv8sweden.png
 # 4.8E
 ln -s tv.tv8sweden.png 1_0_1_1B76_9_56_300000_0_0_0.png
 ln -s tv.tv8sweden.png 1_0_1_1AEA_12_55_300000_0_0_0.png
 # 0.8W
 ln -s tv.tv8sweden.png 1_0_1_73A_3E_46_7120000_0_0_0.png
 
-# TV8lithuania.png
+# tv.tv8lithuania.png
 
-# TV8mtblanc.png
+# tv.tv8mtblanc.png
 # 13.0E
 ln -s tv.tv8mtblanc.png 1_0_1_1F6_26AC_13F_820000_0_0_0.png
 # 19.2E
 ln -s tv.tv8mtblanc.png 1_0_1_2F67_454_1_C00000_0_0_0.png
 
-# TV8slovakia.png
+# tv.tv8slovakia.png
 # 23.5E
 ln -s tv.tv8slovakia.png 1_0_1_13D7_C8A_3_EB0000_0_0_0.png
 
-# TV10.png
+# tv.tv10.png
 # 4.8E
 ln -s tv.tv10.png 1_0_1_ED8_17_56_300000_0_0_0.png
 
-# TV11.png
+# tv.tv11.png
 # 4.8E
 ln -s tv.tv11.png 1_0_1_1770_8_56_300000_0_0_0.png
 
-# TV1000.png
+# tv.tv1000.png
 # 4.8E
 ln -s tv.tv1000.png 1_0_1_87A_4_56_300000_0_0_0.png
 ln -s tv.tv1000.png 1_0_1_780_1D_56_300000_0_0_0.png
 ln -s tv.tv1000.png 1_0_1_1914_14_56_300000_0_0_0.png
 ln -s tv.tv1000.png 1_0_1_191E_14_56_300000_0_0_0.png
 
-# TV1000actioneast.png
+# tv.tv1000actioneast.png
 # 4.8E
 ln -s tv.tv1000actioneast.png 1_0_1_D52_15_56_300000_0_0_0.png
 ln -s tv.tv1000actioneast.png 1_0_1_79E_1D_56_300000_0_0_0.png
 
-# TV1000premium.png
+# tv.tv1000premium.png
 # 4.8E
 ln -s tv.tv1000premium.png 1_0_1_116C_18_56_300000_0_0_0.png
 
-# TV1000russkoekino.png
+# tv.tv1000russkoekino.png
 # 4.8E
 ln -s tv.tv1000russkoekino.png 1_0_1_1BA8_9_56_300000_0_0_0.png
 ln -s tv.tv1000russkoekino.png 1_0_1_776_1D_56_300000_0_0_0.png
 
-# TVa.png
+# tv.tva.png
 
-# TVa_oberpfalztv.png
+# tv.tva_oberpfalztv.png
 # 19.2E
 ln -s tv.tva_oberpfalztv.png 1_0_1_1200_3FD_1_C00000_0_0_0.png
 
-# TVbarrandov.png
+# tv.tvbarrandov.png
 # 23.5E
 ln -s tv.tvbarrandov.png 1_0_1_13AB_C85_3_EB0000_0_0_0.png
 ln -s tv.tvbarrandov.png 1_0_1_13D3_C8A_3_EB0000_0_0_0.png
 
-# TVbiznes.png
+# tv.tvbiznes.png
 # 13.0E
 ln -s tv.tvbiznes.png 1_0_1_3333_3390_71_820000_0_0_0.png
 
-# TVbreizh.png
+# tv.tvbreizh.png
 # 13.0E
 ln -s tv.tvbreizh.png 1_0_1_446F_3264_13E_820000_0_0_0.png
 # 19.2E
 ln -s tv.tvbreizh.png 1_0_1_20A1_432_1_C00000_0_0_0.png
 ln -s tv.tvbreizh.png 1_0_1_206F_432_1_C00000_0_0_0.png
 
-# TVcanaria.png
+# tv.tvcanaria.png
 
-# TVchile.png
+# tv.tvchile.png
 # 4.8E
 ln -s tv.tvchile.png 1_0_1_FA0_6_56_300000_0_0_0.png
 
-# TVcnews.png
+# tv.tvcnews.png
 # 28.2E
 ln -s tv.tvcnews.png 1_0_1_D7EB_A35_2_11A0000_0_0_0.png
 
-# TVdisco.png
+# tv.tvdisco.png
 # 13.0E
 ln -s tv.tvdisco.png 1_0_1_2982_3D54_13E_820000_0_0_0.png
 
-# TVdrenthe.png
+# tv.tvdrenthe.png
 # 23.5E
 ln -s tv.tvdrenthe.png 1_0_1_514C_C8B_3_EB0000_0_0_0.png
 ln -s tv.tvdrenthe.png 1_0_16_514C_C8B_3_EB0000_0_0_0.png
 
-# TVe24horas.png
+# tv.tve24horas.png
 
-# TVeclan.png
+# tv.tveclan.png
 # 19.2E
 ln -s tv.tveclan.png 1_0_1_77BE_40A_1_C00000_0_0_0.png
 
-# TVeinternacional.png
+# tv.tveinternacional.png
 # 13.0E
 ln -s tv.tveinternacional.png 1_0_1_358E_1388_13E_820000_0_0_0.png
 # 9.0E
@@ -10608,88 +10607,88 @@ ln -s tv.tveinternacional.png 1_0_19_196_1964_9C_5A0000_0_0_0.png
 # 23.5E
 ln -s tv.tveinternacional.png 1_0_1_D104_2719_F001_EB0000_0_0_0.png
 
-# TVfinland.png
+# tv.tvfinland.png
 # 0.8W
 ln -s tv.tvfinland.png 1_0_1_1F6_14_46_7120000_0_0_0.png
 
-# TVgalicia.png
+# tv.tvgalicia.png
 # 19.2E
 ln -s tv.tvgalicia.png 1_0_1_1B6A_3FC_1_C00000_0_0_0.png
 
-# TVglobo.png
+# tv.tvglobo.png
 # 13.0E
 ln -s tv.tvglobo.png 1_0_1_34D6_3C28_13E_820000_0_0_0.png
 
-# TVgusto.png
+# tv.tvgusto.png
 # 9.0E
 ln -s tv.tvgusto.png 1_0_19_19A_1964_9C_5A0000_0_0_0.png
 
-# TViinternacional.png
+# tv.tviinternacional.png
 # 19.2E
 ln -s tv.tviinternacional.png 1_0_1_7732_416_1_C00000_0_0_0.png
 
-# TVl.png
+# tv.tvl.png
 
-# TVl_atv_tvoost.png
+# tv.tvl_atv_tvoost.png
 # 23.5E
 ln -s tv.tvl_atv_tvoost.png 1_0_1_17A7_C82_3_EB0000_0_0_0.png
 ln -s tv.tvl_atv_tvoost.png 1_0_16_17A7_C82_3_EB0000_0_0_0.png
 
-# TVoberfranken.png
+# tv.tvoberfranken.png
 # 19.2E
 ln -s tv.tvoberfranken.png 1_0_1_11FF_3FD_1_C00000_0_0_0.png
 
-# TVoostbe.png
+# tv.tvoostbe.png
 
-# TVn24.png
+# tv.tvn24.png
 # 13.0E
 ln -s tv.tvn24.png 1_0_1_10D8_3E8_13E_820000_0_0_0.png
 
-# TVn7siedem.png
+# tv.tvn7siedem.png
 # 13.0E
 ln -s tv.tvn7siedem.png 1_0_1_10D9_3E8_13E_820000_0_0_0.png
 
-# TVn7hd.png
+# tv.tvn7hd.png
 # 13.0E
 ln -s tv.tvn7hd.png 1_0_1_32E3_190_13E_820000_0_0_0.png
 
-# TVncnbcbiznes.png
+# tv.tvncnbcbiznes.png
 # 13.0E
 ln -s tv.tvncnbcbiznes.png 1_0_1_10E2_3E8_13E_820000_0_0_0.png
 
-# TVnmeteo.png
+# tv.tvnmeteo.png
 # 13.0E
 ln -s tv.tvnmeteo.png 1_0_1_10DE_3E8_13E_820000_0_0_0.png
 
-# TVnoord.png
+# tv.tvnoord.png
 # 23.5E
 ln -s tv.tvnoord.png 1_0_1_514A_C8B_3_EB0000_0_0_0.png
 ln -s tv.tvnoord.png 1_0_16_514A_C8B_3_EB0000_0_0_0.png
 
-# TVnorge.png
+# tv.tvnorge.png
 # 4.8E
 ln -s tv.tvnorge.png 1_0_1_13B0_7_56_300000_0_0_0.png
 # 0.8W
 ln -s tv.tvnorge.png 1_0_1_5E5_47_46_7120000_0_0_0.png
 
-# TVnorgehd.png
+# tv.tvnorgehd.png
 # 0.8W
 ln -s tv.tvnorgehd.png 1_0_19_106F_43_46_7120000_0_0_0.png
 ln -s tv.tvnorgehd.png 1_0_19_1007_43_46_7120000_0_0_0.png
 
-# TVnturbohd.png
+# tv.tvnturbohd.png
 # 13.0E
 ln -s tv.tvnturbohd.png 1_0_1_3DD0_640_13E_820000_0_0_0.png
 
-# TVoost.png
+# tv.tvoost.png
 # 23.5E
 ln -s tv.tvoost.png 1_0_1_514E_C8B_3_EB0000_0_0_0.png
 
-# TVwarehouse.png
+# tv.tvwarehouse.png
 # 28.2E
 ln -s tv.tvwarehouse.png 1_0_1_D458_A2C_2_11A0000_0_0_0.png
 
-# TVoranje.png
+# tv.tvoranje.png
 # 19.2E
 ln -s tv.tvoranje.png 1_0_1_7DA_449_35_C00000_0_0_0.png
 ln -s tv.tvoranje.png 1_0_1_31F9_45F_35_C00000_0_0_0.png
@@ -10697,35 +10696,35 @@ ln -s tv.tvoranje.png 1_0_1_31F9_45F_35_C00000_0_0_0.png
 ln -s tv.tvoranje.png 1_0_16_51D4_C96_3_EB0000_0_0_0.png
 ln -s tv.tvoranje.png 1_0_1_51D4_C96_3_EB0000_0_0_0.png
 
-# TVpaprikahu.png
+# tv.tvpaprikahu.png
 # 23.5E
 ln -s tv.tvpaprikahu.png 1_0_16_13AE_C85_3_EB0000_0_0_0.png
 ln -s tv.tvpaprikahu.png 1_0_19_13AE_C85_3_EB0000_0_0_0.png
 
-# TVpersia.png
+# tv.tvpersia.png
 # 13.0E
 ln -s tv.tvpersia.png 1_0_1_134A_33F4_13E_820000_0_0_0.png
 
-# TVphistoria.png
+# tv.tvphistoria.png
 # 13.0E
 ln -s tv.tvphistoria.png 1_0_19_DC4_2D50_13E_820000_0_0_0.png
 # 19.2E
 ln -s tv.tvphistoria.png 1_0_1_1BC1_423_1_C00000_0_0_0.png
 
-# TVpinfo.png
+# tv.tvpinfo.png
 # 13.0E
 ln -s tv.tvpinfo.png 1_0_1_13F6_5DC_13E_820000_0_0_0.png
 ln -s tv.tvpinfo.png 1_0_1_290A_1EDC_71_820000_0_0_0.png
 # 19.2E
 ln -s tv.tvpinfo.png 1_0_1_1BBE_423_1_C00000_0_0_0.png
 
-# TVpkultura.png
+# tv.tvpkultura.png
 # 13.0E
 ln -s tv.tvpkultura.png 1_0_1_13F9_5DC_13E_820000_0_0_0.png
 # 19.2E
 ln -s tv.tvpkultura.png 1_0_1_1BC2_423_1_C00000_0_0_0.png
 
-# TVppolonia.png
+# tv.tvppolonia.png
 # 13.0E
 ln -s tv.tvppolonia.png 1_0_1_13ED_5DC_13E_820000_0_0_0.png
 # 9.0E
@@ -10735,72 +10734,72 @@ ln -s tv.tvppolonia.png 1_0_1_1BC0_423_1_C00000_0_0_0.png
 # 23.5E
 ln -s tv.tvppolonia.png 1_0_19_CFD4_2711_F001_EB0000_0_0_0.png
 
-# TVpseriale.png
+# tv.tvpseriale.png
 # 13.0E
 ln -s tv.tvpseriale.png 1_0_1_3D5C_2C88_13E_820000_0_0_0.png
 
-# TVpsport.png
+# tv.tvpsport.png
 # 13.0E
 ln -s tv.tvpsport.png 1_0_1_3D58_2C88_13E_820000_0_0_0.png
 
-# TVpuls.png
+# tv.tvpuls.png
 # 13.0E
 ln -s tv.tvpuls.png 1_0_1_13F8_5DC_13E_820000_0_0_0.png
 
-# TVprozrywka.png
+# tv.tvprozrywka.png
 # 13.0E
 ln -s tv.tvprozrywka.png 1_0_1_4288_2BC0_13E_820000_0_0_0.png
 ln -s tv.tvprozrywka.png 1_0_1_DC6_2D50_13E_820000_0_0_0.png
 
-# TVrpl.png
+# tv.tvrpl.png
 # 13.0E
 ln -s tv.tvrpl.png 1_0_1_1292_3458_13E_820000_0_0_0.png
 
-# TVrhdpl.png
+# tv.tvrhdpl.png
 # 13.0E
 ln -s tv.tvrhdpl.png 1_0_1_3E22_2EE0_13E_820000_0_0_0.png
 
-# TVrepublika.png
+# tv.tvrepublika.png
 # 13.0E
 ln -s tv.tvrepublika.png 1_0_1_4289_2BC0_13E_820000_0_0_0.png
 
-# TVromaniainternational.png
+# tv.tvromaniainternational.png
 # 13.0E
 ln -s tv.tvromaniainternational.png 1_0_1_29D3_3CF0_13E_820000_0_0_0.png
 
-# TVrus.png
+# tv.tvrus.png
 # 13.0E
 ln -s tv.tvrus.png 1_0_1_27D_3C8C_13E_820000_0_0_0.png
 
-# TVsaleukr.png
+# tv.tvsaleukr.png
 # 4.8E
 ln -s tv.tvsaleukr.png 1_0_1_1810_C_55_300000_0_0_0.png
 
-# TVsilesia.png
+# tv.tvsilesia.png
 # 13.0E
 ln -s tv.tvsilesia.png 1_0_1_13EE_5DC_13E_820000_0_0_0.png
 
-# TVshop.png
+# tv.tvshop.png
 # 28.2E
 ln -s tv.tvshop.png 1_0_1_253B_A34_2_11A0000_0_0_0.png
 
-# TVela1.png
+# tv.tvela1.png
 # 19.2E
 ln -s tv.tvela1.png 1_0_1_77C0_40A_1_C00000_0_0_0.png
 
-# TVela2.png
+# tv.tvela2.png
 # 19.2E
 ln -s tv.tvela2.png 1_0_1_77C2_40A_1_C00000_0_0_0.png
 
-# TVslovenija3.png
+# tv.tvslovenija3.png
 # 13.0E
 ln -s tv.tvslovenija3.png 1_0_1_C87_2328_13E_820000_0_0_0.png
 
-# TVverdade.png
+# tv.tvverdade.png
 # 13.0E
 ln -s tv.tvverdade.png 1_0_1_43BA_2CEC_13E_820000_0_0_0.png
 
-# TVvlaanderen.png
+# tv.tvvlaanderen.png
 # 19.2E
 ln -s tv.tvvlaanderen.png 1_0_1_321A_45F_35_C00000_0_0_0.png
 
@@ -11659,8 +11658,8 @@ ln -s radio.bayernplus.png 1_0_2_6EF5_445_1_C00000_0_0_0.png
 ln -s radio.bbcworldservice.png 1_0_2_2175_400_1_C00000_0_0_0.png
 
 # radio.bnrnieuwsradio.png
-# 19.2E
-ln -s radio.bnrnieuwsradio.png 1_0_2_FBE_451_35_C00000_0_0_0.png
+# 23.5E
+ln -s radio.bnrnieuwsradio.png 1_0_2_5192_C8B_3_EB0000_0_0_0.png
 
 # radio.bremeneins.png
 # 19.2E
@@ -11876,8 +11875,8 @@ ln -s radio.omroepgelderland.png 1_0_2_516E_C8B_3_EB0000_0_0_0.png
 ln -s radio.planetmoremusic.png 1_0_2_3175_459_1_C00000_0_0_0.png
 
 # radio.radio10.png
-# 19.2E
-ln -s radio.radio10.png 1_0_2_813_449_35_C00000_0_0_0.png
+# 23.5E
+ln -s radio.radio10.png 1_0_2_518E_C8B_3_EB0000_0_0_0.png
 
 # radio.radio1.png
 # 19.2E
@@ -11900,8 +11899,8 @@ ln -s radio.radio5.png 1_0_2_14A5_40D_1_C00000_0_0_0.png
 ln -s radio.radio6.png 1_0_2_14A6_40D_1_C00000_0_0_0.png
 
 # radio.radio538.png
-# 19.2E
-ln -s radio.radio538.png 1_0_2_812_449_35_C00000_0_0_0.png
+# 23.5E
+ln -s radio.radio538.png 1_0_2_518C_C8B_3_EB0000_0_0_0.png
 
 # radio.radiobob.png
 
@@ -11962,8 +11961,8 @@ ln -s radio.rockantenne.png 1_0_2_A0_7_85_C00000_0_0_0.png
 ln -s radio.skyradio.png 1_0_2_5188_C8B_3_EB0000_0_0_0.png
 
 # radio.slamfm.png
-# 19.2E
-ln -s radio.slamfm.png 1_0_2_817_449_35_C00000_0_0_0.png
+# 23.5E
+ln -s radio.slamfm.png 1_0_2_5190_C8B_3_EB0000_0_0_0.png
 
 # radio.sr1europawelle.png
 # 19.2E
