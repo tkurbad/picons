@@ -506,8 +506,6 @@ ln -s tv.animax.png 1_0_1_D03E_2713_F001_EB0000_0_0_0.png
 # 19.2E
 ln -s tv.antena3.png 1_0_1_7604_408_1_C00000_0_0_0.png
 
-# tv.antenaneox.png
-
 # tv.ant1.png
 # 13.0E
 ln -s tv.ant1.png 1_0_1_140_157C_13E_820000_0_0_0.png
@@ -2244,7 +2242,7 @@ ln -s tv.comedie+.png 1_0_1_251E_456_1_C00000_0_0_0.png
 # 13.0E
 ln -s tv.comedycentral.png 1_0_1_A_3200_13E_820000_0_0_0.png
 ln -s tv.comedycentral.png 1_0_1_1E_3200_13E_820000_0_0_0.png
-ln -s tv.comedycentral.png 1_0_1_2C36_251C_FBFF_820000_0_0_0.png
+ln -s tv.comedycentral.png 1_0_1_57C_320_FBFF_820000_0_0_0.png
 # 9.0E
 ln -s tv.comedycentral.png 1_0_1_1839_1838_9E_5A0000_0_0_0.png
 # 28.2E
@@ -6257,6 +6255,10 @@ ln -s tv.nejat.png 1_0_1_329_3BC4_13E_820000_0_0_0.png
 # 0.8W
 ln -s tv.nelonen.png 1_0_19_130_48_46_7120000_0_0_0.png
 
+# tv.neox.png
+# 19.2E
+ln -s tv.neox.png 1_0_1_75FE_408_1_C00000_0_0_0.png
+
 # tv.nessma.png
 # 13.0E
 ln -s tv.nessma.png 1_0_1_29DE_3CF0_13E_820000_0_0_0.png
@@ -8002,6 +8004,10 @@ ln -s tv.samadubai.png 1_0_1_251F_13EF_13E_820000_0_0_0.png
 # tv.sangat.png
 # 28.2E
 ln -s tv.sangat.png 1_0_1_2540_A34_2_11A0000_0_0_0.png
+
+# tv.sanmarinotv.png
+# 13.0E
+ln -s tv.sanmarinotv.png 1_0_1_1C55_1C20_13E_820000_0_0_0.png
 
 # tv.sat1.png
 # 9.0E
@@ -10705,6 +10711,10 @@ ln -s tv.tvpaprikahu.png 1_0_19_13AE_C85_3_EB0000_0_0_0.png
 # 13.0E
 ln -s tv.tvpersia.png 1_0_1_134A_33F4_13E_820000_0_0_0.png
 
+# tv.tvphd.png
+# 13.0E
+ln -s tv.tvphd.png 1_0_1_3B62_12C_13E_820000_0_0_0.png
+
 # tv.tvphistoria.png
 # 13.0E
 ln -s tv.tvphistoria.png 1_0_19_DC4_2D50_13E_820000_0_0_0.png
@@ -11275,6 +11285,29 @@ ln -s tv.vivauk.png 1_0_1_1B61_7DA_2_11A0000_0_0_0.png
 ln -s tv.vivolta.png 1_0_1_446D_1F40_13E_820000_0_0_0.png
 # 19.2E
 ln -s tv.vivolta.png 1_0_1_2F68_454_1_C00000_0_0_0.png
+
+# tv.vod.png
+# 13.0E
+ln -s tv.vod.png 1_0_1_427C_2BC0_13E_820000_0_0.png
+ln -s tv.vod.png 1_0_1_4269_2BC0_13E_820000_0_0.png
+ln -s tv.vod.png 1_0_1_426A_2BC0_13E_820000_0_0.png
+ln -s tv.vod.png 1_0_1_426B_2BC0_13E_820000_0_0.png
+ln -s tv.vod.png 1_0_1_426C_2BC0_13E_820000_0_0.png
+ln -s tv.vod.png 1_0_1_426D_2BC0_13E_820000_0_0.png
+ln -s tv.vod.png 1_0_1_426E_2BC0_13E_820000_0_0.png
+ln -s tv.vod.png 1_0_1_426F_2BC0_13E_820000_0_0.png
+ln -s tv.vod.png 1_0_1_4270_2BC0_13E_820000_0_0.png
+ln -s tv.vod.png 1_0_1_4271_2BC0_13E_820000_0_0.png
+ln -s tv.vod.png 1_0_1_4272_2BC0_13E_820000_0_0.png
+ln -s tv.vod.png 1_0_1_4273_2BC0_13E_820000_0_0.png
+ln -s tv.vod.png 1_0_1_4274_2BC0_13E_820000_0_0.png
+ln -s tv.vod.png 1_0_1_4275_2BC0_13E_820000_0_0.png
+ln -s tv.vod.png 1_0_1_4276_2BC0_13E_820000_0_0.png
+ln -s tv.vod.png 1_0_1_4277_2BC0_13E_820000_0_0.png
+ln -s tv.vod.png 1_0_1_4278_2BC0_13E_820000_0_0.png
+ln -s tv.vod.png 1_0_1_4279_2BC0_13E_820000_0_0.png
+ln -s tv.vod.png 1_0_1_427A_2BC0_13E_820000_0_0.png
+ln -s tv.vod.png 1_0_1_427B_2BC0_13E_820000_0_0.png
 
 # tv.volkstv.png
 
