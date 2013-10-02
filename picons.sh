@@ -5134,11 +5134,6 @@ ln -s tv.kbsworldhd.png 1_0_1_7D7_22C4_13E_820000_0_0_0.png
 # tv.ketnet.png
 
 # tv.ketnet_op12.png
-# 19.2E
-ln -s tv.ketnet_op12.png 1_0_1_3208_45F_35_C00000_0_0_0.png
-ln -s tv.ketnet_op12.png 1_0_16_3208_45F_35_C00000_0_0_0.png
-# 23.5E
-ln -s tv.ketnet_op12.png 1_0_1_5286_C96_3_EB0000_0_0_0.png
 
 # tv.kerrang.png
 # 28.2E
@@ -6836,6 +6831,11 @@ ln -s tv.omtv.png 1_0_1_2144_400_1_C00000_0_0_0.png
 ln -s tv.onzeo.png 1_0_1_219A_448_1_C00000_0_0_0.png
 
 # tv.op12.png
+# 19.2E
+ln -s tv.op12.png 1_0_1_3208_45F_35_C00000_0_0_0.png
+ln -s tv.op12.png 1_0_16_3208_45F_35_C00000_0_0_0.png
+# 23.5E
+ln -s tv.op12.png 1_0_1_5286_C96_3_EB0000_0_0_0.png
 
 # tv.orf1.png
 # 19.2E
@@ -12125,7 +12125,7 @@ ln -s tv.rtl8.png 1_0_1_136_3_F3C_FFFF0000_0_0_0.png
 ln -s tv.net5.png 1_0_1_135_3_F3C_FFFF0000_0_0_0.png
 ln -s tv.veronica_disneyxd.png 1_0_1_134_3_F3C_FFFF0000_0_0_0.png
 ln -s tv.een.png 1_0_1_137_3_F3C_FFFF0000_0_0_0.png
-ln -s tv.ketnet.png 1_0_1_2733_A_F3C_FFFF0000_0_0_0.png
+ln -s tv.op12.png 1_0_1_2733_A_F3C_FFFF0000_0_0_0.png
 ln -s tv.bbcone.png 1_0_1_20D_5_F3C_FFFF0000_0_0_0.png
 ln -s tv.bbctwo.png 1_0_1_20E_5_F3C_FFFF0000_0_0_0.png
 ln -s tv.discovery.png 1_0_1_391_9_F3C_FFFF0000_0_0_0.png
@@ -12153,7 +12153,7 @@ ln -s tv.ned2hd.png 1_0_19_238E_9_F3C_FFFF0000_0_0_0.png
 ln -s tv.ned3hd.png 1_0_19_2777_A_F3C_FFFF0000_0_0_0.png
 ln -s tv.comedycentral_nickelodeonkindernet.png 1_0_1_1A4_4_F3C_FFFF0000_0_0_0.png
 ln -s tv.rtvutrecht.png 1_0_1_2E2_7_F3C_FFFF0000_0_0_0.png
-ln -s tv.ketnet_op12.png 1_0_1_2725_A_F3C_FFFF0000_0_0_0.png
+ln -s tv.op12.png 1_0_1_2725_A_F3C_FFFF0000_0_0_0.png
 ln -s tv.tvoost.png 1_0_1_416_A_F3C_FFFF0000_0_0_0.png
 ln -s tv.cnn.png 1_0_1_1A1_4_F3C_FFFF0000_0_0_0.png
 ln -s tv.nickelodeon.png 1_0_1_2720_A_F3C_FFFF0000_0_0_0.png
