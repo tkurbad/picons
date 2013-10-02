@@ -712,7 +712,6 @@ ln -s tv.axnblack.png 1_0_1_1C87_1CE8_71_820000_0_0_0.png
 # tv.axncrime.png
 # 13.0E
 ln -s tv.axncrime.png 1_0_19_DB6_2D50_13E_820000_0_0_0.png
-ln -s tv.axncrime.png 1_0_1_1C86_1CE8_71_820000_0_0_0.png
 ln -s tv.axncrime.png 1_0_19_296A_22C4_13E_820000_0_0_0.png
 ln -s tv.axncrime.png 1_0_1_DB6_2D50_13E_820000_0_0_0.png
 ln -s tv.axncrime.png 1_0_1_296A_22C4_13E_820000_0_0_0.png
@@ -742,7 +741,6 @@ ln -s tv.axnplus1.png 1_0_1_2FE0_2C24_FBFF_820000_0_0_0.png
 # tv.axnscifi.png
 # 13.0E
 ln -s tv.axnscifi.png 1_0_19_DB7_2D50_13E_820000_0_0_0.png
-ln -s tv.axnscifi.png 1_0_1_1C87_1CE8_71_820000_0_0_0.png
 ln -s tv.axnscifi.png 1_0_19_296B_22C4_13E_820000_0_0_0.png
 ln -s tv.axnscifi.png 1_0_1_DB7_2D50_13E_820000_0_0_0.png
 ln -s tv.axnscifi.png 1_0_1_296B_22C4_13E_820000_0_0_0.png
@@ -1500,8 +1498,6 @@ ln -s tv.canal+3dfrance.png 1_0_1_7621_408_1_C00000_0_0_0.png
 ln -s tv.canal+3dfrance.png 1_0_19_7855_41A_1_C00000_0_0_0.png
 
 # tv.canal+3dspain.png
-# 13.0E
-ln -s tv.canal+3dspain.png 1_0_19_3782_44C_13E_820000_0_0_0.png
 
 # tv.canal+accionhdspain.png
 # 19.2E
@@ -13099,8 +13095,8 @@ ln -s tv.numero23.png 1_0_19_B02_B_20FA_EEEE0000_0_0_0.png
 ln -s tv.rmcdecouverte.png 1_0_19_B03_B_20FA_EEEE0000_0_0_0.png
 ln -s tv.cherie25.png 1_0_19_A03_A_20FA_EEEE0000_0_0_0.png
 ln -s tv.parispremiere.png 1_0_1_404_4_20FA_EEEE0000_0_0_0.png
-ln -s tv.canal+sport.png 1_0_1_303_3_20FA_EEEE0000_0_0_0.png
-ln -s tv.canal+cinema.png 1_0_1_302_3_20FA_EEEE0000_0_0_0.png
+ln -s tv.canal+sportfrance.png 1_0_1_303_3_20FA_EEEE0000_0_0_0.png
+ln -s tv.canal+cinemafrance.png 1_0_1_302_3_20FA_EEEE0000_0_0_0.png
 ln -s tv.planete+.png 1_0_1_304_3_20FA_EEEE0000_0_0_0.png
 ln -s tv.tf6.png 1_0_1_605_6_20FA_EEEE0000_0_0_0.png
 ln -s tv.lci.png 1_0_1_603_6_20FA_EEEE0000_0_0_0.png
