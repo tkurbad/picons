@@ -363,6 +363,10 @@ ln -s tv.alibihd.png 1_0_1_F45_7F3_2_11A0000_0_0_0.png
 # 28.2E
 ln -s tv.alibiplus1.png 1_0_1_1DCE_7DF_2_11A0000_0_0_0.png
 
+# tv.alice.png
+# 13.0E
+ln -s tv.alice.png 1_0_1_E2E_16A8_FBFF_820000_0_0_0.png
+
 # tv.aljazeera.png
 # 13.0E
 ln -s tv.aljazeera.png 1_0_1_6B2_3138_13E_820000_0_0_0.png
@@ -779,6 +783,10 @@ ln -s tv.b4umovies.png 1_0_1_1CA2_7E6_2_11A0000_0_0_0.png
 # 28.2E
 ln -s tv.b4umusic.png 1_0_1_CBA7_8FE_2_11A0000_0_0_0.png
 ln -s tv.b4umusic.png 1_0_1_1CA3_7E6_2_11A0000_0_0_0.png
+
+# tv.babel.png
+# 13.0E
+ln -s tv.babel.png 1_0_1_3BF4_64_FBFF_820000_0_0_0.png
 
 # tv.babestation.png
 # 28.2E
@@ -2469,6 +2477,10 @@ ln -s tv.davehd.png 1_0_19_F3E_7F3_2_11A0000_0_0_0.png
 # 28.2E
 ln -s tv.davejavu.png 1_0_1_1DC8_7DF_2_11A0000_0_0_0.png
 
+# tv.davincilearning.png
+# 13.0E
+ln -s tv.davincilearning.png 1_0_1_4280_2BC0_13E_820000_0_0_0.png
+
 # tv.daystartv.png
 # 13.0E
 ln -s tv.daystartv.png 1_0_1_34C0_3C28_13E_820000_0_0_0.png
@@ -3168,6 +3180,10 @@ ln -s tv.e4me.png 1_0_1_1F6C_319C_13E_820000_0_0_0.png
 # 28.2E
 ln -s tv.e4plus1.png 1_0_1_206C_7FA_2_11A0000_0_0_0.png
 ln -s tv.e4plus1.png 1_0_1_2F0D_7F8_2_11A0000_0_0_0.png
+
+# tv.easybaby.png
+# 13.0E
+ln -s tv.easybaby.png 1_0_1_1111_1644_FBFF_820000_0_0_0.png
 
 # tv.ebrutv.png
 # 13.0E
@@ -5618,6 +5634,10 @@ ln -s tv.manx.png 1_0_16_3218_45F_35_C00000_0_0_0.png
 ln -s tv.manx.png 1_0_1_5284_C96_3_EB0000_0_0_0.png
 ln -s tv.manx.png 1_0_16_5284_C96_3_EB0000_0_0_0.png
 
+# tv.marcopolo.png
+# 13.0E
+ln -s tv.marcopolo.png 1_0_1_E31_16A8_FBFF_820000_0_0_0.png
+
 # tv.markiza.png
 # 23.5E
 ln -s tv.markiza.png 1_0_1_13EF_C87_3_EB0000_0_0_0.png
@@ -7237,6 +7257,10 @@ ln -s tv.polsatfilmhd.png 1_0_1_3E1E_2EE0_13E_820000_0_0_0.png
 # tv.polsatfoodnetwork.png
 # 13.0E
 ln -s tv.polsatfoodnetwork.png 1_0_1_2905_1EDC_71_820000_0_0_0.png
+
+# tv.polsatplay.png
+# 13.0E
+ln -s tv.polsatplay.png 1_0_1_3342_3390_71_820000_0_0_0.png
 
 # tv.polsatsport.png
 # 13.0E
@@ -9822,6 +9846,10 @@ ln -s tv.tele5polska.png 1_0_1_3D59_2C88_13E_820000_0_0_0.png
 # tv.telecinco.png
 # 19.2E
 ln -s tv.telecinco.png 1_0_1_77C3_40A_1_C00000_0_0_0.png
+
+# tv.telecolore.png
+# 13.0E
+ln -s tv.telecolore.png 1_0_1_712_578_13E_82ACCE_0_0_0.png
 
 # tv.teledeporte.png
 # 19.2E
