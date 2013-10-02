@@ -1625,8 +1625,10 @@ ln -s tv.canal+multideportespain.png 1_0_1_7574_412_1_C00000_0_0_0.png
 ln -s tv.canal+multideportespain.png 1_0_1_7576_412_1_C00000_0_0_0.png
 
 # tv.canal+seriesfrance.png
+
+# tv.canal+serieshdfrance.png
 # 19.2E
-ln -s tv.canal+seriesfrance.png 1_0_19_2266_438_1_C00000_0_0_0.png # tv.HD
+ln -s tv.canal+serieshdfrance.png 1_0_19_2266_438_1_C00000_0_0_0.png # HD
 
 # tv.canal+sportfrance.png
 # 13.0E
@@ -5001,7 +5003,7 @@ ln -s tv.jml.png 1_0_1_202_7_85_C00000_0_0_0.png
 
 # tv.jone.png
 # 19.2E
-ln -s tv.jone.png 1_0_19_26B2_43E_1_C00000_0_0_0.png # tv.HD
+ln -s tv.jone.png 1_0_19_26B2_43E_1_C00000_0_0_0.png # HD
 
 # tv.joiz.png
 # 19.2E
@@ -5522,8 +5524,8 @@ ln -s tv.m6musicclub.png 1_0_1_2585_458_1_C00000_0_0_0.png
 ln -s tv.m6music.png 1_0_1_4463_1F40_13E_820000_0_0_0.png
 # 19.2E
 ln -s tv.m6music.png 1_0_1_1904_3FA_1_C00000_0_0_0.png
-ln -s tv.m6music.png 1_0_19_1967_44E_1_C00000_0_0_0.png # tv.HD
-ln -s tv.m6music.png 1_0_19_197B_44E_1_C00000_0_0_0.png # tv.HD
+ln -s tv.m6music.png 1_0_19_1967_44E_1_C00000_0_0_0.png # HD
+ln -s tv.m6music.png 1_0_19_197B_44E_1_C00000_0_0_0.png # HD
 
 # tv.m6replay.png
 # 19.2E
@@ -5957,8 +5959,8 @@ ln -s tv.mtvhd.png 1_0_19_1F4E_42E_1_C00000_0_0_0.png
 ln -s tv.mtvbase.png 1_0_1_1B5F_7DA_2_11A0000_0_0_0.png
 # 19.2E
 ln -s tv.mtvbase.png 1_0_1_6FF5_42A_1_C00000_0_0_0.png
-ln -s tv.mtvbase.png 1_0_19_1F4B_42E_1_C00000_0_0_0.png # tv.HD
-ln -s tv.mtvbase.png 1_0_1_1F41_42E_1_C00000_0_0_0.png # tv.HD
+ln -s tv.mtvbase.png 1_0_19_1F4B_42E_1_C00000_0_0_0.png # HD
+ln -s tv.mtvbase.png 1_0_1_1F41_42E_1_C00000_0_0_0.png # HD
 
 # tv.mtvbrandnew.png
 # 13.0E
@@ -6003,9 +6005,9 @@ ln -s tv.mtvhits.png 1_0_1_CF79_2712_F001_EB0000_0_0_0.png
 # tv.mtvidol.png
 # 19.2E
 ln -s tv.mtvidol.png 1_0_1_7003_436_1_C00000_0_0_0.png
-ln -s tv.mtvidol.png 1_0_1_1F43_42E_1_C00000_0_0_0.png # tv.HD
-ln -s tv.mtvidol.png 1_0_1_1F4D_42E_1_C00000_0_0_0.png # tv.HD
-ln -s tv.mtvidol.png 1_0_19_1F4D_42E_1_C00000_0_0_0.png # tv.HD
+ln -s tv.mtvidol.png 1_0_1_1F43_42E_1_C00000_0_0_0.png # HD
+ln -s tv.mtvidol.png 1_0_1_1F4D_42E_1_C00000_0_0_0.png # HD
+ln -s tv.mtvidol.png 1_0_19_1F4D_42E_1_C00000_0_0_0.png # HD
 
 # tv.mtvmusic.png
 # 13.0E
@@ -6050,9 +6052,9 @@ ln -s tv.mtvplus1.png 1_0_1_1B5D_7DA_2_11A0000_0_0_0.png
 ln -s tv.mtvpulse.png 1_0_1_2D13_2774_FBFF_820000_0_0_0.png
 # 19.2E
 ln -s tv.mtvpulse.png 1_0_1_7002_436_1_C00000_0_0_0.png
-ln -s tv.mtvpulse.png 1_0_1_1F42_42E_1_C00000_0_0_0.png # tv.HD
-ln -s tv.mtvpulse.png 1_0_1_1F4C_42E_1_C00000_0_0_0.png # tv.HD
-ln -s tv.mtvpulse.png 1_0_19_1F4C_42E_1_C00000_0_0_0.png # tv.HD
+ln -s tv.mtvpulse.png 1_0_1_1F42_42E_1_C00000_0_0_0.png # HD
+ln -s tv.mtvpulse.png 1_0_1_1F4C_42E_1_C00000_0_0_0.png # HD
+ln -s tv.mtvpulse.png 1_0_19_1F4C_42E_1_C00000_0_0_0.png # HD
 
 # tv.mtvrocks.png
 # 13.0E
@@ -6984,7 +6986,7 @@ ln -s tv.oskodessa.png 1_0_1_1824_C_55_300000_0_0_0.png
 
 # tv.paramountchannel.png
 # 19.2E
-ln -s tv.paramountchannel.png 1_0_19_19CE_444_1_C00000_0_0_0.png # tv.HD
+ln -s tv.paramountchannel.png 1_0_19_19CE_444_1_C00000_0_0_0.png # HD
 
 # tv.paramountcomedy.png
 # 19.2E
@@ -7175,9 +7177,9 @@ ln -s tv.planete+nolimit.png 1_0_1_2077_432_1_C00000_0_0_0.png
 # tv.planete+thalassa.png
 # 19.2E
 ln -s tv.planete+thalassa.png 1_0_1_2138_400_1_C00000_0_0_0.png
-ln -s tv.planete+thalassa.png 1_0_1_1F45_42E_1_C00000_0_0_0.png # tv.HD
-ln -s tv.planete+thalassa.png 1_0_19_1F4F_42E_1_C00000_0_0_0.png # tv.HD
-ln -s tv.planete+thalassa.png 1_0_19_1F45_42E_1_C00000_0_0_0.png # tv.HD
+ln -s tv.planete+thalassa.png 1_0_1_1F45_42E_1_C00000_0_0_0.png # HD
+ln -s tv.planete+thalassa.png 1_0_19_1F4F_42E_1_C00000_0_0_0.png # HD
+ln -s tv.planete+thalassa.png 1_0_19_1F45_42E_1_C00000_0_0_0.png # HD
 
 # tv.planetkids.png
 # 13.0E
@@ -11399,8 +11401,8 @@ ln -s tv.voxafrica.png 1_0_1_C6C8_969_2_11A0000_0_0_0.png
 # 19.2E
 ln -s tv.voyage.png 1_0_1_1FDB_434_1_C00000_0_0_0.png
 ln -s tv.voyage.png 1_0_1_1FB0_434_1_C00000_0_0_0.png
-ln -s tv.voyage.png 1_0_19_19CD_444_1_C00000_0_0_0.png # tv.HD
-ln -s tv.voyage.png 1_0_19_19E1_444_1_C00000_0_0_0.png # tv.HD
+ln -s tv.voyage.png 1_0_19_19CD_444_1_C00000_0_0_0.png # HD
+ln -s tv.voyage.png 1_0_19_19E1_444_1_C00000_0_0_0.png # HD
 
 # tv.vier.png
 # 19.2E
