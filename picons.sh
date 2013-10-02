@@ -666,6 +666,10 @@ ln -s tv.automotorsport.png 1_0_1_339C_44E_1_C00000_0_0_0.png
 # 23.5E
 ln -s tv.automotorsporthd.png 1_0_19_17D7_C91_3_EB0000_0_0_0.png
 
+# tv.automototv.png
+# 13.0E
+ln -s tv.automototv.png 1_0_1_2CB5_2580_FBFF_820000_0_0_0.png
+
 # tv.atnbangla.png
 # 28.2E
 ln -s tv.atnbangla.png 1_0_1_D325_A29_2_11A0000_0_0_0.png
@@ -696,6 +700,10 @@ ln -s tv.axn.png 1_0_1_13B9_C95_3_EB0000_0_0_0.png
 ln -s tv.axn.png 1_0_19_13B9_C95_3_EB0000_0_0_0.png
 # 0.8W
 ln -s tv.axn.png 1_0_1_49C_3_1_7120000_0_0_0.png
+
+# tv.axnblack.png
+# 13.0E
+ln -s tv.axnblack.png 1_0_1_1C87_1CE8_71_820000_0_0_0.png
 
 # tv.axncrime.png
 # 13.0E
@@ -747,6 +755,8 @@ ln -s tv.axnscifi.png 1_0_1_D70_C_1_7120000_0_0_0.png
 ln -s tv.axnspinhd.png 1_0_1_32E2_190_13E_820000_0_0_0.png
 
 # tv.axnwhite.png
+# 13.0E
+ln -s tv.axnwhite.png 1_0_1_1C86_1CE8_71_820000_0_0_0.png
 # 19.2E
 ln -s tv.axnwhite.png 1_0_1_7471_3F0_1_C00000_0_0_0.png
 
@@ -1548,6 +1558,12 @@ ln -s tv.canal+family.png 1_0_1_2072_432_1_C00000_0_0_0.png
 # 19.2E
 ln -s tv.canal+familyhd.png 1_0_19_2265_438_1_C00000_0_0_0.png
 ln -s tv.canal+familyhd.png 1_0_19_2279_438_1_C00000_0_0_0.png
+# 13.0E
+ln -s tv.canal+familyhd.png 1_0_19_377B_44C_13E_820000_0_0_0.png
+
+# tv.canal+family2hd.png
+# 13.0E
+ln -s tv.canal+family2hd.png 1_0_19_377A_44C_13E_820000_0_0_0.png
 
 # tv.canal+futbolhd.png
 # 19.2E
@@ -1562,9 +1578,11 @@ ln -s tv.canal+film.png 1_0_1_1308_2E7C_13E_820000_0_0_0.png
 
 # tv.canal+filmhd.png
 # 13.0E
-ln -s tv.canal+filmhd.png 1_0_19_32DD_190_13E_820000_0_0_0.png
-ln -s tv.canal+filmhd.png 1_0_1_32DD_190_13E_820000_0_0_0.png
 ln -s tv.canal+filmhd.png 1_0_1_3779_44C_13E_820000_0_0_0.png
+
+# tv.canal+film2hd.png
+# 13.0E
+ln -s tv.canal+film2hd.png 1_0_19_3782_44C_13E_820000_0_0_0.png
 
 # tv.canal+hd.png
 # 13.0E
@@ -4776,9 +4794,17 @@ ln -s tv.investigationdiscoveryplus1.png 1_0_1_CCCA_90B_2_11A0000_0_0_0.png
 
 # tv.investigationdiscoveryhd.png
 
+# tv.iris.png
+# 13.0E
+ln -s tv.iris.png 1_0_1_4_3DE_110_820000_0_0_0.png
+
 # tv.italiauno.png
 # 13.0E
-ln -s tv.italiauno.png 1_0_1_1_1770_110_820000_0_0_0.png
+ln -s tv.italiauno.png 1_0_1_1_3DE_110_820000_0_0_0.png
+
+# tv.italiadue.png
+# 13.0E
+ln -s tv.italiadue.png 1_0_1_A_3DE_110_820000_0_0_0.png
 
 # tv.itele.png
 # 13.0E
@@ -5270,6 +5296,10 @@ ln -s tv.ktv.png 1_0_1_3139_459_1_C00000_0_0_0.png
 ln -s tv.l1mburg.png 1_0_1_5142_C8B_3_EB0000_0_0_0.png
 ln -s tv.l1mburg.png 1_0_16_5142_C8B_3_EB0000_0_0_0.png
 
+# tv.la3.png
+# 13.0E
+ln -s tv.la3.png 1_0_1_2CC2_2580_FBFF_820000_0_0_0.png
+
 # tv.la8.png
 # 13.0E
 ln -s tv.la8.png 1_0_1_A_300C_13E_820000_0_0_0.png
@@ -5643,6 +5673,10 @@ ln -s tv.mdr.png 1_0_1_6E45_431_1_C00000_0_0_0.png
 ln -s tv.mdr.png 1_0_1_6E46_431_1_C00000_0_0_0.png
 
 # tv.mediasetitalia.png
+
+# tv.mediasetextra.png
+# 13.0E
+ln -s tv.mediasetextra.png 1_0_1_9_3DE_110_820000_0_0_0.png
 
 # tv.mediaspartv.png
 # 19.2E
