@@ -8112,6 +8112,10 @@ ln -s tv.scuzz.png 1_0_1_D03E_90A_2_11A0000_0_0_0.png
 # 19.2E
 ln -s tv.seasons.png 1_0_1_2521_456_1_C00000_0_0_0.png
 
+# tv.senatoitaliano.png
+# 13.0E
+ln -s tv.senatoitaliano.png 1_0_1_D50_1450_13E_820000_0_0_0.png
+
 # tv.senderneujerusalem.png
 # 13.0E
 ln -s tv.senderneujerusalem.png 1_0_1_2D3_1B58_13E_820000_0_0_0.png
