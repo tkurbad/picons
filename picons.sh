@@ -1473,21 +1473,6 @@ ln -s tv.canalj.png 1_0_1_2589_458_1_C00000_0_0_0.png
 # 19.2E
 ln -s tv.canalodisea.png 1_0_1_778A_424_1_C00000_0_0_0.png
 
-# tv.canal+1.png
-
-# tv.canal+1hd.png
-# 19.2E
-ln -s tv.canal+1hd.png 1_0_1_7612_408_1_C00000_0_0_0.png
-ln -s tv.canal+1hd.png 1_0_19_74D5_3F8_1_C00000_0_0_0.png
-ln -s tv.canal+1hd.png 1_0_19_74CC_3F8_1_C00000_0_0_0.png
-
-# tv.canal+3d.png
-# 13.0E
-ln -s tv.canal+3d.png 1_0_19_3782_44C_13E_820000_0_0_0.png
-# 19.2E
-ln -s tv.canal+3d.png 1_0_1_7621_408_1_C00000_0_0_0.png
-ln -s tv.canal+3d.png 1_0_19_7855_41A_1_C00000_0_0_0.png
-
 # tv.canal+.png
 # 13.0E
 ln -s tv.canal+.png 1_0_1_1307_2E7C_13E_820000_0_0_0.png
@@ -1501,181 +1486,180 @@ ln -s tv.canal+.png 1_0_1_201D_430_1_C00000_0_0_0.png
 ln -s tv.canal+.png 1_0_1_76C0_40E_1_C00000_0_0_0.png
 ln -s tv.canal+.png 1_0_1_2031_430_1_C00000_0_0_0.png
 
-# tv.canal+accion.png
+# tv.canal+1hdspain.png
 # 19.2E
-ln -s tv.canal+accion.png 1_0_1_7472_3F0_1_C00000_0_0_0.png
-ln -s tv.canal+accion.png 1_0_1_746C_3F0_1_C00000_0_0_0.png
+ln -s tv.canal+1hdspain.png 1_0_1_7612_408_1_C00000_0_0_0.png
+ln -s tv.canal+1hdspain.png 1_0_19_74D5_3F8_1_C00000_0_0_0.png
+ln -s tv.canal+1hdspain.png 1_0_19_74CC_3F8_1_C00000_0_0_0.png
 
-# tv.canal+accionhd.png
-# 19.2E
-ln -s tv.canal+accionhd.png 1_0_19_7500_420_1_C00000_0_0_0.png
-ln -s tv.canal+accionhd.png 1_0_1_7613_408_1_C00000_0_0_0.png
-ln -s tv.canal+accionhd.png 1_0_1_75D0_422_1_C00000_0_0_0.png
-ln -s tv.canal+accionhd.png 1_0_19_7509_420_1_C00000_0_0_0.png
+# tv.canal+1spain.png
 
-# tv.canal+cinema.png
+# tv.canal+3dfrance.png
 # 19.2E
-ln -s tv.canal+cinema.png 1_0_1_200B_430_1_C00000_0_0_0.png
+ln -s tv.canal+3dfrance.png 1_0_1_7621_408_1_C00000_0_0_0.png
+ln -s tv.canal+3dfrance.png 1_0_19_7855_41A_1_C00000_0_0_0.png
 
-# tv.canal+cinemahd.png
-# 19.2E
-ln -s tv.canal+cinemahd.png 1_0_19_2263_438_1_C00000_0_0_0.png
-ln -s tv.canal+cinemahd.png 1_0_19_2277_438_1_C00000_0_0_0.png
-
-# tv.canal+comedia.png
-# 19.2E
-ln -s tv.canal+comedia.png 1_0_1_7473_3F0_1_C00000_0_0_0.png
-ln -s tv.canal+comedia.png 1_0_1_746D_3F0_1_C00000_0_0_0.png
-
-# tv.canal+comediahd.png
-# 19.2E
-ln -s tv.canal+comediahd.png 1_0_1_7614_408_1_C00000_0_0_0.png
-ln -s tv.canal+comediahd.png 1_0_19_7851_41A_1_C00000_0_0_0.png
-ln -s tv.canal+comediahd.png 1_0_19_7857_41A_1_C00000_0_0_0.png
-
-# tv.canal+dcinehd.png
-# 19.2E
-ln -s tv.canal+dcinehd.png 1_0_19_7502_420_1_C00000_0_0_0.png
-
-# tv.canal+decale.png
-# 19.2E
-ln -s tv.canal+decale.png 1_0_1_2071_432_1_C00000_0_0_0.png
-
-# tv.canal+decalehd.png
-# 19.2E
-ln -s tv.canal+decalehd.png 1_0_19_2276_438_1_C00000_0_0_0.png
-ln -s tv.canal+decalehd.png 1_0_19_2262_438_1_C00000_0_0_0.png
-
-# tv.canal+deporteshd.png
-# 19.2E
-ln -s tv.canal+deporteshd.png 1_0_19_7822_428_1_C00000_0_0_0.png
-
-# tv.canal+deportes2hd.png
-# 19.2E
-ln -s tv.canal+deportes2hd.png 1_0_19_74D6_3F8_1_C00000_0_0_0.png
-
-# tv.canal+dos.png
-# 19.2E
-ln -s tv.canal+dos.png 1_0_1_76CA_40E_1_C00000_0_0_0.png
-
-# tv.canal+family.png
-# 19.2E
-ln -s tv.canal+family.png 1_0_1_2072_432_1_C00000_0_0_0.png
-
-# tv.canal+familyhd.png
-# 19.2E
-ln -s tv.canal+familyhd.png 1_0_19_2265_438_1_C00000_0_0_0.png
-ln -s tv.canal+familyhd.png 1_0_19_2279_438_1_C00000_0_0_0.png
+# tv.canal+3dspain.png
 # 13.0E
-ln -s tv.canal+familyhd.png 1_0_19_377B_44C_13E_820000_0_0_0.png
+ln -s tv.canal+3dspain.png 1_0_19_3782_44C_13E_820000_0_0_0.png
 
-# tv.canal+family2hd.png
+# tv.canal+accionhdspain.png
+# 19.2E
+ln -s tv.canal+accionhdspain.png 1_0_19_7500_420_1_C00000_0_0_0.png
+ln -s tv.canal+accionhdspain.png 1_0_1_7613_408_1_C00000_0_0_0.png
+ln -s tv.canal+accionhdspain.png 1_0_1_75D0_422_1_C00000_0_0_0.png
+ln -s tv.canal+accionhdspain.png 1_0_19_7509_420_1_C00000_0_0_0.png
+
+# tv.canal+accionspain.png
+# 19.2E
+ln -s tv.canal+accionspain.png 1_0_1_7472_3F0_1_C00000_0_0_0.png
+ln -s tv.canal+accionspain.png 1_0_1_746C_3F0_1_C00000_0_0_0.png
+
+# tv.canal+cinemafrance.png
+# 19.2E
+ln -s tv.canal+cinemafrance.png 1_0_1_200B_430_1_C00000_0_0_0.png
+
+# tv.canal+cinemahdfrance.png
+# 19.2E
+ln -s tv.canal+cinemahdfrance.png 1_0_19_2263_438_1_C00000_0_0_0.png
+ln -s tv.canal+cinemahdfrance.png 1_0_19_2277_438_1_C00000_0_0_0.png
+
+# tv.canal+comediahdspain.png
+# 19.2E
+ln -s tv.canal+comediahdspain.png 1_0_1_7614_408_1_C00000_0_0_0.png
+ln -s tv.canal+comediahdspain.png 1_0_19_7851_41A_1_C00000_0_0_0.png
+ln -s tv.canal+comediahdspain.png 1_0_19_7857_41A_1_C00000_0_0_0.png
+
+# tv.canal+comediaspain.png
+# 19.2E
+ln -s tv.canal+comediaspain.png 1_0_1_7473_3F0_1_C00000_0_0_0.png
+ln -s tv.canal+comediaspain.png 1_0_1_746D_3F0_1_C00000_0_0_0.png
+
+# tv.canal+dcinespain.png
+
+# tv.canal+dcinehdspain.png
+# 19.2E
+ln -s tv.canal+dcinehdspain.png 1_0_19_7502_420_1_C00000_0_0_0.png
+
+# tv.canal+decalefrance.png
+# 19.2E
+ln -s tv.canal+decalefrance.png 1_0_1_2071_432_1_C00000_0_0_0.png
+
+# tv.canal+decalehdfrance.png
+# 19.2E
+ln -s tv.canal+decalehdfrance.png 1_0_19_2276_438_1_C00000_0_0_0.png
+ln -s tv.canal+decalehdfrance.png 1_0_19_2262_438_1_C00000_0_0_0.png
+
+# tv.canal+deportes2hdspain.png
+# 19.2E
+ln -s tv.canal+deportes2hdspain.png 1_0_19_74D6_3F8_1_C00000_0_0_0.png
+
+# tv.canal+deporteshdspain.png
+# 19.2E
+ln -s tv.canal+deporteshdspain.png 1_0_19_7822_428_1_C00000_0_0_0.png
+
+# tv.canal+family2hdpoland.png
 # 13.0E
-ln -s tv.canal+family2hd.png 1_0_19_377A_44C_13E_820000_0_0_0.png
+ln -s tv.canal+family2hdpoland.png 1_0_19_377A_44C_13E_820000_0_0_0.png
 
-# tv.canal+futbolhd.png
+# tv.canal+familyfrance.png
 # 19.2E
-ln -s tv.canal+futbolhd.png 1_0_19_7508_420_1_C00000_0_0_0.png
+ln -s tv.canal+familyfrance.png 1_0_1_2072_432_1_C00000_0_0_0.png
 
-# tv.canal+film.png
+# tv.canal+familyhdfrance.png
+# 19.2E
+ln -s tv.canal+familyhdfrance.png 1_0_19_2265_438_1_C00000_0_0_0.png
+ln -s tv.canal+familyhdfrance.png 1_0_19_2279_438_1_C00000_0_0_0.png
+
+# tv.canal+familyhdpoland.png
 # 13.0E
-ln -s tv.canal+film.png 1_0_1_12C2_2E7C_13E_820000_0_0_0.png
-ln -s tv.canal+film.png 1_0_1_12E1_2E7C_13E_820000_0_0_0.png
-ln -s tv.canal+film.png 1_0_1_12E4_2E7C_13E_820000_0_0_0.png
-ln -s tv.canal+film.png 1_0_1_1308_2E7C_13E_820000_0_0_0.png
+ln -s tv.canal+familyhdpoland.png 1_0_19_377B_44C_13E_820000_0_0_0.png
 
-# tv.canal+filmhd.png
+# tv.canal+familypoland.png
+
+# tv.canal+film2hdpoland.png
 # 13.0E
-ln -s tv.canal+filmhd.png 1_0_1_3779_44C_13E_820000_0_0_0.png
+ln -s tv.canal+film2hdpoland.png 1_0_19_3782_44C_13E_820000_0_0_0.png
 
-# tv.canal+film2hd.png
+# tv.canal+filmhdpoland.png
 # 13.0E
-ln -s tv.canal+film2hd.png 1_0_19_3782_44C_13E_820000_0_0_0.png
+ln -s tv.canal+filmhdpoland.png 1_0_1_3779_44C_13E_820000_0_0_0.png
 
-# tv.canal+hd.png
+# tv.canal+filmpoland.png
+
+# tv.canal+futbolhdspain.png
+# 19.2E
+ln -s tv.canal+futbolhdspain.png 1_0_19_7508_420_1_C00000_0_0_0.png
+
+# tv.canal+golfspain.png
+# 19.2E
+ln -s tv.canal+golfspain.png 1_0_1_7789_424_1_C00000_0_0_0.png
+
+# tv.canal+golfhdspain.png
+# 19.2E
+ln -s tv.canal+golfhdspain.png 1_0_19_78B7_3EC_1_C00000_0_0_0.png
+ln -s tv.canal+golfhdspain.png 1_0_19_78BC_3EC_1_C00000_0_0_0.png
+
+# tv.canal+hdfrance.png
 # 13.0E
-ln -s tv.canal+hd.png 1_0_1_32DC_190_13E_820000_0_0_0.png
+ln -s tv.canal+hdfrance.png 1_0_1_32DC_190_13E_820000_0_0_0.png
 # 19.2E
-ln -s tv.canal+hd.png 1_0_1_75D2_422_1_C00000_0_0_0.png
-ln -s tv.canal+hd.png 1_0_19_2261_438_1_C00000_0_0_0.png
-ln -s tv.canal+hd.png 1_0_19_2275_438_1_C00000_0_0_0.png
-ln -s tv.canal+hd.png 1_0_19_227F_438_1_C00000_0_0_0.png
-ln -s tv.canal+hd.png 1_0_19_2289_438_1_C00000_0_0_0.png
+ln -s tv.canal+hdfrance.png 1_0_1_75D2_422_1_C00000_0_0_0.png
+ln -s tv.canal+hdfrance.png 1_0_19_2261_438_1_C00000_0_0_0.png
+ln -s tv.canal+hdfrance.png 1_0_19_2275_438_1_C00000_0_0_0.png
+ln -s tv.canal+hdfrance.png 1_0_19_227F_438_1_C00000_0_0_0.png
+ln -s tv.canal+hdfrance.png 1_0_19_2289_438_1_C00000_0_0_0.png
 
-# tv.canal+ligahd.png
+# tv.canal+ligadecampeonesspain.png
 # 19.2E
-ln -s tv.canal+ligahd.png 1_0_19_7852_41A_1_C00000_0_0_0.png
+ln -s tv.canal+ligadecampeonesspain.png 1_0_19_78B4_3EC_1_C00000_0_0_0.png
 
-# tv.canal+ligadecampeones.png
+# tv.canal+ligahdspain.png
 # 19.2E
-ln -s tv.canal+ligadecampeones.png 1_0_19_78B4_3EC_1_C00000_0_0_0.png
+ln -s tv.canal+ligahdspain.png 1_0_19_7852_41A_1_C00000_0_0_0.png
 
-# tv.canal+multideporte.png
+# tv.canal+multideportespain.png
 # 19.2E
-ln -s tv.canal+multideporte.png 1_0_1_756C_412_1_C00000_0_0_0.png
-ln -s tv.canal+multideporte.png 1_0_1_756D_412_1_C00000_0_0_0.png
-ln -s tv.canal+multideporte.png 1_0_1_7573_412_1_C00000_0_0_0.png
-ln -s tv.canal+multideporte.png 1_0_1_769B_41E_1_C00000_0_0_0.png
-ln -s tv.canal+multideporte.png 1_0_1_769C_41E_1_C00000_0_0_0.png
-ln -s tv.canal+multideporte.png 1_0_1_7574_412_1_C00000_0_0_0.png
-ln -s tv.canal+multideporte.png 1_0_1_7576_412_1_C00000_0_0_0.png
+ln -s tv.canal+multideportespain.png 1_0_1_756C_412_1_C00000_0_0_0.png
+ln -s tv.canal+multideportespain.png 1_0_1_756D_412_1_C00000_0_0_0.png
+ln -s tv.canal+multideportespain.png 1_0_1_7573_412_1_C00000_0_0_0.png
+ln -s tv.canal+multideportespain.png 1_0_1_769B_41E_1_C00000_0_0_0.png
+ln -s tv.canal+multideportespain.png 1_0_1_769C_41E_1_C00000_0_0_0.png
+ln -s tv.canal+multideportespain.png 1_0_1_7574_412_1_C00000_0_0_0.png
+ln -s tv.canal+multideportespain.png 1_0_1_7576_412_1_C00000_0_0_0.png
 
-# tv.canal+series.png
+# tv.canal+seriesfrance.png
 # 19.2E
-ln -s tv.canal+series.png 1_0_19_2266_438_1_C00000_0_0_0.png # tv.HD
+ln -s tv.canal+seriesfrance.png 1_0_19_2266_438_1_C00000_0_0_0.png # tv.HD
 
-# tv.canal+sport.png
+# tv.canal+sportfrance.png
 # 13.0E
-ln -s tv.canal+sport.png 1_0_1_12C9_2E7C_13E_820000_0_0_0.png
-ln -s tv.canal+sport.png 1_0_1_12E5_2E7C_13E_820000_0_0_0.png
+ln -s tv.canal+sportfrance.png 1_0_1_12C9_2E7C_13E_820000_0_0_0.png
+ln -s tv.canal+sportfrance.png 1_0_1_12E5_2E7C_13E_820000_0_0_0.png
 # 19.2E
-ln -s tv.canal+sport.png 1_0_1_2024_430_1_C00000_0_0_0.png
-ln -s tv.canal+sport.png 1_0_1_2020_430_1_C00000_0_0_0.png
+ln -s tv.canal+sportfrance.png 1_0_1_2024_430_1_C00000_0_0_0.png
+ln -s tv.canal+sportfrance.png 1_0_1_2020_430_1_C00000_0_0_0.png
 
-# tv.canal+gol.png
+# tv.canal+sporthdfrance.png
 # 13.0E
-ln -s tv.canal+gol.png 1_0_1_113D_2AF8_13E_820000_0_0_0.png
-ln -s tv.canal+gol.png 1_0_1_1147_2AF8_13E_820000_0_0_0.png
-
-# tv.canal+golhd.png
-# 13.0E
-ln -s tv.canal+golhd.png 1_0_19_377A_44C_13E_820000_0_0_0.png
-
-# tv.canal+golf.png
+ln -s tv.canal+sporthdfrance.png 1_0_19_32DE_190_13E_820000_0_0_0.png
+ln -s tv.canal+sporthdfrance.png 1_0_1_32DE_190_13E_820000_0_0_0.png
 # 19.2E
-ln -s tv.canal+golf.png 1_0_1_7789_424_1_C00000_0_0_0.png
+ln -s tv.canal+sporthdfrance.png 1_0_19_2264_438_1_C00000_0_0_0.png
+ln -s tv.canal+sporthdfrance.png 1_0_19_2278_438_1_C00000_0_0_0.png
+ln -s tv.canal+sporthdfrance.png 1_0_1_23AD_44A_1_C00000_0_0_0.png
 
-# tv.canal+golfhd.png
+# tv.canal+torosspain.png
 # 19.2E
-ln -s tv.canal+golfhd.png 1_0_19_78B7_3EC_1_C00000_0_0_0.png
-ln -s tv.canal+golfhd.png 1_0_19_78BC_3EC_1_C00000_0_0_0.png
+ln -s tv.canal+torosspain.png 1_0_1_7570_412_1_C00000_0_0_0.png
 
-# tv.canal+sporthd.png
-# 13.0E
-ln -s tv.canal+sporthd.png 1_0_19_32DE_190_13E_820000_0_0_0.png
-ln -s tv.canal+sporthd.png 1_0_1_32DE_190_13E_820000_0_0_0.png
+# tv.canal+xtraspain.png
 # 19.2E
-ln -s tv.canal+sporthd.png 1_0_19_2264_438_1_C00000_0_0_0.png
-ln -s tv.canal+sporthd.png 1_0_19_2278_438_1_C00000_0_0_0.png
-ln -s tv.canal+sporthd.png 1_0_1_23AD_44A_1_C00000_0_0_0.png
+ln -s tv.canal+xtraspain.png 1_0_1_77C5_40A_1_C00000_0_0_0.png
 
-# tv.canal+toros.png
+# tv.canal+xtrahdspain.png
 # 19.2E
-ln -s tv.canal+toros.png 1_0_1_7570_412_1_C00000_0_0_0.png
-
-# tv.canal+xtra.png
-# 19.2E
-ln -s tv.canal+xtra.png 1_0_1_77C5_40A_1_C00000_0_0_0.png
-
-# tv.canal+xtrahd.png
-# 19.2E
-ln -s tv.canal+xtrahd.png 1_0_19_74CF_3F8_1_C00000_0_0_0.png
-
-# tv.canal+weekend.png
-# 13.0E
-ln -s tv.canal+weekend.png 1_0_1_113E_2AF8_13E_820000_0_0_0.png
-
-# tv.canal+weekendhd.png
+ln -s tv.canal+xtrahdspain.png 1_0_19_74CF_3F8_1_C00000_0_0_0.png
 
 # tv.canalpanda.png
 # 19.2E
