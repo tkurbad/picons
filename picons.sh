@@ -12420,7 +12420,7 @@ ln -s tv.gotv.png 1_0_1_5737_EA_A018_FFFF0000_0_0_0.png
 ln -s tv.gutelaunetv.png 1_0_1_3337_83_270F_FFFF0000_0_0_0.png
 ln -s tv.gutelaunetv.png 1_0_1_C3BF_2713_F001_FFFF0000_0_0_0.png
 ln -s tv.haberturktv.png 1_0_1_5771_ED_A018_FFFF0000_0_0_0.png
-ln -s tv.hayat.png 1_0_1_5658_DD_A018_FFFF0000_0_0_0.png   
+ln -s tv.hayat.png 1_0_1_5658_DD_A018_FFFF0000_0_0_0.png
 ln -s tv.hayatplus.png 1_0_1_65FE_105_270F_FFFF0000_0_0_0.png
 ln -s tv.hdcampustv.png 1_0_19_570D_E8_A018_FFFF0000_0_0_0.png
 ln -s tv.heimatkanal.png 1_0_1_16_1_85_FFFF0000_0_0_0.png
@@ -12429,7 +12429,7 @@ ln -s tv.hightv3d.png 1_0_19_4E95_1CD_270F_FFFF0000_0_0_0.png
 ln -s tv.history.png 1_0_1_332E_83_270F_FFFF0000_0_0_0.png
 ln -s tv.history.png 1_0_1_D035_2713_F001_FFFF0000_0_0_0.png
 ln -s tv.historyhd.png 1_0_19_71_B_85_FFFF0000_0_0_0.png
-ln -s tv.hrttv1.png 1_0_1_5775_ED_A018_FFFF0000_0_0_0.png   
+ln -s tv.hrttv1.png 1_0_1_5775_ED_A018_FFFF0000_0_0_0.png
 ln -s tv.hse24.png 1_0_1_55F3_D8_A018_FFFF0000_0_0_0.png
 ln -s tv.hse24.png 1_0_1_5E28_AB_270F_FFFF0000_0_0_0.png
 ln -s tv.hse24extra.png 1_0_1_560C_D9_A018_FFFF0000_0_0_0.png
