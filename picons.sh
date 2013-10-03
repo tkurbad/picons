@@ -1386,6 +1386,7 @@ ln -s tv.cacciaepesca.png 1_0_1_3BF0_64_FBFF_820000_0_0_0.png
 ln -s tv.cacciaepesca+.png 1_0_1_10FE_1644_FBFF_820000_0_0_0.png
 
 # tv.calle13.png
+# 19.2E
 ln -s tv.calle13.png 1_0_1_7790_424_1_C00000_0_0_0.png
 
 # tv.calle13hd.png
