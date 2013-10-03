@@ -5351,6 +5351,10 @@ ln -s tv.lasexta.png 1_0_1_77BF_40A_1_C00000_0_0_0.png
 # 19.2E
 ln -s tv.lasiete.png 1_0_1_760E_408_1_C00000_0_0_0.png
 
+# tv.lasposa.png
+# 13.0E
+ln -s tv.lasposa.png 1_0_1_2992_3D54_13E_820000_0_0_0.png
+
 # tv.ladeux.png
 # 13.0E
 ln -s tv.ladeux.png 1_0_1_3630_C8_13E_820000_0_0_0.png
