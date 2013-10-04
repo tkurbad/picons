@@ -3589,7 +3589,6 @@ ln -s tv.eurosporthd.png 1_0_19_1E_20D0_6B2_5A0000_0_0_0.png
 # 28.2E
 ln -s tv.eurosporthd.png 1_0_19_EDC_7D8_2_11A0000_0_0_0.png
 # 19.2E
-ln -s tv.eurosporthd.png 1_0_1_761A_408_1_C00000_0_0_0.png
 ln -s tv.eurosporthd.png 1_0_1_2392_44A_1_C00000_0_0_0.png
 ln -s tv.eurosporthd.png 1_0_19_84_6_85_C00000_0_0_0.png
 ln -s tv.eurosporthd.png 1_0_19_26AF_45C_1_C00000_0_0_0.png
@@ -5814,8 +5813,8 @@ ln -s tv.minimax_animax.png 1_0_1_4F72_4FF_1_C00000_0_0_0.png
 
 # tv.minimini+.png
 # 13.0E
-ln -s tv.minimini+.png 1_0_1_1137_2AF8_13E_820000_0_0_0.png
-ln -s tv.minimini+.png 1_0_1_1164_2AF8_13E_820000_0_0_0.png
+ln -s tv.minimini+.png 1_0_1_3ABB_514_13E_820000_0_0_0.png
+ln -s tv.minimini+.png 1_0_1_3B1F_514_13E_820000_0_0_0.png
 
 # tv.minimini+hd.png
 # 13.0E
@@ -6995,12 +6994,12 @@ ln -s tv.ocsnovo.png 1_0_1_1FAC_2454_13E_820000_0_0_0.png
 # 19.2E
 ln -s tv.ocsnovo.png 1_0_1_2AFD_417_1_C00000_0_0_0.png
 ln -s tv.ocsnovo.png 1_0_1_24C3_43C_1_C00000_0_0_0.png
-ln -s tv.ocsnovo.png 1_0_19_24BC_43C_1_C00000_0_0_0.png
 
 # tv.ocsnovohd.png
 # 19.2E
 ln -s tv.ocsnovohd.png 1_0_19_24C0_43C_1_C00000_0_0_0.png
 ln -s tv.ocsnovohd.png 1_0_19_24D4_43C_1_C00000_0_0_0.png
+ln -s tv.ocsnovohd.png 1_0_19_24BC_43C_1_C00000_0_0_0.png
 
 # tv.orangesportinfo.png
 # 19.2E
@@ -7843,6 +7842,7 @@ ln -s tv.rthd.png 1_0_1_18EE_3F4_1_C00000_0_0_0.png
 ln -s tv.rthd.png 1_0_1_18ED_3F4_1_C00000_0_0_0.png
 ln -s tv.rthd.png 1_0_19_18ED_3F4_1_C00000_0_0_0.png
 ln -s tv.rthd.png 1_0_1_18F8_3F4_1_C00000_0_0_0.png
+ln -s tv.rthd.png 1_0_1_761A_408_1_C00000_0_0_0.png
 
 # tv.rtdocumentaryhd.png
 # 13.0E
@@ -10068,8 +10068,6 @@ ln -s tv.thechurchchannel.png 1_0_1_324_3BC4_13E_820000_0_0_0.png
 ln -s tv.thedatingchannel.png 1_0_1_C53A_965_2_11A0000_0_0_0.png
 
 # tv.thedealchannel.png
-# 28.2E
-ln -s tv.thedealchannel.png 1_0_1_CC0B_8FF_2_11A0000_0_0_0.png
 
 # tv.thedepartmentstore.png
 # 28.2E
