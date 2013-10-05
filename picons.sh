@@ -1892,8 +1892,7 @@ ln -s tv.challenge.png 1_0_1_178F_966_2_11A0000_0_0_0.png
 
 # tv.challengeplus1.png
 # 28.2E
-ln -s tv.challengeplus1.png 1_0_1_1776_7D2_2_11A0000_0_0_0.png
-ln -s tv.challengeplus1.png 1_0_1_178A_966_2_11A0000_0_0_0.png
+ln -s tv.challengeplus1.png 1_0_1_178A_7EF_2_11A0000_0_0_0.png
 
 # tv.challenger.png
 # 13.0E
@@ -2712,7 +2711,7 @@ ln -s tv.discoveryhistory.png 1_0_1_183F_7D9_2_11A0000_0_0_0.png
 
 # tv.discoveryhistoryplus1.png
 # 28.2E
-ln -s tv.discoveryhistoryplus1.png 1_0_1_CCD3_90B_2_11A0000_0_0_0.png
+ln -s tv.discoveryhistoryplus1.png 1_0_1_138B_7E9_2_11A0000_0_0_0.png
 
 # tv.discoveryhomeandhealth.png
 # 28.2E
@@ -6462,9 +6461,7 @@ ln -s tv.nationalgeographichd.png 1_0_19_EDF_26_46_7120000_0_0_0.png
 # 13.0E
 ln -s tv.nationalgeographicplus1.png 1_0_1_DB1_2DB4_FBFF_820000_0_0_0.png
 # 28.2E
-ln -s tv.nationalgeographicplus1.png 1_0_1_1200_7EE_2_11A0000_0_0_0.png
-ln -s tv.nationalgeographicplus1.png 1_0_1_1221_7EF_2_11A0000_0_0_0.png
-ln -s tv.nationalgeographicplus1.png 1_0_1_12C6_968_2_11A0000_0_0_0.png
+ln -s tv.nationalgeographicplus1.png 1_0_1_12C6_7E9_2_11A0000_0_0_0.png
 
 # tv.nhkworld.png
 # 13.0E
@@ -8735,9 +8732,7 @@ ln -s tv.skylivingituk.png 1_0_1_178E_968_2_11A0000_0_0_0.png
 
 # tv.skylivingitplus1uk.png
 # 28.2E
-ln -s tv.skylivingitplus1uk.png 1_0_1_CC06_8FF_2_11A0000_0_0_0.png
-ln -s tv.skylivingitplus1uk.png 1_0_1_1774_7D2_2_11A0000_0_0_0.png
-ln -s tv.skylivingitplus1uk.png 1_0_1_1789_966_2_11A0000_0_0_0.png
+ln -s tv.skylivingitplus1uk.png 1_0_1_1789_7EF_2_11A0000_0_0_0.png
 
 # tv.skylivingplus1uk.png
 # 28.2E
@@ -9601,9 +9596,9 @@ ln -s tv.storm.png 1_0_1_D106_90C_2_11A0000_0_0_0.png
 # tv.studio66.png
 # 28.2E
 ln -s tv.studio66.png 1_0_1_D007_909_2_11A0000_0_0_0.png
-ln -s tv.studio66.png 1_0_1_D430_A2C_2_11A0000_0_0_0.png
-ln -s tv.studio66.png 1_0_1_D43A_A2C_2_11A0000_0_0_0.png
-ln -s tv.studio66.png 1_0_1_D45D_A2C_2_11A0000_0_0_0.png
+ln -s tv.studio66.png 1_0_1_D124_90C_2_11A0000_0_0_0.png
+ln -s tv.studio66.png 1_0_1_D129_90C_2_11A0000_0_0_0.png
+ln -s tv.studio66.png 1_0_1_D12E_90C_2_11A0000_0_0_0.png
 
 # tv.stv.png
 # 28.2E
@@ -10285,7 +10280,7 @@ ln -s tv.tracesports.png 1_0_1_15E9_C9A_3_EB0000_0_0_0.png
 
 # tv.tracesportstars.png
 # 28.2E
-ln -s tv.tracesportstars.png 1_0_1_1224_963_2_11A0000_0_0_0.png
+ln -s tv.tracesportstars.png 1_0_1_1224_807_2_11A0000_0_0_0.png
 
 # tv.traceurban.png
 # 13.0E
