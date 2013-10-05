@@ -1878,8 +1878,6 @@ ln -s tv.ceskatelevizesport.png 1_0_1_1F47_BC6_3_EB0000_0_0_0.png
 ln -s tv.ceskatelevizesport.png 1_0_19_13AF_C85_3_EB0000_0_0_0.png
 
 # tv.csfilm.png
-# 23.5E
-ln -s tv.csfilm.png 1_0_1_332C_C89_3_EB0000_0_0_0.png
 
 # tv.csfilm_csmini.png
 # 23.5E
