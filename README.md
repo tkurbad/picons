@@ -34,7 +34,7 @@ Channel Name:
   * NO fancy symbols
   * LOWERCASE
   * Time sharing channels, names seperated by "_".
-  * Sky ... channels contain uk/de/it at the end, to keep them apart.
+  * Sky, Canal+, or other providers that have similar channels in different countries, with different logos, put the country name in english at the end to keep them apart.
   * If the channelname contains a "+", you use a "+", if it's a timeshift channel, use "plus1".
   * For tv channels use the prefix "tv."
   * For radio channels use the prefix "radio."
