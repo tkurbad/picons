@@ -1842,6 +1842,10 @@ ln -s tv.cctv9documentary.png 1_0_1_1B00_3FE_1_C00000_0_0_0.png
 # 0.8W
 ln -s tv.cctv9documentary.png 1_0_1_7ED_14_46_7120000_0_0_0.png
 
+# tv.cctvf.png
+# 19.2E
+ln -s tv.cctvf.png 1_0_1_1B01_3FE_1_C00000_0_0_0.png
+
 # tv.cctvnews.png
 # 13.0E
 ln -s tv.cctvnews.png 1_0_1_6AA_3138_13E_820000_0_0_0.png
@@ -3095,6 +3099,10 @@ ln -s tv.dorceltv.png 1_0_1_444_4_AA_5A0000_0_0_0.png
 ln -s tv.dorceltv.png 1_0_1_4285_446_1_C00000_0_0_0.png
 ln -s tv.dorceltv.png 1_0_1_42A3_446_1_C00000_0_0_0.png
 ln -s tv.dorceltv.png 1_0_1_7FD_449_35_C00000_0_0_0.png
+
+# tv.doctorslife.png
+# 13.0E
+ln -s tv.doctorslife.png 1_0_1_1101_1644_FBFF_820000_0_0_0.png
 
 # tv.docuboxhd.png
 # 23.5E
@@ -7317,6 +7325,10 @@ ln -s tv.polsatsport.png 1_0_1_3330_3390_71_820000_0_0_0.png
 # 13.0E
 ln -s tv.polsatsporthd.png 1_0_1_C1E_1E78_71_820000_0_0_0.png
 
+# tv.polsatsportextrahd.png
+# 13.0E
+ln -s tv.polsatsportextrahd.png 1_0_1_C24_1E78_71_820000_0_0_0.png
+
 # tv.polsatsportnews.png
 # 13.0E
 ln -s tv.polsatsportnews.png 1_0_1_2912_1EDC_71_820000_0_0_0.png
@@ -9892,6 +9904,10 @@ ln -s tv.tcm2.png 1_0_1_1592_7E5_2_11A0000_0_0_0.png
 # 19.2E
 ln -s tv.tcmautor.png 1_0_1_760C_408_1_C00000_0_0_0.png
 
+# tv.tefchannel.png
+# 13.0E
+ln -s tv.tefchannel.png 1_0_1_2463_23F0_13F_820000_0_0_0.png
+
 # tv.telka.png
 # 23.5E
 ln -s tv.telka.png 1_0_1_333D_C89_3_EB0000_0_0_0.png
@@ -10317,6 +10333,10 @@ ln -s tv.travelchannelplus1.png 1_0_1_CCBC_901_2_11A0000_0_0_0.png
 # tv.tristarproducts.png
 # 28.2E
 ln -s tv.tristarproducts.png 1_0_1_D42B_A2C_2_11A0000_0_0_0.png
+
+# tv.trsp.png
+# 13.0E
+ln -s tv.trsp.png 1_0_1_133D_33F4_13E_820000_0_0_0.png
 
 # tv.trtbelgesel.png
 # 13.0E
