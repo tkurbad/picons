@@ -1659,7 +1659,6 @@ ln -s tv.canal+serieshdfrance.png 1_0_19_227A_438_1_C00000_0_0_0.png
 
 # tv.canal+sportfrance.png
 # 13.0E
-ln -s tv.canal+sportfrance.png 1_0_1_12C9_2E7C_13E_820000_0_0_0.png
 ln -s tv.canal+sportfrance.png 1_0_1_12E5_2E7C_13E_820000_0_0_0.png
 # 19.2E
 ln -s tv.canal+sportfrance.png 1_0_1_2024_430_1_C00000_0_0_0.png
@@ -1668,11 +1667,18 @@ ln -s tv.canal+sportfrance.png 1_0_1_2020_430_1_C00000_0_0_0.png
 # tv.canal+sporthdfrance.png
 # 13.0E
 ln -s tv.canal+sporthdfrance.png 1_0_19_32DE_190_13E_820000_0_0_0.png
-ln -s tv.canal+sporthdfrance.png 1_0_1_32DE_190_13E_820000_0_0_0.png
 # 19.2E
 ln -s tv.canal+sporthdfrance.png 1_0_19_2264_438_1_C00000_0_0_0.png
 ln -s tv.canal+sporthdfrance.png 1_0_19_2278_438_1_C00000_0_0_0.png
 ln -s tv.canal+sporthdfrance.png 1_0_1_23AD_44A_1_C00000_0_0_0.png
+
+# tv.canal+sportpoland.png
+# 13.0E
+ln -s tv.canal+sportpoland.png 1_0_1_12C9_2E7C_13E_820000_0_0_0.png
+
+# tv.canal+sporthdpoland.png
+# 13.0E
+ln -s tv.canal+sporthdpoland.png 1_0_1_32DE_190_13E_820000_0_0_0.png
 
 # tv.canal+torosspain.png
 # 19.2E
@@ -1870,6 +1876,12 @@ ln -s tv.ceskatelevizesport.png 1_0_19_13AF_C85_3_EB0000_0_0_0.png
 # tv.csfilm.png
 # 23.5E
 ln -s tv.csfilm.png 1_0_1_332C_C89_3_EB0000_0_0_0.png
+
+# tv.csfilm_csmini.png
+# 23.5E
+ln -s tv.csfilm_csmini.png 1_0_1_332C_C89_3_EB0000_0_0_0.png
+
+# tv.csmini.png
 
 # tv.challenge.png
 # 28.2E
@@ -2376,6 +2388,10 @@ ln -s tv.crimeplus1.png 1_0_1_CBC9_8FD_2_11A0000_0_0_0.png
 # tv.cruzrgay.png
 # 28.2E
 ln -s tv.cruzrgay.png 1_0_1_D805_A36_2_11A0000_0_0_0.png
+
+# tv.ct1hd.png
+# 13.0E
+ln -s tv.ct1hd.png 1_0_1_3700_C8C_3_EB0000_0_0_0.png
 
 # tv.ctc.png
 # 4.8E
@@ -7289,6 +7305,10 @@ ln -s tv.polsathd.png 1_0_1_C23_1E78_71_820000_0_0_0.png
 # 13.0E
 ln -s tv.polsatplay.png 1_0_1_3342_3390_71_820000_0_0_0.png
 
+# tv.polsatromans.png
+# 13.0E
+ln -s tv.polsatromans.png 1_0_1_1C85_1CE8_71_820000_0_0_0.png
+
 # tv.polsatsport.png
 # 13.0E
 ln -s tv.polsatsport.png 1_0_1_3330_3390_71_820000_0_0_0.png
@@ -10332,6 +10352,10 @@ ln -s tv.truemovies2.png 1_0_1_D04D_90A_2_11A0000_0_0_0.png
 ln -s tv.trwam.png 1_0_1_1C80_457_1_C00000_0_0_0.png
 ln -s tv.trwam.png 1_0_1_10D6_418_1_C00000_0_0_0.png
 
+# tv.ttv.png
+# 13.0E
+ln -s tv.ttv.png 1_0_1_10DD_3E8_13E_820000_0_0_0.png
+
 # tv.tunis7.png
 
 # tv.tunisiatv1.png
@@ -10803,6 +10827,12 @@ ln -s tv.tvnhd.png 1_0_1_3DCD_640_13E_820000_0_0_0.png
 # tv.tvnmeteo.png
 # 13.0E
 ln -s tv.tvnmeteo.png 1_0_1_10DE_3E8_13E_820000_0_0_0.png
+
+# tv.tvnstyle.png
+
+# tv.tvnstylehd.png
+# 13.0E
+ln -s tv.tvnstylehd.png 1_0_1_3DCE_640_13E_820000_0_0_0.png
 
 # tv.tvnoord.png
 # 23.5E
@@ -11787,13 +11817,6 @@ ln -s tv.zeetv.png 1_0_1_C51C_965_2_11A0000_0_0_0.png
 # tv.zing.png
 # 28.2E
 ln -s tv.zing.png 1_0_1_C526_965_2_11A0000_0_0_0.png
-
-# tv.zoneclub.png
-
-# tv.zoneromantica.png
-# 13.0E
-ln -s tv.zoneromantica.png 1_0_19_3E30_2EE0_13E_820000_0_0_0.png
-ln -s tv.zoneromantica.png 1_0_1_1C85_1CE8_71_820000_0_0_0.png
 
 # RADIO
 
