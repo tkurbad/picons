@@ -1574,9 +1574,9 @@ ln -s tv.canal+deportesspain.png 1_0_1_778F_424_1_C00000_0_0_0.png
 ln -s tv.canal+deporteshdspain.png 1_0_19_7822_428_1_C00000_0_0_0.png
 ln -s tv.canal+deporteshdspain.png 1_0_19_7828_428_1_C00000_0_0_0.png
 
-# tv.canal+family2hdpoland.png
+# tv.canal+family2hd-pl.png
 # 13.0E
-ln -s tv.canal+family2hdpoland.png 1_0_19_377A_44C_13E_820000_0_0_0.png
+ln -s tv.canal+family2hd-pl.png 1_0_19_377A_44C_13E_820000_0_0_0.png
 
 # tv.canal+familyfrance.png
 # 19.2E
@@ -1587,21 +1587,21 @@ ln -s tv.canal+familyfrance.png 1_0_1_2072_432_1_C00000_0_0_0.png
 ln -s tv.canal+familyhdfrance.png 1_0_19_2265_438_1_C00000_0_0_0.png
 ln -s tv.canal+familyhdfrance.png 1_0_19_2279_438_1_C00000_0_0_0.png
 
-# tv.canal+familyhdpoland.png
+# tv.canal+familyhd-pl.png
 # 13.0E
-ln -s tv.canal+familyhdpoland.png 1_0_19_377B_44C_13E_820000_0_0_0.png
+ln -s tv.canal+familyhd-pl.png 1_0_19_377B_44C_13E_820000_0_0_0.png
 
-# tv.canal+familypoland.png
+# tv.canal+family-pl.png
 
-# tv.canal+film2hdpoland.png
+# tv.canal+film2hd-pl.png
 # 13.0E
-ln -s tv.canal+film2hdpoland.png 1_0_19_3782_44C_13E_820000_0_0_0.png
+ln -s tv.canal+film2hd-pl.png 1_0_19_3782_44C_13E_820000_0_0_0.png
 
-# tv.canal+filmhdpoland.png
+# tv.canal+filmhd-pl.png
 # 13.0E
-ln -s tv.canal+filmhdpoland.png 1_0_1_3779_44C_13E_820000_0_0_0.png
+ln -s tv.canal+filmhd-pl.png 1_0_1_3779_44C_13E_820000_0_0_0.png
 
-# tv.canal+filmpoland.png
+# tv.canal+film-pl.png
 
 # tv.canal+futbolhdspain.png
 # 19.2E
@@ -1672,13 +1672,13 @@ ln -s tv.canal+sporthdfrance.png 1_0_19_2264_438_1_C00000_0_0_0.png
 ln -s tv.canal+sporthdfrance.png 1_0_19_2278_438_1_C00000_0_0_0.png
 ln -s tv.canal+sporthdfrance.png 1_0_1_23AD_44A_1_C00000_0_0_0.png
 
-# tv.canal+sportpoland.png
+# tv.canal+sport-pl.png
 # 13.0E
-ln -s tv.canal+sportpoland.png 1_0_1_12C9_2E7C_13E_820000_0_0_0.png
+ln -s tv.canal+sport-pl.png 1_0_1_12C9_2E7C_13E_820000_0_0_0.png
 
-# tv.canal+sporthdpoland.png
+# tv.canal+sporthd-pl.png
 # 13.0E
-ln -s tv.canal+sporthdpoland.png 1_0_1_32DE_190_13E_820000_0_0_0.png
+ln -s tv.canal+sporthd-pl.png 1_0_1_32DE_190_13E_820000_0_0_0.png
 
 # tv.canal+torosspain.png
 # 19.2E
@@ -1902,11 +1902,11 @@ ln -s tv.challenger.png 1_0_1_1335_33F4_13E_820000_0_0_0.png
 # 23.5E
 ln -s tv.chambertv.png 1_0_1_1464_C98_3_EB0000_0_0_0.png
 
-# tv.channel1rus.png
+# tv.channel1-ru.png
 # 4.8E
-ln -s tv.channel1rus.png 1_0_1_1838_D_55_300000_0_0_0.png
-ln -s tv.channel1rus.png 1_0_1_1842_D_55_300000_0_0_0.png
-ln -s tv.channel1rus.png 1_0_1_184C_D_55_300000_0_0_0.png
+ln -s tv.channel1-ru.png 1_0_1_1838_D_55_300000_0_0_0.png
+ln -s tv.channel1-ru.png 1_0_1_1842_D_55_300000_0_0_0.png
+ln -s tv.channel1-ru.png 1_0_1_184C_D_55_300000_0_0_0.png
 
 # tv.channel4.png
 # 28.2E
@@ -4466,9 +4466,9 @@ ln -s tv.hbo3.png 1_0_16_17B4_C82_3_EB0000_0_0_0.png
 
 # tv.hbo2hd.png
 
-# tv.hbo2hdpl.png
+# tv.hbo2hd-pl.png
 # 13.0E
-ln -s tv.hbo2hdpl.png 1_0_1_E09_2D50_13E_820000_0_0_0.png
+ln -s tv.hbo2hd-pl.png 1_0_1_E09_2D50_13E_820000_0_0_0.png
 
 # tv.hbohd.png
 # 13.0E
@@ -5107,9 +5107,9 @@ ln -s tv.juwelotvhd.png 1_0_1_151B_455_1_C00000_0_0_0.png
 ln -s tv.june.png 1_0_1_1FE1_434_1_C00000_0_0_0.png
 ln -s tv.june.png 1_0_1_2074_432_1_C00000_0_0_0.png
 
-# tv.k+rus.png
+# tv.k+-ru.png
 # 13.0E
-ln -s tv.k+rus.png 1_0_1_29D9_3CF0_13E_820000_0_0_0.png
+ln -s tv.k+-ru.png 1_0_1_29D9_3CF0_13E_820000_0_0_0.png
 
 # tv.k2.png
 # 13.0E
@@ -7192,16 +7192,16 @@ ln -s tv.piwi+.png 1_0_1_2523_456_1_C00000_0_0_0.png
 ln -s tv.planetahd.png 1_0_1_1522_C86_3_EB0000_0_0_0.png
 ln -s tv.planetahd.png 1_0_19_1522_C86_3_EB0000_0_0_0.png
 
-# tv.planetde.png
+# tv.planet-de.png
 # 19.2E
-ln -s tv.planetde.png 1_0_1_31FC_45F_35_C00000_0_0_0.png
-ln -s tv.planetde.png 1_0_1_7FC_449_35_C00000_0_0_0.png
-ln -s tv.planetde.png 1_0_16_3251_45F_35_C00000_0_0_0.png
+ln -s tv.planet-de.png 1_0_1_31FC_45F_35_C00000_0_0_0.png
+ln -s tv.planet-de.png 1_0_1_7FC_449_35_C00000_0_0_0.png
+ln -s tv.planet-de.png 1_0_16_3251_45F_35_C00000_0_0_0.png
 # 23.5E
-ln -s tv.planetde.png 1_0_1_C3B9_2713_F001_EB0000_0_0_0.png
-ln -s tv.planetde.png 1_0_19_C3B9_2713_F001_EB0000_0_0_0.png
+ln -s tv.planet-de.png 1_0_1_C3B9_2713_F001_EB0000_0_0_0.png
+ln -s tv.planet-de.png 1_0_19_C3B9_2713_F001_EB0000_0_0_0.png
 
-# tv.planethdde.png
+# tv.planethd-de.png
 
 # tv.planete+.png
 # 13.0E
@@ -8217,9 +8217,9 @@ ln -s tv.sbs6hd.png 1_0_1_17CA_C82_3_EB0000_0_0_0.png
 # 19.2E
 ln -s tv.schautv.png 1_0_1_33A9_3EB_1_C00000_0_0_0.png
 
-# tv.scifipoland.png
+# tv.scifi-pl.png
 # 13.0E
-ln -s tv.scifipoland.png 1_0_1_3A40_1FA4_13E_820000_0_0_0.png
+ln -s tv.scifi-pl.png 1_0_1_3A40_1FA4_13E_820000_0_0_0.png
 
 # tv.sct.png
 # 13.0E
@@ -8419,13 +8419,13 @@ ln -s tv.sky3duk.png 1_0_19_F0E_7F7_2_11A0000_0_0_0.png
 ln -s tv.sky3duk.png 1_0_1_58_9_85_C00000_0_0_0.png
 ln -s tv.sky3duk.png 1_0_19_75_44B_1_C00000_0_0_0.png
 
-# tv.sky3dit.png
+# tv.sky3d-it.png
 # 13.0E
-ln -s tv.sky3dit.png 1_0_19_37A7_14B4_FBFF_820000_0_0_0.png
-ln -s tv.sky3dit.png 1_0_19_37A8_14B4_FBFF_820000_0_0_0.png
-ln -s tv.sky3dit.png 1_0_19_37A9_14B4_FBFF_820000_0_0_0.png
-ln -s tv.sky3dit.png 1_0_19_37AB_14B4_FBFF_820000_0_0_0.png
-ln -s tv.sky3dit.png 1_0_19_37AC_14B4_FBFF_820000_0_0_0.png
+ln -s tv.sky3d-it.png 1_0_19_37A7_14B4_FBFF_820000_0_0_0.png
+ln -s tv.sky3d-it.png 1_0_19_37A8_14B4_FBFF_820000_0_0_0.png
+ln -s tv.sky3d-it.png 1_0_19_37A9_14B4_FBFF_820000_0_0_0.png
+ln -s tv.sky3d-it.png 1_0_19_37AB_14B4_FBFF_820000_0_0_0.png
+ln -s tv.sky3d-it.png 1_0_19_37AC_14B4_FBFF_820000_0_0_0.png
 
 # tv.skyondemanduk.png
 # 28.2E
@@ -8529,107 +8529,107 @@ ln -s tv.skybundesligahdde.png 1_0_1_15B_E_85_C00000_0_0_0.png
 ln -s tv.skybundesligahdde.png 1_0_1_101_E_85_C00000_0_0_0.png
 ln -s tv.skybundesligahdde.png 1_0_19_101_E_85_C00000_0_0_0.png
 
-# tv.skycalciohdit.png
+# tv.skycalciohd-it.png
 # 13.0E
-ln -s tv.skycalciohdit.png 1_0_19_379F_14B4_FBFF_820000_0_0_0.png
-ln -s tv.skycalciohdit.png 1_0_19_37A1_14B4_FBFF_820000_0_0_0.png
-ln -s tv.skycalciohdit.png 1_0_19_1E3E_15E0_FBFF_820000_0_0_0.png
-ln -s tv.skycalciohdit.png 1_0_19_1E41_15E0_FBFF_820000_0_0_0.png
-ln -s tv.skycalciohdit.png 1_0_19_2B15_1900_FBFF_820000_0_0_0.png
-ln -s tv.skycalciohdit.png 1_0_19_106F_2008_FBFF_820000_0_0_0.png
-ln -s tv.skycalciohdit.png 1_0_1_2C32_251C_FBFF_820000_0_0_0.png
-ln -s tv.skycalciohdit.png 1_0_1_2C40_251C_FBFF_820000_0_0_0.png
-ln -s tv.skycalciohdit.png 1_0_1_2C41_251C_FBFF_820000_0_0_0.png
-ln -s tv.skycalciohdit.png 1_0_1_2C84_251C_FBFF_820000_0_0_0.png
-ln -s tv.skycalciohdit.png 1_0_19_F73_2198_FBFF_820000_0_0_0.png
-ln -s tv.skycalciohdit.png 1_0_19_F65_2198_FBFF_820000_0_0_0.png
-ln -s tv.skycalciohdit.png 1_0_19_F64_2198_FBFF_820000_0_0_0.png
-ln -s tv.skycalciohdit.png 1_0_1_2C25_251C_FBFF_820000_0_0_0.png
-ln -s tv.skycalciohdit.png 1_0_19_1089_2008_FBFF_820000_0_0_0.png
-ln -s tv.skycalciohdit.png 1_0_1_2C42_251C_FBFF_820000_0_0_0.png
-ln -s tv.skycalciohdit.png 1_0_19_108A_2008_FBFF_820000_0_0_0.png
-ln -s tv.skycalciohdit.png 1_0_19_F46_2198_FBFF_820000_0_0_0.png
-ln -s tv.skycalciohdit.png 1_0_1_2C44_251C_FBFF_820000_0_0_0.png
-ln -s tv.skycalciohdit.png 1_0_19_F48_2198_FBFF_820000_0_0_0.png
-ln -s tv.skycalciohdit.png 1_0_1_2C3F_251C_FBFF_820000_0_0_0.png
-ln -s tv.skycalciohdit.png 1_0_19_1E5F_15E0_FBFF_820000_0_0_0.png
-ln -s tv.skycalciohdit.png 1_0_19_1E5C_15E0_FBFF_820000_0_0_0.png
-ln -s tv.skycalciohdit.png 1_0_19_F4D_2198_FBFF_820000_0_0_0.png
-ln -s tv.skycalciohdit.png 1_0_19_F6F_2198_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_19_379F_14B4_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_19_37A1_14B4_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_19_1E3E_15E0_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_19_1E41_15E0_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_19_2B15_1900_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_19_106F_2008_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_1_2C32_251C_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_1_2C40_251C_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_1_2C41_251C_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_1_2C84_251C_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_19_F73_2198_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_19_F65_2198_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_19_F64_2198_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_1_2C25_251C_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_19_1089_2008_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_1_2C42_251C_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_19_108A_2008_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_19_F46_2198_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_1_2C44_251C_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_19_F48_2198_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_1_2C3F_251C_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_19_1E5F_15E0_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_19_1E5C_15E0_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_19_F4D_2198_FBFF_820000_0_0_0.png
+ln -s tv.skycalciohd-it.png 1_0_19_F6F_2198_FBFF_820000_0_0_0.png
 
-# tv.skycalcioit.png
+# tv.skycalcio-it.png
 # 13.0E
-ln -s tv.skycalcioit.png 1_0_1_2D56_170C_FBFF_820000_0_0_0.png
-ln -s tv.skycalcioit.png 1_0_1_2D5D_170C_FBFF_820000_0_0_0.png
-ln -s tv.skycalcioit.png 1_0_1_2D5F_170C_FBFF_820000_0_0_0.png
-ln -s tv.skycalcioit.png 1_0_1_2D61_170C_FBFF_820000_0_0_0.png
-ln -s tv.skycalcioit.png 1_0_1_2D62_170C_FBFF_820000_0_0_0.png
-ln -s tv.skycalcioit.png 1_0_1_2D63_170C_FBFF_820000_0_0_0.png
-ln -s tv.skycalcioit.png 1_0_1_2DC7_1A2C_FBFF_820000_0_0_0.png
-ln -s tv.skycalcioit.png 1_0_1_2DC8_1A2C_FBFF_820000_0_0_0.png
-ln -s tv.skycalcioit.png 1_0_1_2DCF_1A2C_FBFF_820000_0_0_0.png
-ln -s tv.skycalcioit.png 1_0_1_2BCF_1A90_FBFF_820000_0_0_0.png
-ln -s tv.skycalcioit.png 1_0_1_2BD1_1A90_FBFF_820000_0_0_0.png
-ln -s tv.skycalcioit.png 1_0_1_2BD3_1A90_FBFF_820000_0_0_0.png
-ln -s tv.skycalcioit.png 1_0_1_2BD5_1A90_FBFF_820000_0_0_0.png
-ln -s tv.skycalcioit.png 1_0_1_2BD7_1A90_FBFF_820000_0_0_0.png
-ln -s tv.skycalcioit.png 1_0_1_2BD9_1A90_FBFF_820000_0_0_0.png
-ln -s tv.skycalcioit.png 1_0_1_2C2F_251C_FBFF_820000_0_0_0.png
+ln -s tv.skycalcio-it.png 1_0_1_2D56_170C_FBFF_820000_0_0_0.png
+ln -s tv.skycalcio-it.png 1_0_1_2D5D_170C_FBFF_820000_0_0_0.png
+ln -s tv.skycalcio-it.png 1_0_1_2D5F_170C_FBFF_820000_0_0_0.png
+ln -s tv.skycalcio-it.png 1_0_1_2D61_170C_FBFF_820000_0_0_0.png
+ln -s tv.skycalcio-it.png 1_0_1_2D62_170C_FBFF_820000_0_0_0.png
+ln -s tv.skycalcio-it.png 1_0_1_2D63_170C_FBFF_820000_0_0_0.png
+ln -s tv.skycalcio-it.png 1_0_1_2DC7_1A2C_FBFF_820000_0_0_0.png
+ln -s tv.skycalcio-it.png 1_0_1_2DC8_1A2C_FBFF_820000_0_0_0.png
+ln -s tv.skycalcio-it.png 1_0_1_2DCF_1A2C_FBFF_820000_0_0_0.png
+ln -s tv.skycalcio-it.png 1_0_1_2BCF_1A90_FBFF_820000_0_0_0.png
+ln -s tv.skycalcio-it.png 1_0_1_2BD1_1A90_FBFF_820000_0_0_0.png
+ln -s tv.skycalcio-it.png 1_0_1_2BD3_1A90_FBFF_820000_0_0_0.png
+ln -s tv.skycalcio-it.png 1_0_1_2BD5_1A90_FBFF_820000_0_0_0.png
+ln -s tv.skycalcio-it.png 1_0_1_2BD7_1A90_FBFF_820000_0_0_0.png
+ln -s tv.skycalcio-it.png 1_0_1_2BD9_1A90_FBFF_820000_0_0_0.png
+ln -s tv.skycalcio-it.png 1_0_1_2C2F_251C_FBFF_820000_0_0_0.png
 
-# tv.skycinemaclassicshdit.png
+# tv.skycinemaclassicshd-it.png
 # 13.0E
-ln -s tv.skycinemaclassicshdit.png 1_0_19_1C58_206C_FBFF_820000_0_0_0.png
-ln -s tv.skycinemaclassicshdit.png 1_0_1_2C48_251C_FBFF_820000_0_0_0.png
-ln -s tv.skycinemaclassicshdit.png 1_0_19_2B18_1900_FBFF_820000_0_0_0.png
+ln -s tv.skycinemaclassicshd-it.png 1_0_19_1C58_206C_FBFF_820000_0_0_0.png
+ln -s tv.skycinemaclassicshd-it.png 1_0_1_2C48_251C_FBFF_820000_0_0_0.png
+ln -s tv.skycinemaclassicshd-it.png 1_0_19_2B18_1900_FBFF_820000_0_0_0.png
 
-# tv.skycinemaclassicsit.png
+# tv.skycinemaclassics-it.png
 # 13.0E
-ln -s tv.skycinemaclassicsit.png 1_0_1_2B65_19C8_FBFF_820000_0_0_0.png
+ln -s tv.skycinemaclassics-it.png 1_0_1_2B65_19C8_FBFF_820000_0_0_0.png
 
 # tv.skycinemade.png
 # 19.2E
 ln -s tv.skycinemade.png 1_0_1_A_2_85_C00000_0_0_0.png
 
-# tv.skycinemacomedyit.png
+# tv.skycinemacomedy-it.png
 # 13.0E
-ln -s tv.skycinemacomedyit.png 1_0_1_2DCD_1A2C_FBFF_820000_0_0_0.png
+ln -s tv.skycinemacomedy-it.png 1_0_1_2DCD_1A2C_FBFF_820000_0_0_0.png
 
-# tv.skycinemacomedyhdit.png
+# tv.skycinemacomedyhd-it.png
 # 13.0E
-ln -s tv.skycinemacomedyhdit.png 1_0_1_2C4A_251C_FBFF_820000_0_0_0.png
-ln -s tv.skycinemacomedyhdit.png 1_0_19_2B16_1900_FBFF_820000_0_0_0.png
+ln -s tv.skycinemacomedyhd-it.png 1_0_1_2C4A_251C_FBFF_820000_0_0_0.png
+ln -s tv.skycinemacomedyhd-it.png 1_0_19_2B16_1900_FBFF_820000_0_0_0.png
 
-# tv.skycinemaculthdit.png
+# tv.skycinemaculthd-it.png
 # 13.0E
-ln -s tv.skycinemaculthdit.png 1_0_19_DEC_1AF4_FBFF_820000_0_0_0.png
+ln -s tv.skycinemaculthd-it.png 1_0_19_DEC_1AF4_FBFF_820000_0_0_0.png
 
-# tv.skycinemapassionit.png
+# tv.skycinemapassion-it.png
 # 13.0E
-ln -s tv.skycinemapassionit.png 1_0_1_2B73_19C8_FBFF_820000_0_0_0.png
+ln -s tv.skycinemapassion-it.png 1_0_1_2B73_19C8_FBFF_820000_0_0_0.png
 
-# tv.skycinemapassionhdit.png
+# tv.skycinemapassionhd-it.png
 # 13.0E
-ln -s tv.skycinemapassionhdit.png 1_0_1_2C49_251C_FBFF_820000_0_0_0.png
-ln -s tv.skycinemapassionhdit.png 1_0_19_1C3F_206C_FBFF_820000_0_0_0.png
+ln -s tv.skycinemapassionhd-it.png 1_0_1_2C49_251C_FBFF_820000_0_0_0.png
+ln -s tv.skycinemapassionhd-it.png 1_0_19_1C3F_206C_FBFF_820000_0_0_0.png
 
-# tv.skycinemafamilyhdit.png
+# tv.skycinemafamilyhd-it.png
 # 13.0E
-ln -s tv.skycinemafamilyhdit.png 1_0_19_1C57_206C_FBFF_820000_0_0_0.png
-ln -s tv.skycinemafamilyhdit.png 1_0_1_2C47_251C_FBFF_820000_0_0_0.png
+ln -s tv.skycinemafamilyhd-it.png 1_0_19_1C57_206C_FBFF_820000_0_0_0.png
+ln -s tv.skycinemafamilyhd-it.png 1_0_1_2C47_251C_FBFF_820000_0_0_0.png
 
-# tv.skycinemafamilyit.png
+# tv.skycinemafamily-it.png
 # 13.0E
-ln -s tv.skycinemafamilyit.png 1_0_1_2B61_19C8_FBFF_820000_0_0_0.png
+ln -s tv.skycinemafamily-it.png 1_0_1_2B61_19C8_FBFF_820000_0_0_0.png
 
 # tv.skycinemahdde.png
 # 19.2E
 ln -s tv.skycinemahdde.png 1_0_1_50_9_85_C00000_0_0_0.png
 ln -s tv.skycinemahdde.png 1_0_19_83_6_85_C00000_0_0_0.png
 
-# tv.skycinemahdit.png
+# tv.skycinemahd-it.png
 # 13.0E
-ln -s tv.skycinemahdit.png 1_0_19_106A_2008_FBFF_820000_0_0_0.png
-ln -s tv.skycinemahdit.png 1_0_1_2C24_251C_FBFF_820000_0_0_0.png
+ln -s tv.skycinemahd-it.png 1_0_19_106A_2008_FBFF_820000_0_0_0.png
+ln -s tv.skycinemahd-it.png 1_0_1_2C24_251C_FBFF_820000_0_0_0.png
 
 # tv.skycinemahitsde.png
 # 19.2E
@@ -8640,65 +8640,65 @@ ln -s tv.skycinemahitsde.png 1_0_1_29_3_85_C00000_0_0_0.png
 ln -s tv.skycinemahitshdde.png 1_0_1_57_9_85_C00000_0_0_0.png
 ln -s tv.skycinemahitshdde.png 1_0_19_6B_C_85_C00000_0_0_0.png
 
-# tv.skycinemahitshdit.png
+# tv.skycinemahitshd-it.png
 # 13.0E
-ln -s tv.skycinemahitshdit.png 1_0_1_2C4F_251C_FBFF_820000_0_0_0.png
-ln -s tv.skycinemahitshdit.png 1_0_19_106C_2008_FBFF_820000_0_0_0.png
+ln -s tv.skycinemahitshd-it.png 1_0_1_2C4F_251C_FBFF_820000_0_0_0.png
+ln -s tv.skycinemahitshd-it.png 1_0_19_106C_2008_FBFF_820000_0_0_0.png
 
-# tv.skycinemahitsit.png
+# tv.skycinemahits-it.png
 # 13.0E
-ln -s tv.skycinemahitsit.png 1_0_1_2DCC_1A2C_FBFF_820000_0_0_0.png
+ln -s tv.skycinemahits-it.png 1_0_1_2DCC_1A2C_FBFF_820000_0_0_0.png
 
-# tv.skycinemait.png
+# tv.skycinema-it.png
 # 13.0E
-ln -s tv.skycinemait.png 1_0_1_2B5D_19C8_FBFF_820000_0_0_0.png
+ln -s tv.skycinema-it.png 1_0_1_2B5D_19C8_FBFF_820000_0_0_0.png
 
-# tv.skycinemamaxhdit.png
+# tv.skycinemamaxhd-it.png
 # 13.0E
-ln -s tv.skycinemamaxhdit.png 1_0_1_2C55_251C_FBFF_820000_0_0_0.png
-ln -s tv.skycinemamaxhdit.png 1_0_19_106E_2008_FBFF_820000_0_0_0.png
+ln -s tv.skycinemamaxhd-it.png 1_0_1_2C55_251C_FBFF_820000_0_0_0.png
+ln -s tv.skycinemamaxhd-it.png 1_0_19_106E_2008_FBFF_820000_0_0_0.png
 
-# tv.skycinemamaxit.png
+# tv.skycinemamax-it.png
 # 13.0E
-ln -s tv.skycinemamaxit.png 1_0_1_2B6B_19C8_FBFF_820000_0_0_0.png
+ln -s tv.skycinemamax-it.png 1_0_1_2B6B_19C8_FBFF_820000_0_0_0.png
 
-# tv.skycinemamaxplus1hdit.png
+# tv.skycinemamaxplus1hd-it.png
 # 13.0E
-ln -s tv.skycinemamaxplus1hdit.png 1_0_1_2C4B_251C_FBFF_820000_0_0_0.png
-ln -s tv.skycinemamaxplus1hdit.png 1_0_19_1E5E_15E0_FBFF_820000_0_0_0.png
+ln -s tv.skycinemamaxplus1hd-it.png 1_0_1_2C4B_251C_FBFF_820000_0_0_0.png
+ln -s tv.skycinemamaxplus1hd-it.png 1_0_19_1E5E_15E0_FBFF_820000_0_0_0.png
 
-# tv.skycinemamaxplus1it.png
+# tv.skycinemamaxplus1-it.png
 # 13.0E
-ln -s tv.skycinemamaxplus1it.png 1_0_1_2DC3_1A2C_FBFF_820000_0_0_0.png
+ln -s tv.skycinemamaxplus1-it.png 1_0_1_2DC3_1A2C_FBFF_820000_0_0_0.png
 
 # tv.skycinemaplus1de.png
 # 19.2E
 ln -s tv.skycinemaplus1de.png 1_0_1_B_2_85_C00000_0_0_0.png
 
-# tv.skycinemaplus1hdit.png
+# tv.skycinemaplus1hd-it.png
 # 13.0E
-ln -s tv.skycinemaplus1hdit.png 1_0_19_1C55_206C_FBFF_820000_0_0_0.png
-ln -s tv.skycinemaplus1hdit.png 1_0_1_2C45_251C_FBFF_820000_0_0_0.png
-ln -s tv.skycinemaplus1hdit.png 1_0_19_1E5D_15E0_FBFF_820000_0_0_0.png
+ln -s tv.skycinemaplus1hd-it.png 1_0_19_1C55_206C_FBFF_820000_0_0_0.png
+ln -s tv.skycinemaplus1hd-it.png 1_0_1_2C45_251C_FBFF_820000_0_0_0.png
+ln -s tv.skycinemaplus1hd-it.png 1_0_19_1E5D_15E0_FBFF_820000_0_0_0.png
 
-# tv.skycinemaplus1it.png
+# tv.skycinemaplus1-it.png
 # 13.0E
-ln -s tv.skycinemaplus1it.png 1_0_1_2DCA_1A2C_FBFF_820000_0_0_0.png
+ln -s tv.skycinemaplus1-it.png 1_0_1_2DCA_1A2C_FBFF_820000_0_0_0.png
 
 # tv.skycinemaplus24de.png
 # 19.2E
 ln -s tv.skycinemaplus24de.png 1_0_1_2B_2_85_C00000_0_0_0.png
 
-# tv.skycinemaplus24hdit.png
+# tv.skycinemaplus24hd-it.png
 # 13.0E
-ln -s tv.skycinemaplus24hdit.png 1_0_19_1C56_206C_FBFF_820000_0_0_0.png
-ln -s tv.skycinemaplus24hdit.png 1_0_1_2C46_251C_FBFF_820000_0_0_0.png
-ln -s tv.skycinemaplus24hdit.png 1_0_19_2B17_1900_FBFF_820000_0_0_0.png
-ln -s tv.skycinemaplus24hdit.png 1_0_19_1C38_206C_FBFF_820000_0_0_0.png
+ln -s tv.skycinemaplus24hd-it.png 1_0_19_1C56_206C_FBFF_820000_0_0_0.png
+ln -s tv.skycinemaplus24hd-it.png 1_0_1_2C46_251C_FBFF_820000_0_0_0.png
+ln -s tv.skycinemaplus24hd-it.png 1_0_19_2B17_1900_FBFF_820000_0_0_0.png
+ln -s tv.skycinemaplus24hd-it.png 1_0_19_1C38_206C_FBFF_820000_0_0_0.png
 
-# tv.skycinemaplus24it.png
+# tv.skycinemaplus24-it.png
 # 13.0E
-ln -s tv.skycinemaplus24it.png 1_0_1_2B63_19C8_FBFF_820000_0_0_0.png
+ln -s tv.skycinemaplus24-it.png 1_0_1_2B63_19C8_FBFF_820000_0_0_0.png
 
 # tv.skycomedyde.png
 # 19.2E
@@ -8741,9 +8741,9 @@ ln -s tv.skylivingplus1uk.png 1_0_1_178D_7E9_2_11A0000_0_0_0.png
 ln -s tv.skylivingplus1uk.png 1_0_1_1793_7EE_2_11A0000_0_0_0.png
 ln -s tv.skylivingplus1uk.png 1_0_1_1788_963_2_11A0000_0_0_0.png
 
-# tv.skymeteo24it.png
+# tv.skymeteo24-it.png
 # 13.0E
-ln -s tv.skymeteo24it.png 1_0_1_10E1_1644_FBFF_820000_0_0_0.png
+ln -s tv.skymeteo24-it.png 1_0_1_10E1_1644_FBFF_820000_0_0_0.png
 
 # tv.skymoviesboxofficehduk.png
 # 28.2E
@@ -8969,70 +8969,70 @@ ln -s tv.skypoker.png 1_0_1_12C3_966_2_11A0000_0_0_0.png
 # 28.2E
 ln -s tv.skybet.png 1_0_1_247D_7EF_2_11A0000_0_0_0.png
 
-# tv.skyprimafilahdit.png
+# tv.skyprimafilahd-it.png
 # 13.0E
-ln -s tv.skyprimafilahdit.png 1_0_19_F4C_2198_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilahdit.png 1_0_1_2C3C_251C_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilahdit.png 1_0_1_2C4C_251C_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilahdit.png 1_0_1_2C4D_251C_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilahdit.png 1_0_1_2C4E_251C_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilahdit.png 1_0_1_2C50_251C_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilahdit.png 1_0_1_2C51_251C_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilahdit.png 1_0_1_2C5B_251C_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilahdit.png 1_0_19_1E5B_15E0_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilahdit.png 1_0_19_1E60_15E0_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilahdit.png 1_0_19_108B_2008_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilahdit.png 1_0_19_108F_2008_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilahdit.png 1_0_19_37AA_14B4_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilahdit.png 1_0_19_37D2_14B4_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilahdit.png 1_0_19_24BE_2260_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilahdit.png 1_0_19_24BF_2260_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilahdit.png 1_0_19_2CF4_2774_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilahdit.png 1_0_19_F71_2198_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilahdit.png 1_0_19_F72_2198_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafilahd-it.png 1_0_19_F4C_2198_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafilahd-it.png 1_0_1_2C3C_251C_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafilahd-it.png 1_0_1_2C4C_251C_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafilahd-it.png 1_0_1_2C4D_251C_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafilahd-it.png 1_0_1_2C4E_251C_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafilahd-it.png 1_0_1_2C50_251C_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafilahd-it.png 1_0_1_2C51_251C_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafilahd-it.png 1_0_1_2C5B_251C_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafilahd-it.png 1_0_19_1E5B_15E0_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafilahd-it.png 1_0_19_1E60_15E0_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafilahd-it.png 1_0_19_108B_2008_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafilahd-it.png 1_0_19_108F_2008_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafilahd-it.png 1_0_19_37AA_14B4_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafilahd-it.png 1_0_19_37D2_14B4_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafilahd-it.png 1_0_19_24BE_2260_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafilahd-it.png 1_0_19_24BF_2260_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafilahd-it.png 1_0_19_2CF4_2774_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafilahd-it.png 1_0_19_F71_2198_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafilahd-it.png 1_0_19_F72_2198_FBFF_820000_0_0_0.png
 
-# tv.skyprimafilait.png
+# tv.skyprimafila-it.png
 # 13.0E
-ln -s tv.skyprimafilait.png 1_0_1_3400_2710_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_3402_2710_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_3405_2710_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_340D_2710_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_341E_2710_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_3421_2710_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_3422_2710_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_3423_2710_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_3427_2710_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_342A_2710_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_3431_2710_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_3432_2710_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_3433_2710_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_3435_2710_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_82_3428_2710_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_38BC_2648_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_38BD_2648_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_38BE_2648_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_38BF_2648_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_38C8_2648_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_38C9_2648_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_38E0_2648_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_38E1_2648_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_38FA_2648_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_2D51_170C_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_2D53_170C_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_2D54_170C_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_2D55_170C_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_2D57_170C_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_2D65_170C_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_2D82_170C_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_2DAA_170C_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_82_1FD1_189C_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_90_1FD2_189C_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_2BC3_1A90_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_2BC5_1A90_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_2BCA_1A90_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_2BCC_1A90_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_2BCE_1A90_FBFF_820000_0_0_0.png
-ln -s tv.skyprimafilait.png 1_0_1_2BD0_1A90_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_3400_2710_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_3402_2710_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_3405_2710_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_340D_2710_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_341E_2710_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_3421_2710_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_3422_2710_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_3423_2710_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_3427_2710_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_342A_2710_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_3431_2710_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_3432_2710_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_3433_2710_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_3435_2710_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_82_3428_2710_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_38BC_2648_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_38BD_2648_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_38BE_2648_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_38BF_2648_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_38C8_2648_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_38C9_2648_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_38E0_2648_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_38E1_2648_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_38FA_2648_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_2D51_170C_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_2D53_170C_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_2D54_170C_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_2D55_170C_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_2D57_170C_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_2D65_170C_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_2D82_170C_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_2DAA_170C_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_82_1FD1_189C_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_90_1FD2_189C_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_2BC3_1A90_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_2BC5_1A90_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_2BCA_1A90_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_2BCC_1A90_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_2BCE_1A90_FBFF_820000_0_0_0.png
+ln -s tv.skyprimafila-it.png 1_0_1_2BD0_1A90_FBFF_820000_0_0_0.png
 
 # tv.skyselectde.png
 # 19.2E
@@ -9092,55 +9092,55 @@ ln -s tv.skysportde.png 1_0_1_FD_2_85_C00000_0_0_0.png
 ln -s tv.skysportde.png 1_0_1_DD_4_85_C00000_0_0_0.png
 ln -s tv.skysportde.png 1_0_1_DE_4_85_C00000_0_0_0.png
 
-# tv.skysport1hdit.png
+# tv.skysport1hd-it.png
 # 13.0E
-ln -s tv.skysport1hdit.png 1_0_1_2C34_251C_FBFF_820000_0_0_0.png
-ln -s tv.skysport1hdit.png 1_0_19_2B0F_1900_FBFF_820000_0_0_0.png
+ln -s tv.skysport1hd-it.png 1_0_1_2C34_251C_FBFF_820000_0_0_0.png
+ln -s tv.skysport1hd-it.png 1_0_19_2B0F_1900_FBFF_820000_0_0_0.png
 
-# tv.skysportit.png
+# tv.skysport-it.png
 
-# tv.skysport1it.png
+# tv.skysport1-it.png
 # 13.0E
-ln -s tv.skysport1it.png 1_0_1_2AA8_1838_FBFF_820000_0_0_0.png
+ln -s tv.skysport1-it.png 1_0_1_2AA8_1838_FBFF_820000_0_0_0.png
 
-# tv.skysport2hdit.png
+# tv.skysport2hd-it.png
 # 13.0E
-ln -s tv.skysport2hdit.png 1_0_19_2B10_1900_FBFF_820000_0_0_0.png
-ln -s tv.skysport2hdit.png 1_0_1_2C68_251C_FBFF_820000_0_0_0.png
-ln -s tv.skysport2hdit.png 1_0_19_2B12_1900_FBFF_820000_0_0_0.png
+ln -s tv.skysport2hd-it.png 1_0_19_2B10_1900_FBFF_820000_0_0_0.png
+ln -s tv.skysport2hd-it.png 1_0_1_2C68_251C_FBFF_820000_0_0_0.png
+ln -s tv.skysport2hd-it.png 1_0_19_2B12_1900_FBFF_820000_0_0_0.png
 
-# tv.skysport2it.png
+# tv.skysport2-it.png
 # 13.0E
-ln -s tv.skysport2it.png 1_0_1_2AA9_1838_FBFF_820000_0_0_0.png
+ln -s tv.skysport2-it.png 1_0_1_2AA9_1838_FBFF_820000_0_0_0.png
 
-# tv.skysport3hdit.png
+# tv.skysport3hd-it.png
 # 13.0E
-ln -s tv.skysport3hdit.png 1_0_19_2B11_1900_FBFF_820000_0_0_0.png
-ln -s tv.skysport3hdit.png 1_0_19_1C28_206C_FBFF_820000_0_0_0.png
+ln -s tv.skysport3hd-it.png 1_0_19_2B11_1900_FBFF_820000_0_0_0.png
+ln -s tv.skysport3hd-it.png 1_0_19_1C28_206C_FBFF_820000_0_0_0.png
 
-# tv.skysport3it.png
+# tv.skysport3-it.png
 # 13.0E
-ln -s tv.skysport3it.png 1_0_1_2DD9_1A2C_FBFF_820000_0_0_0.png
+ln -s tv.skysport3-it.png 1_0_1_2DD9_1A2C_FBFF_820000_0_0_0.png
 
-# tv.skysport24it.png
+# tv.skysport24-it.png
 # 13.0E
-ln -s tv.skysport24it.png 1_0_1_2AB1_1838_FBFF_820000_0_0_0.png
-ln -s tv.skysport24it.png 1_0_1_2AB8_1838_FBFF_820000_0_0_0.png
-ln -s tv.skysport24it.png 1_0_1_2ABA_1838_FBFF_820000_0_0_0.png
+ln -s tv.skysport24-it.png 1_0_1_2AB1_1838_FBFF_820000_0_0_0.png
+ln -s tv.skysport24-it.png 1_0_1_2AB8_1838_FBFF_820000_0_0_0.png
+ln -s tv.skysport24-it.png 1_0_1_2ABA_1838_FBFF_820000_0_0_0.png
 
-# tv.skysportactiveit.png
+# tv.skysportactive-it.png
 
 # tv.skysportaustriade.png
 # 19.2E
 ln -s tv.skysportaustriade.png 1_0_1_1E_1_85_C00000_0_0_0.png
 
-# tv.skysportextrahdit.png
+# tv.skysportextrahd-it.png
 
-# tv.skysportextrait.png
+# tv.skysportextra-it.png
 
-# tv.skysportf1hdit.png
+# tv.skysportf1hd-it.png
 # 13.0E
-ln -s tv.skysportf1hdit.png 1_0_19_250D_170C_FBFF_820000_0_0_0.png
+ln -s tv.skysportf1hd-it.png 1_0_19_250D_170C_FBFF_820000_0_0_0.png
 
 # tv.skysporthdde.png
 # 19.2E
@@ -9255,35 +9255,35 @@ ln -s tv.skysportsnewsuk.png 1_0_1_132B_7E7_2_11A0000_0_0_0.png
 ln -s tv.skysportsnewsuk.png 1_0_1_132D_7E7_2_11A0000_0_0_0.png
 ln -s tv.skysportsnewsuk.png 1_0_1_132E_7E7_2_11A0000_0_0_0.png
 
-# tv.skysupercalciohdit.png
+# tv.skysupercalciohd-it.png
 # 13.0E
-ln -s tv.skysupercalciohdit.png 1_0_19_2B0E_1900_FBFF_820000_0_0_0.png
-ln -s tv.skysupercalciohdit.png 1_0_1_2C2D_251C_FBFF_820000_0_0_0.png
-ln -s tv.skysupercalciohdit.png 1_0_19_1C29_206C_FBFF_820000_0_0_0.png
-ln -s tv.skysupercalciohdit.png 1_0_19_1C3E_206C_FBFF_820000_0_0_0.png
-ln -s tv.skysupercalciohdit.png 1_0_82_1C40_206C_FBFF_820000_0_0_0.png
+ln -s tv.skysupercalciohd-it.png 1_0_19_2B0E_1900_FBFF_820000_0_0_0.png
+ln -s tv.skysupercalciohd-it.png 1_0_1_2C2D_251C_FBFF_820000_0_0_0.png
+ln -s tv.skysupercalciohd-it.png 1_0_19_1C29_206C_FBFF_820000_0_0_0.png
+ln -s tv.skysupercalciohd-it.png 1_0_19_1C3E_206C_FBFF_820000_0_0_0.png
+ln -s tv.skysupercalciohd-it.png 1_0_82_1C40_206C_FBFF_820000_0_0_0.png
 
-# tv.skysupercalcioit.png
+# tv.skysupercalcio-it.png
 # 13.0E
-ln -s tv.skysupercalcioit.png 1_0_1_2AAA_1838_FBFF_820000_0_0_0.png
-ln -s tv.skysupercalcioit.png 1_0_1_2AAF_1838_FBFF_820000_0_0_0.png
+ln -s tv.skysupercalcio-it.png 1_0_1_2AAA_1838_FBFF_820000_0_0_0.png
+ln -s tv.skysupercalcio-it.png 1_0_1_2AAF_1838_FBFF_820000_0_0_0.png
 
-# tv.skytg24activeit.png
+# tv.skytg24active-it.png
 # 13.0E
-ln -s tv.skytg24activeit.png 1_0_1_10E7_1644_FBFF_820000_0_0_0.png
-ln -s tv.skytg24activeit.png 1_0_1_10E8_1644_FBFF_820000_0_0_0.png
-ln -s tv.skytg24activeit.png 1_0_1_10E9_1644_FBFF_820000_0_0_0.png
-ln -s tv.skytg24activeit.png 1_0_1_10EA_1644_FBFF_820000_0_0_0.png
-ln -s tv.skytg24activeit.png 1_0_1_10EC_1644_FBFF_820000_0_0_0.png
+ln -s tv.skytg24active-it.png 1_0_1_10E7_1644_FBFF_820000_0_0_0.png
+ln -s tv.skytg24active-it.png 1_0_1_10E8_1644_FBFF_820000_0_0_0.png
+ln -s tv.skytg24active-it.png 1_0_1_10E9_1644_FBFF_820000_0_0_0.png
+ln -s tv.skytg24active-it.png 1_0_1_10EA_1644_FBFF_820000_0_0_0.png
+ln -s tv.skytg24active-it.png 1_0_1_10EC_1644_FBFF_820000_0_0_0.png
 
-# tv.skytg24it.png
+# tv.skytg24-it.png
 # 13.0E
-ln -s tv.skytg24it.png 1_0_1_110A_1644_FBFF_820000_0_0_0.png
-ln -s tv.skytg24it.png 1_0_1_1123_1644_FBFF_820000_0_0_0.png
+ln -s tv.skytg24-it.png 1_0_1_110A_1644_FBFF_820000_0_0_0.png
+ln -s tv.skytg24-it.png 1_0_1_1123_1644_FBFF_820000_0_0_0.png
 
-# tv.skytg24hdit.png
+# tv.skytg24hd-it.png
 # 13.0E
-ln -s tv.skytg24hdit.png 1_0_19_DBF_1AF4_FBFF_820000_0_0_0.png
+ln -s tv.skytg24hd-it.png 1_0_19_DBF_1AF4_FBFF_820000_0_0_0.png
 
 # tv.skyuk.png
 # 28.2E
@@ -9304,18 +9304,18 @@ ln -s tv.skyuk.png 1_0_1_138C_7D7_2_11A0000_0_0_0.png
 # 19.2E
 ln -s tv.skyhdfanzonede.png 1_0_19_66_A_85_C00000_0_0_0.png
 
-# tv.skyunoit.png
+# tv.skyuno-it.png
 # 13.0E
-ln -s tv.skyunoit.png 1_0_1_2DC6_1A2C_FBFF_820000_0_0_0.png
+ln -s tv.skyuno-it.png 1_0_1_2DC6_1A2C_FBFF_820000_0_0_0.png
 
-# tv.skyunohdit.png
+# tv.skyunohd-it.png
 # 13.0E
-ln -s tv.skyunohdit.png 1_0_19_37A6_14B4_FBFF_820000_0_0_0.png
-ln -s tv.skyunohdit.png 1_0_1_2C43_251C_FBFF_820000_0_0_0.png
+ln -s tv.skyunohd-it.png 1_0_19_37A6_14B4_FBFF_820000_0_0_0.png
+ln -s tv.skyunohd-it.png 1_0_1_2C43_251C_FBFF_820000_0_0_0.png
 
-# tv.skyunoplus1it.png
+# tv.skyunoplus1-it.png
 # 13.0E
-ln -s tv.skyunoplus1it.png 1_0_1_2B70_19C8_FBFF_820000_0_0_0.png
+ln -s tv.skyunoplus1-it.png 1_0_1_2B70_19C8_FBFF_820000_0_0_0.png
 
 # tv.showcasetv.png
 # 28.2E
@@ -10657,13 +10657,13 @@ ln -s tv.tv5mondeeurope.png 1_0_1_1B03_3FE_1_C00000_0_0_0.png
 # 23.5E
 ln -s tv.tv5mondeeurope.png 1_0_19_CF0F_2717_F001_EB0000_0_0_0.png
 
-# tv.tv4poland.png
+# tv.tv4-pl.png
 # 13.0E
-ln -s tv.tv4poland.png 1_0_1_332F_3390_71_820000_0_0_0.png
+ln -s tv.tv4-pl.png 1_0_1_332F_3390_71_820000_0_0_0.png
 
-# tv.tv6poland.png
+# tv.tv6-pl.png
 # 13.0E
-ln -s tv.tv6poland.png 1_0_1_290E_1EDC_71_820000_0_0_0.png
+ln -s tv.tv6-pl.png 1_0_1_290E_1EDC_71_820000_0_0_0.png
 
 # tv.tv7.png
 # 0.8W
@@ -10883,10 +10883,10 @@ ln -s tv.tvoranje.png 1_0_1_31F9_45F_35_C00000_0_0_0.png
 ln -s tv.tvoranje.png 1_0_16_51D4_C96_3_EB0000_0_0_0.png
 ln -s tv.tvoranje.png 1_0_1_51D4_C96_3_EB0000_0_0_0.png
 
-# tv.tvpaprikahu.png
+# tv.tvpaprika-hu.png
 # 23.5E
-ln -s tv.tvpaprikahu.png 1_0_16_13AE_C85_3_EB0000_0_0_0.png
-ln -s tv.tvpaprikahu.png 1_0_19_13AE_C85_3_EB0000_0_0_0.png
+ln -s tv.tvpaprika-hu.png 1_0_16_13AE_C85_3_EB0000_0_0_0.png
+ln -s tv.tvpaprika-hu.png 1_0_19_13AE_C85_3_EB0000_0_0_0.png
 
 # tv.tvpersia.png
 # 13.0E
@@ -10950,13 +10950,13 @@ ln -s tv.tvpuls.png 1_0_1_13F8_5DC_13E_820000_0_0_0.png
 ln -s tv.tvprozrywka.png 1_0_1_4288_2BC0_13E_820000_0_0_0.png
 ln -s tv.tvprozrywka.png 1_0_1_DC6_2D50_13E_820000_0_0_0.png
 
-# tv.tvrpl.png
+# tv.tvr-pl.png
 # 13.0E
-ln -s tv.tvrpl.png 1_0_1_1292_3458_13E_820000_0_0_0.png
+ln -s tv.tvr-pl.png 1_0_1_1292_3458_13E_820000_0_0_0.png
 
-# tv.tvrhdpl.png
+# tv.tvrhd-pl.png
 # 13.0E
-ln -s tv.tvrhdpl.png 1_0_1_3E22_2EE0_13E_820000_0_0_0.png
+ln -s tv.tvrhd-pl.png 1_0_1_3E22_2EE0_13E_820000_0_0_0.png
 
 # tv.tvrepublika.png
 # 13.0E
@@ -10966,9 +10966,9 @@ ln -s tv.tvrepublika.png 1_0_1_4289_2BC0_13E_820000_0_0_0.png
 # 13.0E
 ln -s tv.tvromaniainternational.png 1_0_1_29D3_3CF0_13E_820000_0_0_0.png
 
-# tv.tvrus.png
+# tv.tvrus-ru.png
 # 13.0E
-ln -s tv.tvrus.png 1_0_1_27D_3C8C_13E_820000_0_0_0.png
+ln -s tv.tvrus-ru.png 1_0_1_27D_3C8C_13E_820000_0_0_0.png
 
 # tv.tvsaleukr.png
 # 4.8E
@@ -12432,8 +12432,8 @@ ln -s tv.cartoonnetwork.png 1_0_1_C617_2712_F001_FFFF0000_0_0_0.png
 ln -s tv.cctvnews.png 1_0_1_4E97_10F_270F_FFFF0000_0_0_0.png
 ln -s tv.cctvnews.png 1_0_1_5720_E9_A018_FFFF0000_0_0_0.png
 ln -s tv.centertv.png 1_0_1_5E2B_15F_270F_FFFF0000_0_0_0.png
-ln -s tv.channel1rus.png 1_0_1_5660_DD_270F_FFFF0000_0_0_0.png
-ln -s tv.channel1rus.png 1_0_1_D108_70_F001_FFFF0000_0_0_0.png
+ln -s tv.channel1-ru.png 1_0_1_5660_DD_270F_FFFF0000_0_0_0.png
+ln -s tv.channel1-ru.png 1_0_1_D108_70_F001_FFFF0000_0_0_0.png
 ln -s tv.channel21.png 1_0_1_2F30_441_A018_FFFF0000_0_0_0.png
 ln -s tv.channel21.png 1_0_1_5E29_B5_270F_FFFF0000_0_0_0.png
 ln -s tv.cnbc.png 1_0_1_3717_8D_270F_FFFF0000_0_0_0.png

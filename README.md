@@ -13,11 +13,11 @@ picons.sh:
     # 28.2E
     ln -s tv.disneycinemagicplus1.png 1_0_1_232B_803_2_11A0000_0_0_0.png
 
-    # tv.canal+1hd.png
+    # tv.canal+1hd-es.png
     # 19.2E
-    ln -s tv.canal+1hd.png 1_0_1_7612_408_1_C00000_0_0_0.png
-    ln -s tv.canal+1hd.png 1_0_19_74D5_3F8_1_C00000_0_0_0.png
-    ln -s tv.canal+1hd.png 1_0_19_74CC_3F8_1_C00000_0_0_0.png
+    ln -s tv.canal+1hd-es.png 1_0_1_7612_408_1_C00000_0_0_0.png
+    ln -s tv.canal+1hd-es.png 1_0_19_74D5_3F8_1_C00000_0_0_0.png
+    ln -s tv.canal+1hd-es.png 1_0_19_74CC_3F8_1_C00000_0_0_0.png
 
     # RADIO
 
@@ -34,7 +34,7 @@ Channel Name:
   * NO fancy symbols
   * LOWERCASE
   * Time sharing channels, names seperated by "_".
-  * Sky, Canal+, or other providers that have similar channels in different countries, with different logos, put the country name in english at the end to keep them apart.
+  * Sometimes it's useful to add a country code, do it like this, -uk, -de, -ru, -pl at the end of the logo's name.
   * If the channelname contains a "+", you use a "+", if it's a timeshift channel, use "plus1".
   * For tv channels use the prefix "tv."
   * For radio channels use the prefix "radio."
