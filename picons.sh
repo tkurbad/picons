@@ -137,7 +137,6 @@ ln -s tv.9xm.png 1_0_1_D8DB_962_2_11A0000_0_0_0.png
 # tv.13emerue.png
 # 19.2E
 ln -s tv.13emerue.png 1_0_19_246A_456_1_C00000_0_0_0.png
-ln -s tv.13emerue.png 1_0_1_1F46_42E_1_C00000_0_0_0.png
 ln -s tv.13emerue.png 1_0_19_2456_456_1_C00000_0_0_0.png
 ln -s tv.13emerue.png 1_0_1_190B_3FA_1_C00000_0_0_0.png
 
@@ -251,7 +250,6 @@ ln -s tv.abudhabitv.png 1_0_1_C6B2_969_2_11A0000_0_0_0.png
 # tv.acht.png
 # 19.2E
 ln -s tv.acht.png 1_0_1_31F6_45F_35_C00000_0_0_0.png
-ln -s tv.acht.png 1_0_16_3216_45F_35_C00000_0_0_0.png
 # 23.5E
 ln -s tv.acht.png 1_0_1_5282_C96_3_EB0000_0_0_0.png
 ln -s tv.acht.png 1_0_16_5282_C96_3_EB0000_0_0_0.png
@@ -890,7 +888,6 @@ ln -s tv.bbcfour.png 1_0_1_18AC_7FD_2_11A0000_0_0_0.png
 ln -s tv.bbchd.png 1_0_19_E06_2D50_13E_820000_0_0_0.png
 ln -s tv.bbchd.png 1_0_1_E06_2D50_13E_820000_0_0_0.png
 # 28.2E
-ln -s tv.bbchd.png 1_0_1_1B1C_802_2_11A0000_0_0_0.png
 ln -s tv.bbchd.png 1_0_19_1B21_802_2_11A0000_0_0_0.png
 # 0.8W
 ln -s tv.bbchd.png 1_0_19_1008_29_46_7120000_0_0_0.png
@@ -1259,9 +1256,9 @@ ln -s tv.boing.png 1_0_1_6_3DE_110_820000_0_0_0.png
 # 19.2E
 ln -s tv.boing.png 1_0_1_6F70_42C_1_C00000_0_0_0.png
 
-# tv.boingspain.png
+# tv.boing-es.png
 # 19.2E
-ln -s tv.boingspain.png 1_0_1_749E_41C_1_C00000_0_0_0.png
+ln -s tv.boing-es.png 1_0_1_749E_41C_1_C00000_0_0_0.png
 
 # tv.bongusto.png
 # 9.0E
@@ -1472,7 +1469,6 @@ ln -s tv.canaleitalia84.png 1_0_1_245C_23F0_13F_820000_0_0_0.png
 
 # tv.canalj.png
 # 19.2E
-ln -s tv.canalj.png 1_0_1_24BC_43C_1_C00000_0_0_0.png
 ln -s tv.canalj.png 1_0_1_2589_458_1_C00000_0_0_0.png
 
 # tv.canalodisea.png
@@ -1492,37 +1488,37 @@ ln -s tv.canal+.png 1_0_1_201D_430_1_C00000_0_0_0.png
 ln -s tv.canal+.png 1_0_1_76C0_40E_1_C00000_0_0_0.png
 ln -s tv.canal+.png 1_0_1_2031_430_1_C00000_0_0_0.png
 
-# tv.canal+1hdspain.png
+# tv.canal+1hd-es.png
 # 19.2E
-ln -s tv.canal+1hdspain.png 1_0_1_7612_408_1_C00000_0_0_0.png
-ln -s tv.canal+1hdspain.png 1_0_19_74D5_3F8_1_C00000_0_0_0.png
-ln -s tv.canal+1hdspain.png 1_0_19_74CC_3F8_1_C00000_0_0_0.png
+ln -s tv.canal+1hd-es.png 1_0_1_7612_408_1_C00000_0_0_0.png
+ln -s tv.canal+1hd-es.png 1_0_19_74D5_3F8_1_C00000_0_0_0.png
+ln -s tv.canal+1hd-es.png 1_0_19_74CC_3F8_1_C00000_0_0_0.png
 
-# tv.canal+1spain.png
+# tv.canal+1-es.png
 
-# tv.canal+2hdspain.png
-ln -s tv.canal+2hdspain.png 1_0_19_78B6_3EC_1_C00000_0_0_0.png
+# tv.canal+2hd-es.png
+ln -s tv.canal+2hd-es.png 1_0_19_78B6_3EC_1_C00000_0_0_0.png
 
-# tv.canal+2spain.png
+# tv.canal+2-es.png
 
 # tv.canal+3dfrance.png
 # 19.2E
 ln -s tv.canal+3dfrance.png 1_0_1_7621_408_1_C00000_0_0_0.png
 ln -s tv.canal+3dfrance.png 1_0_19_7855_41A_1_C00000_0_0_0.png
 
-# tv.canal+3dspain.png
+# tv.canal+3d-es.png
 
-# tv.canal+accionhdspain.png
+# tv.canal+accionhd-es.png
 # 19.2E
-ln -s tv.canal+accionhdspain.png 1_0_19_7500_420_1_C00000_0_0_0.png
-ln -s tv.canal+accionhdspain.png 1_0_1_7613_408_1_C00000_0_0_0.png
-ln -s tv.canal+accionhdspain.png 1_0_1_75D0_422_1_C00000_0_0_0.png
-ln -s tv.canal+accionhdspain.png 1_0_19_7509_420_1_C00000_0_0_0.png
+ln -s tv.canal+accionhd-es.png 1_0_19_7500_420_1_C00000_0_0_0.png
+ln -s tv.canal+accionhd-es.png 1_0_1_7613_408_1_C00000_0_0_0.png
+ln -s tv.canal+accionhd-es.png 1_0_1_75D0_422_1_C00000_0_0_0.png
+ln -s tv.canal+accionhd-es.png 1_0_19_7509_420_1_C00000_0_0_0.png
 
-# tv.canal+accionspain.png
+# tv.canal+accion-es.png
 # 19.2E
-ln -s tv.canal+accionspain.png 1_0_1_7472_3F0_1_C00000_0_0_0.png
-ln -s tv.canal+accionspain.png 1_0_1_746C_3F0_1_C00000_0_0_0.png
+ln -s tv.canal+accion-es.png 1_0_1_7472_3F0_1_C00000_0_0_0.png
+ln -s tv.canal+accion-es.png 1_0_1_746C_3F0_1_C00000_0_0_0.png
 
 # tv.canal+cinemafrance.png
 # 19.2E
@@ -1533,23 +1529,23 @@ ln -s tv.canal+cinemafrance.png 1_0_1_200B_430_1_C00000_0_0_0.png
 ln -s tv.canal+cinemahdfrance.png 1_0_19_2263_438_1_C00000_0_0_0.png
 ln -s tv.canal+cinemahdfrance.png 1_0_19_2277_438_1_C00000_0_0_0.png
 
-# tv.canal+comediahdspain.png
+# tv.canal+comediahd-es.png
 # 19.2E
-ln -s tv.canal+comediahdspain.png 1_0_1_7614_408_1_C00000_0_0_0.png
-ln -s tv.canal+comediahdspain.png 1_0_19_7851_41A_1_C00000_0_0_0.png
-ln -s tv.canal+comediahdspain.png 1_0_19_7857_41A_1_C00000_0_0_0.png
+ln -s tv.canal+comediahd-es.png 1_0_1_7614_408_1_C00000_0_0_0.png
+ln -s tv.canal+comediahd-es.png 1_0_19_7851_41A_1_C00000_0_0_0.png
+ln -s tv.canal+comediahd-es.png 1_0_19_7857_41A_1_C00000_0_0_0.png
 
-# tv.canal+comediaspain.png
+# tv.canal+comedia-es.png
 # 19.2E
-ln -s tv.canal+comediaspain.png 1_0_1_7473_3F0_1_C00000_0_0_0.png
-ln -s tv.canal+comediaspain.png 1_0_1_746D_3F0_1_C00000_0_0_0.png
+ln -s tv.canal+comedia-es.png 1_0_1_7473_3F0_1_C00000_0_0_0.png
+ln -s tv.canal+comedia-es.png 1_0_1_746D_3F0_1_C00000_0_0_0.png
 
-# tv.canal+dcinespain.png
+# tv.canal+dcine-es.png
 
-# tv.canal+dcinehdspain.png
+# tv.canal+dcinehd-es.png
 # 19.2E
-ln -s tv.canal+dcinehdspain.png 1_0_19_7502_420_1_C00000_0_0_0.png
-ln -s tv.canal+dcinehdspain.png 1_0_19_750B_420_1_C00000_0_0_0.png
+ln -s tv.canal+dcinehd-es.png 1_0_19_7502_420_1_C00000_0_0_0.png
+ln -s tv.canal+dcinehd-es.png 1_0_19_750B_420_1_C00000_0_0_0.png
 
 # tv.canal+decalefrance.png
 # 19.2E
@@ -1560,19 +1556,19 @@ ln -s tv.canal+decalefrance.png 1_0_1_2071_432_1_C00000_0_0_0.png
 ln -s tv.canal+decalehdfrance.png 1_0_19_2276_438_1_C00000_0_0_0.png
 ln -s tv.canal+decalehdfrance.png 1_0_19_2262_438_1_C00000_0_0_0.png
 
-# tv.canal+deportes2hdspain.png
+# tv.canal+deportes2hd-es.png
 # 19.2E
-ln -s tv.canal+deportes2hdspain.png 1_0_19_74D6_3F8_1_C00000_0_0_0.png
-ln -s tv.canal+deportes2hdspain.png 1_0_19_74D7_3F8_1_C00000_0_0_0.png
+ln -s tv.canal+deportes2hd-es.png 1_0_19_74D6_3F8_1_C00000_0_0_0.png
+ln -s tv.canal+deportes2hd-es.png 1_0_19_74D7_3F8_1_C00000_0_0_0.png
 
-# tv.canal+deportesspain.png
+# tv.canal+deportes-es.png
 # 19.2E
-ln -s tv.canal+deportesspain.png 1_0_1_778F_424_1_C00000_0_0_0.png
+ln -s tv.canal+deportes-es.png 1_0_1_778F_424_1_C00000_0_0_0.png
 
-# tv.canal+deporteshdspain.png
+# tv.canal+deporteshd-es.png
 # 19.2E
-ln -s tv.canal+deporteshdspain.png 1_0_19_7822_428_1_C00000_0_0_0.png
-ln -s tv.canal+deporteshdspain.png 1_0_19_7828_428_1_C00000_0_0_0.png
+ln -s tv.canal+deporteshd-es.png 1_0_19_7822_428_1_C00000_0_0_0.png
+ln -s tv.canal+deporteshd-es.png 1_0_19_7828_428_1_C00000_0_0_0.png
 
 # tv.canal+family2hd-pl.png
 # 13.0E
@@ -1603,18 +1599,18 @@ ln -s tv.canal+filmhd-pl.png 1_0_1_3779_44C_13E_820000_0_0_0.png
 
 # tv.canal+film-pl.png
 
-# tv.canal+futbolhdspain.png
+# tv.canal+futbolhd-es.png
 # 19.2E
-ln -s tv.canal+futbolhdspain.png 1_0_19_74FF_420_1_C00000_0_0_0.png
+ln -s tv.canal+futbolhd-es.png 1_0_19_74FF_420_1_C00000_0_0_0.png
 
-# tv.canal+golfspain.png
+# tv.canal+golf-es.png
 # 19.2E
-ln -s tv.canal+golfspain.png 1_0_1_7789_424_1_C00000_0_0_0.png
+ln -s tv.canal+golf-es.png 1_0_1_7789_424_1_C00000_0_0_0.png
 
-# tv.canal+golfhdspain.png
+# tv.canal+golfhd-es.png
 # 19.2E
-ln -s tv.canal+golfhdspain.png 1_0_19_78B7_3EC_1_C00000_0_0_0.png
-ln -s tv.canal+golfhdspain.png 1_0_19_78BC_3EC_1_C00000_0_0_0.png
+ln -s tv.canal+golfhd-es.png 1_0_19_78B7_3EC_1_C00000_0_0_0.png
+ln -s tv.canal+golfhd-es.png 1_0_19_78BC_3EC_1_C00000_0_0_0.png
 
 # tv.canal+hdfrance.png
 # 13.0E
@@ -1626,29 +1622,29 @@ ln -s tv.canal+hdfrance.png 1_0_19_2275_438_1_C00000_0_0_0.png
 ln -s tv.canal+hdfrance.png 1_0_19_227F_438_1_C00000_0_0_0.png
 ln -s tv.canal+hdfrance.png 1_0_19_2289_438_1_C00000_0_0_0.png
 
-# tv.canal+ligadecampeonesspain.png
+# tv.canal+ligadecampeones-es.png
 # 19.2E
-ln -s tv.canal+ligadecampeonesspain.png 1_0_19_78B4_3EC_1_C00000_0_0_0.png
-ln -s tv.canal+ligadecampeonesspain.png 1_0_1_757C_412_1_C00000_0_0_0.png
+ln -s tv.canal+ligadecampeones-es.png 1_0_19_78B4_3EC_1_C00000_0_0_0.png
+ln -s tv.canal+ligadecampeones-es.png 1_0_1_757C_412_1_C00000_0_0_0.png
 
-# tv.canal+ligaspain.png
+# tv.canal+liga-es.png
 # 19.2E
-ln -s tv.canal+ligaspain.png 1_0_1_7792_424_1_C00000_0_0_0.png
+ln -s tv.canal+liga-es.png 1_0_1_7792_424_1_C00000_0_0_0.png
 
-# tv.canal+ligahdspain.png
+# tv.canal+ligahd-es.png
 # 19.2E
-ln -s tv.canal+ligahdspain.png 1_0_19_7852_41A_1_C00000_0_0_0.png
-ln -s tv.canal+ligahdspain.png 1_0_19_7858_41A_1_C00000_0_0_0.png
+ln -s tv.canal+ligahd-es.png 1_0_19_7852_41A_1_C00000_0_0_0.png
+ln -s tv.canal+ligahd-es.png 1_0_19_7858_41A_1_C00000_0_0_0.png
 
-# tv.canal+multideportespain.png
+# tv.canal+multideporte-es.png
 # 19.2E
-ln -s tv.canal+multideportespain.png 1_0_1_756C_412_1_C00000_0_0_0.png
-ln -s tv.canal+multideportespain.png 1_0_1_756D_412_1_C00000_0_0_0.png
-ln -s tv.canal+multideportespain.png 1_0_1_7573_412_1_C00000_0_0_0.png
-ln -s tv.canal+multideportespain.png 1_0_1_769B_41E_1_C00000_0_0_0.png
-ln -s tv.canal+multideportespain.png 1_0_1_769C_41E_1_C00000_0_0_0.png
-ln -s tv.canal+multideportespain.png 1_0_1_7574_412_1_C00000_0_0_0.png
-ln -s tv.canal+multideportespain.png 1_0_1_7576_412_1_C00000_0_0_0.png
+ln -s tv.canal+multideporte-es.png 1_0_1_756C_412_1_C00000_0_0_0.png
+ln -s tv.canal+multideporte-es.png 1_0_1_756D_412_1_C00000_0_0_0.png
+ln -s tv.canal+multideporte-es.png 1_0_1_7573_412_1_C00000_0_0_0.png
+ln -s tv.canal+multideporte-es.png 1_0_1_769B_41E_1_C00000_0_0_0.png
+ln -s tv.canal+multideporte-es.png 1_0_1_769C_41E_1_C00000_0_0_0.png
+ln -s tv.canal+multideporte-es.png 1_0_1_7574_412_1_C00000_0_0_0.png
+ln -s tv.canal+multideporte-es.png 1_0_1_7576_412_1_C00000_0_0_0.png
 
 # tv.canal+seriesfrance.png
 
@@ -1680,21 +1676,21 @@ ln -s tv.canal+sport-pl.png 1_0_1_12C9_2E7C_13E_820000_0_0_0.png
 # 13.0E
 ln -s tv.canal+sporthd-pl.png 1_0_1_32DE_190_13E_820000_0_0_0.png
 
-# tv.canal+torosspain.png
+# tv.canal+toros-es.png
 # 19.2E
-ln -s tv.canal+torosspain.png 1_0_1_7570_412_1_C00000_0_0_0.png
-ln -s tv.canal+torosspain.png 1_0_19_7501_420_1_C00000_0_0_0.png # HD
+ln -s tv.canal+toros-es.png 1_0_1_7570_412_1_C00000_0_0_0.png
+ln -s tv.canal+toros-es.png 1_0_19_7501_420_1_C00000_0_0_0.png # HD
 
-# tv.canal+xtraspain.png
+# tv.canal+xtra-es.png
 # 19.2E
-ln -s tv.canal+xtraspain.png 1_0_1_77C5_40A_1_C00000_0_0_0.png
-ln -s tv.canal+xtraspain.png 1_0_1_77C6_40A_1_C00000_0_0_0.png
+ln -s tv.canal+xtra-es.png 1_0_1_77C5_40A_1_C00000_0_0_0.png
+ln -s tv.canal+xtra-es.png 1_0_1_77C6_40A_1_C00000_0_0_0.png
 
-# tv.canal+xtrahdspain.png
+# tv.canal+xtrahd-es.png
 # 19.2E
-ln -s tv.canal+xtrahdspain.png 1_0_19_74CF_3F8_1_C00000_0_0_0.png
-ln -s tv.canal+xtrahdspain.png 1_0_19_74D4_3F8_1_C00000_0_0_0.png
-ln -s tv.canal+xtrahdspain.png 1_0_19_74D8_3F8_1_C00000_0_0_0.png
+ln -s tv.canal+xtrahd-es.png 1_0_19_74CF_3F8_1_C00000_0_0_0.png
+ln -s tv.canal+xtrahd-es.png 1_0_19_74D4_3F8_1_C00000_0_0_0.png
+ln -s tv.canal+xtrahd-es.png 1_0_19_74D8_3F8_1_C00000_0_0_0.png
 
 # tv.canalpanda.png
 # 19.2E
@@ -2148,7 +2144,6 @@ ln -s tv.clublandtv.png 1_0_1_D749_A34_2_11A0000_0_0_0.png
 # 13.0E
 ln -s tv.clubrtl.png 1_0_1_3632_C8_13E_820000_0_0_0.png
 # 19.2E
-ln -s tv.clubrtl.png 1_0_16_1484_40D_1_C00000_0_0_0.png
 ln -s tv.clubrtl.png 1_0_16_3239_45F_35_C00000_0_0_0.png
 
 # tv.cmoreaction.png
@@ -2413,8 +2408,6 @@ ln -s tv.cubavisioninternacional.png 1_0_1_1B60_3FC_1_C00000_0_0_0.png
 ln -s tv.cuisine+.png 1_0_1_2587_458_1_C00000_0_0_0.png
 
 # tv.cuisinetv.png
-# 19.2E
-ln -s tv.cuisinetv.png 1_0_1_24BA_43C_1_C00000_0_0_0.png
 
 # tv.cuatrotv.png
 # 19.2E
@@ -2643,7 +2636,6 @@ ln -s tv.discovery.png 1_0_1_1839_7D9_2_11A0000_0_0_0.png
 ln -s tv.discovery.png 1_0_1_1842_7D9_2_11A0000_0_0_0.png
 # 19.2E
 ln -s tv.discovery.png 1_0_1_E_4_85_C00000_0_0_0.png
-ln -s tv.discovery.png 1_0_1_24C0_43C_1_C00000_0_0_0.png
 ln -s tv.discovery.png 1_0_1_4F4F_447_1_C00000_0_0_0.png
 ln -s tv.discovery.png 1_0_1_7DF_449_35_C00000_0_0_0.png
 ln -s tv.discovery.png 1_0_1_258A_458_1_C00000_0_0_0.png
@@ -3703,7 +3695,6 @@ ln -s tv.extremesportshd.png 1_0_19_2CF2_2774_FBFF_820000_0_0_0.png
 
 # tv.faithworldtv.png
 # 28.2E
-ln -s tv.faithworldtv.png 1_0_1_D804_A36_2_11A0000_0_0_0.png
 ln -s tv.faithworldtv.png 1_0_1_D333_A29_2_11A0000_0_0_0.png
 
 # tv.fanda.png
@@ -4110,7 +4101,6 @@ ln -s tv.foxplusuk.png 1_0_1_151A_7E7_2_11A0000_0_0_0.png
 # 19.2E
 ln -s tv.france2.png 1_0_1_20A5_432_1_C00000_0_0_0.png
 ln -s tv.france2.png 1_0_1_20B6_432_1_C00000_0_0_0.png
-ln -s tv.france2.png 1_0_1_2261_438_1_C00000_0_0_0.png
 ln -s tv.france2.png 1_0_1_2275_438_1_C00000_0_0_0.png
 ln -s tv.france2.png 1_0_1_2011_430_1_C00000_0_0_0.png
 # 23.5E
@@ -4160,8 +4150,6 @@ ln -s tv.france3.png 1_0_1_2650_460_1_C00000_0_0_0.png
 ln -s tv.france3.png 1_0_1_2651_460_1_C00000_0_0_0.png
 ln -s tv.france3.png 1_0_1_2652_460_1_C00000_0_0_0.png
 ln -s tv.france3.png 1_0_1_2653_460_1_C00000_0_0_0.png
-ln -s tv.france3.png 1_0_1_2262_438_1_C00000_0_0_0.png
-ln -s tv.france3.png 1_0_1_2276_438_1_C00000_0_0_0.png
 ln -s tv.france3.png 1_0_1_2010_430_1_C00000_0_0_0.png
 # 23.5E
 ln -s tv.france3.png 1_0_19_D10E_2716_F001_EB0000_0_0_0.png
@@ -4180,8 +4168,6 @@ ln -s tv.france4.png 1_0_1_13A_3E1C_13F_820000_0_0_0.png
 # 19.2E
 ln -s tv.france4.png 1_0_1_23F3_452_1_C00000_0_0_0.png
 ln -s tv.france4.png 1_0_1_2407_452_1_C00000_0_0_0.png
-ln -s tv.france4.png 1_0_1_2263_438_1_C00000_0_0_0.png
-ln -s tv.france4.png 1_0_1_2277_438_1_C00000_0_0_0.png
 ln -s tv.france4.png 1_0_1_21FF_44C_1_C00000_0_0_0.png
 ln -s tv.france4.png 1_0_1_2213_44C_1_C00000_0_0_0.png
 
@@ -4191,8 +4177,6 @@ ln -s tv.france5.png 1_0_1_D9_3E1C_13F_820000_0_0_0.png
 ln -s tv.france5.png 1_0_1_131_3E1C_13F_820000_0_0_0.png
 # 19.2E
 ln -s tv.france5.png 1_0_1_1F58_42E_1_C00000_0_0_0.png
-ln -s tv.france5.png 1_0_1_2266_438_1_C00000_0_0_0.png
-ln -s tv.france5.png 1_0_1_2278_438_1_C00000_0_0_0.png
 ln -s tv.france5.png 1_0_1_2200_44C_1_C00000_0_0_0.png
 ln -s tv.france5.png 1_0_1_2214_44C_1_C00000_0_0_0.png
 
@@ -4222,7 +4206,6 @@ ln -s tv.franceo.png 1_0_1_1A3_26AC_13F_820000_0_0_0.png
 # 19.2E
 ln -s tv.franceo.png 1_0_1_23F7_452_1_C00000_0_0_0.png
 ln -s tv.franceo.png 1_0_1_240B_452_1_C00000_0_0_0.png
-ln -s tv.franceo.png 1_0_1_2267_438_1_C00000_0_0_0.png
 ln -s tv.franceo.png 1_0_1_221B_44C_1_C00000_0_0_0.png
 ln -s tv.franceo.png 1_0_1_21FE_44C_1_C00000_0_0_0.png
 
@@ -4253,8 +4236,6 @@ ln -s tv.frenchlovertv.png 1_0_1_1907_3FA_1_C00000_0_0_0.png
 ln -s tv.frisbee.png 1_0_1_2FD3_2C24_FBFF_820000_0_0_0.png
 
 # tv.ftldeutschland.png
-# 19.2E
-ln -s tv.ftldeutschland.png 1_0_1_3164_459_1_C00000_0_0_0.png
 
 # tv.gamberorosso.png
 # 13.0E
@@ -4396,7 +4377,6 @@ ln -s tv.gulli.png 1_0_1_1A2_26AC_13F_820000_0_0_0.png
 ln -s tv.gulli.png 1_0_1_23F6_452_1_C00000_0_0_0.png
 ln -s tv.gulli.png 1_0_1_240A_452_1_C00000_0_0_0.png
 ln -s tv.gulli.png 1_0_1_2268_438_1_C00000_0_0_0.png
-ln -s tv.gulli.png 1_0_1_2279_438_1_C00000_0_0_0.png
 ln -s tv.gulli.png 1_0_1_2205_44C_1_C00000_0_0_0.png
 
 # tv.gutelaunetv.png
@@ -4602,7 +4582,6 @@ ln -s tv.historia.png 1_0_1_7731_416_1_C00000_0_0_0.png
 # 13.0E
 ln -s tv.histoire.png 1_0_1_446C_1F40_13E_820000_0_0_0.png
 # 19.2E
-ln -s tv.histoire.png 1_0_1_1F4B_42E_1_C00000_0_0_0.png
 ln -s tv.histoire.png 1_0_1_2581_458_1_C00000_0_0_0.png
 
 # tv.hitradiooe3.png
@@ -5769,7 +5748,6 @@ ln -s tv.mezzo.png 1_0_19_2978_22C4_13E_820000_0_0_0.png
 ln -s tv.mezzo.png 1_0_1_2978_22C4_13E_820000_0_0_0.png
 ln -s tv.mezzo.png 1_0_1_3E27_2EE0_13E_820000_0_0_0.png
 # 19.2E
-ln -s tv.mezzo.png 1_0_1_1F47_42E_1_C00000_0_0_0.png
 ln -s tv.mezzo.png 1_0_1_2014_430_1_C00000_0_0_0.png
 # 0.8W
 ln -s tv.mezzo.png 1_0_1_DB6_C_1_7120000_0_0_0.png
@@ -8043,7 +8021,6 @@ ln -s tv.rtltvi.png 1_0_1_3631_C8_13E_820000_0_0_0.png
 
 # tv.rtltvihd.png
 # 19.2E
-ln -s tv.rtltvihd.png 1_0_16_1483_40D_1_C00000_0_0_0.png
 ln -s tv.rtltvihd.png 1_0_19_3238_45F_35_C00000_0_0_0.png
 
 # tv.rtpi.png
@@ -9969,12 +9946,6 @@ ln -s tv.telesur.png 1_0_1_35A9_1388_13E_820000_0_0_0.png
 ln -s tv.telesur.png 1_0_1_275B_402_1_C00000_0_0_0.png
 ln -s tv.telesur.png 1_0_1_7A48_410_1_C00000_0_0_0.png
 
-# tv.teletoon.png
-# 13.0E
-ln -s tv.teletoon.png 1_0_1_1FB0_2454_13E_820000_0_0_0.png
-
-# tv.teletoonplus1.png
-
 # tv.teletoon+.png
 # 13.0E
 ln -s tv.teletoon+.png 1_0_1_12C6_2E7C_13E_820000_0_0_0.png
@@ -9994,10 +9965,6 @@ ln -s tv.teletoon+hd.png 1_0_19_379B_44C_13E_820000_0_0_0.png
 # 13.0E
 ln -s tv.teletoon+hd_hyper+hd.png 1_0_1_3BB9_12C_13E_820000_0_0_0.png
 ln -s tv.teletoon+hd_hyper+hd.png 1_0_1_3B69_12C_13E_820000_0_0_0.png
-
-# tv.teletoon+1.png
-# 19.2E
-ln -s tv.teletoon+1.png 1_0_1_1909_3FA_1_C00000_0_0_0.png
 
 # tv.televisionnationale1tunisia.png
 # 13.0E
