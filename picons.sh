@@ -12532,9 +12532,9 @@ ln -s tv.france4.png 1_0_1_5749_EB_A018_FFFF0000_0_0_0.png
 ln -s tv.france5.png 1_0_1_56F6_E7_A018_FFFF0000_0_0_0.png
 ln -s tv.france5.png 1_0_1_6DCB_D3_270F_FFFF0000_0_0_0.png
 ln -s tv.franceo.png 1_0_1_5748_EB_A018_FFFF0000_0_0_0.png
-ln -s tv.glitzde.png 1_0_1_5608_D9_A018_FFFF0000_0_0_0.png
-ln -s tv.glitzde.png 1_0_1_6606_105_270F_FFFF0000_0_0_0.png
-ln -s tv.glitzhdde.png 1_0_19_94D6_1AF_270F_FFFF0000_0_0_0.png
+ln -s tv.glitz.png 1_0_1_5608_D9_A018_FFFF0000_0_0_0.png
+ln -s tv.glitz.png 1_0_1_6606_105_270F_FFFF0000_0_0_0.png
+ln -s tv.glitzhd.png 1_0_19_94D6_1AF_270F_FFFF0000_0_0_0.png
 ln -s tv.godtv.png 1_0_1_69E4_C9_270F_FFFF0000_0_0_0.png
 ln -s tv.goldstartv.png 1_0_1_206_1_85_FFFF0000_0_0_0.png
 ln -s tv.gotv.png 1_0_1_5737_EA_A018_FFFF0000_0_0_0.png
@@ -12673,10 +12673,10 @@ ln -s tv.rtvpinkmusic.png 1_0_1_5657_DD_A018_FFFF0000_0_0_0.png
 ln -s tv.rtvpinkmusic.png 1_0_1_65FF_105_270F_FFFF0000_0_0_0.png
 ln -s tv.rtvpinkplus.png 1_0_1_5654_DD_A018_FFFF0000_0_0_0.png
 ln -s tv.rtvpinkplus.png 1_0_1_65FC_105_270F_FFFF0000_0_0_0.png
-ln -s tv.planetde.png 1_0_1_3330_F1_270F_FFFF0000_0_0_0.png
-ln -s tv.planetde.png 1_0_1_C3B9_2713_F001_FFFF0000_0_0_0.png
-ln -s tv.planethdde.png 1_0_19_56D8_E5_A018_FFFF0000_0_0_0.png
-ln -s tv.planethdde.png 1_0_19_AC48_1AF_270F_FFFF0000_0_0_0.png
+ln -s tv.planetgermany.png 1_0_1_3330_F1_270F_FFFF0000_0_0_0.png
+ln -s tv.planetgermany.png 1_0_1_C3B9_2713_F001_FFFF0000_0_0_0.png
+ln -s tv.planethdgermany.png 1_0_19_56D8_E5_A018_FFFF0000_0_0_0.png
+ln -s tv.planethdgermany.png 1_0_19_AC48_1AF_270F_FFFF0000_0_0_0.png
 ln -s tv.playboytv.png 1_0_1_562E_DB_A018_FFFF0000_0_0_0.png
 ln -s tv.pokerchannel.png 1_0_1_5635_DB_A018_FFFF0000_0_0_0.png
 ln -s tv.pokerchannel.png 1_0_1_6DCE_F1_270F_FFFF0000_0_0_0.png
