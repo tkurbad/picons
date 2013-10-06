@@ -2,9 +2,18 @@
 
 cd $1
 
-########################################################
-##############  SERVICEREF ORBITAL INDEX  ##############
-########################################################
+############################################################
+## COUNTRY CODES ###########################################
+############################################################
+##
+## ftp://ftp.fu-berlin.de/doc/iso/iso3166-countrycodes.txt
+##
+############################################################
+############################################################
+
+############################################################
+## SERVICEREF ORBITAL INDEX ################################
+############################################################
 ##
 ## DVB-C => FFFF0000
 ## DVB-T => EEEE0000
@@ -16,13 +25,13 @@ cd $1
 ##          28.2E  => 11A0000
 ##          0.8W   => 7120000 OR E080000
 ##
-########################################################
-########################################################
+############################################################
+############################################################
 
 
-##############
-## DVB-S/S2 ##
-##############
+############################################################
+## DVB-S/S2 ################################################
+############################################################
 
 # TV
 
@@ -3000,9 +3009,9 @@ ln -s tv.doctorslife.png tv.1101_1644_FBFF_820000.uid
 # 23.5E
 ln -s tv.docuboxhd.png tv.1529_C86_3_EB0000.uid
 
-# tv.domatvhr.png
+# tv.domatv-hr.png
 # 23.5E
-ln -s tv.domatvhr.png tv.13F0_C87_3_EB0000.uid
+ln -s tv.domatv-hr.png tv.13F0_C87_3_EB0000.uid
 
 # tv.domo+.png
 # 13.0E
@@ -4152,9 +4161,9 @@ ln -s tv.girondinstv.png tv.1908_3FA_1_C00000.uid
 # 4.8E
 ln -s tv.glas.png tv.17F2_C_55_300000.uid
 
-# tv.glitzde.png
+# tv.glitz.png
 
-# tv.glitzhdde.png
+# tv.glitzhd.png
 
 # tv.glucktv.png
 
@@ -6498,13 +6507,13 @@ ln -s tv.novatvbg.png tv.1580_C92_3_EB0000.uid
 # 19.2E
 ln -s tv.nova.png tv.7469_3F0_1_C00000.uid
 
-# tv.novacz.png
+# tv.nova-cz.png
 # 23.5E
-ln -s tv.novacz.png tv.3352_C93_3_EB0000.uid
+ln -s tv.nova-cz.png tv.3352_C93_3_EB0000.uid
 
-# tv.novahdcz.png
+# tv.novahd-cz.png
 # 23.5E
-ln -s tv.novahdcz.png tv.13A6_C85_3_EB0000.uid
+ln -s tv.novahd-cz.png tv.13A6_C85_3_EB0000.uid
 
 # tv.novalife.png
 # 13.0E
@@ -6849,7 +6858,7 @@ ln -s tv.penthousehd2.png tv.1651_CA4_3_EB0000.uid
 
 # tv.penthousetv.png
 
-# tv.petkatv5cz.png
+# tv.petkatv5-cz.png
 
 # tv.phoenix.png
 # 19.2E
@@ -7981,9 +7990,9 @@ ln -s tv.sexysattv.png tv.29F2_3CF0_13E_820000.uid
 # 19.2E
 ln -s tv.sexysattv.png tv.314D_459_1_C00000.uid
 
-# tv.slagrtvcz.png
+# tv.slagrtv-cz.png
 # 23.5E
-ln -s tv.slagrtvcz.png tv.13D9_C8A_3_EB0000.uid
+ln -s tv.slagrtv-cz.png tv.13D9_C8A_3_EB0000.uid
 
 # tv.slovaksporttv.png
 # 23.5E
@@ -8092,10 +8101,10 @@ ln -s tv.sky2uk.png tv.13F0_961_2_11A0000.uid
 ln -s tv.sky2uk.png tv.1290_7EA_2_11A0000.uid
 ln -s tv.sky2uk.png tv.13F4_963_2_11A0000.uid
 
-# tv.sky3dde.png
+# tv.sky3d-de.png
 # 19.2E
-ln -s tv.sky3dde.png tv.75_B_85_C00000.uid
-ln -s tv.sky3dde.png tv.75_A_85_C00000.uid
+ln -s tv.sky3d-de.png tv.75_B_85_C00000.uid
+ln -s tv.sky3d-de.png tv.75_A_85_C00000.uid
 
 # tv.sky3duk.png
 # 28.2E
@@ -8125,13 +8134,13 @@ ln -s tv.skyondemanduk.png tv.F3A_7F3_2_11A0000.uid
 ln -s tv.skyondemanduk.png tv.F38_7D5_2_11A0000.uid
 ln -s tv.skyondemanduk.png tv.F39_7F7_2_11A0000.uid
 
-# tv.skyactionde.png
+# tv.skyaction-de.png
 # 19.2E
-ln -s tv.skyactionde.png tv.9_2_85_C00000.uid
+ln -s tv.skyaction-de.png tv.9_2_85_C00000.uid
 
-# tv.skyactionhdde.png
+# tv.skyactionhd-de.png
 # 19.2E
-ln -s tv.skyactionhdde.png tv.6A_A_85_C00000.uid
+ln -s tv.skyactionhd-de.png tv.6A_A_85_C00000.uid
 
 # tv.skyarts1hduk.png
 # 28.2E
@@ -8165,40 +8174,40 @@ ln -s tv.skyatlanticplus1uk.png tv.585_966_2_11A0000.uid
 # 28.2E
 ln -s tv.skyatlantichduk.png tv.F0D_7F1_2_11A0000.uid
 
-# tv.skyatlantichdde.png
+# tv.skyatlantichd-de.png
 # 19.2E
-ln -s tv.skyatlantichdde.png tv.6E_D_85_C00000.uid
+ln -s tv.skyatlantichd-de.png tv.6E_D_85_C00000.uid
 
-# tv.skybigbrotherde.png
+# tv.skybigbrother-de.png
 
-# tv.skybundesligade.png
+# tv.skybundesliga-de.png
 # 19.2E
-ln -s tv.skybundesligade.png tv.DF_4_85_C00000.uid
-ln -s tv.skybundesligade.png tv.106_2_85_C00000.uid
-ln -s tv.skybundesligade.png tv.110_3_85_C00000.uid
-ln -s tv.skybundesligade.png tv.11A_3_85_C00000.uid
-ln -s tv.skybundesligade.png tv.124_3_85_C00000.uid
-ln -s tv.skybundesligade.png tv.12E_3_85_C00000.uid
-ln -s tv.skybundesligade.png tv.138_11_85_C00000.uid
-ln -s tv.skybundesligade.png tv.142_11_85_C00000.uid
-ln -s tv.skybundesligade.png tv.14C_11_85_C00000.uid
-ln -s tv.skybundesligade.png tv.156_1_85_C00000.uid
-ln -s tv.skybundesligade.png tv.160_1_85_C00000.uid
-ln -s tv.skybundesligade.png tv.FC_2_85_C00000.uid
+ln -s tv.skybundesliga-de.png tv.DF_4_85_C00000.uid
+ln -s tv.skybundesliga-de.png tv.106_2_85_C00000.uid
+ln -s tv.skybundesliga-de.png tv.110_3_85_C00000.uid
+ln -s tv.skybundesliga-de.png tv.11A_3_85_C00000.uid
+ln -s tv.skybundesliga-de.png tv.124_3_85_C00000.uid
+ln -s tv.skybundesliga-de.png tv.12E_3_85_C00000.uid
+ln -s tv.skybundesliga-de.png tv.138_11_85_C00000.uid
+ln -s tv.skybundesliga-de.png tv.142_11_85_C00000.uid
+ln -s tv.skybundesliga-de.png tv.14C_11_85_C00000.uid
+ln -s tv.skybundesliga-de.png tv.156_1_85_C00000.uid
+ln -s tv.skybundesliga-de.png tv.160_1_85_C00000.uid
+ln -s tv.skybundesliga-de.png tv.FC_2_85_C00000.uid
 
-# tv.skybundesligahdde.png
+# tv.skybundesligahd-de.png
 # 19.2E
-ln -s tv.skybundesligahdde.png tv.69_C_85_C00000.uid
-ln -s tv.skybundesligahdde.png tv.10B_6_85_C00000.uid
-ln -s tv.skybundesligahdde.png tv.115_D_85_C00000.uid
-ln -s tv.skybundesligahdde.png tv.11F_C_85_C00000.uid
-ln -s tv.skybundesligahdde.png tv.129_B_85_C00000.uid
-ln -s tv.skybundesligahdde.png tv.133_A_85_C00000.uid
-ln -s tv.skybundesligahdde.png tv.13D_E_85_C00000.uid
-ln -s tv.skybundesligahdde.png tv.147_E_85_C00000.uid
-ln -s tv.skybundesligahdde.png tv.151_A_85_C00000.uid
-ln -s tv.skybundesligahdde.png tv.15B_E_85_C00000.uid
-ln -s tv.skybundesligahdde.png tv.101_E_85_C00000.uid
+ln -s tv.skybundesligahd-de.png tv.69_C_85_C00000.uid
+ln -s tv.skybundesligahd-de.png tv.10B_6_85_C00000.uid
+ln -s tv.skybundesligahd-de.png tv.115_D_85_C00000.uid
+ln -s tv.skybundesligahd-de.png tv.11F_C_85_C00000.uid
+ln -s tv.skybundesligahd-de.png tv.129_B_85_C00000.uid
+ln -s tv.skybundesligahd-de.png tv.133_A_85_C00000.uid
+ln -s tv.skybundesligahd-de.png tv.13D_E_85_C00000.uid
+ln -s tv.skybundesligahd-de.png tv.147_E_85_C00000.uid
+ln -s tv.skybundesligahd-de.png tv.151_A_85_C00000.uid
+ln -s tv.skybundesligahd-de.png tv.15B_E_85_C00000.uid
+ln -s tv.skybundesligahd-de.png tv.101_E_85_C00000.uid
 
 # tv.skycalciohd-it.png
 # 13.0E
@@ -8257,9 +8266,9 @@ ln -s tv.skycinemaclassicshd-it.png tv.2B18_1900_FBFF_820000.uid
 # 13.0E
 ln -s tv.skycinemaclassics-it.png tv.2B65_19C8_FBFF_820000.uid
 
-# tv.skycinemade.png
+# tv.skycinema-de.png
 # 19.2E
-ln -s tv.skycinemade.png tv.A_2_85_C00000.uid
+ln -s tv.skycinema-de.png tv.A_2_85_C00000.uid
 
 # tv.skycinemacomedy-it.png
 # 13.0E
@@ -8292,24 +8301,24 @@ ln -s tv.skycinemafamilyhd-it.png tv.2C47_251C_FBFF_820000.uid
 # 13.0E
 ln -s tv.skycinemafamily-it.png tv.2B61_19C8_FBFF_820000.uid
 
-# tv.skycinemahdde.png
+# tv.skycinemahd-de.png
 # 19.2E
-ln -s tv.skycinemahdde.png tv.50_9_85_C00000.uid
-ln -s tv.skycinemahdde.png tv.83_6_85_C00000.uid
+ln -s tv.skycinemahd-de.png tv.50_9_85_C00000.uid
+ln -s tv.skycinemahd-de.png tv.83_6_85_C00000.uid
 
 # tv.skycinemahd-it.png
 # 13.0E
 ln -s tv.skycinemahd-it.png tv.106A_2008_FBFF_820000.uid
 ln -s tv.skycinemahd-it.png tv.2C24_251C_FBFF_820000.uid
 
-# tv.skycinemahitsde.png
+# tv.skycinemahits-de.png
 # 19.2E
-ln -s tv.skycinemahitsde.png tv.29_3_85_C00000.uid
+ln -s tv.skycinemahits-de.png tv.29_3_85_C00000.uid
 
-# tv.skycinemahitshdde.png
+# tv.skycinemahitshd-de.png
 # 19.2E
-ln -s tv.skycinemahitshdde.png tv.57_9_85_C00000.uid
-ln -s tv.skycinemahitshdde.png tv.6B_C_85_C00000.uid
+ln -s tv.skycinemahitshd-de.png tv.57_9_85_C00000.uid
+ln -s tv.skycinemahitshd-de.png tv.6B_C_85_C00000.uid
 
 # tv.skycinemahitshd-it.png
 # 13.0E
@@ -8342,9 +8351,9 @@ ln -s tv.skycinemamaxplus1hd-it.png tv.1E5E_15E0_FBFF_820000.uid
 # 13.0E
 ln -s tv.skycinemamaxplus1-it.png tv.2DC3_1A2C_FBFF_820000.uid
 
-# tv.skycinemaplus1de.png
+# tv.skycinemaplus1-de.png
 # 19.2E
-ln -s tv.skycinemaplus1de.png tv.B_2_85_C00000.uid
+ln -s tv.skycinemaplus1-de.png tv.B_2_85_C00000.uid
 
 # tv.skycinemaplus1hd-it.png
 # 13.0E
@@ -8356,9 +8365,9 @@ ln -s tv.skycinemaplus1hd-it.png tv.1E5D_15E0_FBFF_820000.uid
 # 13.0E
 ln -s tv.skycinemaplus1-it.png tv.2DCA_1A2C_FBFF_820000.uid
 
-# tv.skycinemaplus24de.png
+# tv.skycinemaplus24-de.png
 # 19.2E
-ln -s tv.skycinemaplus24de.png tv.2B_2_85_C00000.uid
+ln -s tv.skycinemaplus24-de.png tv.2B_2_85_C00000.uid
 
 # tv.skycinemaplus24hd-it.png
 # 13.0E
@@ -8371,19 +8380,19 @@ ln -s tv.skycinemaplus24hd-it.png tv.1C38_206C_FBFF_820000.uid
 # 13.0E
 ln -s tv.skycinemaplus24-it.png tv.2B63_19C8_FBFF_820000.uid
 
-# tv.skycomedyde.png
+# tv.skycomedy-de.png
 # 19.2E
-ln -s tv.skycomedyde.png tv.8_2_85_C00000.uid
+ln -s tv.skycomedy-de.png tv.8_2_85_C00000.uid
 
-# tv.skyemotionde.png
+# tv.skyemotion-de.png
 # 19.2E
-ln -s tv.skyemotionde.png tv.14_2_85_C00000.uid
+ln -s tv.skyemotion-de.png tv.14_2_85_C00000.uid
 
 # tv.skygamesuk.png
 
-# tv.skykrimide.png
+# tv.skykrimi-de.png
 # 19.2E
-ln -s tv.skykrimide.png tv.17_1_85_C00000.uid
+ln -s tv.skykrimi-de.png tv.17_1_85_C00000.uid
 
 # tv.skylivinguk.png
 # 28.2E
@@ -8624,9 +8633,9 @@ ln -s tv.skynewsarabiauk.png tv.1225_804_2_11A0000.uid
 
 # tv.skynewsplus1uk.png
 
-# tv.skynostalgiede.png
+# tv.skynostalgie-de.png
 # 19.2E
-ln -s tv.skynostalgiede.png tv.204_3_85_C00000.uid
+ln -s tv.skynostalgie-de.png tv.204_3_85_C00000.uid
 
 # tv.skypoker.png
 # 28.2E
@@ -8702,41 +8711,41 @@ ln -s tv.skyprimafila-it.png tv.2BCC_1A90_FBFF_820000.uid
 ln -s tv.skyprimafila-it.png tv.2BCE_1A90_FBFF_820000.uid
 ln -s tv.skyprimafila-it.png tv.2BD0_1A90_FBFF_820000.uid
 
-# tv.skyselectde.png
+# tv.skyselect-de.png
 # 19.2E
-ln -s tv.skyselectde.png tv.12_4_85_C00000.uid
-ln -s tv.skyselectde.png tv.FB_2_85_C00000.uid
-ln -s tv.skyselectde.png tv.105_2_85_C00000.uid
-ln -s tv.skyselectde.png tv.10F_3_85_C00000.uid
-ln -s tv.skyselectde.png tv.119_3_85_C00000.uid
-ln -s tv.skyselectde.png tv.123_3_85_C00000.uid
-ln -s tv.skyselectde.png tv.12D_3_85_C00000.uid
-ln -s tv.skyselectde.png tv.137_11_85_C00000.uid
-ln -s tv.skyselectde.png tv.141_11_85_C00000.uid
-ln -s tv.skyselectde.png tv.14B_11_85_C00000.uid
-ln -s tv.skyselectde.png tv.FE_2_85_C00000.uid
-ln -s tv.skyselectde.png tv.108_2_85_C00000.uid
-ln -s tv.skyselectde.png tv.14E_11_85_C00000.uid
+ln -s tv.skyselect-de.png tv.12_4_85_C00000.uid
+ln -s tv.skyselect-de.png tv.FB_2_85_C00000.uid
+ln -s tv.skyselect-de.png tv.105_2_85_C00000.uid
+ln -s tv.skyselect-de.png tv.10F_3_85_C00000.uid
+ln -s tv.skyselect-de.png tv.119_3_85_C00000.uid
+ln -s tv.skyselect-de.png tv.123_3_85_C00000.uid
+ln -s tv.skyselect-de.png tv.12D_3_85_C00000.uid
+ln -s tv.skyselect-de.png tv.137_11_85_C00000.uid
+ln -s tv.skyselect-de.png tv.141_11_85_C00000.uid
+ln -s tv.skyselect-de.png tv.14B_11_85_C00000.uid
+ln -s tv.skyselect-de.png tv.FE_2_85_C00000.uid
+ln -s tv.skyselect-de.png tv.108_2_85_C00000.uid
+ln -s tv.skyselect-de.png tv.14E_11_85_C00000.uid
 
-# tv.skyselecthdde.png
+# tv.skyselecthd-de.png
 # 19.2E
-ln -s tv.skyselecthdde.png tv.78_E_85_C00000.uid
+ln -s tv.skyselecthd-de.png tv.78_E_85_C00000.uid
 
-# tv.skysportde.png
+# tv.skysport-de.png
 # 19.2E
-ln -s tv.skysportde.png tv.11B_3_85_C00000.uid
-ln -s tv.skysportde.png tv.12F_3_85_C00000.uid
-ln -s tv.skysportde.png tv.14D_11_85_C00000.uid
-ln -s tv.skysportde.png tv.16B_1_85_C00000.uid
-ln -s tv.skysportde.png tv.107_2_85_C00000.uid
-ln -s tv.skysportde.png tv.111_3_85_C00000.uid
-ln -s tv.skysportde.png tv.125_3_85_C00000.uid
-ln -s tv.skysportde.png tv.139_11_85_C00000.uid
-ln -s tv.skysportde.png tv.143_11_85_C00000.uid
-ln -s tv.skysportde.png tv.175_1_85_C00000.uid
-ln -s tv.skysportde.png tv.FD_2_85_C00000.uid
-ln -s tv.skysportde.png tv.DD_4_85_C00000.uid
-ln -s tv.skysportde.png tv.DE_4_85_C00000.uid
+ln -s tv.skysport-de.png tv.11B_3_85_C00000.uid
+ln -s tv.skysport-de.png tv.12F_3_85_C00000.uid
+ln -s tv.skysport-de.png tv.14D_11_85_C00000.uid
+ln -s tv.skysport-de.png tv.16B_1_85_C00000.uid
+ln -s tv.skysport-de.png tv.107_2_85_C00000.uid
+ln -s tv.skysport-de.png tv.111_3_85_C00000.uid
+ln -s tv.skysport-de.png tv.125_3_85_C00000.uid
+ln -s tv.skysport-de.png tv.139_11_85_C00000.uid
+ln -s tv.skysport-de.png tv.143_11_85_C00000.uid
+ln -s tv.skysport-de.png tv.175_1_85_C00000.uid
+ln -s tv.skysport-de.png tv.FD_2_85_C00000.uid
+ln -s tv.skysport-de.png tv.DD_4_85_C00000.uid
+ln -s tv.skysport-de.png tv.DE_4_85_C00000.uid
 
 # tv.skysport1hd-it.png
 # 13.0E
@@ -8776,9 +8785,9 @@ ln -s tv.skysport24-it.png tv.2ABA_1838_FBFF_820000.uid
 
 # tv.skysportactive-it.png
 
-# tv.skysportaustriade.png
+# tv.skysportaustria-de.png
 # 19.2E
-ln -s tv.skysportaustriade.png tv.1E_1_85_C00000.uid
+ln -s tv.skysportaustria-de.png tv.1E_1_85_C00000.uid
 
 # tv.skysportextrahd-it.png
 
@@ -8788,30 +8797,30 @@ ln -s tv.skysportaustriade.png tv.1E_1_85_C00000.uid
 # 13.0E
 ln -s tv.skysportf1hd-it.png tv.250D_170C_FBFF_820000.uid
 
-# tv.skysporthdde.png
+# tv.skysporthd-de.png
 # 19.2E
-ln -s tv.skysporthdde.png tv.81_6_85_C00000.uid
-ln -s tv.skysporthdde.png tv.72_D_85_C00000.uid
-ln -s tv.skysporthdde.png tv.10C_6_85_C00000.uid
-ln -s tv.skysporthdde.png tv.116_D_85_C00000.uid
-ln -s tv.skysporthdde.png tv.120_C_85_C00000.uid
-ln -s tv.skysporthdde.png tv.12A_B_85_C00000.uid
-ln -s tv.skysporthdde.png tv.134_A_85_C00000.uid
-ln -s tv.skysporthdde.png tv.13E_E_85_C00000.uid
-ln -s tv.skysporthdde.png tv.148_E_85_C00000.uid
-ln -s tv.skysporthdde.png tv.152_A_85_C00000.uid
-ln -s tv.skysporthdde.png tv.15C_E_85_C00000.uid
-ln -s tv.skysporthdde.png tv.102_E_85_C00000.uid
+ln -s tv.skysporthd-de.png tv.81_6_85_C00000.uid
+ln -s tv.skysporthd-de.png tv.72_D_85_C00000.uid
+ln -s tv.skysporthd-de.png tv.10C_6_85_C00000.uid
+ln -s tv.skysporthd-de.png tv.116_D_85_C00000.uid
+ln -s tv.skysporthd-de.png tv.120_C_85_C00000.uid
+ln -s tv.skysporthd-de.png tv.12A_B_85_C00000.uid
+ln -s tv.skysporthd-de.png tv.134_A_85_C00000.uid
+ln -s tv.skysporthd-de.png tv.13E_E_85_C00000.uid
+ln -s tv.skysporthd-de.png tv.148_E_85_C00000.uid
+ln -s tv.skysporthd-de.png tv.152_A_85_C00000.uid
+ln -s tv.skysporthd-de.png tv.15C_E_85_C00000.uid
+ln -s tv.skysporthd-de.png tv.102_E_85_C00000.uid
 
-# tv.skysportnewshdde.png
+# tv.skysportnewshd-de.png
 # 19.2E
-ln -s tv.skysportnewshdde.png tv.6C_C_85_C00000.uid
-ln -s tv.skysportnewshdde.png tv.F2_C_85_C00000.uid
+ln -s tv.skysportnewshd-de.png tv.6C_C_85_C00000.uid
+ln -s tv.skysportnewshd-de.png tv.F2_C_85_C00000.uid
 
-# tv.skysportnewsde.png
+# tv.skysportnews-de.png
 # 19.2E
-ln -s tv.skysportnewsde.png tv.11_3_85_C00000.uid
-ln -s tv.skysportnewsde.png tv.F1_3_85_C00000.uid
+ln -s tv.skysportnews-de.png tv.11_3_85_C00000.uid
+ln -s tv.skysportnews-de.png tv.F1_3_85_C00000.uid
 
 # tv.skysportsf1uk.png
 # 28.2E
@@ -8941,9 +8950,9 @@ ln -s tv.skyuk.png tv.138C_7D7_2_11A0000.uid
 
 # tv.skyhduk.png
 
-# tv.skyhdfanzonede.png
+# tv.skyhdfanzone-de.png
 # 19.2E
-ln -s tv.skyhdfanzonede.png tv.66_A_85_C00000.uid
+ln -s tv.skyhdfanzone-de.png tv.66_A_85_C00000.uid
 
 # tv.skyuno-it.png
 # 13.0E
@@ -9071,21 +9080,21 @@ ln -s tv.spiegeltvdigital.png tv.D099_2712_F001_EB0000.uid
 # 19.2E
 ln -s tv.sport365.png tv.23FB_452_1_C00000.uid
 
-# tv.sport5cz.png
+# tv.sport5-cz.png
 # 23.5E
-ln -s tv.sport5cz.png tv.332D_C89_3_EB0000.uid
+ln -s tv.sport5-cz.png tv.332D_C89_3_EB0000.uid
 
 # tv.sport+.png
 # 19.2E
 ln -s tv.sport+.png tv.2201_44C_1_C00000.uid
 
-# tv.sport1cz.png
+# tv.sport1-cz.png
 # 23.5E
-ln -s tv.sport1cz.png tv.334D_C93_3_EB0000.uid
+ln -s tv.sport1-cz.png tv.334D_C93_3_EB0000.uid
 
-# tv.sport2cz.png
+# tv.sport2-cz.png
 # 23.5E
-ln -s tv.sport2cz.png tv.13AD_C85_3_EB0000.uid
+ln -s tv.sport2-cz.png tv.13AD_C85_3_EB0000.uid
 
 # tv.sport1.png
 
@@ -9109,33 +9118,33 @@ ln -s tv.sport1voetbal.png tv.51BD_C96_3_EB0000.uid
 # 23.5E
 ln -s tv.sport1selecthd.png tv.51E0_C96_3_EB0000.uid
 
-# tv.sport1de.png
+# tv.sport1-de.png
 # 19.2E
-ln -s tv.sport1de.png tv.384_21_85_C00000.uid
+ln -s tv.sport1-de.png tv.384_21_85_C00000.uid
 # 23.5E
-ln -s tv.sport1de.png tv.D178_2718_F001_EB0000.uid
+ln -s tv.sport1-de.png tv.D178_2718_F001_EB0000.uid
 
-# tv.sport1hdde.png
+# tv.sport1hd-de.png
 # 19.2E
-ln -s tv.sport1hdde.png tv.EF14_421_1_C00000.uid
+ln -s tv.sport1hd-de.png tv.EF14_421_1_C00000.uid
 
-# tv.sport1plusde.png
+# tv.sport1plus-de.png
 # 23.5E
-ln -s tv.sport1plusde.png tv.C47D_2715_F001_EB0000.uid
+ln -s tv.sport1plus-de.png tv.C47D_2715_F001_EB0000.uid
 
-# tv.sport1plushdde.png
+# tv.sport1plushd-de.png
 # 19.2E
-ln -s tv.sport1plushdde.png tv.7A_E_85_C00000.uid
-ln -s tv.sport1plushdde.png tv.7A_B_85_C00000.uid
+ln -s tv.sport1plushd-de.png tv.7A_E_85_C00000.uid
+ln -s tv.sport1plushd-de.png tv.7A_B_85_C00000.uid
 # 23.5E
-ln -s tv.sport1plushdde.png tv.C355_271C_F001_EB0000.uid
+ln -s tv.sport1plushd-de.png tv.C355_271C_F001_EB0000.uid
 
-# tv.sport1usde.png
+# tv.sport1us-de.png
 
-# tv.sport1ushdde.png
+# tv.sport1ushd-de.png
 # 19.2E
-ln -s tv.sport1ushdde.png tv.77_E_85_C00000.uid
-ln -s tv.sport1ushdde.png tv.13F_E_85_C00000.uid
+ln -s tv.sport1ushd-de.png tv.77_E_85_C00000.uid
+ln -s tv.sport1ushd-de.png tv.13F_E_85_C00000.uid
 
 # tv.sport1lithuania.png
 # 4.8E
@@ -11859,9 +11868,9 @@ ln -s radio.wdrkiraka.png radio.6F42_445_1_C00000.uid
 ln -s radio.youfm.png radio.6F07_445_1_C00000.uid
 
 
-###########
-## DVB-C ##
-###########
+#########################################################
+## DVB-C ################################################
+#########################################################
 
 ## GLASHART MEDIA ##
 
@@ -12341,68 +12350,68 @@ ln -s tv.sixx.png tv.4460_453_A018_FFFF0000.uid
 ln -s tv.sixx.png tv.4E94_B5_270F_FFFF0000.uid
 ln -s tv.sixxhd.png tv.7D68_141_270F_FFFF0000.uid
 ln -s tv.sixxhd.png tv.EF77_3F9_1_FFFF0000.uid
-ln -s tv.sky3dde.png tv.56E1_E6_A018_FFFF0000.uid
-ln -s tv.sky3dde.png tv.75_B_85_FFFF0000.uid
-ln -s tv.skyactionde.png tv.9_2_85_FFFF0000.uid
-ln -s tv.skyactionhdde.png tv.6A_C_85_FFFF0000.uid
-ln -s tv.skyatlantichdde.png tv.6E_D_85_FFFF0000.uid
-ln -s tv.skyatlantichdde.png tv.90F0_173_270F_FFFF0000.uid
-ln -s tv.skybigbrotherde.png tv.5735_EA_A018_FFFF0000.uid
-ln -s tv.skycinemade.png tv.A_2_85_FFFF0000.uid
-ln -s tv.skycinemahdde.png tv.83_6_85_FFFF0000.uid
-ln -s tv.skycinemahdde.png tv.90ED_173_270F_FFFF0000.uid
-ln -s tv.skycinemahitsde.png tv.29_3_85_FFFF0000.uid
-ln -s tv.skycinemahitshdde.png tv.6B_C_85_FFFF0000.uid
-ln -s tv.skycinemaplus1de.png tv.B_2_85_FFFF0000.uid
-ln -s tv.skycinemaplus24de.png tv.2B_2_85_FFFF0000.uid
-ln -s tv.skycomedyde.png tv.8_2_85_FFFF0000.uid
-ln -s tv.skyemotionde.png tv.14_2_85_FFFF0000.uid
-ln -s tv.skybundesligade.png tv.DF_4_85_FFFF0000.uid
-ln -s tv.skybundesligade.png tv.106_2_85_FFFF0000.uid
-ln -s tv.skybundesligade.png tv.110_3_85_FFFF0000.uid
-ln -s tv.skybundesligade.png tv.11A_3_85_FFFF0000.uid
-ln -s tv.skybundesligade.png tv.124_3_85_FFFF0000.uid
-ln -s tv.skybundesligade.png tv.12E_3_85_FFFF0000.uid
-ln -s tv.skybundesligade.png tv.138_11_85_FFFF0000.uid
-ln -s tv.skybundesligade.png tv.142_11_85_FFFF0000.uid
-ln -s tv.skybundesligade.png tv.14C_11_85_FFFF0000.uid
-ln -s tv.skybundesligade.png radio.156_1_85_FFFF0000.uid
-ln -s tv.skykrimide.png tv.17_4_85_FFFF0000.uid
+ln -s tv.sky3d-de.png tv.56E1_E6_A018_FFFF0000.uid
+ln -s tv.sky3d-de.png tv.75_B_85_FFFF0000.uid
+ln -s tv.skyaction-de.png tv.9_2_85_FFFF0000.uid
+ln -s tv.skyactionhd-de.png tv.6A_C_85_FFFF0000.uid
+ln -s tv.skyatlantichd-de.png tv.6E_D_85_FFFF0000.uid
+ln -s tv.skyatlantichd-de.png tv.90F0_173_270F_FFFF0000.uid
+ln -s tv.skybigbrother-de.png tv.5735_EA_A018_FFFF0000.uid
+ln -s tv.skycinema-de.png tv.A_2_85_FFFF0000.uid
+ln -s tv.skycinemahd-de.png tv.83_6_85_FFFF0000.uid
+ln -s tv.skycinemahd-de.png tv.90ED_173_270F_FFFF0000.uid
+ln -s tv.skycinemahits-de.png tv.29_3_85_FFFF0000.uid
+ln -s tv.skycinemahitshd-de.png tv.6B_C_85_FFFF0000.uid
+ln -s tv.skycinemaplus1-de.png tv.B_2_85_FFFF0000.uid
+ln -s tv.skycinemaplus24-de.png tv.2B_2_85_FFFF0000.uid
+ln -s tv.skycomedy-de.png tv.8_2_85_FFFF0000.uid
+ln -s tv.skyemotion-de.png tv.14_2_85_FFFF0000.uid
+ln -s tv.skybundesliga-de.png tv.DF_4_85_FFFF0000.uid
+ln -s tv.skybundesliga-de.png tv.106_2_85_FFFF0000.uid
+ln -s tv.skybundesliga-de.png tv.110_3_85_FFFF0000.uid
+ln -s tv.skybundesliga-de.png tv.11A_3_85_FFFF0000.uid
+ln -s tv.skybundesliga-de.png tv.124_3_85_FFFF0000.uid
+ln -s tv.skybundesliga-de.png tv.12E_3_85_FFFF0000.uid
+ln -s tv.skybundesliga-de.png tv.138_11_85_FFFF0000.uid
+ln -s tv.skybundesliga-de.png tv.142_11_85_FFFF0000.uid
+ln -s tv.skybundesliga-de.png tv.14C_11_85_FFFF0000.uid
+ln -s tv.skybundesliga-de.png radio.156_1_85_FFFF0000.uid
+ln -s tv.skykrimi-de.png tv.17_4_85_FFFF0000.uid
 ln -s tv.skynewsuk.png tv.69DF_C9_270F_FFFF0000.uid
-ln -s tv.skynostalgiede.png tv.204_3_85_FFFF0000.uid
-ln -s tv.skyselectde.png tv.105_2_85_FFFF0000.uid
-ln -s tv.skyselectde.png tv.108_2_85_FFFF0000.uid
-ln -s tv.skyselectde.png tv.10F_3_85_FFFF0000.uid
-ln -s tv.skyselectde.png tv.119_3_85_FFFF0000.uid
-ln -s tv.skyselectde.png tv.123_3_85_FFFF0000.uid
-ln -s tv.skyselectde.png tv.12D_3_85_FFFF0000.uid
-ln -s tv.skyselectde.png tv.12_4_85_FFFF0000.uid
-ln -s tv.skyselectde.png tv.137_1_85_FFFF0000.uid
-ln -s tv.skyselectde.png tv.141_1_85_FFFF0000.uid
-ln -s tv.skyselectde.png tv.14B_1_85_FFFF0000.uid
-ln -s tv.skyselectde.png tv.FB_2_85_FFFF0000.uid
-ln -s tv.skyselectde.png tv.FE_2_85_FFFF0000.uid
-ln -s tv.skysportde.png tv.DD_3_85_FFFF0000.uid
-ln -s tv.skysportde.png tv.DE_3_85_FFFF0000.uid
-ln -s tv.skysportaustriade.png tv.1E_1_85_FFFF0000.uid
-ln -s tv.skysportde.png tv.107_2_85_FFFF0000.uid
-ln -s tv.skysportde.png tv.111_3_85_FFFF0000.uid
-ln -s tv.skysportde.png tv.11B_3_85_FFFF0000.uid
-ln -s tv.skysportde.png tv.125_3_85_FFFF0000.uid
-ln -s tv.skysportde.png tv.12F_3_85_FFFF0000.uid
-ln -s tv.skysportde.png tv.139_11_85_FFFF0000.uid
-ln -s tv.skysportde.png tv.143_11_85_FFFF0000.uid
-ln -s tv.skysportde.png tv.14D_11_85_FFFF0000.uid
-ln -s tv.skysportde.png tv.16B_1_85_FFFF0000.uid
-ln -s tv.skysportde.png tv.175_1_85_FFFF0000.uid
-ln -s tv.skysportde.png tv.FD_2_85_FFFF0000.uid
-ln -s tv.skysporthdde.png tv.797D_137_270F_FFFF0000.uid
-ln -s tv.skysporthdde.png tv.81_6_85_FFFF0000.uid
-ln -s tv.skysporthdde.png tv.72_D_85_FFFF0000.uid
-ln -s tv.skysporthdde.png tv.90EE_173_270F_FFFF0000.uid
-ln -s tv.skysportnewsde.png tv.11_3_85_FFFF0000.uid
-ln -s tv.skysportnewshdde.png tv.6C_C_85_FFFF0000.uid
-ln -s tv.skysportnewshdde.png tv.90EF_173_270F_FFFF0000.uid
+ln -s tv.skynostalgie-de.png tv.204_3_85_FFFF0000.uid
+ln -s tv.skyselect-de.png tv.105_2_85_FFFF0000.uid
+ln -s tv.skyselect-de.png tv.108_2_85_FFFF0000.uid
+ln -s tv.skyselect-de.png tv.10F_3_85_FFFF0000.uid
+ln -s tv.skyselect-de.png tv.119_3_85_FFFF0000.uid
+ln -s tv.skyselect-de.png tv.123_3_85_FFFF0000.uid
+ln -s tv.skyselect-de.png tv.12D_3_85_FFFF0000.uid
+ln -s tv.skyselect-de.png tv.12_4_85_FFFF0000.uid
+ln -s tv.skyselect-de.png tv.137_1_85_FFFF0000.uid
+ln -s tv.skyselect-de.png tv.141_1_85_FFFF0000.uid
+ln -s tv.skyselect-de.png tv.14B_1_85_FFFF0000.uid
+ln -s tv.skyselect-de.png tv.FB_2_85_FFFF0000.uid
+ln -s tv.skyselect-de.png tv.FE_2_85_FFFF0000.uid
+ln -s tv.skysport-de.png tv.DD_3_85_FFFF0000.uid
+ln -s tv.skysport-de.png tv.DE_3_85_FFFF0000.uid
+ln -s tv.skysportaustria-de.png tv.1E_1_85_FFFF0000.uid
+ln -s tv.skysport-de.png tv.107_2_85_FFFF0000.uid
+ln -s tv.skysport-de.png tv.111_3_85_FFFF0000.uid
+ln -s tv.skysport-de.png tv.11B_3_85_FFFF0000.uid
+ln -s tv.skysport-de.png tv.125_3_85_FFFF0000.uid
+ln -s tv.skysport-de.png tv.12F_3_85_FFFF0000.uid
+ln -s tv.skysport-de.png tv.139_11_85_FFFF0000.uid
+ln -s tv.skysport-de.png tv.143_11_85_FFFF0000.uid
+ln -s tv.skysport-de.png tv.14D_11_85_FFFF0000.uid
+ln -s tv.skysport-de.png tv.16B_1_85_FFFF0000.uid
+ln -s tv.skysport-de.png tv.175_1_85_FFFF0000.uid
+ln -s tv.skysport-de.png tv.FD_2_85_FFFF0000.uid
+ln -s tv.skysporthd-de.png tv.797D_137_270F_FFFF0000.uid
+ln -s tv.skysporthd-de.png tv.81_6_85_FFFF0000.uid
+ln -s tv.skysporthd-de.png tv.72_D_85_FFFF0000.uid
+ln -s tv.skysporthd-de.png tv.90EE_173_270F_FFFF0000.uid
+ln -s tv.skysportnews-de.png tv.11_3_85_FFFF0000.uid
+ln -s tv.skysportnewshd-de.png tv.6C_C_85_FFFF0000.uid
+ln -s tv.skysportnewshd-de.png tv.90EF_173_270F_FFFF0000.uid
 ln -s tv.sonlifetv.png tv.561E_DA_A018_FFFF0000.uid
 ln -s tv.sonnenklartv.png tv.55F5_D8_A018_FFFF0000.uid
 ln -s tv.sonnenklartv.png tv.5E30_B5_270F_FFFF0000.uid
@@ -12413,16 +12422,16 @@ ln -s tv.spiegelgeschichte.png tv.34_4_85_FFFF0000.uid
 ln -s tv.spiegeltvwissen.png tv.3718_8D_270F_FFFF0000.uid
 ln -s tv.spiegeltvwissen.png tv.D099_2712_F001_FFFF0000.uid
 ln -s tv.spiegeltvwissen.png tv.621B_1B9_270F_FFFF0000.uid
-ln -s tv.sport1.png tv.55F1_D8_A018_FFFF0000.uid
-ln -s tv.sport1de.png tv.2F4C_BF_270F_FFFF0000.uid
-ln -s tv.sport1hd.png tv.5639_DB_A018_FFFF0000.uid
-ln -s tv.sport1hdde.png tv.4E96_19B_270F_FFFF0000.uid
-ln -s tv.sport1usde.png tv.371C_8D_270F_FFFF0000.uid
-ln -s tv.sport1plusde.png tv.3B0C_97_270F_FFFF0000.uid
-ln -s tv.sport1plusde.png tv.572D_E9_A018_FFFF0000.uid
-ln -s tv.sport1plusde.png tv.C47D_2715_F001_FFFF0000.uid
-ln -s tv.sport1plushdde.png tv.42DA_1A5_270F_FFFF0000.uid
-ln -s tv.sport1plushdde.png tv.56C5_E4_A018_FFFF0000.uid
+ln -s tv.sport1-de.png tv.55F1_D8_A018_FFFF0000.uid
+ln -s tv.sport1-de.png tv.2F4C_BF_270F_FFFF0000.uid
+ln -s tv.sport1hd-de.png tv.5639_DB_A018_FFFF0000.uid
+ln -s tv.sport1hd-de.png tv.4E96_19B_270F_FFFF0000.uid
+ln -s tv.sport1us-de.png tv.371C_8D_270F_FFFF0000.uid
+ln -s tv.sport1plus-de.png tv.3B0C_97_270F_FFFF0000.uid
+ln -s tv.sport1plus-de.png tv.572D_E9_A018_FFFF0000.uid
+ln -s tv.sport1plus-de.png tv.C47D_2715_F001_FFFF0000.uid
+ln -s tv.sport1plushd-de.png tv.42DA_1A5_270F_FFFF0000.uid
+ln -s tv.sport1plushd-de.png tv.56C5_E4_A018_FFFF0000.uid
 ln -s tv.sportdigital.png tv.6217_83_270F_FFFF0000.uid
 ln -s tv.sportdigital.png tv.D16B_2712_F001_FFFF0000.uid
 ln -s tv.superrtl.png tv.2F08_441_A018_FFFF0000.uid
@@ -12630,9 +12639,9 @@ ln -s radio.regenbogen.png radio.CF7A_385_270F_FFFF0000.uid
 ln -s radio.regenbogen.png radio.3886_E_A046_FFFF0000.uid
 
 
-###########
-## DVB-T ##
-###########
+#########################################################
+## DVB-T ################################################
+#########################################################
 
 ## KPN DIGITENNE ##
 
