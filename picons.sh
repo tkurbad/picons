@@ -2285,6 +2285,10 @@ ln -s tv.controversialtv.png tv.CB58_907_2_11A0000.uid
 # 28.2E
 ln -s tv.createandcraft.png tv.CC0A_8FF_2_11A0000.uid
 
+# tv.createandcraftextra.png
+# 28.2E
+ln -s tv.createandcraftextra.png tv.CC0B_8FF_2_11A0000.uid
+
 # tv.crime.png
 # 13.0E
 ln -s tv.crime.png tv.1C9C_332C_13E_820000.uid
@@ -9720,6 +9724,10 @@ ln -s tv.theentrepreneurchannel.png tv.CCC0_901_2_11A0000.uid
 # tv.thejewellerychannel.png
 # 28.2E
 ln -s tv.thejewellerychannel.png tv.D110_90C_2_11A0000.uid
+
+# tv.thestore.png
+# 28.2E
+ln -s tv.thestore.png tv.2783_7FC_2_11A0000.uid
 
 # tv.thestylenetwork.png
 # 28.2E
