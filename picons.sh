@@ -25,7 +25,7 @@ cd $1
 ##############
 
 # TV
-
+ln -s tv.123tv.png tv.DD_14B4_9C_5A0000.uid
 # tv.123tv.png
 # 9.0E
 ln -s tv.123tv.png tv.DD_14B4_9C_5A0000.uid
