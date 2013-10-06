@@ -7,23 +7,23 @@ picons.sh:
 
     # tv.disneycinemagicplus1.png
     # 9.0E
-    ln -s tv.disneycinemagicplus1.png 1_0_1_4E86_1AF4_9C_5A0000_0_0_0.png
+    ln -s tv.disneycinemagicplus1.png tv.4E86_1AF4_9C_5A0000.uid
     # 19.2E
-    ln -s tv.disneycinemagicplus1.png 1_0_1_22CD_45A_1_C00000_0_0_0.png
+    ln -s tv.disneycinemagicplus1.png tv.22CD_45A_1_C00000.uid
     # 28.2E
-    ln -s tv.disneycinemagicplus1.png 1_0_1_232B_803_2_11A0000_0_0_0.png
+    ln -s tv.disneycinemagicplus1.png tv.232B_803_2_11A0000.uid
 
     # tv.canal+1hd-es.png
     # 19.2E
-    ln -s tv.canal+1hd-es.png 1_0_1_7612_408_1_C00000_0_0_0.png
-    ln -s tv.canal+1hd-es.png 1_0_19_74D5_3F8_1_C00000_0_0_0.png
-    ln -s tv.canal+1hd-es.png 1_0_19_74CC_3F8_1_C00000_0_0_0.png
+    ln -s tv.canal+1hd-es.png tv.7612_408_1_C00000.uid
+    ln -s tv.canal+1hd-es.png tv.74D5_3F8_1_C00000.uid
+    ln -s tv.canal+1hd-es.png tv.74CC_3F8_1_C00000.uid
 
     # RADIO
 
     # radio.swr1badenwuerttemberg.png
     # 19.2E
-    ln -s radio.swr1badenwuerttemberg.png 1_0_2_6F31_445_1_C00000_0_0_0.png
+    ln -s radio.swr1badenwuerttemberg.png radio.6F31_445_1_C00000.uid
 
 
 RULES
@@ -42,9 +42,10 @@ Channel Name:
 Serviceref:
   * UPPERCASE
   * NO DUPLICATE entries
+  * Only the unique part of a serviceref is used, beginning with "tv." or "radio." depending on what it is and ending with ".uid". The rest of the serviceref is generated accordingly.
 
 Extension:
-  * .png
+  * .png or .uid
   * LOWERCASE
 
 Order:
