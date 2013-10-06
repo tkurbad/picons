@@ -1451,10 +1451,10 @@ ln -s tv.canal+2hd-es.png tv.78B6_3EC_1_C00000.uid
 
 # tv.canal+2-es.png
 
-# tv.canal+3dfrance.png
+# tv.canal+3d-fr.png
 # 19.2E
-ln -s tv.canal+3dfrance.png tv.7621_408_1_C00000.uid
-ln -s tv.canal+3dfrance.png tv.7855_41A_1_C00000.uid
+ln -s tv.canal+3d-fr.png tv.7621_408_1_C00000.uid
+ln -s tv.canal+3d-fr.png tv.7855_41A_1_C00000.uid
 
 # tv.canal+3d-es.png
 
@@ -1470,14 +1470,14 @@ ln -s tv.canal+accionhd-es.png tv.7509_420_1_C00000.uid
 ln -s tv.canal+accion-es.png tv.7472_3F0_1_C00000.uid
 ln -s tv.canal+accion-es.png tv.746C_3F0_1_C00000.uid
 
-# tv.canal+cinemafrance.png
+# tv.canal+cinema-fr.png
 # 19.2E
-ln -s tv.canal+cinemafrance.png tv.200B_430_1_C00000.uid
+ln -s tv.canal+cinema-fr.png tv.200B_430_1_C00000.uid
 
-# tv.canal+cinemahdfrance.png
+# tv.canal+cinemahd-fr.png
 # 19.2E
-ln -s tv.canal+cinemahdfrance.png tv.2263_438_1_C00000.uid
-ln -s tv.canal+cinemahdfrance.png tv.2277_438_1_C00000.uid
+ln -s tv.canal+cinemahd-fr.png tv.2263_438_1_C00000.uid
+ln -s tv.canal+cinemahd-fr.png tv.2277_438_1_C00000.uid
 
 # tv.canal+comediahd-es.png
 # 19.2E
@@ -1497,14 +1497,14 @@ ln -s tv.canal+comedia-es.png tv.746D_3F0_1_C00000.uid
 ln -s tv.canal+dcinehd-es.png tv.7502_420_1_C00000.uid
 ln -s tv.canal+dcinehd-es.png tv.750B_420_1_C00000.uid
 
-# tv.canal+decalefrance.png
+# tv.canal+decale-fr.png
 # 19.2E
-ln -s tv.canal+decalefrance.png tv.2071_432_1_C00000.uid
+ln -s tv.canal+decale-fr.png tv.2071_432_1_C00000.uid
 
-# tv.canal+decalehdfrance.png
+# tv.canal+decalehd-fr.png
 # 19.2E
-ln -s tv.canal+decalehdfrance.png tv.2276_438_1_C00000.uid
-ln -s tv.canal+decalehdfrance.png tv.2262_438_1_C00000.uid
+ln -s tv.canal+decalehd-fr.png tv.2276_438_1_C00000.uid
+ln -s tv.canal+decalehd-fr.png tv.2262_438_1_C00000.uid
 
 # tv.canal+deportes2hd-es.png
 # 19.2E
@@ -1524,14 +1524,14 @@ ln -s tv.canal+deporteshd-es.png tv.7828_428_1_C00000.uid
 # 13.0E
 ln -s tv.canal+family2hd-pl.png tv.377A_44C_13E_820000.uid
 
-# tv.canal+familyfrance.png
+# tv.canal+family-fr.png
 # 19.2E
-ln -s tv.canal+familyfrance.png tv.2072_432_1_C00000.uid
+ln -s tv.canal+family-fr.png tv.2072_432_1_C00000.uid
 
-# tv.canal+familyhdfrance.png
+# tv.canal+familyhd-fr.png
 # 19.2E
-ln -s tv.canal+familyhdfrance.png tv.2265_438_1_C00000.uid
-ln -s tv.canal+familyhdfrance.png tv.2279_438_1_C00000.uid
+ln -s tv.canal+familyhd-fr.png tv.2265_438_1_C00000.uid
+ln -s tv.canal+familyhd-fr.png tv.2279_438_1_C00000.uid
 
 # tv.canal+familyhd-pl.png
 # 13.0E
@@ -1562,15 +1562,15 @@ ln -s tv.canal+golf-es.png tv.7789_424_1_C00000.uid
 ln -s tv.canal+golfhd-es.png tv.78B7_3EC_1_C00000.uid
 ln -s tv.canal+golfhd-es.png tv.78BC_3EC_1_C00000.uid
 
-# tv.canal+hdfrance.png
+# tv.canal+hd-fr.png
 # 13.0E
-ln -s tv.canal+hdfrance.png tv.32DC_190_13E_820000.uid
+ln -s tv.canal+hd-fr.png tv.32DC_190_13E_820000.uid
 # 19.2E
-ln -s tv.canal+hdfrance.png tv.75D2_422_1_C00000.uid
-ln -s tv.canal+hdfrance.png tv.2261_438_1_C00000.uid
-ln -s tv.canal+hdfrance.png tv.2275_438_1_C00000.uid
-ln -s tv.canal+hdfrance.png tv.227F_438_1_C00000.uid
-ln -s tv.canal+hdfrance.png tv.2289_438_1_C00000.uid
+ln -s tv.canal+hd-fr.png tv.75D2_422_1_C00000.uid
+ln -s tv.canal+hd-fr.png tv.2261_438_1_C00000.uid
+ln -s tv.canal+hd-fr.png tv.2275_438_1_C00000.uid
+ln -s tv.canal+hd-fr.png tv.227F_438_1_C00000.uid
+ln -s tv.canal+hd-fr.png tv.2289_438_1_C00000.uid
 
 # tv.canal+ligadecampeones-es.png
 # 19.2E
@@ -1596,25 +1596,25 @@ ln -s tv.canal+multideporte-es.png tv.769C_41E_1_C00000.uid
 ln -s tv.canal+multideporte-es.png tv.7574_412_1_C00000.uid
 ln -s tv.canal+multideporte-es.png tv.7576_412_1_C00000.uid
 
-# tv.canal+seriesfrance.png
+# tv.canal+series-fr.png
 
-# tv.canal+serieshdfrance.png
+# tv.canal+serieshd-fr.png
 # 19.2E
-ln -s tv.canal+serieshdfrance.png tv.2266_438_1_C00000.uid
-ln -s tv.canal+serieshdfrance.png tv.227A_438_1_C00000.uid
+ln -s tv.canal+serieshd-fr.png tv.2266_438_1_C00000.uid
+ln -s tv.canal+serieshd-fr.png tv.227A_438_1_C00000.uid
 
-# tv.canal+sportfrance.png
+# tv.canal+sport-fr.png
 # 13.0E
-ln -s tv.canal+sportfrance.png tv.12E5_2E7C_13E_820000.uid
+ln -s tv.canal+sport-fr.png tv.12E5_2E7C_13E_820000.uid
 # 19.2E
-ln -s tv.canal+sportfrance.png tv.2024_430_1_C00000.uid
-ln -s tv.canal+sportfrance.png tv.2020_430_1_C00000.uid
+ln -s tv.canal+sport-fr.png tv.2024_430_1_C00000.uid
+ln -s tv.canal+sport-fr.png tv.2020_430_1_C00000.uid
 
-# tv.canal+sporthdfrance.png
+# tv.canal+sporthd-fr.png
 # 19.2E
-ln -s tv.canal+sporthdfrance.png tv.2264_438_1_C00000.uid
-ln -s tv.canal+sporthdfrance.png tv.2278_438_1_C00000.uid
-ln -s tv.canal+sporthdfrance.png tv.23AD_44A_1_C00000.uid
+ln -s tv.canal+sporthd-fr.png tv.2264_438_1_C00000.uid
+ln -s tv.canal+sporthd-fr.png tv.2278_438_1_C00000.uid
+ln -s tv.canal+sporthd-fr.png tv.23AD_44A_1_C00000.uid
 
 # tv.canal+sport-pl.png
 # 13.0E
@@ -12806,8 +12806,8 @@ ln -s tv.numero23.png tv.B02_B_20FA_EEEE0000.uid
 ln -s tv.rmcdecouverte.png tv.B03_B_20FA_EEEE0000.uid
 ln -s tv.cherie25.png tv.A03_A_20FA_EEEE0000.uid
 ln -s tv.parispremiere.png tv.404_4_20FA_EEEE0000.uid
-ln -s tv.canal+sportfrance.png tv.303_3_20FA_EEEE0000.uid
-ln -s tv.canal+cinemafrance.png tv.302_3_20FA_EEEE0000.uid
+ln -s tv.canal+sport-fr.png tv.303_3_20FA_EEEE0000.uid
+ln -s tv.canal+cinema-fr.png tv.302_3_20FA_EEEE0000.uid
 ln -s tv.planete+.png tv.304_3_20FA_EEEE0000.uid
 ln -s tv.tf6.png tv.605_6_20FA_EEEE0000.uid
 ln -s tv.lci.png tv.603_6_20FA_EEEE0000.uid
