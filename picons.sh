@@ -490,6 +490,7 @@ ln -s tv.animax.png tv.1F_19C8_9E_5A0000.uid
 # 19.2E
 ln -s tv.animax.png tv.7FF_449_35_C00000.uid
 ln -s tv.animax.png tv.74A1_41C_1_C00000.uid
+ln -s tv.animax.png tv.1485_40D_1_C00000.uid
 # 23.5E
 ln -s tv.animax.png tv.D03E_2713_F001_EB0000.uid
 
@@ -855,8 +856,6 @@ ln -s tv.bbcfour.png tv.18AC_7FD_2_11A0000.uid
 # tv.bbchd.png
 # 13.0E
 ln -s tv.bbchd.png tv.E06_2D50_13E_820000.uid
-# 28.2E
-ln -s tv.bbchd.png tv.1B21_802_2_11A0000.uid
 # 0.8W
 ln -s tv.bbchd.png tv.1008_29_46_7120000.uid
 ln -s tv.bbchd.png tv.100C_29_46_7120000.uid
@@ -6992,7 +6991,6 @@ ln -s tv.playboytvchat.png tv.D157_90C_2_11A0000.uid
 # 13.0E
 ln -s tv.plugrtl.png tv.3633_C8_13E_820000.uid
 # 19.2E
-ln -s tv.plugrtl.png tv.1485_40D_1_C00000.uid
 ln -s tv.plugrtl.png tv.323A_45F_35_C00000.uid
 
 # tv.pogodatv.png
