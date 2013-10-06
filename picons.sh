@@ -1719,6 +1719,7 @@ ln -s tv.cartoonnetwork.png tv.27_F_85_C00000.uid
 ln -s tv.cartoonnetwork.png tv.C612_2712_F001_EB0000.uid
 ln -s tv.cartoonnetwork.png tv.C617_2712_F001_EB0000.uid
 ln -s tv.cartoonnetwork.png tv.158D_C92_3_EB0000.uid
+ln -s tv.cartoonnetwork.png tv.51CC_C96_3_EB0000.uid
 # 0.8W
 ln -s tv.cartoonnetwork.png tv.192_2_46_7120000.uid
 
@@ -3174,7 +3175,6 @@ ln -s tv.eentertainment.png tv.FBC_807_2_11A0000.uid
 ln -s tv.eentertainment.png tv.22CF_45A_1_C00000.uid
 # 23.5E
 ln -s tv.eentertainment.png tv.C3B8_2719_F001_EB0000.uid
-ln -s tv.eentertainment.png tv.51CC_C96_3_EB0000.uid
 # 4.8E
 ln -s tv.eentertainment.png tv.C1C_5_56_300000.uid
 
