@@ -2056,10 +2056,6 @@ ln -s tv.classtv.png tv.30F_1B58_13E_820000.uid
 # 28.2E
 ln -s tv.climax.png tv.D158_90C_2_11A0000.uid
 
-# tv.club1tv.png
-# 19.2E
-ln -s tv.club1tv.png tv.1299_3F7_1_C00000.uid
-
 # tv.clublandtv.png
 # 28.2E
 ln -s tv.clublandtv.png tv.C6BF_969_2_11A0000.uid
@@ -3681,8 +3677,10 @@ ln -s tv.filmboxfamily.png tv.13BA_C85_3_EB0000.uid
 ln -s tv.filmboxplus.png tv.334B_C93_3_EB0000.uid
 
 # tv.filmeurope.png
+
+# tv.filmeuropehd.png
 # 23.5E
-ln -s tv.filmeurope.png tv.13C6_C95_3_EB0000.uid
+ln -s tv.filmeuropehd.png tv.13C6_C95_3_EB0000.uid
 
 # tv.film+.png
 # 23.5E
@@ -6348,9 +6346,10 @@ ln -s tv.nitro.png tv.75F9_408_1_C00000.uid
 ln -s tv.noetv.png tv.1F48_BC6_3_EB0000.uid
 
 # tv.nonstoppeople.png
+
+# tv.nonstoppeoplehd.png
 # 19.2E
-ln -s tv.nonstoppeople.png tv.24BD_43C_1_C00000.uid
-ln -s tv.nonstoppeople.png tv.24D1_43C_1_C00000.uid
+ln -s tv.nonstoppeoplehd.png tv.24BD_43C_1_C00000.uid
 
 # tv.noortv.png
 # 13.0E
