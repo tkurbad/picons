@@ -152,16 +152,15 @@ ln -s tv.13emeruehd.png tv.19C9_444_1_C00000.uid
 ln -s tv.13emeruehd.png tv.19DD_444_1_C00000.uid
 
 # tv.13thstreet.png
-# 13.0E
-ln -s tv.13thstreet.png tv.114E_2AF8_13E_820000.uid
 # 9.0E
 ln -s tv.13thstreet.png tv.4E85_2134_9C_5A0000.uid
+# 13.0E
+ln -s tv.13thstreet.png tv.114E_2AF8_13E_820000.uid
 # 19.2E
 ln -s tv.13thstreet.png tv.2A_1_85_C00000.uid
 ln -s tv.13thstreet.png tv.139F_455_35_C00000.uid
 # 23.5E
 ln -s tv.13thstreet.png tv.C3BB_2715_F001_EB0000.uid
-ln -s tv.13thstreet.png tv.17B1_C82_3_EB0000.uid
 
 # tv.13thstreethd.png
 # 19.2E
@@ -362,19 +361,19 @@ ln -s tv.alibiplus1.png tv.1DCE_7DF_2_11A0000.uid
 ln -s tv.alice.png tv.E2E_16A8_FBFF_820000.uid
 
 # tv.aljazeera.png
+# 9.0E
+ln -s tv.aljazeera.png tv.43C_2_AA_5A0000.uid
 # 13.0E
 ln -s tv.aljazeera.png tv.6B2_3138_13E_820000.uid
 ln -s tv.aljazeera.png tv.2C4_1B58_13E_820000.uid
 ln -s tv.aljazeera.png tv.2FC5_1D4C_FBFF_820000.uid
-# 9.0E
-ln -s tv.aljazeera.png tv.43C_2_AA_5A0000.uid
-# 28.2E
-ln -s tv.aljazeera.png tv.C7A3_96C_2_11A0000.uid
 # 19.2E
 ln -s tv.aljazeera.png tv.1B61_3FC_1_C00000.uid
 ln -s tv.aljazeera.png tv.1B64_3FC_1_C00000.uid
 # 23.5E
 ln -s tv.aljazeera.png tv.D16E_2712_F001_EB0000.uid
+# 28.2E
+ln -s tv.aljazeera.png tv.C7A3_96C_2_11A0000.uid
 # 0.8W
 ln -s tv.aljazeera.png tv.B60_14_46_7120000.uid
 
@@ -443,20 +442,20 @@ ln -s tv.andaluciatv.png tv.2756_402_1_C00000.uid
 ln -s tv.andaluciatv.png tv.7A44_410_1_C00000.uid
 
 # tv.animalplanet.png
+# 4.8E
+ln -s tv.animalplanet.png tv.E24_16_56_300000.uid
+# 9.0E
+ln -s tv.animalplanet.png tv.1AAA_1A90_9E_5A0000.uid
+ln -s tv.animalplanet.png tv.26F_206C_9C_5A0000.uid
 # 13.0E
 ln -s tv.animalplanet.png tv.1402_5DC_13E_820000.uid
 ln -s tv.animalplanet.png tv.1D52_2F44_13E_820000.uid
 ln -s tv.animalplanet.png tv.297C_22C4_13E_820000.uid
 ln -s tv.animalplanet.png tv.2FF2_1D4C_FBFF_820000.uid
-# 9.0E
-ln -s tv.animalplanet.png tv.1AAA_1A90_9E_5A0000.uid
-ln -s tv.animalplanet.png tv.26F_206C_9C_5A0000.uid
-# 28.2E
-ln -s tv.animalplanet.png tv.183A_7D9_2_11A0000.uid
 # 23.5E
 ln -s tv.animalplanet.png tv.1798_C82_3_EB0000.uid
-# 4.8E
-ln -s tv.animalplanet.png tv.E24_16_56_300000.uid
+# 28.2E
+ln -s tv.animalplanet.png tv.183A_7D9_2_11A0000.uid
 # 0.8W
 ln -s tv.animalplanet.png tv.197_4_46_7120000.uid
 
@@ -673,15 +672,15 @@ ln -s tv.atnbangla.png tv.D6E0_A33_2_11A0000.uid
 ln -s tv.atnbangla.png tv.D74B_A34_2_11A0000.uid
 
 # tv.axn.png
+# 9.0E
+ln -s tv.axn.png tv.12_1A90_9E_5A0000.uid
+ln -s tv.axn.png tv.4E8C_2134_9C_5A0000.uid
 # 13.0E
 ln -s tv.axn.png tv.5A3_1AF4_FBFF_820000.uid
 ln -s tv.axn.png tv.1C96_1CE8_71_820000.uid
 ln -s tv.axn.png tv.DC3_2D50_13E_820000.uid
 ln -s tv.axn.png tv.2969_22C4_13E_820000.uid
 ln -s tv.axn.png tv.5A3_320_FBFF_820000.uid
-# 9.0E
-ln -s tv.axn.png tv.12_1A90_9E_5A0000.uid
-ln -s tv.axn.png tv.4E8C_2134_9C_5A0000.uid
 # 19.2E
 ln -s tv.axn.png tv.4F80_427_1_C00000.uid
 ln -s tv.axn.png tv.7477_3F0_1_C00000.uid
@@ -787,20 +786,20 @@ ln -s tv.banglatv.png tv.D363_A2A_2_11A0000.uid
 # tv.babyfirsttv.png
 
 # tv.babytv.png
+# 9.0E
+ln -s tv.babytv.png tv.430_2_AA_5A0000.uid
 # 13.0E
 ln -s tv.babytv.png tv.3E28_2EE0_13E_820000.uid
 ln -s tv.babytv.png tv.2C2E_251C_FBFF_820000.uid
 ln -s tv.babytv.png tv.439D_2CEC_13E_820000.uid
-# 9.0E
-ln -s tv.babytv.png tv.430_2_AA_5A0000.uid
-# 28.2E
-ln -s tv.babytv.png tv.C7C9_969_2_11A0000.uid
-ln -s tv.babytv.png tv.15BC_804_2_11A0000.uid
 # 19.2E
 ln -s tv.babytv.png tv.77EE_404_1_C00000.uid
 ln -s tv.babytv.png tv.749C_41C_1_C00000.uid
 # 23.5E
 ln -s tv.babytv.png tv.158C_C92_3_EB0000.uid
+# 28.2E
+ln -s tv.babytv.png tv.C7C9_969_2_11A0000.uid
+ln -s tv.babytv.png tv.15BC_804_2_11A0000.uid
 
 # tv.bahraininternational.png
 # 13.0E
@@ -845,11 +844,11 @@ ln -s tv.bbcarabic.png radio.365C_1388_13E_820000.uid
 ln -s tv.bbcarabic.png radio.216F_400_1_C00000.uid
 
 # tv.bbcentertainment.png
-# 13.0E
-ln -s tv.bbcentertainment.png tv.390A_32C8_13E_820000.uid
 # 9.0E
 ln -s tv.bbcentertainment.png tv.263_1900_9C_5A0000.uid
 ln -s tv.bbcentertainment.png tv.4EEC_21FC_9C_5A0000.uid
+# 13.0E
+ln -s tv.bbcentertainment.png tv.390A_32C8_13E_820000.uid
 # 23.5E
 ln -s tv.bbcentertainment.png tv.D09E_2714_F001_EB0000.uid
 ln -s tv.bbcentertainment.png tv.CF6D_2714_F001_EB0000.uid
@@ -962,16 +961,16 @@ ln -s tv.bbctwo.png tv.18A5_7FD_2_11A0000.uid
 ln -s tv.bbctwohd.png tv.1B1C_802_2_11A0000.uid
 
 # tv.bbcworldnews.png
-# 13.0E
-ln -s tv.bbcworldnews.png tv.200C_24B8_13E_820000.uid
+# 4.8E
+ln -s tv.bbcworldnews.png tv.848_4_56_300000.uid
 # 9.0E
 ln -s tv.bbcworldnews.png tv.191_1964_9C_5A0000.uid
+# 13.0E
+ln -s tv.bbcworldnews.png tv.200C_24B8_13E_820000.uid
 # 19.2E
 ln -s tv.bbcworldnews.png tv.2742_402_1_C00000.uid
 # 23.5E
 ln -s tv.bbcworldnews.png tv.CF09_2718_F001_EB0000.uid
-# 4.8E
-ln -s tv.bbcworldnews.png tv.848_4_56_300000.uid
 # 0.8W
 ln -s tv.bbcworldnews.png tv.3E9_31_46_7120000.uid
 
@@ -1112,14 +1111,14 @@ ln -s tv.bikechannel.png tv.2FEE_2C24_FBFF_820000.uid
 # tv.bio.png
 # 9.0E
 ln -s tv.bio.png tv.4E99_2134_9C_5A0000.uid
-# 28.2E
-ln -s tv.bio.png tv.122F_7E9_2_11A000.uid
 # 19.2E
 ln -s tv.bio.png tv.772D_416_1_C00000.uid
 ln -s tv.bio.png tv.43_9_85_C00000.uid
 ln -s tv.bio.png tv.39_F_85_C00000.uid
 # 23.5E
 ln -s tv.bio.png tv.C619_2712_F001_EB0000.uid
+# 28.2E
+ln -s tv.bio.png tv.122F_7E9_2_11A000.uid
 
 # tv.bioplus1.png
 # 28.2E
@@ -1142,27 +1141,27 @@ ln -s tv.blighty.png tv.1DBB_7DF_2_11A0000.uid
 ln -s tv.bliss.png tv.D039_90A_2_11A0000.uid
 
 # tv.bloomberg.png
-# 13.0E
-ln -s tv.bloomberg.png tv.1C86_332C_13E_820000.uid
-ln -s tv.bloomberg.png tv.3_3D54_13E_820000.uid
 # 9.0E
 ln -s tv.bloomberg.png tv.192_1964_9C_5A0000.uid
 ln -s tv.bloomberg.png tv.43F_2_AA_5A0000.uid
-# 28.2E
-ln -s tv.bloomberg.png tv.CD46_902_2_11A0000.uid
+# 13.0E
+ln -s tv.bloomberg.png tv.1C86_332C_13E_820000.uid
+ln -s tv.bloomberg.png tv.3_3D54_13E_820000.uid
 # 19.2E
 ln -s tv.bloomberg.png tv.2753_402_1_C00000.uid
 # 23.5E
 ln -s tv.bloomberg.png tv.CF0C_2717_F001_EB0000.uid
+# 28.2E
+ln -s tv.bloomberg.png tv.CD46_902_2_11A0000.uid
 # 0.8W
 ln -s tv.bloomberg.png tv.726_31_46_7120000.uid
 
 # tv.bluehustler.png
+# 9.0E
+ln -s tv.bluehustler.png tv.442_2_AA_5A0000.uid
 # 13.0E
 ln -s tv.bluehustler.png tv.2914_1EDC_71_820000.uid
 ln -s tv.bluehustler.png tv.2954_1EDC_71_820000.uid
-# 9.0E
-ln -s tv.bluehustler.png tv.442_2_AA_5A0000.uid
 # 0.8W
 ln -s tv.bluehustler.png tv.C8B_19_46_7120000.uid
 
@@ -1193,11 +1192,11 @@ ln -s tv.bluemovie3.png tv.16D_1_85_C00000.uid
 # tv.bodyinbalance.png
 # 9.0E
 ln -s tv.bodyinbalance.png tv.ABE_1BBC_9C_5A0000.uid
+# 23.5E
+ln -s tv.bodyinbalance.png tv.17AC_C82_3_EB0000.uid
 # 28.2E
 ln -s tv.bodyinbalance.png tv.D74B_A2B_2_11A0000.uid
 ln -s tv.bodyinbalance.png tv.1E29_7F5_2_11A0000.uid
-# 23.5E
-ln -s tv.bodyinbalance.png tv.17AC_C82_3_EB0000.uid
 
 # tv.boing.png
 # 13.0E
@@ -1220,23 +1219,23 @@ ln -s tv.bongusto.png tv.BB8_1BBC_9C_5A0000.uid
 ln -s tv.bontv.png tv.D808_A36_2_11A0000.uid
 
 # tv.boomerang.png
+# 4.8E
+ln -s tv.boomerang.png tv.F0A_17_56_300000.uid
+ln -s tv.boomerang.png tv.3C_100_16E_300000.uid
+# 9.0E
+ln -s tv.boomerang.png tv.4E91_2134_9C_5A0000.uid
 # 13.0E
 ln -s tv.boomerang.png tv.2906_1EDC_71_820000.uid
 ln -s tv.boomerang.png tv.1BD2_17D4_13E_820000.uid
 ln -s tv.boomerang.png tv.1FAF_2454_13E_820000.uid
 ln -s tv.boomerang.png tv.3C07_64_FBFF_820000.uid
-# 9.0E
-ln -s tv.boomerang.png tv.4E91_2134_9C_5A0000.uid
-# 28.2E
-ln -s tv.boomerang.png tv.1BBE_7E2_2_11A0000.uid
 # 19.2E
 ln -s tv.boomerang.png tv.6F6F_42C_1_C00000.uid
 ln -s tv.boomerang.png tv.38_F_85_C00000.uid
 # 23.5E
 ln -s tv.boomerang.png tv.1793_C82_3_EB0000.uid
-# 4.8E
-ln -s tv.boomerang.png tv.F0A_17_56_300000.uid
-ln -s tv.boomerang.png tv.3C_100_16E_300000.uid
+# 28.2E
+ln -s tv.boomerang.png tv.1BBE_7E2_2_11A0000.uid
 # 0.8W
 ln -s tv.boomerang.png tv.967_2_46_7120000.uid
 ln -s tv.boomerang.png tv.DAC_C_1_7120000.uid
@@ -1690,15 +1689,12 @@ ln -s tv.cartoonito.png tv.1591_7E5_2_11A0000.uid
 ln -s tv.cartoonito.png tv.7699_41E_1_C00000.uid
 
 # tv.cartoonnetwork.png
+# 9.0E
+ln -s tv.cartoonnetwork.png tv.4E98_2134_9C_5A0000.uid
 # 13.0E
 ln -s tv.cartoonnetwork.png tv.3BCC_64_FBFF_820000.uid
 ln -s tv.cartoonnetwork.png tv.DB1_2D50_13E_820000.uid
 ln -s tv.cartoonnetwork.png tv.1D2B_2FA8_13E_820000.uid
-# 9.0E
-ln -s tv.cartoonnetwork.png tv.4E98_2134_9C_5A0000.uid
-# 28.2E
-ln -s tv.cartoonnetwork.png tv.1BBC_7E2_2_11A0000.uid
-ln -s tv.cartoonnetwork.png tv.1BC5_7E2_2_11A0000.uid
 # 19.2E
 ln -s tv.cartoonnetwork.png tv.7696_41E_1_C00000.uid
 ln -s tv.cartoonnetwork.png tv.6F69_42C_1_C00000.uid
@@ -1708,6 +1704,9 @@ ln -s tv.cartoonnetwork.png tv.27_F_85_C00000.uid
 ln -s tv.cartoonnetwork.png tv.C612_2712_F001_EB0000.uid
 ln -s tv.cartoonnetwork.png tv.C617_2712_F001_EB0000.uid
 ln -s tv.cartoonnetwork.png tv.158D_C92_3_EB0000.uid
+# 28.2E
+ln -s tv.cartoonnetwork.png tv.1BBC_7E2_2_11A0000.uid
+ln -s tv.cartoonnetwork.png tv.1BC5_7E2_2_11A0000.uid
 # 0.8W
 ln -s tv.cartoonnetwork.png tv.192_2_46_7120000.uid
 
@@ -1767,10 +1766,10 @@ ln -s tv.cbseuropa.png tv.290B_1EDC_71_820000.uid
 ln -s tv.cbsrealityplus1.png tv.CB86_8FD_2_11A0000.uid
 
 # tv.cctv4.png
-# 13.0E
-ln -s tv.cctv4.png tv.1C38_1C20_13E_820000.uid
 # 9.0E
 ln -s tv.cctv4.png tv.26B_1900_9C_5A0000.uid
+# 13.0E
+ln -s tv.cctv4.png tv.1C38_1C20_13E_820000.uid
 
 # tv.cctv9.png
 
@@ -1995,10 +1994,10 @@ ln -s tv.cinefx.png tv.428A_446_1_C00000.uid
 # tv.cinemoi.png
 
 # tv.cinemax.png
-# 13.0E
-ln -s tv.cinemax.png tv.13F7_5DC_13E_820000.uid
 # 9.0E
 ln -s tv.cinemax.png tv.1AA6_1A90_9E_5A0000.uid
+# 13.0E
+ln -s tv.cinemax.png tv.13F7_5DC_13E_820000.uid
 
 # tv.cinemaxce.png
 # 13.0E
@@ -2156,38 +2155,38 @@ ln -s tv.cmoresporthd.png tv.57C_E_46_7120000.uid
 ln -s tv.cmoretennis.png tv.CEC_21_46_7120000.uid
 
 # tv.cnbc.png
-# 13.0E
-ln -s tv.cnbc.png tv.3912_32C8_13E_820000.uid
-ln -s tv.cnbc.png tv.1405_5DC_13E_820000.uid
 # 9.0E
 ln -s tv.cnbc.png tv.E1_14B4_9C_5A0000.uid
 ln -s tv.cnbc.png tv.43D_4_AA_5A0000.uid
-# 28.2E
-ln -s tv.cnbc.png tv.C6C2_820_2_11A0000.uid
+# 13.0E
+ln -s tv.cnbc.png tv.3912_32C8_13E_820000.uid
+ln -s tv.cnbc.png tv.1405_5DC_13E_820000.uid
 # 19.2E
 ln -s tv.cnbc.png tv.272E_402_1_C00000.uid
 # 23.5E
 ln -s tv.cnbc.png tv.D049_271A_F001_EB0000.uid
+# 28.2E
+ln -s tv.cnbc.png tv.C6C2_820_2_11A0000.uid
 
 # tv.cnbceurope.png
 # 4.8E
 ln -s tv.cnbceurope.png tv.1054_6_56_300000.uid
 
 # tv.cnn.png
+# 4.8E
+ln -s tv.cnn.png tv.1B80_9_56_300000.uid
+# 9.0E
+ln -s tv.cnn.png tv.E0_14B4_9C_5A0000.uid
 # 13.0E
 ln -s tv.cnn.png tv.5A1_1AF4_FBFF_820000.uid
 ln -s tv.cnn.png tv.2011_24B8_13E_820000.uid
 ln -s tv.cnn.png tv.2BCB_1A90_FBFF_820000.uid
-# 9.0E
-ln -s tv.cnn.png tv.E0_14B4_9C_5A0000.uid
-# 28.2E
-ln -s tv.cnn.png tv.1BE4_7E2_2_11A0000.uid
 # 19.2E
 ln -s tv.cnn.png tv.6F6A_42C_1_C00000.uid
 # 23.5E
 ln -s tv.cnn.png tv.D16D_2715_F001_EB0000.uid
-# 4.8E
-ln -s tv.cnn.png tv.1B80_9_56_300000.uid
+# 28.2E
+ln -s tv.cnn.png tv.1BE4_7E2_2_11A0000.uid
 # 0.8W
 ln -s tv.cnn.png tv.CA_2_46_7120000.uid
 
@@ -2204,12 +2203,12 @@ ln -s tv.colors.png tv.CD28_902_2_11A0000.uid
 ln -s tv.comedie+.png tv.251E_456_1_C00000.uid
 
 # tv.comedycentral.png
+# 9.0E
+ln -s tv.comedycentral.png tv.1839_1838_9E_5A0000.uid
 # 13.0E
 ln -s tv.comedycentral.png tv.A_3200_13E_820000.uid
 ln -s tv.comedycentral.png tv.1E_3200_13E_820000.uid
 ln -s tv.comedycentral.png tv.57C_320_FBFF_820000.uid
-# 9.0E
-ln -s tv.comedycentral.png tv.1839_1838_9E_5A0000.uid
 # 28.2E
 ln -s tv.comedycentral.png tv.1798_7E5_2_11A0000.uid
 ln -s tv.comedycentral.png tv.C78C_81F_2_11A0000.uid
@@ -2468,7 +2467,6 @@ ln -s tv.deasuper.png tv.2C9D_2580_FBFF_820000.uid
 ln -s tv.deejaytv.png tv.E2A_708_C8_820000.uid
 
 # tv.deluxemusic.png
-ln -s tv.deluxemusic.png tv.2774_444_1_11AAFD1.uid
 # 9.0E
 ln -s tv.deluxemusic.png tv.199_1964_9C_5A0000.uid
 # 19.2E
@@ -2541,6 +2539,11 @@ ln -s tv.d17.png tv.2F8E_454_1_C00000.uid
 ln -s tv.d17.png tv.2F8F_454_1_C00000.uid
 
 # tv.discovery.png
+# 4.8E
+ln -s tv.discovery.png tv.E2E_16_56_300000.uid
+# 9.0E
+ln -s tv.discovery.png tv.4EF3_21FC_9C_5A0000.uid
+ln -s tv.discovery.png tv.1D_19C8_9E_5A0000.uid
 # 13.0E
 ln -s tv.discovery.png tv.3DBA_640_13E_820000.uid
 ln -s tv.discovery.png tv.2AB3_1838_FBFF_820000.uid
@@ -2548,12 +2551,6 @@ ln -s tv.discovery.png tv.15F_1C84_13E_820000.uid
 ln -s tv.discovery.png tv.1C8C_1CE8_71_820000.uid
 ln -s tv.discovery.png tv.1C93_1CE8_71_820000.uid
 ln -s tv.discovery.png tv.296E_22C4_13E_820000.uid
-# 9.0E
-ln -s tv.discovery.png tv.4EF3_21FC_9C_5A0000.uid
-ln -s tv.discovery.png tv.1D_19C8_9E_5A0000.uid
-# 28.2E
-ln -s tv.discovery.png tv.1839_7D9_2_11A0000.uid
-ln -s tv.discovery.png tv.1842_7D9_2_11A0000.uid
 # 19.2E
 ln -s tv.discovery.png tv.E_4_85_C00000.uid
 ln -s tv.discovery.png tv.4F4F_447_1_C00000.uid
@@ -2562,8 +2559,9 @@ ln -s tv.discovery.png tv.258A_458_1_C00000.uid
 ln -s tv.discovery.png tv.1484_40D_1_C00000.uid
 # 23.5E
 ln -s tv.discovery.png tv.3333_C89_3_EB0000.uid
-# 4.8E
-ln -s tv.discovery.png tv.E2E_16_56_300000.uid
+# 28.2E
+ln -s tv.discovery.png tv.1839_7D9_2_11A0000.uid
+ln -s tv.discovery.png tv.1842_7D9_2_11A0000.uid
 # 0.8W
 ln -s tv.discovery.png tv.19C_4_46_7120000.uid
 ln -s tv.discovery.png tv.19F_4_46_7120000.uid
@@ -2571,17 +2569,13 @@ ln -s tv.discovery.png tv.196_4_46_7120000.uid
 ln -s tv.discovery.png tv.199_4_46_7120000.uid
 
 # tv.discoveryhd.png
+# 9.0E
+ln -s tv.discoveryhd.png tv.6_19C8_9E_5A0000.uid
 # 13.0E
 ln -s tv.discoveryhd.png tv.2C26_251C_FBFF_820000.uid
 ln -s tv.discoveryhd.png tv.3AB8_514_13E_820000.uid
 ln -s tv.discoveryhd.png tv.1E5A_15E0_FBFF_820000.uid
 ln -s tv.discoveryhd.png tv.1015_1D4C_FBFF_820000.uid
-# 9.0E
-ln -s tv.discoveryhd.png tv.6_19C8_9E_5A0000.uid
-# 28.2E
-ln -s tv.discoveryhd.png tv.EDB_7F0_2_11A0000.uid
-ln -s tv.discoveryhd.png tv.FC2_7F0_2_11A0000.uid
-ln -s tv.discoveryhd.png tv.F4C_7F2_2_11A0000.uid
 # 19.2E
 ln -s tv.discoveryhd.png tv.4F_9_85_C00000.uid
 ln -s tv.discoveryhd.png tv.2340_442_1_C00000.uid
@@ -2595,6 +2589,10 @@ ln -s tv.discoveryhd.png tv.26C1_43E_1_C00000.uid
 ln -s tv.discoveryhd.png tv.82_6_85_C00000.uid
 # 23.5E
 ln -s tv.discoveryhd.png tv.1B63_C88_3_EB0000.uid
+# 28.2E
+ln -s tv.discoveryhd.png tv.EDB_7F0_2_11A0000.uid
+ln -s tv.discoveryhd.png tv.FC2_7F0_2_11A0000.uid
+ln -s tv.discoveryhd.png tv.F4C_7F2_2_11A0000.uid
 
 # tv.discoveryhdshowcase.png
 # 13.0E
@@ -2657,16 +2655,16 @@ ln -s tv.discoveryrealtimeplus1.png tv.2FEC_2C24_FBFF_820000.uid
 ln -s tv.discoveryrealtimeplus1.png tv.CCDD_90B_2_11A0000.uid
 
 # tv.discoveryscience.png
-# 13.0E
-ln -s tv.discoveryscience.png tv.3D55_2C88_13E_820000.uid
-ln -s tv.discoveryscience.png tv.5BB_320_FBFF_820000.uid
-# 9.0E
-ln -s tv.discoveryscience.png tv.411_2_AA_5A0000.uid
-# 28.2E
-ln -s tv.discoveryscience.png tv.183E_7D9_2_11A0000.uid
 # 4.8E
 ln -s tv.discoveryscience.png tv.A0A_18_44_300000.uid
 ln -s tv.discoveryscience.png tv.1D_1_2260_300000.uid
+# 9.0E
+ln -s tv.discoveryscience.png tv.411_2_AA_5A0000.uid
+# 13.0E
+ln -s tv.discoveryscience.png tv.3D55_2C88_13E_820000.uid
+ln -s tv.discoveryscience.png tv.5BB_320_FBFF_820000.uid
+# 28.2E
+ln -s tv.discoveryscience.png tv.183E_7D9_2_11A0000.uid
 # 0.8W
 ln -s tv.discoveryscience.png tv.3F7_31_46_7120000.uid
 ln -s tv.discoveryscience.png tv.7851_2C4_600_E080000.uid
@@ -2692,12 +2690,12 @@ ln -s tv.discoveryscienceplus1.png tv.CCBA_90B_2_11A0000.uid
 ln -s tv.discoveryshed.png tv.CCD8_90B_2_11A0000.uid
 
 # tv.discoverytravelandliving.png
+# 4.8E
+ln -s tv.discoverytravelandliving.png tv.1B_1_2260_300000.uid
 # 13.0E
 ln -s tv.discoverytravelandliving.png tv.5B9_1AF4_FBFF_820000.uid
 ln -s tv.discoverytravelandliving.png tv.3915_32C8_13E_820000.uid
 ln -s tv.discoverytravelandliving.png tv.5B9_320_FBFF_820000.uid
-# 4.8E
-ln -s tv.discoverytravelandliving.png tv.1B_1_2260_300000.uid
 # 0.8W
 ln -s tv.discoverytravelandliving.png tv.3F8_31_46_E080000.uid
 
@@ -2725,6 +2723,14 @@ ln -s tv.discoveryworld.png tv.2971_22C4_13E_820000.uid
 ln -s tv.discoveryworld.png tv.3F6_31_46_7120000.uid
 
 # tv.disneychannel.png
+# 4.8E
+ln -s tv.disneychannel.png tv.114E_18_56_300000.uid
+ln -s tv.disneychannel.png tv.1158_18_56_300000.uid
+ln -s tv.disneychannel.png tv.C6C_5_56_300000.uid
+# 9.0E
+ln -s tv.disneychannel.png tv.6CC_1388_9C_5A0000.uid
+ln -s tv.disneychannel.png tv.39E_17D4_9E_5A0000.uid
+ln -s tv.disneychannel.png tv.42E_1_AA_5A0000.uid
 # 13.0E
 ln -s tv.disneychannel.png tv.1D2A_2FA8_13E_820000.uid
 ln -s tv.disneychannel.png tv.3634_C8_13E_820000.uid
@@ -2732,12 +2738,6 @@ ln -s tv.disneychannel.png tv.2B6E_19C8_FBFF_820000.uid
 ln -s tv.disneychannel.png tv.2CBE_2580_FBFF_820000.uid
 ln -s tv.disneychannel.png tv.1FB4_2454_13E_820000.uid
 ln -s tv.disneychannel.png tv.1BC7_17D4_13E_820000.uid
-# 9.0E
-ln -s tv.disneychannel.png tv.6CC_1388_9C_5A0000.uid
-ln -s tv.disneychannel.png tv.39E_17D4_9E_5A0000.uid
-ln -s tv.disneychannel.png tv.42E_1_AA_5A0000.uid
-# 28.2E
-ln -s tv.disneychannel.png tv.2329_803_2_11A0000.uid
 # 19.2E
 ln -s tv.disneychannel.png tv.76C3_40E_1_C00000.uid
 ln -s tv.disneychannel.png tv.22_11_85_C00000.uid
@@ -2747,10 +2747,9 @@ ln -s tv.disneychannel.png tv.1FA9_434_1_C00000.uid
 ln -s tv.disneychannel.png tv.2336_C8F_3_EB0000.uid
 ln -s tv.disneychannel.png tv.3336_C89_3_EB0000.uid
 ln -s tv.disneychannel.png tv.1598_C92_3_EB0000.uid
-# 4.8E
-ln -s tv.disneychannel.png tv.114E_18_56_300000.uid
-ln -s tv.disneychannel.png tv.1158_18_56_300000.uid
-ln -s tv.disneychannel.png tv.C6C_5_56_300000.uid
+ln -s tv.disneychannel.png tv.17B1_C82_3_EB0000.uid
+# 28.2E
+ln -s tv.disneychannel.png tv.2329_803_2_11A0000.uid
 # 0.8W
 ln -s tv.disneychannel.png tv.C86_3E_46_7120000.uid
 ln -s tv.disneychannel.png tv.3F9_1_1_7120000.uid
@@ -2775,15 +2774,15 @@ ln -s tv.disneychannelhd.png tv.234C_442_1_C00000.uid
 ln -s tv.disneychannelhd.png tv.2338_442_1_C00000.uid
 
 # tv.disneychannelplus1.png
+# 9.0E
+ln -s tv.disneychannelplus1.png tv.4E85_1AF4_9C_5A0000.uid
 # 13.0E
 ln -s tv.disneychannelplus1.png tv.2509_2260_FBFF_820000.uid
 ln -s tv.disneychannelplus1.png tv.2C8B_2580_FBFF_820000.uid
-# 9.0E
-ln -s tv.disneychannelplus1.png tv.4E85_1AF4_9C_5A0000.uid
-# 28.2E
-ln -s tv.disneychannelplus1.png tv.232F_803_2_11A0000.uid
 # 19.2E
 ln -s tv.disneychannelplus1.png tv.22CA_45A_1_C00000.uid
+# 28.2E
+ln -s tv.disneychannelplus1.png tv.232F_803_2_11A0000.uid
 
 # tv.disneychannelplus2.png
 # 13.0E
@@ -2827,10 +2826,10 @@ ln -s tv.disneycinemagichd.png tv.6F_271B_85_EB0000.uid
 # tv.disneycinemagicplus1.png
 # 9.0E
 ln -s tv.disneycinemagicplus1.png tv.4E86_1AF4_9C_5A0000.uid
-# 28.2E
-ln -s tv.disneycinemagicplus1.png tv.232B_803_2_11A0000.uid
 # 19.2E
 ln -s tv.disneycinemagicplus1.png tv.22CD_45A_1_C00000.uid
+# 28.2E
+ln -s tv.disneycinemagicplus1.png tv.232B_803_2_11A0000.uid
 
 # tv.disneyjunior.png
 # 13.0E
@@ -2869,6 +2868,9 @@ ln -s tv.disneyjuniorplus.png tv.3BC5_64_FBFF_820000.uid
 ln -s tv.disneyjuniorplus.png tv.2332_803_2_11A0000.uid
 
 # tv.disneyxd.png
+# 4.8E
+ln -s tv.disneyxd.png tv.1180_18_56_300000.uid
+ln -s tv.disneyxd.png tv.C76_5_56_300000.uid
 # 13.0E
 ln -s tv.disneyxd.png tv.3BCB_64_FBFF_820000.uid
 ln -s tv.disneyxd.png tv.13C_157C_13E_820000.uid
@@ -2885,9 +2887,6 @@ ln -s tv.disneyxd.png tv.22C8_45A_1_C00000.uid
 # 23.5E
 ln -s tv.disneyxd.png tv.CF74_2719_F001_EB0000.uid
 ln -s tv.disneyxd.png tv.C483_2715_F001_EB0000.uid
-# 4.8E
-ln -s tv.disneyxd.png tv.1180_18_56_300000.uid
-ln -s tv.disneyxd.png tv.C76_5_56_300000.uid
 # 0.8W
 ln -s tv.disneyxd.png tv.C87_3E_46_7120000.uid
 ln -s tv.disneyxd.png tv.CD0_A_1_7120000.uid
@@ -2921,11 +2920,11 @@ ln -s tv.divatv.png tv.CD32_902_2_11A0000.uid
 ln -s tv.divatvplus1.png tv.D2F9_969_2_11A0000.uid
 
 # tv.divauniversal.png
+# 4.8E
+ln -s tv.divauniversal.png tv.D84_15_56_300000.uid
 # 13.0E
 ln -s tv.divauniversal.png tv.3902_1AF4_FBFF_820000.uid
 ln -s tv.divauniversal.png tv.3902_2648_FBFF_820000.uid
-# 4.8E
-ln -s tv.divauniversal.png tv.D84_15_56_300000.uid
 # 0.8W
 ln -s tv.divauniversal.png tv.76CA_2C0_600_7120000.uid
 
@@ -2938,17 +2937,17 @@ ln -s tv.divinity.png tv.749A_41C_1_C00000.uid
 ln -s tv.dk4.png tv.25B_2_46_7120000.uid
 
 # tv.dmax.png
-# 13.0E
-ln -s tv.dmax.png tv.E2B_708_C8_820000.uid
 # 9.0E
 ln -s tv.dmax.png tv.E2_14B4_9C_5A0000.uid
-# 28.2E
-ln -s tv.dmax.png tv.CCBF_90B_2_11A0000.uid
+# 13.0E
+ln -s tv.dmax.png tv.E2B_708_C8_820000.uid
 # 19.2E
 ln -s tv.dmax.png tv.2775_444_1_C00000.uid
 ln -s tv.dmax.png tv.3F_21_85_C00000.uid
 # 23.5E
 ln -s tv.dmax.png tv.D171_2714_F001_EB0000.uid
+# 28.2E
+ln -s tv.dmax.png tv.CCBF_90B_2_11A0000.uid
 
 # tv.dmaxhd.png
 # 19.2E
@@ -2981,13 +2980,13 @@ ln -s tv.dobrotv.png tv.199B_F_55_300000.uid
 ln -s tv.dokucs.png tv.13B6_C95_3_EB0000.uid
 
 # tv.dorceltv.png
+# 9.0E
+ln -s tv.dorceltv.png tv.444_4_AA_5A0000.uid
 # 13.0E
 ln -s tv.dorceltv.png tv.364C_C8_13E_820000.uid
 ln -s tv.dorceltv.png tv.3656_C8_13E_820000.uid
 ln -s tv.dorceltv.png tv.364C_1FA4_13E_820000.uid
 ln -s tv.dorceltv.png tv.3656_1FA4_13E_820000.uid
-# 9.0E
-ln -s tv.dorceltv.png tv.444_4_AA_5A0000.uid
 # 19.2E
 ln -s tv.dorceltv.png tv.4285_446_1_C00000.uid
 ln -s tv.dorceltv.png tv.42A3_446_1_C00000.uid
@@ -3145,10 +3144,8 @@ ln -s tv.een.png tv.3201_45F_35_C00000.uid
 ln -s tv.eenhd.png tv.5221_C99_3_EB0000.uid
 
 # tv.eentertainment.png
-# 13.0E
-ln -s tv.eentertainment.png tv.1BBE_17D4_13E_820000.uid
-ln -s tv.eentertainment.png tv.2CD0_2580_FBFF_820000.uid
-ln -s tv.eentertainment.png tv.4462_1F40_13E_820000.uid
+# 4.8E
+ln -s tv.eentertainment.png tv.C1C_5_56_300000.uid
 # 9.0E
 ln -s tv.eentertainment.png tv.4EED_21FC_9C_5A0000.uid
 ln -s tv.eentertainment.png tv.4EF6_21FC_9C_5A0000.uid
@@ -3156,18 +3153,20 @@ ln -s tv.eentertainment.png tv.4EFA_21FC_9C_5A0000.uid
 ln -s tv.eentertainment.png tv.E2E_1E14_9E_5A0000.uid
 ln -s tv.eentertainment.png tv.E38_1E14_9E_5A0000.uid
 ln -s tv.eentertainment.png tv.6D8_1388_9C_5A0000.uid
+# 13.0E
+ln -s tv.eentertainment.png tv.1BBE_17D4_13E_820000.uid
+ln -s tv.eentertainment.png tv.2CD0_2580_FBFF_820000.uid
+ln -s tv.eentertainment.png tv.4462_1F40_13E_820000.uid
+# 19.2E
+ln -s tv.eentertainment.png tv.22CF_45A_1_C00000.uid
+# 23.5E
+ln -s tv.eentertainment.png tv.C3B8_2719_F001_EB0000.uid
 # 28.2E
 ln -s tv.eentertainment.png tv.CFD0_909_2_11A0000.uid
 ln -s tv.eentertainment.png tv.168A_7E9_2_11A0000.uid
 ln -s tv.eentertainment.png tv.1799_963_2_11A0000.uid
 ln -s tv.eentertainment.png tv.CFDF_909_2_11A0000.uid
 ln -s tv.eentertainment.png tv.FBC_807_2_11A0000.uid
-# 19.2E
-ln -s tv.eentertainment.png tv.22CF_45A_1_C00000.uid
-# 23.5E
-ln -s tv.eentertainment.png tv.C3B8_2719_F001_EB0000.uid
-# 4.8E
-ln -s tv.eentertainment.png tv.C1C_5_56_300000.uid
 
 # tv.eentertainmenthd.png
 # 28.2E
@@ -3327,8 +3326,8 @@ ln -s tv.etvestonia.png tv.18EC_E_55_300000.uid
 ln -s tv.etv2estonia.png tv.B9A_34_55_300000.uid
 
 # tv.euronews.png
-# 13.0E
-ln -s tv.euronews.png tv.2013_24B8_13E_820000.uid
+# 4.8E
+ln -s tv.euronews.png tv.FB4_6_56_300000.uid
 # 9.0E
 ln -s tv.euronews.png tv.A28_1BBC_9C_5A0000.uid
 ln -s tv.euronews.png tv.A5A_1BBC_9C_5A0000.uid
@@ -3338,9 +3337,8 @@ ln -s tv.euronews.png tv.AA0_1BBC_9C_5A0000.uid
 ln -s tv.euronews.png tv.AAA_1BBC_9C_5A0000.uid
 ln -s tv.euronews.png tv.AB4_1BBC_9C_5A0000.uid
 ln -s tv.euronews.png tv.438_2_AA_5A0000.uid
-# 28.2E
-ln -s tv.euronews.png tv.D358_A2A_2_11A0000.uid
-ln -s tv.euronews.png tv.D3D0_A2B_2_11A0000.uid
+# 13.0E
+ln -s tv.euronews.png tv.2013_24B8_13E_820000.uid
 # 19.2E
 ln -s tv.euronews.png tv.79F4_443_1_C00000.uid
 # 23.5E
@@ -3357,10 +3355,16 @@ ln -s tv.euronews.png tv.CFDF_70_F001_EB0000.uid
 ln -s tv.euronews.png tv.CFE0_70_F001_EB0000.uid
 ln -s tv.euronews.png tv.CFE1_70_F001_EB0000.uid
 ln -s tv.euronews.png tv.CFE2_70_F001_EB0000.uid
-# 4.8E
-ln -s tv.euronews.png tv.FB4_6_56_300000.uid
+# 28.2E
+ln -s tv.euronews.png tv.D358_A2A_2_11A0000.uid
+ln -s tv.euronews.png tv.D3D0_A2B_2_11A0000.uid
 
 # tv.eurosport.png
+# 9.0E
+ln -s tv.eurosport.png tv.407_4_AA_5A0000.uid
+ln -s tv.eurosport.png tv.137_19C8_9E_5A0000.uid
+ln -s tv.eurosport.png tv.13E_19C8_9E_5A0000.uid
+ln -s tv.eurosport.png tv.DC_14B4_9C_5A0000.uid
 # 13.0E
 ln -s tv.eurosport.png tv.3629_C8_13E_820000.uid
 ln -s tv.eurosport.png tv.2D2E_2774_FBFF_820000.uid
@@ -3380,13 +3384,6 @@ ln -s tv.eurosport.png tv.3615_C8_13E_820000.uid
 ln -s tv.eurosport.png tv.3618_C8_13E_820000.uid
 ln -s tv.eurosport.png tv.363D_C8_13E_820000.uid
 ln -s tv.eurosport.png tv.3641_C8_13E_820000.uid
-# 9.0E
-ln -s tv.eurosport.png tv.407_4_AA_5A0000.uid
-ln -s tv.eurosport.png tv.137_19C8_9E_5A0000.uid
-ln -s tv.eurosport.png tv.13E_19C8_9E_5A0000.uid
-ln -s tv.eurosport.png tv.DC_14B4_9C_5A0000.uid
-# 28.2E
-ln -s tv.eurosport.png tv.1797_7EE_2_11A0000.uid
 # 19.2E
 ln -s tv.eurosport.png tv.79E0_443_1_C00000.uid
 ln -s tv.eurosport.png tv.7E9_449_35_C00000.uid
@@ -3396,10 +3393,16 @@ ln -s tv.eurosport.png tv.2207_44C_1_C00000.uid
 # 23.5E
 ln -s tv.eurosport.png tv.3331_C89_3_EB0000.uid
 ln -s tv.eurosport.png tv.3332_C89_3_EB0000.uid
+# 28.2E
+ln -s tv.eurosport.png tv.1797_7EE_2_11A0000.uid
 # 0.8W
 ln -s tv.eurosport.png tv.3F8_1_1_7120000.uid
 
 # tv.eurosport2.png
+# 9.0E
+ln -s tv.eurosport2.png tv.5_15E0_9E_5A0000.uid
+ln -s tv.eurosport2.png tv.408_4_AA_5A0000.uid
+ln -s tv.eurosport2.png tv.139_19C8_9E_5A0000.uid
 # 13.0E
 ln -s tv.eurosport2.png tv.3628_C8_13E_820000.uid
 ln -s tv.eurosport2.png tv.2D2F_2774_FBFF_820000.uid
@@ -3426,17 +3429,13 @@ ln -s tv.eurosport2.png tv.35ED_C8_13E_820000.uid
 ln -s tv.eurosport2.png tv.35F5_C8_13E_820000.uid
 ln -s tv.eurosport2.png tv.35FD_C8_13E_820000.uid
 ln -s tv.eurosport2.png tv.3643_C8_13E_820000.uid
-# 9.0E
-ln -s tv.eurosport2.png tv.5_15E0_9E_5A0000.uid
-ln -s tv.eurosport2.png tv.408_4_AA_5A0000.uid
-ln -s tv.eurosport2.png tv.139_19C8_9E_5A0000.uid
-# 28.2E
-ln -s tv.eurosport2.png tv.1391_7E7_2_11A0000.uid
 # 19.2E
 ln -s tv.eurosport2.png tv.251F_456_1_C00000.uid
 ln -s tv.eurosport2.png tv.37_F_85_C00000.uid
 # 23.5E
 ln -s tv.eurosport2.png tv.3360_C93_3_EB0000.uid
+# 28.2E
+ln -s tv.eurosport2.png tv.1391_7E7_2_11A0000.uid
 # 0.8W
 ln -s tv.eurosport2.png tv.648_31_46_7120000.uid
 
@@ -3459,6 +3458,9 @@ ln -s tv.eurosport2hd.png tv.13B1_C95_3_EB0000.uid
 ln -s tv.eurosport2hd.png tv.13C9_C95_3_EB0000.uid
 
 # tv.eurosporthd.png
+# 9.0E
+ln -s tv.eurosporthd.png tv.448_4_AA_5A0000.uid
+ln -s tv.eurosporthd.png tv.1E_20D0_6B2_5A0000.uid
 # 13.0E
 ln -s tv.eurosporthd.png tv.3318_190_13E_820000.uid
 ln -s tv.eurosporthd.png tv.3319_190_13E_820000.uid
@@ -3486,11 +3488,6 @@ ln -s tv.eurosporthd.png tv.331D_190_13E_820000.uid
 ln -s tv.eurosporthd.png tv.1BC6_17D4_13E_820000.uid
 ln -s tv.eurosporthd.png tv.447B_1F40_13E_820000.uid
 ln -s tv.eurosporthd.png tv.F50_2198_FBFF_820000.uid
-# 9.0E
-ln -s tv.eurosporthd.png tv.448_4_AA_5A0000.uid
-ln -s tv.eurosporthd.png tv.1E_20D0_6B2_5A0000.uid
-# 28.2E
-ln -s tv.eurosporthd.png tv.EDC_7D8_2_11A0000.uid
 # 19.2E
 ln -s tv.eurosporthd.png tv.2392_44A_1_C00000.uid
 ln -s tv.eurosporthd.png tv.84_6_85_C00000.uid
@@ -3504,6 +3501,8 @@ ln -s tv.eurosporthd.png tv.84_B_85_C00000.uid
 ln -s tv.eurosporthd.png tv.1422_C85_3_EB0000.uid
 ln -s tv.eurosporthd.png tv.13A9_C85_3_EB0000.uid
 ln -s tv.eurosporthd.png tv.1421_C85_3_EB0000.uid
+# 28.2E
+ln -s tv.eurosporthd.png tv.EDC_7D8_2_11A0000.uid
 # 0.8W
 ln -s tv.eurosporthd.png tv.1005_29_46_7120000.uid
 ln -s tv.eurosporthd.png tv.1009_29_46_7120000.uid
@@ -3609,10 +3608,10 @@ ln -s tv.fashiononehd.png tv.DAF_16A8_9C_5A0000.uid
 ln -s tv.fashiononehd.png tv.157D_C92_3_EB0000.uid
 
 # tv.fashiontv.png
-# 13.0E
-ln -s tv.fashiontv.png tv.43A3_2CEC_13E_820000.uid
 # 9.0E
 ln -s tv.fashiontv.png tv.426_2_AA_5A0000.uid
+# 13.0E
+ln -s tv.fashiontv.png tv.43A3_2CEC_13E_820000.uid
 # 19.2E
 ln -s tv.fashiontv.png tv.10CD_418_1_C00000.uid
 # 0.8W
@@ -3851,13 +3850,13 @@ ln -s tv.foxcrimeplus1.png tv.FC1_2DB4_FBFF_820000.uid
 ln -s tv.foxcrimeplus2.png tv.FD7_2DB4_FBFF_820000.uid
 
 # tv.foxhd.png
+# 9.0E
+ln -s tv.foxhd.png tv.DB7_16A8_9C_5A0000.uid
 # 13.0E
 ln -s tv.foxhd.png tv.379D_14B4_FBFF_820000.uid
 ln -s tv.foxhd.png tv.2C3D_251C_FBFF_820000.uid
 ln -s tv.foxhd.png tv.C27_1E78_71_820000.uid
 ln -s tv.foxhd.png tv.2982_22C4_13E_820000.uid
-# 9.0E
-ln -s tv.foxhd.png tv.DB7_16A8_9C_5A0000.uid
 # 19.2E
 ln -s tv.foxhd.png tv.74FE_420_1_C00000.uid
 ln -s tv.foxhd.png tv.7594_422_1_C00000.uid
@@ -3870,13 +3869,13 @@ ln -s tv.foxhd.png tv.C357_271C_F001_EB0000.uid
 ln -s tv.foxhd.png tv.152C_C86_3_EB0000.uid
 
 # tv.foxlife.png
+# 9.0E
+ln -s tv.foxlife.png tv.3FB_1_AA_5A0000.uid
 # 13.0E
 ln -s tv.foxlife.png tv.1FC5_189C_FBFF_820000.uid
 ln -s tv.foxlife.png tv.1CCF_1CE8_71_820000.uid
 ln -s tv.foxlife.png tv.2976_22C4_13E_820000.uid
 ln -s tv.foxlife.png tv.1BD0_17D4_13E_820000.uid
-# 9.0E
-ln -s tv.foxlife.png tv.3FB_1_AA_5A0000.uid
 # 23.5E
 ln -s tv.foxlife.png tv.1585_C92_3_EB0000.uid
 
@@ -3923,11 +3922,11 @@ ln -s tv.foxplus2.png tv.FD5_2DB4_FBFF_820000.uid
 ln -s tv.foxretro.png tv.1FC8_189C_FBFF_820000.uid
 
 # tv.foxsports.png
+# 9.0E
+ln -s tv.foxsports.png tv.5_1770_64_5A0000.uid
 # 13.0E
 ln -s tv.foxsports.png tv.1F_C9_6_820000.uid
 ln -s tv.foxsports.png tv.2E0A_1A2C_FBFF_820000.uid
-# 9.0E
-ln -s tv.foxsports.png tv.5_1770_64_5A0000.uid
 
 # tv.foxsportshd.png
 # 13.0E
@@ -3951,10 +3950,10 @@ ln -s tv.foxsportseredivisie.png tv.51C7_C96_3_EB0000.uid
 ln -s tv.foxsportsinternational.png tv.5235_C99_3_EB0000.uid
 
 # tv.fox-gb.png
-# 13.0E
-ln -s tv.fox-gb.png tv.1128_1644_FBFF_820000.uid
 # 9.0E
 ln -s tv.fox-gb.png tv.3FC_1_AA_5A0000.uid
+# 13.0E
+ln -s tv.fox-gb.png tv.1128_1644_FBFF_820000.uid
 # 28.2E
 ln -s tv.fox-gb.png tv.158B_7E5_2_11A0000.uid
 
@@ -4046,21 +4045,21 @@ ln -s tv.france5.png tv.2200_44C_1_C00000.uid
 ln -s tv.france5.png tv.2214_44C_1_C00000.uid
 
 # tv.france24.png
+# 9.0E
+ln -s tv.france24.png tv.43A_2_AA_5A0000.uid
+ln -s tv.france24.png tv.43B_2_AA_5A0000.uid
 # 13.0E
 ln -s tv.france24.png tv.3619_C8_13E_820000.uid
 ln -s tv.france24.png tv.361A_C8_13E_820000.uid
 ln -s tv.france24.png tv.39F4_1FA4_13E_820000.uid
-# 9.0E
-ln -s tv.france24.png tv.43A_2_AA_5A0000.uid
-ln -s tv.france24.png tv.43B_2_AA_5A0000.uid
-# 28.2E
-ln -s tv.france24.png tv.C758_96B_2_11A0000.uid
-ln -s tv.france24.png tv.D021_962_2_11A0000.uid
-ln -s tv.france24.png tv.CD5A_902_2_11A0000.uid
 # 19.2E
 ln -s tv.france24.png tv.1AF9_3FE_1_C00000.uid
 ln -s tv.france24.png tv.1AFE_3FE_1_C00000.uid
 ln -s tv.france24.png tv.1AFA_3FE_1_C00000.uid
+# 28.2E
+ln -s tv.france24.png tv.C758_96B_2_11A0000.uid
+ln -s tv.france24.png tv.D021_962_2_11A0000.uid
+ln -s tv.france24.png tv.CD5A_902_2_11A0000.uid
 # 0.8W
 ln -s tv.france24.png tv.1771_14_46_7120000.uid
 
@@ -4164,17 +4163,17 @@ ln -s tv.glas.png tv.17F2_C_55_300000.uid
 ln -s tv.glorytv.png tv.D39A_A2A_2_11A0000.uid
 
 # tv.godtv.png
+# 4.8E
+ln -s tv.godtv.png tv.FDC_6_56_300000.uid
 # 13.0E
 ln -s tv.godtv.png tv.F_300C_13E_820000.uid
 ln -s tv.godtv.png tv.2988_3D54_13E_820000.uid
+# 19.2E
+ln -s tv.godtv.png tv.306_7_85_C00000.uid
 # 28.2E
 ln -s tv.godtv.png tv.C75B_96B_2_11A0000.uid
 ln -s tv.godtv.png tv.D3C2_A2B_2_11A0000.uid
 ln -s tv.godtv.png tv.CB9E_8FE_2_11A0000.uid
-# 19.2E
-ln -s tv.godtv.png tv.306_7_85_C00000.uid
-# 4.8E
-ln -s tv.godtv.png tv.FDC_6_56_300000.uid
 
 # tv.gospelchannel.png
 # 28.2E
@@ -4273,22 +4272,22 @@ ln -s tv.hallotv.png tv.32D9_45D_1_C00000.uid
 # tv.hayatplus.png
 
 # tv.hbo.png
+# 9.0E
+ln -s tv.hbo.png tv.1AA3_1A90_9E_5A0000.uid
 # 13.0E
 ln -s tv.hbo.png tv.3E24_2EE0_13E_820000.uid
 ln -s tv.hbo.png tv.114D_2AF8_13E_820000.uid
 ln -s tv.hbo.png tv.1167_2AF8_13E_820000.uid
-# 9.0E
-ln -s tv.hbo.png tv.1AA3_1A90_9E_5A0000.uid
 # 23.5E
 ln -s tv.hbo.png tv.3330_C89_3_EB0000.uid
 
 # tv.hbo2.png
+# 9.0E
+ln -s tv.hbo2.png tv.1AA4_1A90_9E_5A0000.uid
 # 13.0E
 ln -s tv.hbo2.png tv.3E25_2EE0_13E_820000.uid
 ln -s tv.hbo2.png tv.114F_2AF8_13E_820000.uid
 ln -s tv.hbo2.png tv.1168_2AF8_13E_820000.uid
-# 9.0E
-ln -s tv.hbo2.png tv.1AA4_1A90_9E_5A0000.uid
 # 23.5E
 ln -s tv.hbo2.png tv.17B3_C82_3_EB0000.uid
 
@@ -4317,12 +4316,12 @@ ln -s tv.hbohd.png tv.13B7_C95_3_EB0000.uid
 ln -s tv.hbohd.png tv.17B2_C82_3_EB0000.uid
 
 # tv.hbocomedy.png
+# 9.0E
+ln -s tv.hbocomedy.png tv.1AA5_1A90_9E_5A0000.uid
 # 13.0E
 ln -s tv.hbocomedy.png tv.3E26_2EE0_13E_820000.uid
 ln -s tv.hbocomedy.png tv.1150_2AF8_13E_820000.uid
 ln -s tv.hbocomedy.png tv.1169_2AF8_13E_820000.uid
-# 9.0E
-ln -s tv.hbocomedy.png tv.1AA5_1A90_9E_5A0000.uid
 # 23.5E
 ln -s tv.hbocomedy.png tv.13AB_C85_3_EB0000.uid
 # 0.8W
@@ -4375,17 +4374,15 @@ ln -s tv.hiphoptv.png tv.3BCD_64_FBFF_820000.uid
 ln -s tv.hispantv.png tv.BCF_20D0_13E_820000.uid
 
 # tv.history.png
+# 9.0E
+ln -s tv.history.png tv.3_1A90_9E_5A0000.uid
+ln -s tv.history.png tv.4E96_2134_9C_5A0000.uid
+ln -s tv.history.png tv.1AA9_1A90_9E_5A0000.uid
 # 13.0E
 ln -s tv.history.png tv.1139_2AF8_13E_820000.uid
 ln -s tv.history.png tv.1BBF_17D4_13E_820000.uid
 ln -s tv.history.png tv.1FCF_189C_FBFF_820000.uid
 ln -s tv.history.png tv.E37_16A8_FBFF_820000.uid
-# 9.0E
-ln -s tv.history.png tv.3_1A90_9E_5A0000.uid
-ln -s tv.history.png tv.4E96_2134_9C_5A0000.uid
-ln -s tv.history.png tv.1AA9_1A90_9E_5A0000.uid
-# 28.2E
-ln -s tv.history.png tv.122D_7E9_2_11A0000.uid
 # 19.2E
 ln -s tv.history.png tv.44_9_85_C00000.uid
 ln -s tv.history.png tv.3A_F_85_C00000.uid
@@ -4395,6 +4392,8 @@ ln -s tv.history.png tv.13BF_C85_3_EB0000.uid
 ln -s tv.history.png tv.13CD_C85_3_EB0000.uid
 ln -s tv.history.png tv.1414_C8A_3_EB0000.uid
 ln -s tv.history.png tv.141B_C8A_3_EB0000.uid
+# 28.2E
+ln -s tv.history.png tv.122D_7E9_2_11A0000.uid
 # 0.8W
 ln -s tv.history.png tv.9CF_19_46_7120000.uid
 
@@ -4519,10 +4518,10 @@ ln -s tv.hrttv3.png tv.206F_2328_13E_820000.uid
 ln -s tv.hrttv4.png tv.2076_2328_13E_820000.uid
 
 # tv.hse24.png
-# 13.0E
-ln -s tv.hse24.png tv.E29_708_C8_820000.uid
 # 9.0E
 ln -s tv.hse24.png tv.DA_14B4_9C_5A0000.uid
+# 13.0E
+ln -s tv.hse24.png tv.E29_708_C8_820000.uid
 # 19.2E
 ln -s tv.hse24.png tv.28_21_85_C00000.uid
 # 23.5E
@@ -4553,12 +4552,12 @@ ln -s tv.humor24_nostalgienet.png tv.1789_C82_3_EB0000.uid
 # 9.0E
 ln -s tv.hustlertv.png tv.443_4_AA_5A0000.uid
 ln -s tv.hustlertv.png tv.267_206C_9C_5A0000.uid
-# 28.2E
-ln -s tv.hustlertv.png tv.101E_963_2_11A0000.uid
 # 19.2E
 ln -s tv.hustlertv.png tv.7FA_449_35_C00000.uid
 ln -s tv.hustlertv.png tv.7FB_449_35_C00000.uid
 ln -s tv.hustlertv.png tv.3253_45F_35_C00000.uid
+# 28.2E
+ln -s tv.hustlertv.png tv.101E_963_2_11A0000.uid
 # 0.8W
 ln -s tv.hustlertv.png tv.25D_A_46_7120000.uid
 
@@ -4812,10 +4811,10 @@ ln -s tv.jeemtv.png tv.CF7E_908_2_11A0000.uid
 ln -s tv.jewellerymaker.png tv.CB26_907_2_11A0000.uid
 
 # tv.jewishnewsone.png
-# 13.0E
-ln -s tv.jewishnewsone.png tv.6A7_3138_13E_820000.uid
 # 4.8E
 ln -s tv.jewishnewsone.png tv.17FC_C_55_300000.uid
+# 13.0E
+ln -s tv.jewishnewsone.png tv.6A7_3138_13E_820000.uid
 
 # tv.jim.png
 # 19.2E
@@ -5037,12 +5036,12 @@ ln -s tv.kicctv.png tv.34CE_3C28_13E_820000.uid
 ln -s tv.kicctv.png tv.D80F_A36_2_11A0000.uid
 
 # tv.kidsco.png
+# 9.0E
+ln -s tv.kidsco.png tv.42F_2_AA_5A0000.uid
 # 13.0E
 ln -s tv.kidsco.png tv.DB5_2D50_13E_820000.uid
 ln -s tv.kidsco.png tv.2977_22C4_13E_820000.uid
 ln -s tv.kidsco.png tv.1FA7_2454_13E_820000.uid
-# 9.0E
-ln -s tv.kidsco.png tv.42F_2_AA_5A0000.uid
 # 19.2E
 ln -s tv.kidsco.png tv.2B01_417_1_C00000.uid
 ln -s tv.kidsco.png tv.2B33_417_1_C00000.uid
@@ -5324,11 +5323,11 @@ ln -s tv.loveworld.png tv.D3C3_A2B_2_11A0000.uid
 ln -s tv.ltv7.png tv.1897_D_55_300000.uid
 
 # tv.m6.png
+# 9.0E
+ln -s tv.m6.png tv.C9_19C8_9E_5A0000.uid
 # 13.0E
 ln -s tv.m6.png tv.448F_1F40_13E_820000.uid
 ln -s tv.m6.png tv.1F7_26AC_13F_820000.uid
-# 9.0E
-ln -s tv.m6.png tv.C9_19C8_9E_5A0000.uid
 # 19.2E
 ln -s tv.m6.png tv.20AF_432_1_C00000.uid
 ln -s tv.m6.png tv.20B4_432_1_C00000.uid
@@ -5340,10 +5339,10 @@ ln -s tv.m6.png tv.2202_44C_1_C00000.uid
 ln -s tv.m6boutique.png tv.274F_402_1_C00000.uid
 
 # tv.m6hd.png
-# 13.0E
-ln -s tv.m6hd.png tv.132_3E1C_13F_820000.uid
 # 9.0E
 ln -s tv.m6hd.png tv.CA_19C8_9E_5A0000.uid
+# 13.0E
+ln -s tv.m6hd.png tv.132_3E1C_13F_820000.uid
 # 19.2E
 ln -s tv.m6hd.png tv.245E_456_1_C00000.uid
 ln -s tv.m6hd.png tv.2472_456_1_C00000.uid
@@ -5649,15 +5648,15 @@ ln -s tv.motoritv.png tv.1278_3458_13E_820000.uid
 ln -s tv.motoritv.png tv.272_3C8C_13E_820000.uid
 
 # tv.motorstv.png
-# 13.0E
-ln -s tv.motorstv.png tv.168_1C84_13E_820000.uid
 # 9.0E
 ln -s tv.motorstv.png tv.4E92_2134_9C_5A0000.uid
-# 28.2E
-ln -s tv.motorstv.png tv.C495_964_2_11A0000.uid
+# 13.0E
+ln -s tv.motorstv.png tv.168_1C84_13E_820000.uid
 # 19.2E
 ln -s tv.motorstv.png tv.74A4_41C_1_C00000.uid
 ln -s tv.motorstv.png tv.2525_456_1_C00000.uid
+# 28.2E
+ln -s tv.motorstv.png tv.C495_964_2_11A0000.uid
 # 0.8W
 ln -s tv.motorstv.png tv.3FF_A_46_7120000.uid
 ln -s tv.motorstv.png tv.3FF_3D_46_E080000.uid
@@ -5737,19 +5736,20 @@ ln -s tv.mtv3maxsport2.png tv.196A_48_46_7120000.uid
 ln -s tv.mtv3sarja.png tv.1328_48_46_7120000.uid
 
 # tv.mtv.png
+# 4.8E
+ln -s tv.mtv.png tv.1B9E_9_56_300000.uid
+ln -s tv.mtv.png tv.1798_8_56_300000.uid
+ln -s tv.mtv.png tv.866_4_56_300000.uid
+# 9.0E
+ln -s tv.mtv.png tv.262_1900_9C_5A0000.uid
+ln -s tv.mtv.png tv.21_19C8_9E_5A0000.uid
+ln -s tv.mtv.png tv.4EF0_21FC_9C_5A0000.uid
 # 13.0E
 ln -s tv.mtv.png tv.1D4F_2F44_13E_820000.uid
 ln -s tv.mtv.png tv.2_3200_13E_820000.uid
 ln -s tv.mtv.png tv.16_3200_13E_820000.uid
 ln -s tv.mtv.png tv.2CFE_2774_FBFF_820000.uid
 ln -s tv.mtv.png tv.2C83_251C_FBFF_820000.uid
-# 9.0E
-ln -s tv.mtv.png tv.262_1900_9C_5A0000.uid
-ln -s tv.mtv.png tv.21_19C8_9E_5A0000.uid
-ln -s tv.mtv.png tv.4EF0_21FC_9C_5A0000.uid
-# 28.2E
-ln -s tv.mtv.png tv.1B59_7DA_2_11A0000.uid
-ln -s tv.mtv.png tv.1B62_7DA_2_11A0000.uid
 # 19.2E
 ln -s tv.mtv.png tv.4F84_407_1_C00000.uid
 ln -s tv.mtv.png tv.6FEB_42A_1_C00000.uid
@@ -5763,10 +5763,9 @@ ln -s tv.mtv.png tv.74A2_41C_1_C00000.uid
 ln -s tv.mtv.png tv.3354_C93_3_EB0000.uid
 ln -s tv.mtv.png tv.CF0D_2717_F001_EB0000.uid
 ln -s tv.mtv.png tv.51D3_C96_3_EB0000.uid
-# 4.8E
-ln -s tv.mtv.png tv.1B9E_9_56_300000.uid
-ln -s tv.mtv.png tv.1798_8_56_300000.uid
-ln -s tv.mtv.png tv.866_4_56_300000.uid
+# 28.2E
+ln -s tv.mtv.png tv.1B59_7DA_2_11A0000.uid
+ln -s tv.mtv.png tv.1B62_7DA_2_11A0000.uid
 # 0.8W
 ln -s tv.mtv.png tv.CD_4_46_7120000.uid
 ln -s tv.mtv.png tv.9C7_20_46_7120000.uid
@@ -5777,21 +5776,21 @@ ln -s tv.mtv.png tv.76CC_2C0_600_7120000.uid
 # tv.mtvhd.png
 # 9.0E
 ln -s tv.mtvhd.png tv.41C_4_AA_5A0000.uid
-# 28.2E
-ln -s tv.mtvhd.png tv.EF7_7E9_2_11A0000.uid
-ln -s tv.mtvhd.png tv.F40_7E4_2_11A0000.uid
 # 19.2E
 ln -s tv.mtvhd.png tv.2395_44A_1_C00000.uid
 ln -s tv.mtvhd.png tv.1F44_42E_1_C00000.uid
 ln -s tv.mtvhd.png tv.1F4E_42E_1_C00000.uid
+# 28.2E
+ln -s tv.mtvhd.png tv.EF7_7E9_2_11A0000.uid
+ln -s tv.mtvhd.png tv.F40_7E4_2_11A0000.uid
 
 # tv.mtvbase.png
-# 28.2E
-ln -s tv.mtvbase.png tv.1B5F_7DA_2_11A0000.uid
 # 19.2E
 ln -s tv.mtvbase.png tv.6FF5_42A_1_C00000.uid
 ln -s tv.mtvbase.png tv.1F4B_42E_1_C00000.uid # HD
 ln -s tv.mtvbase.png tv.1F41_42E_1_C00000.uid # HD
+# 28.2E
+ln -s tv.mtvbase.png tv.1B5F_7DA_2_11A0000.uid
 
 # tv.mtvbrandnew.png
 # 13.0E
@@ -5843,14 +5842,14 @@ ln -s tv.mtvmusic.png tv.1B64_7DA_2_11A0000.uid
 ln -s tv.mtvmusic.png tv.6FFF_436_1_C00000.uid
 
 # tv.mtvlivehd.png
+# 4.8E
+ln -s tv.mtvlivehd.png tv.6C2_19_56_300000.uid
+# 9.0E
+ln -s tv.mtvlivehd.png tv.3C_20D0_6B2_5A0000.uid
 # 13.0E
 ln -s tv.mtvlivehd.png tv.1_3200_13E_820000.uid
 ln -s tv.mtvlivehd.png tv.15_3200_13E_820000.uid
 ln -s tv.mtvlivehd.png tv.2C6A_251C_FBFF_820000.uid
-# 9.0E
-ln -s tv.mtvlivehd.png tv.3C_20D0_6B2_5A0000.uid
-# 28.2E
-ln -s tv.mtvlivehd.png tv.EDE_7D1_2_11A0000.uid
 # 19.2E
 ln -s tv.mtvlivehd.png tv.7606_408_1_C00000.uid
 ln -s tv.mtvlivehd.png tv.761F_408_1_C00000.uid
@@ -5859,8 +5858,8 @@ ln -s tv.mtvlivehd.png tv.6FB8_42C_1_C00000.uid
 # 23.5E
 ln -s tv.mtvlivehd.png tv.15E0_C9A_3_EB0000.uid
 ln -s tv.mtvlivehd.png tv.15EA_C9A_3_EB0000.uid
-# 4.8E
-ln -s tv.mtvlivehd.png tv.6C2_19_56_300000.uid
+# 28.2E
+ln -s tv.mtvlivehd.png tv.EDE_7D1_2_11A0000.uid
 
 # tv.mtvlive.png
 # 28.2E
@@ -5989,16 +5988,16 @@ ln -s tv.natgeoadventurehd.png tv.DBA_1AF4_FBFF_820000.uid
 ln -s tv.natgeomusic.png tv.1109_1644_FBFF_820000.uid
 
 # tv.natgeowild.png
+# 4.8E
+ln -s tv.natgeowild.png tv.13D8_7_56_300000.uid
+# 9.0E
+ln -s tv.natgeowild.png tv.28_19C8_9E_5A0000.uid
+ln -s tv.natgeowild.png tv.1AA2_1A90_9E_5A0000.uid
 # 13.0E
 ln -s tv.natgeowild.png tv.1FBE_189C_FBFF_820000.uid
 ln -s tv.natgeowild.png tv.1C8B_1CE8_71_820000.uid
 ln -s tv.natgeowild.png tv.297B_22C4_13E_820000.uid
 ln -s tv.natgeowild.png tv.1BD3_17D4_13E_820000.uid
-# 9.0E
-ln -s tv.natgeowild.png tv.28_19C8_9E_5A0000.uid
-ln -s tv.natgeowild.png tv.1AA2_1A90_9E_5A0000.uid
-# 28.2E
-ln -s tv.natgeowild.png tv.12C7_7E9_2_11A0000.uid
 # 19.2E
 ln -s tv.natgeowild.png tv.C_4_85_C00000.uid
 ln -s tv.natgeowild.png tv.2522_440_1_C00000.uid
@@ -6006,8 +6005,8 @@ ln -s tv.natgeowild.png tv.77D8_40A_1_C00000.uid
 # 23.5E
 ln -s tv.natgeowild.png tv.1419_C8A_3_EB0000.uid
 ln -s tv.natgeowild.png tv.13D0_C8A_3_EB0000.uid
-# 4.8E
-ln -s tv.natgeowild.png tv.13D8_7_56_300000.uid
+# 28.2E
+ln -s tv.natgeowild.png tv.12C7_7E9_2_11A0000.uid
 # 0.8W
 ln -s tv.natgeowild.png tv.DA2_C_1_7120000.uid
 ln -s tv.natgeowild.png tv.CBC_A_1_7120000.uid
@@ -6022,8 +6021,6 @@ ln -s tv.natgeowildhd.png tv.DBB_1AF4_FBFF_820000.uid
 # 9.0E
 ln -s tv.natgeowildhd.png tv.32_20D0_6B2_5A0000.uid
 ln -s tv.natgeowildhd.png tv.41A_4_AA_5A0000.uid
-# 28.2E
-ln -s tv.natgeowildhd.png tv.F2D_7EC_2_11A0000.uid
 # 19.2E
 ln -s tv.natgeowildhd.png tv.76_B_85_C00000.uid
 ln -s tv.natgeowildhd.png tv.7627_408_1_C00000.uid
@@ -6038,6 +6035,8 @@ ln -s tv.natgeowildhd.png tv.15EB_C9A_3_EB0000.uid
 ln -s tv.natgeowildhd.png tv.2F9_C94_3_EB0000.uid
 ln -s tv.natgeowildhd.png tv.2F9_C9A_3_EB0000.uid
 ln -s tv.natgeowildhd.png tv.2C5_C9A_3_EB0000.uid
+# 28.2E
+ln -s tv.natgeowildhd.png tv.F2D_7EC_2_11A0000.uid
 # 0.8W
 ln -s tv.natgeowildhd.png tv.12C6_26_46_7120000.uid
 ln -s tv.natgeowildhd.png tv.12C5_26_46_7120000.uid
@@ -6127,15 +6126,17 @@ ln -s tv.newsone.png tv.196E_F_55_300000.uid
 ln -s tv.nex1.png tv.1F54_319C_13E_820000.uid
 
 # tv.nationalgeographic.png
+# 4.8E
+ln -s tv.nationalgeographic.png tv.E6A_16_56_300000.uid
+ln -s tv.nationalgeographic.png tv.E38_16_56_300000.uid
+ln -s tv.nationalgeographic.png tv.C62_5_56_300000.uid
+# 9.0E
+ln -s tv.nationalgeographic.png tv.4E8B_2134_9C_5A0000.uid
+ln -s tv.nationalgeographic.png tv.27_19C8_9E_5A0000.uid
 # 13.0E
 ln -s tv.nationalgeographic.png tv.3D5E_2C88_13E_820000.uid
 ln -s tv.nationalgeographic.png tv.1D54_2F44_13E_820000.uid
 ln -s tv.nationalgeographic.png tv.E39_16A8_FBFF_820000.uid
-# 9.0E
-ln -s tv.nationalgeographic.png tv.4E8B_2134_9C_5A0000.uid
-ln -s tv.nationalgeographic.png tv.27_19C8_9E_5A0000.uid
-# 28.2E
-ln -s tv.nationalgeographic.png tv.12C5_7E9_2_11A0000.uid
 # 19.2E
 ln -s tv.nationalgeographic.png tv.FAF_451_35_C00000.uid
 ln -s tv.nationalgeographic.png tv.778D_424_1_C00000.uid
@@ -6150,28 +6151,25 @@ ln -s tv.nationalgeographic.png tv.CFD8_2712_F001_EB0000.uid
 ln -s tv.nationalgeographic.png tv.151E_C86_3_EB0000.uid
 ln -s tv.nationalgeographic.png tv.1587_C92_3_EB0000.uid
 ln -s tv.nationalgeographic.png tv.13DD_C8A_3_EB0000.uid
-# 4.8E
-ln -s tv.nationalgeographic.png tv.E6A_16_56_300000.uid
-ln -s tv.nationalgeographic.png tv.E38_16_56_300000.uid
-ln -s tv.nationalgeographic.png tv.C62_5_56_300000.uid
+# 28.2E
+ln -s tv.nationalgeographic.png tv.12C5_7E9_2_11A0000.uid
 # 0.8W
 ln -s tv.nationalgeographic.png tv.60D_47_46_7120000.uid
 ln -s tv.nationalgeographic.png tv.C9_2_46_7120000.uid
 ln -s tv.nationalgeographic.png tv.407_3_1_7120000.uid
 
 # tv.nationalgeographichd.png
+# 4.8E
+ln -s tv.nationalgeographichd.png tv.6AE_19_56_300000.uid
+# 9.0E
+ln -s tv.nationalgeographichd.png tv.28_20D0_6B2_5A0000.uid
+ln -s tv.nationalgeographichd.png tv.DB6_16A8_9C_5A0000.uid
+ln -s tv.nationalgeographichd.png tv.2_1A90_9E_5A0000.uid
 # 13.0E
 ln -s tv.nationalgeographichd.png tv.379C_14B4_FBFF_820000.uid
 ln -s tv.nationalgeographichd.png tv.2C2B_251C_FBFF_820000.uid
 ln -s tv.nationalgeographichd.png tv.32DF_190_13E_820000.uid
 ln -s tv.nationalgeographichd.png tv.3C8F_1BBC_13E_820000.uid
-# 9.0E
-ln -s tv.nationalgeographichd.png tv.28_20D0_6B2_5A0000.uid
-ln -s tv.nationalgeographichd.png tv.DB6_16A8_9C_5A0000.uid
-ln -s tv.nationalgeographichd.png tv.2_1A90_9E_5A0000.uid
-# 28.2E
-ln -s tv.nationalgeographichd.png tv.EF8_7E4_2_11A0000.uid
-ln -s tv.nationalgeographichd.png tv.EF7_7F1_2_11A0000.uid
 # 19.2E
 ln -s tv.nationalgeographichd.png tv.75AC_422_1_C00000.uid
 ln -s tv.nationalgeographichd.png tv.238F_44A_1_C00000.uid
@@ -6191,8 +6189,9 @@ ln -s tv.nationalgeographichd.png tv.70_271B_85_EB0000.uid
 ln -s tv.nationalgeographichd.png tv.15E5_C9A_3_EB0000.uid
 ln -s tv.nationalgeographichd.png tv.15ED_C9A_3_EB0000.uid
 ln -s tv.nationalgeographichd.png tv.51E5_C96_3_EB0000.uid
-# 4.8E
-ln -s tv.nationalgeographichd.png tv.6AE_19_56_300000.uid
+# 28.2E
+ln -s tv.nationalgeographichd.png tv.EF8_7E4_2_11A0000.uid
+ln -s tv.nationalgeographichd.png tv.EF7_7F1_2_11A0000.uid
 # 0.8W
 ln -s tv.nationalgeographichd.png tv.EDE_26_46_7120000.uid
 ln -s tv.nationalgeographichd.png tv.EDF_26_46_7120000.uid
@@ -6204,14 +6203,14 @@ ln -s tv.nationalgeographicplus1.png tv.DB1_2DB4_FBFF_820000.uid
 ln -s tv.nationalgeographicplus1.png tv.12C6_7E9_2_11A0000.uid
 
 # tv.nhkworld.png
-# 13.0E
-ln -s tv.nhkworld.png tv.1C9F_332C_13E_820000.uid
-# 28.2E
-ln -s tv.nhkworld.png tv.C7A4_96C_2_11A0000.uid
-# 19.2E
-ln -s tv.nhkworld.png tv.1B66_3FC_1_C00000.uid
 # 4.8E
 ln -s tv.nhkworld.png tv.FC8_6_56_300000.uid
+# 13.0E
+ln -s tv.nhkworld.png tv.1C9F_332C_13E_820000.uid
+# 19.2E
+ln -s tv.nhkworld.png tv.1B66_3FC_1_C00000.uid
+# 28.2E
+ln -s tv.nhkworld.png tv.C7A4_96C_2_11A0000.uid
 
 # tv.nhkworldhd.png
 # 28.2E
@@ -6225,15 +6224,15 @@ ln -s tv.nickelodeon.png tv.1D4D_2F44_13E_820000.uid
 # 9.0E
 ln -s tv.nickelodeon.png tv.2F_19C8_9E_5A0000.uid
 ln -s tv.nickelodeon.png tv.183A_1838_9E_5A0000.uid
-# 28.2E
-ln -s tv.nickelodeon.png tv.15B8_804_2_11A0000.uid
-ln -s tv.nickelodeon.png tv.C793_81F_2_11A0000.uid
 # 19.2E
 ln -s tv.nickelodeon.png tv.6FF2_42A_1_C00000.uid
 ln -s tv.nickelodeon.png tv.6FF4_42A_1_C00000.uid
 ln -s tv.nickelodeon.png tv.6FFC_42A_1_C00000.uid
 ln -s tv.nickelodeon.png tv.FAE_451_35_C00000.uid
 ln -s tv.nickelodeon.png tv.7007_436_1_C00000.uid
+# 28.2E
+ln -s tv.nickelodeon.png tv.15B8_804_2_11A0000.uid
+ln -s tv.nickelodeon.png tv.C793_81F_2_11A0000.uid
 # 0.8W
 ln -s tv.nickelodeon.png tv.3EA_5_1111_7120000.uid
 ln -s tv.nickelodeon.png tv.CE_A_46_7120000.uid
@@ -6281,28 +6280,28 @@ ln -s tv.nickhd_comedycentralhd.png tv.527D_41D_1_C00000.uid
 # tv.nick.png
 
 # tv.nickhd.png
-# 13.0E
-ln -s tv.nickhd.png tv.1F_578_13E_82ACCE.uid
 # 9.0E
 ln -s tv.nickhd.png tv.445_4_AA_5A0000.uid
+# 13.0E
+ln -s tv.nickhd.png tv.1F_578_13E_82ACCE.uid
 # 28.2E
 ln -s tv.nickhd.png tv.F1D_7E4_2_11A0000.uid
 
 # tv.nickjr.png
+# 9.0E
+ln -s tv.nickjr.png tv.4EF4_21FC_9C_5A0000.uid
 # 13.0E
 ln -s tv.nickjr.png tv.1E_578_13E_82ACCE.uid
 ln -s tv.nickjr.png tv.590_1AF4_FBFF_820000.uid
 ln -s tv.nickjr.png tv.590_320_FBFF_820000.uid
-# 9.0E
-ln -s tv.nickjr.png tv.4EF4_21FC_9C_5A0000.uid
-# 28.2E
-ln -s tv.nickjr.png tv.15BB_804_2_11A0000.uid
-ln -s tv.nickjr.png tv.C790_81F_2_11A0000.uid
 # 19.2E
 ln -s tv.nickjr.png tv.7005_436_1_C00000.uid
 ln -s tv.nickjr.png tv.7602_408_1_C00000.uid
 # 23.5E
 ln -s tv.nickjr.png tv.C611_2715_F001_EB0000.uid
+# 28.2E
+ln -s tv.nickjr.png tv.15BB_804_2_11A0000.uid
+ln -s tv.nickjr.png tv.C790_81F_2_11A0000.uid
 
 # tv.nickjrplus1.png
 # 28.2E
@@ -7137,20 +7136,20 @@ ln -s tv.primetime.png tv.1031_A35_2_11A0000.uid
 ln -s tv.primocanale.png tv.420E_C8_13E_820000.uid
 
 # tv.privatespice.png
+# 4.8E
+ln -s tv.privatespice.png tv.1784_8_56_300000.uid
+# 9.0E
+ln -s tv.privatespice.png tv.1E_19C8_9E_5A0000.uid
 # 13.0E
 ln -s tv.privatespice.png tv.1251_2B5C_13E_820000.uid
 ln -s tv.privatespice.png tv.1D57_2F44_13E_820000.uid
 ln -s tv.privatespice.png tv.1D7A_2F44_13E_820000.uid
-# 9.0E
-ln -s tv.privatespice.png tv.1E_19C8_9E_5A0000.uid
 # 19.2E
 ln -s tv.privatespice.png tv.21A5_448_1_C00000.uid
 # 23.5E
 ln -s tv.privatespice.png tv.333C_C89_3_EB0000.uid
 ln -s tv.privatespice.png tv.17B8_C82_3_EB0000.uid
 ln -s tv.privatespice.png tv.17B9_C82_3_EB0000.uid
-# 4.8E
-ln -s tv.privatespice.png tv.1784_8_56_300000.uid
 
 # tv.propellertv.png
 # 28.2E
@@ -7192,10 +7191,10 @@ ln -s tv.psychictoday.png tv.D7BA_900_2_11A0000.uid
 ln -s tv.ptcpunjabi.png tv.D8E0_962_2_11A0000.uid
 
 # tv.ptvglobal.png
-# 13.0E
-ln -s tv.ptvglobal.png tv.3793_44C_13E_820000.uid
 # 9.0E
 ln -s tv.ptvglobal.png tv.386_17D4_9E_5A0000.uid
+# 13.0E
+ln -s tv.ptvglobal.png tv.3793_44C_13E_820000.uid
 # 28.2E
 ln -s tv.ptvglobal.png tv.CF7C_908_2_11A0000.uid
 ln -s tv.ptvglobal.png tv.C6C3_969_2_11A0000.uid
@@ -7227,10 +7226,15 @@ ln -s tv.quest.png tv.1843_7D9_2_11A0000.uid
 ln -s tv.questplus1.png tv.CCCE_90B_2_11A0000.uid
 
 # tv.qvc.png
-# 13.0E
-ln -s tv.qvc.png tv.E25_708_C8_820000.uid
 # 9.0E
 ln -s tv.qvc.png tv.195_1964_9C_5A0000.uid
+# 13.0E
+ln -s tv.qvc.png tv.E25_708_C8_820000.uid
+# 19.2E
+ln -s tv.qvc.png tv.2F44_454_1_C00000.uid
+ln -s tv.qvc.png tv.702_5_85_C00000.uid
+# 23.5E
+ln -s tv.qvc.png tv.D170_2715_F001_EB0000.uid
 # 28.2E
 ln -s tv.qvc.png tv.1C3E_7E1_2_11A0000.uid
 ln -s tv.qvc.png tv.1C3F_7E1_2_11A0000.uid
@@ -7238,11 +7242,6 @@ ln -s tv.qvc.png tv.1C40_7E1_2_11A0000.uid
 ln -s tv.qvc.png tv.1C42_7E1_2_11A0000.uid
 ln -s tv.qvc.png tv.1C41_7E1_2_11A0000.uid
 ln -s tv.qvc.png tv.1C43_7E1_2_11A0000.uid
-# 19.2E
-ln -s tv.qvc.png tv.2F44_454_1_C00000.uid
-ln -s tv.qvc.png tv.702_5_85_C00000.uid
-# 23.5E
-ln -s tv.qvc.png tv.D170_2715_F001_EB0000.uid
 
 # tv.qvchd.png
 # 19.2E
@@ -7284,28 +7283,28 @@ ln -s tv.radiobrementv.png tv.6EE1_4B1_1_C00000.uid
 ln -s tv.radiocapitaltivu.png tv.2FD4_2C24_FBFF_820000.uid
 
 # tv.rai1.png
-# 13.0E
-ln -s tv.rai1.png tv.213F_3070_13E_820000.uid
 # 9.0E
 ln -s tv.rai1.png tv.514_1FA4_9C_5A0000.uid
+# 13.0E
+ln -s tv.rai1.png tv.213F_3070_13E_820000.uid
 # 23.5E
 ln -s tv.rai1.png tv.D101_2715_F001_EB0000.uid
 
 # tv.rai2.png
+# 9.0E
+ln -s tv.rai2.png tv.546_1FA4_9C_5A0000.uid
 # 13.0E
 ln -s tv.rai2.png tv.2140_3070_13E_820000.uid
 ln -s tv.rai2.png tv.D4A_1450_13E_820000.uid
-# 9.0E
-ln -s tv.rai2.png tv.546_1FA4_9C_5A0000.uid
 # 23.5E
 ln -s tv.rai2.png tv.D102_2714_F001_EB0000.uid
 
 # tv.rai3.png
+# 9.0E
+ln -s tv.rai3.png tv.578_1FA4_9C_5A0000.uid
 # 13.0E
 ln -s tv.rai3.png tv.2141_3070_13E_820000.uid
 ln -s tv.rai3.png tv.D4B_1450_13E_820000.uid
-# 9.0E
-ln -s tv.rai3.png tv.578_1FA4_9C_5A0000.uid
 # 23.5E
 ln -s tv.rai3.png tv.D103_2714_F001_EB0000.uid
 
@@ -7372,10 +7371,10 @@ ln -s tv.rbb.png tv.6E2D_431_1_C00000.uid
 ln -s tv.rbb.png tv.6E2E_431_1_C00000.uid
 
 # tv.rbctv.png
-# 13.0E
-ln -s tv.rbctv.png tv.2096_2328_13E_820000.uid
 # 9.0E
 ln -s tv.rbctv.png tv.1D63_2134_6B2_5A0000.uid
+# 13.0E
+ln -s tv.rbctv.png tv.2096_2328_13E_820000.uid
 
 # tv.realestate.png
 
@@ -7390,10 +7389,10 @@ ln -s tv.realityhub.png tv.102F_807_2_11A0000.uid
 # tv.realmadridtv.png
 # 9.0E
 ln -s tv.realmadridtv.png tv.4EF5_1AF4_9C_5A0000.uid
-# 28.2E
-ln -s tv.realmadridtv.png tv.1139_7EE_2_11A0000.uid
 # 19.2E
 ln -s tv.realmadridtv.png tv.7601_408_1_C00000.uid
+# 28.2E
+ln -s tv.realmadridtv.png tv.1139_7EE_2_11A0000.uid
 
 # tv.rebeltv.png
 # 13.0E
@@ -7545,22 +7544,22 @@ ln -s tv.romancetvhd.png tv.3ABE_514_13E_820000.uid
 ln -s tv.romaunosat.png tv.3A98_1FA4_13E_820000.uid
 
 # tv.rt.png
-# 13.0E
-ln -s tv.rt.png tv.E_300C_13E_820000.uid
-ln -s tv.rt.png tv.44DD_258_13E_820000.uid
+# 4.8E
+ln -s tv.rt.png tv.FF0_6_56_300000.uid
 # 9.0E
 ln -s tv.rt.png tv.DB_14B4_9C_5A0000.uid
 ln -s tv.rt.png tv.43E_2_AA_5A0000.uid
-# 28.2E
-ln -s tv.rt.png tv.C69F_820_2_11A0000.uid
+# 13.0E
+ln -s tv.rt.png tv.E_300C_13E_820000.uid
+ln -s tv.rt.png tv.44DD_258_13E_820000.uid
 # 19.2E
 ln -s tv.rt.png tv.1AF8_3FE_1_C00000.uid
 ln -s tv.rt.png tv.275D_402_1_C00000.uid
 ln -s tv.rt.png tv.7A46_410_1_C00000.uid
 # 23.5E
 ln -s tv.rt.png tv.CF7F_2718_F001_EB0000.uid
-# 4.8E
-ln -s tv.rt.png tv.FF0_6_56_300000.uid
+# 28.2E
+ln -s tv.rt.png tv.C69F_820_2_11A0000.uid
 
 # tv.rthd.png
 # 13.0E
@@ -7588,10 +7587,10 @@ ln -s tv.rtdocumentary.png tv.1E7_1964_13E_820000.uid
 # tv.rtk1.png
 
 # tv.rtl.png
-# 13.0E
-ln -s tv.rtl.png tv.1F43_319C_13E_820000.uid
 # 9.0E
 ln -s tv.rtl.png tv.C9_1644_9C_5A0000.uid
+# 13.0E
+ln -s tv.rtl.png tv.1F43_319C_13E_820000.uid
 # 19.2E
 ln -s tv.rtl.png tv.2EE3_441_1_C00000.uid
 ln -s tv.rtl.png tv.2EE4_441_1_C00000.uid
@@ -7602,10 +7601,10 @@ ln -s tv.rtl.png tv.7080_443_1_C00000.uid
 ln -s tv.rtl.png tv.D161_2717_F001_EB0000.uid
 
 # tv.rtl2.png
-# 13.0E
-ln -s tv.rtl2.png tv.1F44_319C_13E_820000.uid
 # 9.0E
 ln -s tv.rtl2.png tv.CA_1644_9C_5A0000.uid
+# 13.0E
+ln -s tv.rtl2.png tv.1F44_319C_13E_820000.uid
 # 19.2E
 ln -s tv.rtl2.png tv.2EF4_441_1_C00000.uid
 ln -s tv.rtl2.png tv.708A_443_1_C00000.uid
@@ -9373,9 +9372,6 @@ ln -s tv.syfyhd.png tv.C358_271C_F001_EB0000.uid
 # tv.syfy.png
 # 9.0E
 ln -s tv.syfy.png tv.4E86_2134_9C_5A0000.uid
-# 28.2E
-ln -s tv.syfy.png tv.D2FF_96C_2_11A0000.uid
-ln -s tv.syfy.png tv.CC1A_8FF_2_11A0000.uid
 # 19.2E
 ln -s tv.syfy.png tv.7796_424_1_C00000.uid
 ln -s tv.syfy.png tv.24_11_85_C00000.uid
@@ -9383,6 +9379,9 @@ ln -s tv.syfy.png tv.1901_3FA_1_C00000.uid
 # 23.5E
 ln -s tv.syfy.png tv.17A2_C82_3_EB0000.uid
 ln -s tv.syfy.png tv.C3BA_2712_F001_EB0000.uid
+# 28.2E
+ln -s tv.syfy.png tv.D2FF_96C_2_11A0000.uid
+ln -s tv.syfy.png tv.CC1A_8FF_2_11A0000.uid
 
 # tv.syfyplus1.png
 # 28.2E
@@ -9625,10 +9624,10 @@ ln -s tv.tevahd.png tv.26B1_43E_1_C00000.uid
 ln -s tv.tevahd.png tv.26C5_43E_1_C00000.uid
 
 # tv.tf1.png
-# 13.0E
-ln -s tv.tf1.png tv.CE_3E1C_13F_820000.uid
 # 9.0E
 ln -s tv.tf1.png tv.12E_19C8_9E_5A0000.uid
+# 13.0E
+ln -s tv.tf1.png tv.CE_3E1C_13F_820000.uid
 # 19.2E
 ln -s tv.tf1.png tv.20B3_432_1_C00000.uid
 ln -s tv.tf1.png tv.20AE_432_1_C00000.uid
@@ -9870,11 +9869,11 @@ ln -s tv.tracetropical.png tv.C_170C_9E_5A0000.uid
 ln -s tv.tracetropical.png tv.22C5_45A_1_C00000.uid
 
 # tv.tracesports.png
-# 13.0E
-ln -s tv.tracesports.png tv.1F5_26AC_13F_820000.uid
 # 9.0E
 ln -s tv.tracesports.png tv.E_1_9D_5A0000.uid
 ln -s tv.tracesports.png tv.E_170C_9E_5A0000.uid
+# 13.0E
+ln -s tv.tracesports.png tv.1F5_26AC_13F_820000.uid
 # 19.2E
 ln -s tv.tracesports.png tv.772E_416_1_C00000.uid
 # 23.5E
@@ -9885,28 +9884,28 @@ ln -s tv.tracesports.png tv.15E9_C9A_3_EB0000.uid
 ln -s tv.tracesportstars.png tv.1224_807_2_11A0000.uid
 
 # tv.traceurban.png
-# 13.0E
-ln -s tv.traceurban.png tv.13F1_5DC_13E_820000.uid
 # 9.0E
 ln -s tv.traceurban.png tv.F_1_9D_5A0000.uid
 ln -s tv.traceurban.png tv.F_170C_9E_5A0000.uid
+# 13.0E
+ln -s tv.traceurban.png tv.13F1_5DC_13E_820000.uid
 # 19.2E
 ln -s tv.traceurban.png tv.2400_452_1_C00000.uid
 
 # tv.travelchannel.png
+# 9.0E
+ln -s tv.travelchannel.png tv.2A_1A90_9E_5A0000.uid
+ln -s tv.travelchannel.png tv.26B_206C_9C_5A0000.uid
 # 13.0E
 ln -s tv.travelchannel.png tv.1D97_2F44_13E_820000.uid
 ln -s tv.travelchannel.png tv.2918_1EDC_71_820000.uid
 ln -s tv.travelchannel.png tv.3E20_2EE0_13E_820000.uid
-# 9.0E
-ln -s tv.travelchannel.png tv.2A_1A90_9E_5A0000.uid
-ln -s tv.travelchannel.png tv.26B_206C_9C_5A0000.uid
-# 28.2E
-ln -s tv.travelchannel.png tv.D356_A2A_2_11A0000.uid
 # 19.2E
 ln -s tv.travelchannel.png tv.4F7C_427_1_C00000.uid
 # 23.5E
 ln -s tv.travelchannel.png tv.1590_C92_3_EB0000.uid
+# 28.2E
+ln -s tv.travelchannel.png tv.D356_A2A_2_11A0000.uid
 # 0.8W
 ln -s tv.travelchannel.png tv.CB_31_46_7120000.uid
 
@@ -10241,16 +10240,16 @@ ln -s tv.tv5monde.png tv.1FAE_434_1_C00000.uid
 ln -s tv.tv5monde.png tv.CF0F_2710_F001_EB0000.uid
 
 # tv.tv5mondeeurope.png
-# 13.0E
-ln -s tv.tv5mondeeurope.png tv.1C9A_332C_13E_820000.uid
 # 9.0E
 ln -s tv.tv5mondeeurope.png tv.193_1964_9C_5A0000.uid
-# 28.2E
-ln -s tv.tv5mondeeurope.png tv.113A_7DB_2_11A0000.uid
+# 13.0E
+ln -s tv.tv5mondeeurope.png tv.1C9A_332C_13E_820000.uid
 # 19.2E
 ln -s tv.tv5mondeeurope.png tv.1B03_3FE_1_C00000.uid
 # 23.5E
 ln -s tv.tv5mondeeurope.png tv.CF0F_2717_F001_EB0000.uid
+# 28.2E
+ln -s tv.tv5mondeeurope.png tv.113A_7DB_2_11A0000.uid
 
 # tv.tv4-pl.png
 # 13.0E
@@ -10366,10 +10365,10 @@ ln -s tv.tvdrenthe.png tv.514C_C8B_3_EB0000.uid
 ln -s tv.tveclan.png tv.77BE_40A_1_C00000.uid
 
 # tv.tveinternacional.png
-# 13.0E
-ln -s tv.tveinternacional.png tv.358E_1388_13E_820000.uid
 # 9.0E
 ln -s tv.tveinternacional.png tv.196_1964_9C_5A0000.uid
+# 13.0E
+ln -s tv.tveinternacional.png tv.358E_1388_13E_820000.uid
 # 23.5E
 ln -s tv.tveinternacional.png tv.D104_2719_F001_EB0000.uid
 
@@ -10509,10 +10508,10 @@ ln -s tv.tvpkultura.png tv.13F9_5DC_13E_820000.uid
 ln -s tv.tvpkultura.png tv.1BC2_423_1_C00000.uid
 
 # tv.tvppolonia.png
-# 13.0E
-ln -s tv.tvppolonia.png tv.13ED_5DC_13E_820000.uid
 # 9.0E
 ln -s tv.tvppolonia.png tv.5DC_1FA4_9C_5A0000.uid
+# 13.0E
+ln -s tv.tvppolonia.png tv.13ED_5DC_13E_820000.uid
 # 19.2E
 ln -s tv.tvppolonia.png tv.1BC0_423_1_C00000.uid
 # 23.5E
@@ -10674,24 +10673,24 @@ ln -s tv.umpmovies.png tv.D3CA_A2B_2_11A0000.uid
 # tv.unitymediakabelbwvideothek.png
 
 # tv.universalchannel.png
-# 13.0E
-ln -s tv.universalchannel.png tv.3A35_1FA4_13E_820000.uid
-ln -s tv.universalchannel.png tv.3A3F_1FA4_13E_820000.uid
 # 9.0E
 ln -s tv.universalchannel.png tv.6D6_1388_9C_5A0000.uid
 ln -s tv.universalchannel.png tv.3FA_1_AA_5A0000.uid
 ln -s tv.universalchannel.png tv.6D7_1388_9C_5A0000.uid
+# 13.0E
+ln -s tv.universalchannel.png tv.3A35_1FA4_13E_820000.uid
+ln -s tv.universalchannel.png tv.3A3F_1FA4_13E_820000.uid
+# 23.5E
+ln -s tv.universalchannel.png tv.2337_C8F_3_EB0000.uid
 # 28.2E
 ln -s tv.universalchannel.png tv.CC1F_8FF_2_11A0000.uid
 ln -s tv.universalchannel.png tv.CC24_8FF_2_11A0000.uid
-# 23.5E
-ln -s tv.universalchannel.png tv.2337_C8F_3_EB0000.uid
 
 # tv.universalchannelhd.png
-# 28.2E
-ln -s tv.universalchannelhd.png tv.F28_7F3_2_11A0000.uid
 # 19.2E
 ln -s tv.universalchannelhd.png tv.65_E_85_C00000.uid
+# 28.2E
+ln -s tv.universalchannelhd.png tv.F28_7F3_2_11A0000.uid
 
 # tv.universalchannelplus1.png
 # 28.2E
@@ -10784,11 +10783,11 @@ ln -s tv.viajarhd.png tv.74D3_3F8_1_C00000.uid
 ln -s tv.viajarhd.png tv.74CE_3F8_1_C00000.uid
 
 # tv.viasat3.png
-# 9.0E
-ln -s tv.viasat3.png tv.1A9A_1A90_9E_5A0000.uid
 # 4.8E
 ln -s tv.viasat3.png tv.460_3_56_300000.uid
 ln -s tv.viasat3.png tv.78A_1D_56_300000.uid
+# 9.0E
+ln -s tv.viasat3.png tv.1A9A_1A90_9E_5A0000.uid
 # 0.8W
 ln -s tv.viasat3.png tv.622_3_1_7120000.uid
 
@@ -10832,11 +10831,11 @@ ln -s tv.viasatexplorer.png tv.54A_3_1_7120000.uid
 ln -s tv.viasatexplorerhd.png tv.A3C_22_56_300000.uid
 
 # tv.viasatexplorer_spice.png
+# 4.8E
+ln -s tv.viasatexplorer_spice.png tv.190A_14_56_300000.uid
 # 23.5E
 ln -s tv.viasatexplorer_spice.png tv.1416_C8A_3_EB0000.uid
 ln -s tv.viasatexplorer_spice.png tv.13DA_C8A_3_EB0000.uid
-# 4.8E
-ln -s tv.viasatexplorer_spice.png tv.190A_14_56_300000.uid
 
 # tv.viasatfilm.png
 # 4.8E
@@ -10904,6 +10903,9 @@ ln -s tv.viasatgolf.png tv.744_1E_56_300000.uid
 ln -s tv.viasatgolfhd.png tv.AAA_23_56_300000.uid
 
 # tv.viasathistory.png
+# 4.8E
+ln -s tv.viasathistory.png tv.17A2_8_56_300000.uid
+ln -s tv.viasathistory.png tv.195A_14_56_300000.uid
 # 19.2E
 ln -s tv.viasathistory.png tv.4F79_427_1_C00000.uid
 # 23.5E
@@ -10911,9 +10913,6 @@ ln -s tv.viasathistory.png tv.2330_C8F_3_EB0000.uid
 ln -s tv.viasathistory.png tv.2339_C8F_3_EB0000.uid
 ln -s tv.viasathistory.png tv.1417_C8A_3_EB0000.uid
 ln -s tv.viasathistory.png tv.13DB_C8A_3_EB0000.uid
-# 4.8E
-ln -s tv.viasathistory.png tv.17A2_8_56_300000.uid
-ln -s tv.viasathistory.png tv.195A_14_56_300000.uid
 
 # tv.viasathistoryhd.png
 # 4.8E
@@ -10936,12 +10935,12 @@ ln -s tv.viasatmotor.png tv.D66_15_56_300000.uid
 ln -s tv.viasatmotorhd.png tv.5A0_20_56_300000.uid
 
 # tv.viasatnature.png
-# 23.5E
-ln -s tv.viasatnature.png tv.1418_C8A_3_EB0000.uid
-ln -s tv.viasatnature.png tv.13DC_C8A_3_EB0000.uid
 # 4.8E
 ln -s tv.viasatnature.png tv.178E_8_56_300000.uid
 ln -s tv.viasatnature.png tv.7A8_1D_56_300000.uid
+# 23.5E
+ln -s tv.viasatnature.png tv.1418_C8A_3_EB0000.uid
+ln -s tv.viasatnature.png tv.13DC_C8A_3_EB0000.uid
 # 0.8W
 ln -s tv.viasatnature.png tv.CC6_A_1_7120000.uid
 
@@ -10954,10 +10953,10 @@ ln -s tv.viasatnaturehd.png tv.15E3_C9A_3_EB0000.uid
 ln -s tv.viasatnaturehd_viasatcrimehd.png tv.A50_22_56_300000.uid
 
 # tv.viasatnaturehd_viasathistoryhd.png
-# 23.5E
-ln -s tv.viasatnaturehd_viasathistoryhd.png tv.15EE_C9A_3_EB0000.uid
 # 4.8E
 ln -s tv.viasatnaturehd_viasathistoryhd.png tv.7B2_1D_56_300000.uid
+# 23.5E
+ln -s tv.viasatnaturehd_viasathistoryhd.png tv.15EE_C9A_3_EB0000.uid
 
 # tv.viasatnature_viasatcrime_playboytv.png
 # 4.8E
@@ -11041,11 +11040,11 @@ ln -s tv.vitaya.png tv.3212_45F_35_C00000.uid
 ln -s tv.vitaya.png tv.5280_C96_3_EB0000.uid
 
 # tv.viva.png
+# 9.0E
+ln -s tv.viva.png tv.D8_14B4_9C_5A0000.uid
 # 13.0E
 ln -s tv.viva.png tv.5_3200_13E_820000.uid
 ln -s tv.viva.png tv.19_3200_13E_820000.uid
-# 9.0E
-ln -s tv.viva.png tv.D8_14B4_9C_5A0000.uid
 # 19.2E
 ln -s tv.viva.png tv.3C_7_85_C00000.uid
 ln -s tv.viva.png tv.7004_436_1_C00000.uid
@@ -11103,14 +11102,14 @@ ln -s tv.voxscandinavia.png tv.C82_20_46_E080000.uid
 # tv.vox.png
 # 9.0E
 ln -s tv.vox.png tv.CD_1644_9C_5A0000.uid
-# 28.2E
-ln -s tv.vox.png tv.D6ED_A33_2_11A0000.uid
 # 19.2E
 ln -s tv.vox.png tv.2F1C_441_1_C00000.uid
 ln -s tv.vox.png tv.7085_443_1_C00000.uid
 ln -s tv.vox.png tv.7094_443_1_C00000.uid
 # 23.5E
 ln -s tv.vox.png tv.D164_2717_F001_EB0000.uid
+# 28.2E
+ln -s tv.vox.png tv.D6ED_A33_2_11A0000.uid
 # 0.8W
 ln -s tv.vox.png tv.C82_20_46_7120000.uid
 
@@ -11167,11 +11166,11 @@ ln -s tv.vtmkzoom_kanaalz.png tv.527C_C96_3_EB0000.uid
 ln -s tv.vtv4.png tv.43A9_2CEC_13E_820000.uid
 
 # tv.w9.png
+# 9.0E
+ln -s tv.w9.png tv.CB_19C8_9E_5A0000.uid
 # 13.0E
 ln -s tv.w9.png tv.4490_1F40_13E_820000.uid
 ln -s tv.w9.png tv.135_3E1C_13F_820000.uid
-# 9.0E
-ln -s tv.w9.png tv.CB_19C8_9E_5A0000.uid
 # 19.2E
 ln -s tv.w9.png tv.20A4_432_1_C00000.uid
 ln -s tv.w9.png tv.20B5_432_1_C00000.uid
@@ -11241,12 +11240,12 @@ ln -s tv.weddingtv.png tv.D8D6_962_2_11A0000.uid
 ln -s tv.weddingtvitalia.png tv.2994_3D54_13E_820000.uid
 
 # tv.worldfashionchannel.png
+# 9.0E
+ln -s tv.worldfashionchannel.png tv.427_2_AA_5A0000.uid
 # 13.0E
 ln -s tv.worldfashionchannel.png tv.39DC_1FA4_13E_820000.uid
 ln -s tv.worldfashionchannel.png tv.44E3_258_13E_820000.uid
 ln -s tv.worldfashionchannel.png tv.12A1_3458_13E_820000.uid
-# 9.0E
-ln -s tv.worldfashionchannel.png tv.427_2_AA_5A0000.uid
 
 # tv.xxl.png
 # 13.0E
@@ -11272,11 +11271,11 @@ ln -s tv.xxxpandedtv.png tv.D806_A36_2_11A0000.uid
 ln -s tv.xxxpandedtv.png tv.D823_A36_2_11A0000.uid
 
 # tv.yachtandsail.png
+# 9.0E
+ln -s tv.yachtandsail.png tv.268_206C_9C_5A0000.uid
 # 13.0E
 ln -s tv.yachtandsail.png tv.2502_2260_FBFF_820000.uid
 ln -s tv.yachtandsail.png tv.1FAF_189C_FBFF_820000.uid
-# 9.0E
-ln -s tv.yachtandsail.png tv.268_206C_9C_5A0000.uid
 
 # tv.yavido.png
 # 9.0E
@@ -11369,11 +11368,11 @@ ln -s tv.zdfkulturhd.png tv.2B84_3F3_1_C00000.uid
 # tv.zeecafe.png
 
 # tv.zeecinema.png
+# 9.0E
+ln -s tv.zeecinema.png tv.2980_15E0_9E_5A0000.uid
 # 13.0E
 ln -s tv.zeecinema.png tv.2980_44C_13E_820000.uid
 ln -s tv.zeecinema.png tv.296D_3D54_13E_820000.uid
-# 9.0E
-ln -s tv.zeecinema.png tv.2980_15E0_9E_5A0000.uid
 # 28.2E
 ln -s tv.zeecinema.png tv.C521_81B_2_11A0000.uid
 
@@ -11386,12 +11385,12 @@ ln -s tv.zeenews.png tv.C517_81B_2_11A0000.uid
 ln -s tv.zeepunjabi.png tv.C52B_965_2_11A0000.uid
 
 # tv.zeetv.png
-# 13.0E
-ln -s tv.zeetv.png tv.296C_44C_13E_820000.uid
-ln -s tv.zeetv.png tv.2978_44C_13E_820000.uid
 # 9.0E
 ln -s tv.zeetv.png tv.296C_15E0_9E_5A0000.uid
 ln -s tv.zeetv.png tv.2978_15E0_9E_5A0000.uid
+# 13.0E
+ln -s tv.zeetv.png tv.296C_44C_13E_820000.uid
+ln -s tv.zeetv.png tv.2978_44C_13E_820000.uid
 # 28.2E
 ln -s tv.zeetv.png tv.C51C_81B_2_11A0000.uid
 
