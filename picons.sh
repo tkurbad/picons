@@ -912,7 +912,6 @@ ln -s tv.bbcone.png tv.2873_800_2_11A0000.uid
 ln -s tv.bbcone.png tv.2874_800_2_11A0000.uid
 ln -s tv.bbcone.png tv.2879_800_2_11A0000.uid
 ln -s tv.bbcone.png tv.1947_7FF_2_11A0000.uid
-ln -s tv.bbcone.png tv.18F7_7FD_2_11A0000.uid
 
 # tv.bbconehd.png
 # 28.2E
@@ -1671,14 +1670,16 @@ ln -s tv.canalsatavoircesoir.png tv.20A3_432_1_C00000.uid
 ln -s tv.capitaltv.png tv.D748_A34_2_11A0000.uid
 
 # tv.cartoonnetwork_tcm.png
+# 4.8E
+ln -s tv.cartoonnetwork_tcm.png tv.E1A_16_56_300000.uid
+ln -s tv.cartoonnetwork_tcm.png tv.492_3_56_300000.uid
 # 13.0E
 ln -s tv.cartoonnetwork_tcm.png tv.1D21_2FA8_13E_820000.uid
 # 19.2E
 ln -s tv.cartoonnetwork_tcm.png tv.4F75_427_1_C00000.uid
 ln -s tv.cartoonnetwork_tcm.png tv.7EE_449_35_C00000.uid
-# 4.8E
-ln -s tv.cartoonnetwork_tcm.png tv.E1A_16_56_300000.uid
-ln -s tv.cartoonnetwork_tcm.png tv.492_3_56_300000.uid
+# 23.5E
+ln -s tv.cartoonnetwork_tcm.png tv.51CC_C96_3_EB0000.uid
 # 0.8W
 ln -s tv.cartoonnetwork_tcm.png tv.19B_2_46_7120000.uid
 
@@ -1707,7 +1708,6 @@ ln -s tv.cartoonnetwork.png tv.27_F_85_C00000.uid
 ln -s tv.cartoonnetwork.png tv.C612_2712_F001_EB0000.uid
 ln -s tv.cartoonnetwork.png tv.C617_2712_F001_EB0000.uid
 ln -s tv.cartoonnetwork.png tv.158D_C92_3_EB0000.uid
-ln -s tv.cartoonnetwork.png tv.51CC_C96_3_EB0000.uid
 # 0.8W
 ln -s tv.cartoonnetwork.png tv.192_2_46_7120000.uid
 
@@ -6037,6 +6037,7 @@ ln -s tv.natgeowildhd.png tv.15E1_C9A_3_EB0000.uid
 ln -s tv.natgeowildhd.png tv.15EB_C9A_3_EB0000.uid
 ln -s tv.natgeowildhd.png tv.2F9_C94_3_EB0000.uid
 ln -s tv.natgeowildhd.png tv.2F9_C9A_3_EB0000.uid
+ln -s tv.natgeowildhd.png tv.2C5_C9A_3_EB0000.uid
 # 0.8W
 ln -s tv.natgeowildhd.png tv.12C6_26_46_7120000.uid
 ln -s tv.natgeowildhd.png tv.12C5_26_46_7120000.uid
@@ -6242,7 +6243,6 @@ ln -s tv.nickelodeon.png tv.401_A_46_7120000.uid
 
 # tv.nickelodeonplus1.png
 # 13.0E
-ln -s tv.nickelodeonplus1.png tv.2C31_251C_FBFF_820000.uid
 ln -s tv.nickelodeonplus1.png tv.2FF1_1D4C_FBFF_820000.uid
 # 28.2E
 ln -s tv.nickelodeonplus1.png tv.15B9_804_2_11A0000.uid
