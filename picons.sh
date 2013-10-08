@@ -2279,8 +2279,6 @@ ln -s tv.createandcraft.png tv.CC0A_8FF_2_11A0000.uid
 ln -s tv.createandcraftextra.png tv.CC0B_8FF_2_11A0000.uid
 
 # tv.crimeandinvestigation.png
-# 13.0E
-ln -s tv.crimeandinvestigation.png tv.1C9C_332C_13E_820000.uid
 # 28.2E
 ln -s tv.crimeandinvestigation.png tv.12C2_7E9_2_11A0000.uid
 # 23.5E
