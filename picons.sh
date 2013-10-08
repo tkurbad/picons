@@ -1118,7 +1118,7 @@ ln -s tv.bio.png tv.39_F_85_C00000.uid
 # 23.5E
 ln -s tv.bio.png tv.C619_2712_F001_EB0000.uid
 # 28.2E
-ln -s tv.bio.png tv.122F_7E9_2_11A000.uid
+ln -s tv.bio.png tv.122F_7E9_2_11A0000.uid
 
 # tv.bioplus1.png
 # 28.2E
@@ -1447,11 +1447,10 @@ ln -s tv.canal+2hd-es.png tv.78B6_3EC_1_C00000.uid
 # tv.canal+2-es.png
 
 # tv.canal+3d-fr.png
-# 19.2E
-ln -s tv.canal+3d-fr.png tv.7621_408_1_C00000.uid
-ln -s tv.canal+3d-fr.png tv.7855_41A_1_C00000.uid
 
 # tv.canal+3d-es.png
+# 19.2E
+ln -s tv.canal+3d-es.png tv.7855_41A_1_C00000.uid
 
 # tv.canal+accionhd-es.png
 # 19.2E
@@ -1812,7 +1811,7 @@ ln -s tv.csfilm_csmini.png tv.332C_C89_3_EB0000.uid
 
 # tv.challenge.png
 # 28.2E
-ln -s tv.challenge.png tv.178F_7EF_2_11A000.uid
+ln -s tv.challenge.png tv.178F_7EF_2_11A0000.uid
 
 # tv.challengeplus1.png
 # 28.2E
@@ -2279,21 +2278,21 @@ ln -s tv.createandcraft.png tv.CC0A_8FF_2_11A0000.uid
 # 28.2E
 ln -s tv.createandcraftextra.png tv.CC0B_8FF_2_11A0000.uid
 
-# tv.crime.png
+# tv.crimeandinvestigation.png
 # 13.0E
-ln -s tv.crime.png tv.1C9C_332C_13E_820000.uid
+ln -s tv.crimeandinvestigation.png tv.1C9C_332C_13E_820000.uid
 # 28.2E
-ln -s tv.crime.png tv.12C2_7E9_2_11A0000.uid
+ln -s tv.crimeandinvestigation.png tv.12C2_7E9_2_11A0000.uid
 # 23.5E
-ln -s tv.crime.png tv.515B_C8B_3_EB0000.uid
+ln -s tv.crimeandinvestigation.png tv.515B_C8B_3_EB0000.uid
 
-# tv.crimehd.png
+# tv.crimeandinvestigationhd.png
 # 28.2E
-ln -s tv.crimehd.png tv.F30_7EC_2_11A0000.uid
+ln -s tv.crimeandinvestigationhd.png tv.F30_7EC_2_11A0000.uid
 
-# tv.crimeplus1.png
+# tv.crimeandinvestigationplus1.png
 # 28.2E
-ln -s tv.crimeplus1.png tv.CBC9_8FD_2_11A0000.uid
+ln -s tv.crimeandinvestigationplus1.png tv.CBC9_8FD_2_11A0000.uid
 
 # tv.croatianmusicchannel.png
 
@@ -2514,10 +2513,10 @@ ln -s tv.dieneuezeit.png tv.1269_3F7_1_C00000.uid
 
 # tv.digiviihde.png
 
-# tv.djazztv.png
+# tv.djazztvhd.png
 # 19.2E
-ln -s tv.djazztv.png tv.2343_442_1_C00000.uid
-ln -s tv.djazztv.png tv.232F_442_1_C00000.uid
+ln -s tv.djazztvhd.png tv.2343_442_1_C00000.uid
+ln -s tv.djazztvhd.png tv.232F_442_1_C00000.uid
 
 # tv.d8.png
 # 13.0E
@@ -2617,7 +2616,7 @@ ln -s tv.discoveryhistory.png tv.183F_7D9_2_11A0000.uid
 
 # tv.discoveryhistoryplus1.png
 # 28.2E
-ln -s tv.discoveryhistoryplus1.png tv.138B_7E9_2_11A0000.uid
+ln -s tv.discoveryhistoryplus1.png tv.CCD3_90B_2_11A0000.uid
 
 # tv.discoveryhomeandhealth.png
 # 28.2E
@@ -4426,6 +4425,7 @@ ln -s tv.historyplus1.png tv.1FBB_189C_FBFF_820000.uid
 ln -s tv.historyplus1.png tv.FD9_2648_FBFF_820000.uid
 # 28.2E
 ln -s tv.historyplus1.png tv.138B_968_2_11A0000.uid
+ln -s tv.historyplus1.png tv.138B_7E9_2_11A0000.uid
 
 # tv.historia.png
 # 19.2E
@@ -4722,7 +4722,6 @@ ln -s tv.itv1hd.png tv.2711_801_2_11A0000.uid
 ln -s tv.itv1hd.png tv.1D38_7DE_2_11A0000.uid
 ln -s tv.itv1hd.png tv.1D39_7DE_2_11A0000.uid
 ln -s tv.itv1hd.png tv.1B1E_802_2_11A0000.uid
-ln -s tv.itv1hd.png tv.512C_80F_2_11A0000.uid
 ln -s tv.itv1hd.png tv.2F62_7F4_2_11A0000.uid
 
 # tv.itv1plus1.png
@@ -4909,7 +4908,6 @@ ln -s tv.juwelotvhd.png tv.151B_455_1_C00000.uid
 
 # tv.june.png
 # 19.2E
-ln -s tv.june.png tv.1FE1_434_1_C00000.uid
 ln -s tv.june.png tv.2074_432_1_C00000.uid
 
 # tv.k+-ru.png
@@ -5963,10 +5961,6 @@ ln -s tv.nauticalchannel.png tv.219F_448_1_C00000.uid
 
 # tv.nashekino.png
 
-# tv.nashtv.png
-# 13.0E
-ln -s tv.nashtv.png tv.43A2_2CEC_13E_820000.uid
-
 # tv.nasn.png
 # 9.0E
 ln -s tv.nasn.png tv.6C2_1388_9C_5A0000.uid
@@ -7002,6 +6996,11 @@ ln -s tv.polsat2.png tv.3336_3390_71_820000.uid
 # 13.0E
 ln -s tv.polsatcafe.png tv.3346_3390_71_820000.uid
 
+# tv.polsatcrimeandinvestigation.png
+# 13.0E
+ln -s tv.polsatcrimeandinvestigation.png tv.1C9C_332C_13E_820000.uid
+ln -s tv.polsatcrimeandinvestigation.png tv.1C9D_332C_13E_820000.uid
+
 # tv.polsatfilm.png
 
 # tv.polsatfilmhd.png
@@ -7098,9 +7097,9 @@ ln -s tv.premiersports.png tv.C7A9_96C_2_11A0000.uid
 # 28.2E
 ln -s tv.premiersportsextra.png tv.C7AB_96C_2_11A0000.uid
 
-# tv.pricedroptv.png
+# tv.pricedrop.png
 # 28.2E
-ln -s tv.pricedroptv.png tv.CD1E_902_2_11A0000.uid
+ln -s tv.pricedrop.png tv.CD1E_902_2_11A0000.uid
 
 # tv.primacool.png
 # 23.5E
@@ -7233,15 +7232,8 @@ ln -s tv.qvc.png tv.E25_708_C8_820000.uid
 # 19.2E
 ln -s tv.qvc.png tv.2F44_454_1_C00000.uid
 ln -s tv.qvc.png tv.702_5_85_C00000.uid
-# 23.5E
-ln -s tv.qvc.png tv.D170_2715_F001_EB0000.uid
 # 28.2E
 ln -s tv.qvc.png tv.1C3E_7E1_2_11A0000.uid
-ln -s tv.qvc.png tv.1C3F_7E1_2_11A0000.uid
-ln -s tv.qvc.png tv.1C40_7E1_2_11A0000.uid
-ln -s tv.qvc.png tv.1C42_7E1_2_11A0000.uid
-ln -s tv.qvc.png tv.1C41_7E1_2_11A0000.uid
-ln -s tv.qvc.png tv.1C43_7E1_2_11A0000.uid
 
 # tv.qvchd.png
 # 19.2E
@@ -7370,11 +7362,11 @@ ln -s tv.raiyoyo.png tv.D66_1450_13E_820000.uid
 ln -s tv.rbb.png tv.6E2D_431_1_C00000.uid
 ln -s tv.rbb.png tv.6E2E_431_1_C00000.uid
 
-# tv.rbctv.png
-# 9.0E
-ln -s tv.rbctv.png tv.1D63_2134_6B2_5A0000.uid
+# tv.rbctv-es.png
+
+# tv.rbctv-ru.png
 # 13.0E
-ln -s tv.rbctv.png tv.2096_2328_13E_820000.uid
+ln -s tv.rbctv-ru.png tv.2096_2328_13E_820000.uid
 
 # tv.realestate.png
 
@@ -10527,7 +10519,7 @@ ln -s tv.tvpsport.png tv.3D58_2C88_13E_820000.uid
 
 # tv.tvpregionalna.png
 # 13.0E
-ln -s tv.tvpregionalna.png tv.16FB_5DC_13E_820000.uid
+ln -s tv.tvpregionalna.png tv.13FB_5DC_13E_820000.uid
 
 # tv.tvpuls.png
 # 13.0E
@@ -10720,6 +10712,10 @@ ln -s tv.ushuaiatvhd.png tv.2461_440_1_C00000.uid
 # tv.utv.png
 # 28.2E
 ln -s tv.utv.png tv.27F6_806_2_11A0000.uid
+
+# tv.utvhd.png
+# 28.2E
+ln -s tv.utvhd.png tv.512C_80F_2_11A0000.uid
 
 # tv.vchannel.png
 # 28.2E
