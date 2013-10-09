@@ -7485,6 +7485,10 @@ ln -s tv.ric.png tv.32DB_45D_1_C00000.uid
 
 # tv.rik.png
 
+# tv.riksat.png
+# 13.0E
+ln -s tv.riksat.png tv.30E_1B58_13E_820000.uid
+
 # tv.rikstoto.png
 # 0.8W
 ln -s tv.rikstoto.png tv.5E7_47_46_7120000.uid
