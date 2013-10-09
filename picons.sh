@@ -1830,6 +1830,8 @@ ln -s tv.chambertv.png tv.1464_C98_3_EB0000.uid
 ln -s tv.channel1-ru.png tv.1838_D_55_300000.uid
 ln -s tv.channel1-ru.png tv.1842_D_55_300000.uid
 ln -s tv.channel1-ru.png tv.184C_D_55_300000.uid
+# 13.0E
+ln -s tv.channel1-ru.png tv.2010_24B8_13E_820000.uid
 
 # tv.channel4.png
 # 28.2E
@@ -3192,6 +3194,10 @@ ln -s tv.einsplus.png tv.7033_41B_1_C00000.uid
 # tv.elgaragetv.png
 # 19.2E
 ln -s tv.elgaragetv.png tv.746A_3F0_1_C00000.uid
+
+# tv.eliteshoppingtv.png
+# 13.0E
+ln -s tv.eliteshoppingtv.png tv.4506_258_13E_820000.uid
 
 # tv.encaafrica.png
 # 28.2E
@@ -6789,7 +6795,7 @@ ln -s tv.pbs.png tv.157C_7E5_2_11A0000.uid
 
 # tv.peacetv.png
 # 28.2E
-ln -s tv.peacetv.png tv.D32F_A29_2_11A0000.uid
+ln -s tv.peacetv.png tv.D7EE_A35_2_11A0000.uid
 
 # tv.peacetvurdu.png
 # 28.2E
