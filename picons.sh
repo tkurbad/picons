@@ -5085,6 +5085,10 @@ ln -s tv.kinowelttv.png tv.C3BC_2713_F001_EB0000.uid
 # 28.2E
 ln -s tv.kix.png tv.D066_90A_2_11A0000.uid
 
+# tv.kixplus1.png
+# 28.2E
+ln -s tv.kixplus1.png tv.D07A_90A_2_11A0000.uid
+
 # tv.kombatsport.png
 # 19.2E
 ln -s tv.kombatsport.png tv.196B_44E_1_C00000.uid
@@ -7061,18 +7065,11 @@ ln -s tv.pokerchannel.png tv.19E_14_46_7120000.uid
 
 # tv.pop.png
 # 28.2E
-ln -s tv.pop.png tv.CC74_96A_2_11A0000.uid
 ln -s tv.pop.png tv.D05C_90A_2_11A0000.uid
 
 # tv.popgirl.png
 # 28.2E
-ln -s tv.popgirl.png tv.CC89_96A_2_11A0000.uid
 ln -s tv.popgirl.png tv.D070_90A_2_11A0000.uid
-
-# tv.popgirlplus1.png
-# 28.2E
-ln -s tv.popgirlplus1.png tv.CC92_96A_2_11A0000.uid
-ln -s tv.popgirlplus1.png tv.D07A_90A_2_11A0000.uid
 
 # tv.pohodarelax.png
 # 23.5E
