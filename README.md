@@ -54,7 +54,7 @@ __Extension:__
   * LOWERCASE
 
 __Order:__
-  * Sorted A-Z as best as possible
+  * Sorted `A-Z` as best as possible
 
 __Logo:__
   * Name: correct name according to `picons.sh`
