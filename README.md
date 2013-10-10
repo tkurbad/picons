@@ -2,7 +2,8 @@ FORMATTING
 ==========
 
 __picons.sh:__
-
+    ...
+    
     # TV
 
     # tv.disneycinemagicplus1.png
@@ -24,6 +25,8 @@ __picons.sh:__
     # radio.swr1badenwuerttemberg.png
     # 19.2E
     ln -s radio.swr1badenwuerttemberg.png radio.6F31_445_1_C00000.uid
+    
+    ...
 
 
 RULES
