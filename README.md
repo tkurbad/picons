@@ -45,7 +45,7 @@ Serviceref:
   * Only the unique part of a serviceref is used, beginning with `tv.` or `radio.` depending on what it is and ending with `.uid`. The rest of the serviceref is generated accordingly.
 
 Extension:
-  * .png or .uid
+  * `.png` or `.uid`
   * LOWERCASE
 
 Order:
