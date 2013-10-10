@@ -56,7 +56,7 @@ Logo:
   * Type: transparent png
   * Resolution: as high as possible (try to get it 256px or more)
   * Quality: as high as possible
-  * When adding a new logo, also ad the `# channelname.png` tag in the DVB-S/S2 section when it's a new DVB-C or DVB-T channel.
+  * When adding a new logo, also ad the `# tv.channelname.png` or `# radio.channelname.png` tag in the DVB-S/S2 section when it's a new DVB-C or DVB-T channel.
   * It's also possible to provide a `white` version of a logo, wich should be placed in the folder `picons/white`.
 
 
