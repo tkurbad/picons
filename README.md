@@ -45,7 +45,7 @@ Serviceref:
   * Only the unique part of a serviceref is used, beginning with `tv.` or `radio.` depending on what it is and ending with `.uid`. The rest of the serviceref is generated accordingly.
   * The last part of the serviceref is the orbital position of the satellite, different servicerefs are grouped according the satellite they are on.
 
-Extension:
+__Extension:__
   * `.png` or `.uid`
   * LOWERCASE
 
