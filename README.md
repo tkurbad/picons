@@ -1,7 +1,7 @@
 FORMATTING
 ==========
 
-picons.sh:
+__picons.sh:__
 
     # TV
 
@@ -29,7 +29,7 @@ picons.sh:
 RULES
 =====
 
-Channel Name:
+__Channel Name:__
   * NO spaces
   * NO fancy symbols
   * LOWERCASE
@@ -39,7 +39,7 @@ Channel Name:
   * For tv channels use the prefix `tv.`
   * For radio channels use the prefix `radio.`
 
-Serviceref:
+__Serviceref:__
   * UPPERCASE
   * NO DUPLICATE entries
   * Only the unique part of a serviceref is used, beginning with `tv.` or `radio.` depending on what it is and ending with `.uid`. The rest of the serviceref is generated accordingly.
@@ -49,10 +49,10 @@ __Extension:__
   * `.png` or `.uid`
   * LOWERCASE
 
-Order:
+__Order:__
   * Sorted A-Z as best as possible
 
-Logo:
+__Logo:__
   * Name: correct name according to `picons.sh`
   * Type: transparent png
   * Resolution: as high as possible (try to get it 256px or more)
