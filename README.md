@@ -43,6 +43,7 @@ Serviceref:
   * UPPERCASE
   * NO DUPLICATE entries
   * Only the unique part of a serviceref is used, beginning with `tv.` or `radio.` depending on what it is and ending with `.uid`. The rest of the serviceref is generated accordingly.
+  * The last part of the serviceref is the orbital position of the satellite, different servicerefs are grouped according the satellite they are on.
 
 Extension:
   * `.png` or `.uid`
@@ -57,7 +58,7 @@ Logo:
   * Resolution: as high as possible (try to get it 256px or more)
   * Quality: as high as possible
   * When adding a new logo, also ad the `# tv.channelname.png` or `# radio.channelname.png` tag in the DVB-S/S2 section when it's a new DVB-C or DVB-T channel.
-  * It's also possible to provide a `white` version of a logo, wich should be placed in the folder `picons/white`.
+  * It's also possible to provide a `white` version of a logo, wich should be placed in the folder `/picons/white`
 
 
 * * *
