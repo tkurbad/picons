@@ -33,16 +33,16 @@ Channel Name:
   * NO spaces
   * NO fancy symbols
   * LOWERCASE
-  * Time sharing channels, names seperated by "_".
-  * Sometimes it's useful to add a country code, do it like this, -gb, -de, -ru, -pl at the end of the logo's name. ISO country codes link can be found in "picons.sh".
-  * If the channelname contains a "+", you use a "+", if it's a timeshift channel, use "plus1".
-  * For tv channels use the prefix "tv."
-  * For radio channels use the prefix "radio."
+  * Time sharing channels, names seperated by `_`.
+  * Sometimes it's useful to add a country code, do it like this, -gb, -de, -ru, -pl at the end of the logo's name. ISO country codes link can be found in `picons.sh`.
+  * If the channelname contains a `+`, you use a `+`, if it's a timeshift channel, use `plus1`.
+  * For tv channels use the prefix `tv.`
+  * For radio channels use the prefix `radio.`
 
 Serviceref:
   * UPPERCASE
   * NO DUPLICATE entries
-  * Only the unique part of a serviceref is used, beginning with "tv." or "radio." depending on what it is and ending with ".uid". The rest of the serviceref is generated accordingly.
+  * Only the unique part of a serviceref is used, beginning with `tv.` or `radio.` depending on what it is and ending with `.uid`. The rest of the serviceref is generated accordingly.
 
 Extension:
   * .png or .uid
@@ -52,12 +52,12 @@ Order:
   * Sorted A-Z as best as possible
 
 Logo:
-  * Name: correct name according to "picons.sh"
+  * Name: correct name according to `picons.sh`
   * Type: transparent png
   * Resolution: as high as possible (try to get it 256px or more)
   * Quality: as high as possible
-  * When adding a new logo, also ad the "# channelname" in the DVB-S/S2 section when it's a new DVB-C or DVB-T channel.
-  * It's also possible to provide a "white" version of a logo, wich should be placed in the folder "/picons/white".
+  * When adding a new logo, also ad the `# channelname.png` tag in the DVB-S/S2 section when it's a new DVB-C or DVB-T channel.
+  * It's also possible to provide a `white` version of a logo, wich should be placed in the folder `picons/white`.
 
 
 * * *
