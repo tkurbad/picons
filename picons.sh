@@ -389,25 +389,6 @@ ln -s tv.aljazeeradocumentary.png tv.2C1_1B58_13E_820000.uid
 # 13.0E
 ln -s tv.aljazeeramubasher.png tv.2C2_1B58_13E_820000.uid
 
-# tv.aljazeerasportsglobal.png
-# 13.0E
-ln -s tv.aljazeerasportsglobal.png tv.19A_1964_13E_820000.uid
-ln -s tv.aljazeerasportsglobal.png tv.7E_1E14_13E_820000.uid
-ln -s tv.aljazeerasportsglobal.png tv.20F5_1F4_13E_820000.uid
-ln -s tv.aljazeerasportsglobal.png tv.20F6_1F4_13E_820000.uid
-ln -s tv.aljazeerasportsglobal.png tv.20F7_1F4_13E_820000.uid
-ln -s tv.aljazeerasportsglobal.png tv.20F8_1F4_13E_820000.uid
-ln -s tv.aljazeerasportsglobal.png tv.20F9_1F4_13E_820000.uid
-ln -s tv.aljazeerasportsglobal.png tv.20FA_1F4_13E_820000.uid
-ln -s tv.aljazeerasportsglobal.png tv.20FB_1F4_13E_820000.uid
-ln -s tv.aljazeerasportsglobal.png tv.20FC_1F4_13E_820000.uid
-ln -s tv.aljazeerasportsglobal.png tv.20FD_1F4_13E_820000.uid
-ln -s tv.aljazeerasportsglobal.png tv.20FE_1F4_13E_820000.uid
-
-# tv.aljazeerasportnews.png
-# 13.0E
-ln -s tv.aljazeerasportnews.png tv.74_1E14_13E_820000.uid
-
 # tv.almagharibia.png
 # 13.0E
 ln -s tv.almagharibia.png tv.2981_3D54_13E_820000.uid
@@ -2466,17 +2447,14 @@ ln -s tv.deasuper.png tv.2C9D_2580_FBFF_820000.uid
 ln -s tv.deejaytv.png tv.E2A_708_C8_820000.uid
 
 # tv.deluxemusic.png
-# 9.0E
-ln -s tv.deluxemusic.png tv.199_1964_9C_5A0000.uid
 # 19.2E
 ln -s tv.deluxemusic.png tv.2774_444_1_C00000.uid
 ln -s tv.deluxemusic.png tv.41_7_85_C00000.uid
-# 23.5E
-ln -s tv.deluxemusic.png tv.CF76_2717_F001_EB0000.uid
 
 # tv.deluxemusichd.png
 # 19.2E
 ln -s tv.deluxemusichd.png tv.157F_41F_1_C00000.uid
+ln -s tv.deluxemusichd.png tv.1589_41F_1_C00000.uid
 # 23.5E
 ln -s tv.deluxemusichd.png tv.17D4_C91_3_EB0000.uid
 
@@ -2788,47 +2766,26 @@ ln -s tv.disneychannelplus1.png tv.232F_803_2_11A0000.uid
 ln -s tv.disneychannelplus2.png tv.2B6A_19C8_FBFF_820000.uid
 
 # tv.disneycinemagic.png
-# 28.2E
-ln -s tv.disneycinemagic.png tv.232A_803_2_11A0000.uid
 # 19.2E
-ln -s tv.disneycinemagic.png tv.7729_416_1_C00000.uid
 ln -s tv.disneycinemagic.png tv.19_3_85_C00000.uid
 ln -s tv.disneycinemagic.png tv.22CC_45A_1_C00000.uid
+ln -s tv.disneycinemagic.png tv.7729_416_1_C00000.uid
 ln -s tv.disneycinemagic.png tv.7735_416_1_C00000.uid
 
 # tv.disneycinemagichd.png
-# 28.2E
-ln -s tv.disneycinemagichd.png tv.F21_7F0_2_11A0000.uid
 # 19.2E
-ln -s tv.disneycinemagichd.png tv.7E_8_85_C00000.uid
-ln -s tv.disneycinemagichd.png tv.52_9_85_C00000.uid
-ln -s tv.disneycinemagichd.png tv.2457_456_1_C00000.uid
-ln -s tv.disneycinemagichd.png tv.246B_456_1_C00000.uid
-ln -s tv.disneycinemagichd.png tv.6F_D_85_C00000.uid
-ln -s tv.disneycinemagichd.png tv.7617_408_1_C00000.uid
-ln -s tv.disneycinemagichd.png tv.75A3_422_1_C00000.uid
 ln -s tv.disneycinemagichd.png tv.7820_428_1_C00000.uid
-ln -s tv.disneycinemagichd.png tv.2457_440_1_C00000.uid
-ln -s tv.disneycinemagichd.png tv.246B_440_1_C00000.uid
-ln -s tv.disneycinemagichd.png tv.7826_428_1_C00000.uid
 ln -s tv.disneycinemagichd.png tv.7825_428_1_C00000.uid
+ln -s tv.disneycinemagichd.png tv.7826_428_1_C00000.uid
 ln -s tv.disneycinemagichd.png tv.7827_428_1_C00000.uid
-ln -s tv.disneycinemagichd.png tv.24E2_43C_1_C00000.uid
-ln -s tv.disneycinemagichd.png tv.24F6_43C_1_C00000.uid
 ln -s tv.disneycinemagichd.png tv.24BA_43C_1_C00000.uid
 ln -s tv.disneycinemagichd.png tv.24C4_43C_1_C00000.uid
-# 23.5E
-ln -s tv.disneycinemagichd.png tv.7E_8_3_EB0000.uid
-ln -s tv.disneycinemagichd.png tv.7E_271B_85_EB0000.uid
-ln -s tv.disneycinemagichd.png tv.6F_271B_85_EB0000.uid
+# 28.2E
+ln -s tv.disneycinemagichd.png tv.6F_D_85_C00000.uid
 
 # tv.disneycinemagicplus1.png
-# 9.0E
-ln -s tv.disneycinemagicplus1.png tv.4E86_1AF4_9C_5A0000.uid
 # 19.2E
 ln -s tv.disneycinemagicplus1.png tv.22CD_45A_1_C00000.uid
-# 28.2E
-ln -s tv.disneycinemagicplus1.png tv.232B_803_2_11A0000.uid
 
 # tv.disneyjunior.png
 # 13.0E
@@ -4858,6 +4815,30 @@ ln -s tv.jimmy.png tv.1FAA_434_1_C00000.uid
 ln -s tv.jml.png tv.D386_A2A_2_11A0000.uid
 # 19.2E
 ln -s tv.jml.png tv.202_7_85_C00000.uid
+
+# tv.jscsports1.png
+# 13.0E
+ln -s tv.jscsports1.png tv.20F5_1F4_13E_820000.uid
+
+# tv.jscsports2.png
+# 13.0E
+ln -s tv.jscsports2.png tv.20F6_1F4_13E_820000.uid
+
+# tv.jscsports3.png
+# 13.0E
+ln -s tv.jscsports3.png tv.20F7_1F4_13E_820000.uid
+
+# tv.jscsports4.png
+# 13.0E
+ln -s tv.jscsports4.png tv.20F8_1F4_13E_820000.uid
+
+# tv.jscsportsglobal.png
+# 13.0E
+ln -s tv.jscsportsglobal.png tv.20FA_1F4_13E_820000.uid
+
+# tv.jscsportsnews.png
+# 13.0E
+ln -s tv.jscsportsnews.png tv.20F9_1F4_13E_820000.uid
 
 # tv.jstveurope.png
 
