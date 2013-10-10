@@ -38,7 +38,7 @@ __Channel Name:__
   * NO fancy symbols
   * LOWERCASE
   * Time sharing channels, names seperated by `_`
-  * Sometimes it's useful to add a country code, do it like this, put `-gb`, `-de`, `-ru`, `-pl` or `-...` at the end of the logo's name. ISO country codes link can be found in `picons.sh`
+  * Sometimes it's useful to add a country code, do it like this, put `-gb`, `-de`, `-ru`, `-pl` or `-..` at the end of the logo's name. ISO country codes link can be found in `picons.sh`
   * If the channelname contains a `+`, you use a `+`, if it's a timeshift channel, use `plus1`
   * For tv channels use the prefix `tv.`
   * For radio channels use the prefix `radio.`
