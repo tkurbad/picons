@@ -60,10 +60,6 @@ Logo:
   * When adding a new logo, also ad the `# tv.channelname.png` or `# radio.channelname.png` tag in the DVB-S/S2 section when it's a new DVB-C or DVB-T channel.
   * It's also possible to provide a `white` version of a logo, wich should be placed in the folder `/picons/white`
 
-  
-  
-  
-* * *
 
 XVDR USERS? NEED SOME HELP?
 ===========================
