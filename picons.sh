@@ -195,7 +195,7 @@ ln -s tv.aajtak.png tv.D7B0_900_2_11A0000.uid
 
 # tv.aastha.png
 # 28.2E
-ln -s tv.aastha.png tv.D8CC_962_2_11A0000.uid
+ln -s tv.aastha.png tv.D7AC_900_2_11A0000.uid
 
 # tv.ahlebaittv.png
 # 28.2E
@@ -518,6 +518,7 @@ ln -s tv.arirangtv.png tv.1B63_3FC_1_C00000.uid
 # tv.arisenews.png
 # 28.2E
 ln -s tv.arisenews.png tv.C6CA_820_2_11A0000.uid
+ln -s tv.arisenews.png tv.C6CA_969_2_11A0000.uid
 
 # tv.arrabiaa.png
 # 13.0E
@@ -999,10 +1000,12 @@ ln -s tv.bestofshopping.png tv.274E_402_1_C00000.uid
 ln -s tv.bet.png tv.200B_24B8_13E_820000.uid
 # 28.2E
 ln -s tv.bet.png tv.C789_81F_2_11A0000.uid
+ln -s tv.bet.png tv.C789_96B_2_11A0000.uid
 
 # tv.betplus1.png
 # 28.2E
 ln -s tv.betplus1.png tv.C78A_81F_2_11A0000.uid
+ln -s tv.betplus1.png tv.C78A_96B_2_11A0000.uid
 
 # tv.betheltv.png
 # 13.0E
@@ -1736,6 +1739,7 @@ ln -s tv.cbsdrama.png tv.C6D7_900_2_11A0000.uid
 # 28.2E
 ln -s tv.cbsreality.png tv.D01B_909_2_11A0000.uid
 ln -s tv.cbsreality.png tv.D449_A2C_2_11A0000.uid
+ln -s tv.cbsreality.png tv.CFD5_909_2_11A0000.uid
 
 # tv.cbseuropa.png
 # 13.0E
@@ -2149,6 +2153,7 @@ ln -s tv.cnbc.png tv.272E_402_1_C00000.uid
 ln -s tv.cnbc.png tv.D049_271A_F001_EB0000.uid
 # 28.2E
 ln -s tv.cnbc.png tv.C6C2_820_2_11A0000.uid
+ln -s tv.cnbc.png tv.C6C2_969_2_11A0000.uid
 
 # tv.cnbceurope.png
 # 4.8E
@@ -4698,6 +4703,7 @@ ln -s tv.itv1plus1.png tv.50FF_80F_2_11A0000.uid
 ln -s tv.itv1plus1.png tv.2F85_7F4_2_11A0000.uid
 ln -s tv.itv1plus1.png tv.278D_805_2_11A0000.uid
 ln -s tv.itv1plus1.png tv.2747_801_2_11A0000.uid
+ln -s tv.itv1plus1.png tv.2775_7FC_2_11A0000.uid
 
 # tv.itv2.png
 # 28.2E
@@ -5138,6 +5144,7 @@ ln -s tv.la9.png tv.B_300C_13E_820000.uid
 # tv.lamhe.png
 # 28.2E
 ln -s tv.lamhe.png tv.C530_81B_2_11A0000.uid
+ln -s tv.lamhe.png tv.C530_965_2_11A0000.uid
 
 # tv.lachainemeteo.png
 # 19.2E
@@ -5461,6 +5468,7 @@ ln -s tv.matchmusic.png tv.3C1C_64_FBFF_820000.uid
 # tv.matvnational.png
 # 28.2E
 ln -s tv.matvnational.png tv.D41C_A2C_2_11A0000.uid
+ln -s tv.matvnational.png tv.D368_A2A_2_11A0000.uid
 
 # tv.maxhdscandinavia.png
 # 0.8W
@@ -6763,16 +6771,17 @@ ln -s tv.parispremierehd.png tv.2347_442_1_C00000.uid
 # tv.paversshoes.png
 # 28.2E
 ln -s tv.paversshoes.png tv.C4E0_81B_2_11A0000.uid
+ln -s tv.paversshoes.png tv.C4E0_965_2_11A0000.uid
 
 # tv.passionepesca.png
 # 13.0E
 ln -s tv.passionepesca.png tv.422C_3DB8_13E_820000.uid
 
 # tv.pcne.png
-# 28.2E
-ln -s tv.pcne.png tv.C6BE_969_2_11A0000.uid
 # 23.5E
 ln -s tv.pcne.png tv.C75B_271A_F001_EB0000.uid
+# 28.2E
+ln -s tv.pcne.png tv.CB96_8FE_2_11A0000.uid
 
 # tv.pbs.png
 # 28.2E
@@ -6781,6 +6790,7 @@ ln -s tv.pbs.png tv.157C_7E5_2_11A0000.uid
 # tv.peacetv.png
 # 28.2E
 ln -s tv.peacetv.png tv.D7EE_A35_2_11A0000.uid
+ln -s tv.peacetv.png tv.D32F_A29_2_11A0000.uid
 
 # tv.peacetvurdu.png
 # 28.2E
@@ -7170,6 +7180,7 @@ ln -s tv.psychictoday.png tv.D7BA_900_2_11A0000.uid
 # tv.ptcpunjabi.png
 # 28.2E
 ln -s tv.ptcpunjabi.png tv.D8E0_962_2_11A0000.uid
+ln -s tv.ptcpunjabi.png tv.D74D_A34_2_11A0000.uid
 
 # tv.ptvglobal.png
 # 9.0E
@@ -7538,6 +7549,7 @@ ln -s tv.rt.png tv.7A46_410_1_C00000.uid
 ln -s tv.rt.png tv.CF7F_2718_F001_EB0000.uid
 # 28.2E
 ln -s tv.rt.png tv.C69F_820_2_11A0000.uid
+ln -s tv.rt.png tv.C69F_969_2_11A0000.uid
 
 # tv.rthd.png
 # 13.0E
@@ -8941,6 +8953,7 @@ ln -s tv.showcasetv2.png tv.D025_909_2_11A0000.uid
 # tv.smartlivecasino.png
 # 28.2E
 ln -s tv.smartlivecasino.png tv.C6C9_820_2_11A0000.uid
+ln -s tv.smartlivecasino.png tv.C6C9_969_2_11A0000.uid
 
 # tv.smashhits.png
 # 28.2E
@@ -9674,6 +9687,7 @@ ln -s tv.thechurchchannel.png tv.324_3BC4_13E_820000.uid
 # tv.thedatingchannel.png
 # 28.2E
 ln -s tv.thedatingchannel.png tv.C53A_81B_2_11A0000.uid
+ln -s tv.thedatingchannel.png tv.C53A_965_2_11A0000.uid
 
 # tv.thedealchannel.png
 
@@ -10706,6 +10720,7 @@ ln -s tv.utvhd.png tv.512C_80F_2_11A0000.uid
 # tv.vchannel.png
 # 28.2E
 ln -s tv.vchannel.png tv.C4F9_81B_2_11A0000.uid
+ln -s tv.vchannel.png tv.C4F9_965_2_11A0000.uid
 
 # tv.venustv.png
 # 28.2E
@@ -11106,6 +11121,7 @@ ln -s tv.voxhd.png tv.2E91_411_1_C00000.uid
 # tv.voxafrica.png
 # 28.2E
 ln -s tv.voxafrica.png tv.C6C8_820_2_11A0000.uid
+ln -s tv.voxafrica.png tv.C6C8_969_2_11A0000.uid
 
 # tv.voyage.png
 # 19.2E
@@ -11379,6 +11395,7 @@ ln -s tv.zeetv.png tv.C51C_81B_2_11A0000.uid
 # tv.zing.png
 # 28.2E
 ln -s tv.zing.png tv.C526_81B_2_11A0000.uid
+ln -s tv.zing.png tv.C526_965_2_11A0000.uid
 
 # RADIO
 
