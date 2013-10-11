@@ -821,9 +821,9 @@ ln -s tv.bbcalba.png tv.1917_7FF_2_11A0000.uid
 # tv.bbcarabic.png
 # 13.0E
 ln -s tv.bbcarabic.png tv.365F_1388_13E_820000.uid
-ln -s tv.bbcarabic.png radio.365C_1388_13E_820000.uid
+ln -s tv.bbcarabic.png tv.365C_1388_13E_820000.uid
 # 19.2E
-ln -s tv.bbcarabic.png radio.216F_400_1_C00000.uid
+ln -s tv.bbcarabic.png tv.216F_400_1_C00000.uid
 
 # tv.bbcentertainment.png
 # 9.0E
@@ -1068,7 +1068,7 @@ ln -s tv.bfmtv.png tv.2F8B_454_1_C00000.uid
 # tv.bfmbusiness.png
 # 19.2E
 ln -s tv.bfmbusiness.png tv.2F94_454_1_C00000.uid
-ln -s tv.bfmbusiness.png radio.2156_400_1_C00000.uid
+ln -s tv.bfmbusiness.png tv.2156_400_1_C00000.uid
 
 # tv.bibeltv.png
 # 9.0E
@@ -4149,7 +4149,7 @@ ln -s tv.gospelchannel.png tv.81_20_46_7120000.uid
 # tv.gold.png
 # 28.2E
 ln -s tv.gold.png tv.1968_7D6_2_11A0000.uid
-ln -s tv.gold.png radio.2559_A34_2_11A0000.uid
+ln -s tv.gold.png tv.2559_A34_2_11A0000.uid
 ln -s tv.gold.png tv.1DE7_7DF_2_11A0000.uid
 
 # tv.goldplus1.png
@@ -4405,8 +4405,7 @@ ln -s tv.histoire.png tv.2581_458_1_C00000.uid
 
 # tv.hitradiooe3.png
 # 19.2E
-ln -s tv.hitradiooe3.png radio.32D5_45D_1_C00000.uid
-ln -s tv.hitradiooe3.png radio.334D_45B_1_C00000.uid
+ln -s tv.hitradiooe3.png tv.32D5_45D_1_C00000.uid
 
 # tv.hitv.png
 # 28.2E
@@ -4445,7 +4444,7 @@ ln -s tv.homeplus1.png tv.1DB0_7DF_2_11A0000.uid
 ln -s tv.hopechannel.png tv.1245_2B5C_13E_820000.uid
 ln -s tv.hopechannel.png tv.2997_3D54_13E_820000.uid
 # 19.2E
-ln -s tv.hopechannel.png radio.AF_5_85_C00000.uid
+ln -s tv.hopechannel.png tv.AF_5_85_C00000.uid
 ln -s tv.hopechannel.png tv.47_7_85_C00000.uid
 
 # tv.horrorchannel.png
@@ -11046,7 +11045,7 @@ ln -s tv.viva.png tv.19_3200_13E_820000.uid
 ln -s tv.viva.png tv.3C_7_85_C00000.uid
 ln -s tv.viva.png tv.7004_436_1_C00000.uid
 # 23.5E
-ln -s tv.viva.png radio.1409_C87_3_EB0000.uid
+ln -s tv.viva.png tv.1409_C87_3_EB0000.uid
 
 # tv.vivalitaliachannel.png
 # 13.0E
@@ -12362,7 +12361,7 @@ ln -s tv.skybundesliga-de.png tv.12E_3_85_FFFF0000.uid
 ln -s tv.skybundesliga-de.png tv.138_11_85_FFFF0000.uid
 ln -s tv.skybundesliga-de.png tv.142_11_85_FFFF0000.uid
 ln -s tv.skybundesliga-de.png tv.14C_11_85_FFFF0000.uid
-ln -s tv.skybundesliga-de.png radio.156_1_85_FFFF0000.uid
+ln -s tv.skybundesliga-de.png tv.156_1_85_FFFF0000.uid
 ln -s tv.skykrimi-de.png tv.17_4_85_FFFF0000.uid
 ln -s tv.skynews-gb.png tv.69DF_C9_270F_FFFF0000.uid
 ln -s tv.skynostalgie-de.png tv.204_3_85_FFFF0000.uid
@@ -12434,7 +12433,7 @@ ln -s tv.syfy.png tv.C3BA_2712_F001_FFFF0000.uid
 ln -s tv.tagesschau24.png tv.7031_41B_A401_FFFF0000.uid
 ln -s tv.tele5.png tv.2F4F_BF_270F_FFFF0000.uid
 ln -s tv.tele5.png tv.55F6_D8_A018_FFFF0000.uid
-ln -s tv.teleklub.png radio.566A_DD_270F_FFFF0000.uid
+ln -s tv.teleklub.png tv.566A_DD_270F_FFFF0000.uid
 ln -s tv.telesud.png tv.570C_E8_A018_FFFF0000.uid
 ln -s tv.tf1.png tv.56F9_E7_A018_FFFF0000.uid
 ln -s tv.tgrteu.png tv.565F_DD_270F_FFFF0000.uid
