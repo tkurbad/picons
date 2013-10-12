@@ -6054,6 +6054,7 @@ ln -s tv.nationalgeographichd.png tv.70_271B_85_EB0000.uid
 ln -s tv.nationalgeographichd.png tv.15E5_C9A_3_EB0000.uid
 ln -s tv.nationalgeographichd.png tv.15ED_C9A_3_EB0000.uid
 ln -s tv.nationalgeographichd.png tv.51E5_C96_3_EB0000.uid
+ln -s tv.nationalgeographichd.png tv.2BD_C9A_3_EB0000.uid
 # 28.2E
 ln -s tv.nationalgeographichd.png tv.EF8_7E4_2_11A0000.uid
 ln -s tv.nationalgeographichd.png tv.EF7_7F1_2_11A0000.uid
