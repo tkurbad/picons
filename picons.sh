@@ -2192,6 +2192,8 @@ ln -s tv.comedycentralplus1.png tv.2FF0_2C24_FBFF_820000.uid
 # 28.2E
 ln -s tv.comedycentralplus1.png tv.C78B_81F_2_11A0000.uid
 ln -s tv.comedycentralplus1.png tv.C78D_81F_2_11A0000.uid
+ln -s tv.comedycentralplus1.png tv.C78B_96B_2_11A0000.uid
+ln -s tv.comedycentralplus1.png tv.C78F_96B_2_11A0000.uid
 
 # tv.comedycentralfamily.png
 # 13.0E
@@ -3805,9 +3807,7 @@ ln -s tv.foxlifeplus2.png tv.FD6_2DB4_FBFF_820000.uid
 # 13.0E
 ln -s tv.foxnews.png tv.24E6_2260_FBFF_820000.uid
 # 28.2E
-ln -s tv.foxnews.png tv.16AC_7EB_2_11A0000.uid
-ln -s tv.foxnews.png tv.1223_7EF_2_11A0000.uid
-ln -s tv.foxnews.png tv.12C1_968_2_11A0000.uid
+ln -s tv.foxnews.png tv.12C1_7E9_2_11A0000.uid
 # 19.2E
 ln -s tv.foxnews.png tv.749B_41C_1_C00000.uid
 
@@ -5742,7 +5742,7 @@ ln -s tv.mtvlivehd.png tv.EDE_7D1_2_11A0000.uid
 
 # tv.mtvlive.png
 # 28.2E
-ln -s tv.mtvlive.png tv.C6C5_969_2_11A0000.uid
+ln -s tv.mtvlive.png tv.CF9E_908_2_11A0000.uid
 
 # tv.mtvplus1.png
 # 28.2E
@@ -6167,10 +6167,12 @@ ln -s tv.nickjr.png tv.C611_2715_F001_EB0000.uid
 # 28.2E
 ln -s tv.nickjr.png tv.15BB_804_2_11A0000.uid
 ln -s tv.nickjr.png tv.C790_81F_2_11A0000.uid
+ln -s tv.nickjr.png tv.C791_96B_2_11A0000.uid
 
 # tv.nickjrplus1.png
 # 28.2E
 ln -s tv.nickjrplus1.png tv.C792_81F_2_11A0000.uid
+ln -s tv.nickjrplus1.png tv.C792_96B_2_11A0000.uid
 
 # tv.nickjr_vh1.png
 # 4.8E
@@ -8691,12 +8693,14 @@ ln -s tv.skysportshd2-gb.png tv.F29_7D1_2_11A0000.uid
 ln -s tv.skysportshd2-gb.png tv.FA2_7D2_2_11A0000.uid
 ln -s tv.skysportshd2-gb.png tv.F46_7F1_2_11A0000.uid
 ln -s tv.skysportshd2-gb.png tv.F26_7F1_2_11A0000.uid
+ln -s tv.skysportshd2-gb.png tv.F49_7D1_2_11A0000.uid
 
 # tv.skysportshd3-gb.png
 # 28.2E
 ln -s tv.skysportshd3-gb.png tv.EEE_7F2_2_11A0000.uid
 ln -s tv.skysportshd3-gb.png tv.EF0_7F2_2_11A0000.uid
 ln -s tv.skysportshd3-gb.png tv.FA3_7D2_2_11A0000.uid
+ln -s tv.skysportshd3-gb.png tv.EFD_7F2_2_11A0000.uid
 
 # tv.skysportshd4-gb.png
 # 28.2E
@@ -8709,6 +8713,7 @@ ln -s tv.skysportshd4-gb.png tv.FA4_7D2_2_11A0000.uid
 ln -s tv.skysportsnewshd-gb.png tv.F09_7ED_2_11A0000.uid
 ln -s tv.skysportsnewshd-gb.png tv.F13_7ED_2_11A0000.uid
 ln -s tv.skysportsnewshd-gb.png tv.F4D_7D5_2_11A0000.uid
+ln -s tv.skysportsnewshd-gb.png tv.F13_7D5_2_11A0000.uid
 
 # tv.skysportsnews-gb.png
 # 28.2E
@@ -9515,6 +9520,7 @@ ln -s tv.thedatingchannel.png tv.C53A_965_2_11A0000.uid
 # tv.thedepartmentstore.png
 # 28.2E
 ln -s tv.thedepartmentstore.png tv.D7D2_822_2_11A0000.uid
+ln -s tv.thedepartmentstore.png tv.D7D2_A35_2_11A0000.uid
 
 # tv.thepubchannel.png
 # 28.2E
@@ -9534,7 +9540,7 @@ ln -s tv.thestore.png tv.2783_7FC_2_11A0000.uid
 
 # tv.thestylenetwork.png
 # 28.2E
-ln -s tv.thestylenetwork.png tv.D43F_A2C_2_11A0000.uid
+ln -s tv.thestylenetwork.png tv.D01C_909_2_11A0000.uid
 
 # tv.theunexplainedchannel.png
 
@@ -11167,10 +11173,12 @@ ln -s tv.zeecinema.png tv.2980_44C_13E_820000.uid
 ln -s tv.zeecinema.png tv.296D_3D54_13E_820000.uid
 # 28.2E
 ln -s tv.zeecinema.png tv.C521_81B_2_11A0000.uid
+ln -s tv.zeecinema.png tv.C521_965_2_11A0000.uid
 
 # tv.zeenews.png
 # 28.2E
 ln -s tv.zeenews.png tv.C517_81B_2_11A0000.uid
+ln -s tv.zeenews.png tv.C517_965_2_11A0000.uid
 
 # tv.zeepunjabi.png
 # 28.2E
@@ -11185,6 +11193,7 @@ ln -s tv.zeetv.png tv.296C_44C_13E_820000.uid
 ln -s tv.zeetv.png tv.2978_44C_13E_820000.uid
 # 28.2E
 ln -s tv.zeetv.png tv.C51C_81B_2_11A0000.uid
+ln -s tv.zeetv.png tv.C51C_965_2_11A0000.uid
 
 # tv.zing.png
 # 28.2E
