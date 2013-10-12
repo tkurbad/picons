@@ -10345,6 +10345,7 @@ ln -s tv.tvr-pl.png tv.1292_3458_13E_820000.uid
 # tv.tvrhd-pl.png
 # 13.0E
 ln -s tv.tvrhd-pl.png tv.3E22_2EE0_13E_820000.uid
+ln -s tv.tvrhd-pl.png tv.3E2C_2EE0_13E_820000.uid
 
 # tv.tvrepublika.png
 # 13.0E
