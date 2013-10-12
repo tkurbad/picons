@@ -130,12 +130,6 @@ ln -s tv.6erenhd.png tv.12C7_43_46_7120000.uid
 
 # tv.6ter.png
 
-# tv.9x.png
-
-# tv.9xm.png
-# 28.2E
-ln -s tv.9xm.png tv.D8DB_962_2_11A0000.uid
-
 # tv.13emerue.png
 # 19.2E
 ln -s tv.13emerue.png tv.190B_3FA_1_C00000.uid
@@ -161,8 +155,6 @@ ln -s tv.13thstreethd.png tv.7F_D_85_C00000.uid
 # 23.5E
 ln -s tv.13thstreethd.png tv.C354_271D_F001_EB0000.uid
 
-# tv.40latino.png
-
 # tv.40tv.png
 # 19.2E
 ln -s tv.40tv.png tv.76C5_40E_1_C00000.uid
@@ -171,13 +163,9 @@ ln -s tv.40tv.png tv.76C5_40E_1_C00000.uid
 # 28.2E
 ln -s tv.4seven.png tv.5302_814_2_11A0000.uid
 
-# tv.101tv.png
-
 # tv.aaamusic.png
 # 13.0E
 ln -s tv.aaamusic.png tv.296F_3D54_13E_820000.uid
-
-# tv.aagtv.png
 
 # tv.aajtak.png
 # 28.2E
@@ -545,13 +533,9 @@ ln -s tv.arynews.png tv.D101_90C_2_11A0000.uid
 # 28.2E
 ln -s tv.aryentertainment.png tv.C4EF_965_2_11A0000.uid
 
-# tv.arymusik.png
-
 # tv.aryqtv.png
 # 28.2E
 ln -s tv.aryqtv.png tv.CD37_902_2_11A0000.uid
-
-# tv.aryzauq.png
 
 # tv.assadissa.png
 # 13.0E
@@ -593,11 +577,11 @@ ln -s tv.attheraces.png tv.2463_7E9_2_11A0000.uid
 # 23.5E
 ln -s tv.at5.png tv.5146_C8B_3_EB0000.uid
 
-# tv.atvbe.png
+# tv.atv-be.png
 
-# tv.a.tv.png
+# tv.atv-de.png
 # 19.2E
-ln -s tv.a.tv.png tv.11F8_3FD_1_C00000.uid
+ln -s tv.atv-de.png tv.11F8_3FD_1_C00000.uid
 
 # tv.atv.png
 # 19.2E
@@ -711,10 +695,6 @@ ln -s tv.axnwhite.png tv.1C86_1CE8_71_820000.uid
 ln -s tv.axnwhite.png tv.7471_3F0_1_C00000.uid
 
 # tv.axnwhitehd.png
-
-# tv.austria9.png
-
-# tv.allocine.png
 
 # tv.ava.png
 
@@ -1330,8 +1310,6 @@ ln -s tv.canalalgerie.png tv.367E_C8_13E_820000.uid
 ln -s tv.canalalgerie.png tv.1B5F_3FC_1_C00000.uid
 ln -s tv.canalalgerie.png tv.2763_402_1_C00000.uid
 
-# tv.canalclub.png
-
 # tv.canalcocina.png
 # 19.2E
 ln -s tv.canalcocina.png tv.76CE_40E_1_C00000.uid
@@ -1845,15 +1823,9 @@ ln -s tv.channel21.png tv.D10A_2711_F001_EB0000.uid
 # 28.2E
 ln -s tv.channeli.png tv.D32E_A29_2_11A0000.uid
 
-# tv.channel21express.png
-
 # tv.channelaka.png
 # 28.2E
 ln -s tv.channelaka.png tv.CB8B_8FD_2_11A0000.uid
-
-# tv.channelm.png
-
-# tv.channelonesrilanka.png
 
 # tv.channelstarz.png
 # 28.2E
@@ -1959,8 +1931,6 @@ ln -s tv.cinefx.png tv.1FB_26AC_13F_820000.uid
 ln -s tv.cinefx.png tv.1C8_26AC_13F_820000.uid
 # 19.2E
 ln -s tv.cinefx.png tv.428A_446_1_C00000.uid
-
-# tv.cinemoi.png
 
 # tv.cinemax.png
 # 9.0E
@@ -2399,8 +2369,6 @@ ln -s tv.daystartv.png tv.D165_2717_F001_EB0000.uid
 # tv.dcineespanol.png
 # 19.2E
 ln -s tv.dcineespanol.png tv.7736_416_1_C00000.uid
-
-# tv.deshtv.png
 
 # tv.deutschesmusikfernsehen.png
 # 19.2E
@@ -3091,8 +3059,6 @@ ln -s tv.eentertainmenthd.png tv.F44_7F3_2_11A0000.uid
 # 19.2E
 ln -s tv.eentertainmenthd.png tv.80_E_85_C00000.uid
 
-# tv.einsextra.png
-
 # tv.einsfestival.png
 # 19.2E
 ln -s tv.einsfestival.png tv.7032_41B_1_C00000.uid
@@ -3462,8 +3428,6 @@ ln -s tv.ewtn.png tv.3E_5_85_C00000.uid
 # tv.exgirlfriends.png
 # 28.2E
 ln -s tv.exgirlfriends.png tv.D15D_90C_2_11A0000.uid
-
-# tv.extremaduratv.png
 
 # tv.extremesports.png
 # 13.0E
@@ -3968,8 +3932,6 @@ ln -s tv.franceo.png tv.2212_44C_1_C00000.uid
 # tv.frankenfernsehen.png
 # 19.2E
 ln -s tv.frankenfernsehen.png tv.11F9_3FD_1_C00000.uid
-
-# tv.frankensat.png
 
 # tv.freextv.png
 # 13.0E
@@ -10200,9 +10162,9 @@ ln -s tv.tviinternacional.png tv.7732_416_1_C00000.uid
 
 # tv.tvl.png
 
-# tv.tvl_atv_tvoost.png
+# tv.tvl_atv-be_tvoost.png
 # 23.5E
-ln -s tv.tvl_atv_tvoost.png tv.17A7_C82_3_EB0000.uid
+ln -s tv.tvl_atv-be_tvoost.png tv.17A7_C82_3_EB0000.uid
 
 # tv.tvoberfranken.png
 # 19.2E
