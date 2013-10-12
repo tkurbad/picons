@@ -11029,15 +11029,8 @@ ln -s tv.wdrhd.png tv.6F81_457_1_C00000.uid
 ln -s tv.wdrhd.png tv.6EA5_4B1_1_C00000.uid
 
 # tv.weddingtv.png
-# 13.0E
-ln -s tv.weddingtv.png tv.1235_2B5C_13E_820000.uid
-ln -s tv.weddingtv.png tv.44C1_258_13E_820000.uid
-# 28.2E
-ln -s tv.weddingtv.png tv.D8D6_962_2_11A0000.uid
 
 # tv.weddingtvitalia.png
-# 13.0E
-ln -s tv.weddingtvitalia.png tv.2994_3D54_13E_820000.uid
 
 # tv.worldfashionchannel.png
 # 9.0E
@@ -11086,8 +11079,6 @@ ln -s tv.yavido.png tv.DF_14B4_9C_5A0000.uid
 ln -s tv.yementv.png tv.1E8_1964_13E_820000.uid
 
 # tv.yesitalia.png
-# 13.0E
-ln -s tv.yesitalia.png tv.3911_32C8_13E_820000.uid
 
 # tv.yesterday.png
 # 28.2E
