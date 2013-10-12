@@ -3197,6 +3197,10 @@ ln -s tv.escales.png tv.1CA_26AC_13F_820000.uid
 # 19.2E
 ln -s tv.escales.png tv.4281_446_1_C00000.uid
 
+# tv.escapes.png
+# 13.0E
+ln -s tv.escapes.png tv.420E_3DB8_13E_820000.uid
+
 # tv.eskatv.png
 # 13.0E
 ln -s tv.eskatv.png tv.3DC3_640_13E_820000.uid
