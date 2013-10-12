@@ -40,8 +40,6 @@ cd $1
 ln -s tv.123tv.png tv.DD_14B4_9C_5A0000.uid
 # 19.2E
 ln -s tv.123tv.png tv.296_5_85_C00000.uid
-# 23.5E
-ln -s tv.123tv.png tv.C3BE_2711_F001_EB0000.uid
 
 # tv.123tvhd.png
 # 19.2E
@@ -70,8 +68,6 @@ ln -s tv.2+2.png tv.17E8_C_55_300000.uid
 # tv.2be.png
 # 19.2E
 ln -s tv.2be.png tv.320C_45F_35_C00000.uid
-# 23.5E
-ln -s tv.2be.png tv.5278_C96_3_EB0000.uid
 
 # tv.2mmonde.png
 # 13.0E
@@ -4909,8 +4905,6 @@ ln -s tv.kbsworldhd.png tv.7D7_22C4_13E_820000.uid
 # tv.ketnet_op12.png
 # 19.2E
 ln -s tv.ketnet_op12.png tv.3208_45F_35_C00000.uid
-# 23.5E
-ln -s tv.ketnet_op12.png tv.5286_C96_3_EB0000.uid
 
 # tv.kerrang.png
 # 28.2E
@@ -10869,8 +10863,6 @@ ln -s tv.virginradiotv.png tv.E11_708_C8_820000.uid
 # tv.vijf.png
 # 19.2E
 ln -s tv.vijf.png tv.3214_45F_35_C00000.uid
-# 23.5E
-ln -s tv.vijf.png tv.527E_C96_3_EB0000.uid
 
 # tv.vintagetv.png
 # 28.2E
@@ -10981,8 +10973,6 @@ ln -s tv.voyage.png tv.19E1_444_1_C00000.uid # HD
 # tv.vier.png
 # 19.2E
 ln -s tv.vier.png tv.320E_45F_35_C00000.uid
-# 23.5E
-ln -s tv.vier.png tv.527A_C96_3_EB0000.uid
 
 # tv.viewerswives.png
 # 28.2E
