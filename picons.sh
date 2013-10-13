@@ -7638,6 +7638,10 @@ ln -s tv.rsila2hd.png tv.3B7_2134_13E_820000.uid
 # 4.8E
 ln -s tv.rumusic.png tv.1982_F_55_300000.uid
 
+# tv.russia24.png
+# 13.0E
+ln -s tv.russia24.png tv.6AE_3138_13E_820000.uid
+
 # tv.russiantravelguidetv.png
 # 13.0E
 ln -s tv.russiantravelguidetv.png tv.29EF_3CF0_13E_820000.uid
