@@ -1838,10 +1838,6 @@ ln -s tv.channeli.png tv.D32E_A29_2_11A0000.uid
 # 28.2E
 ln -s tv.channelaka.png tv.CB8B_8FD_2_11A0000.uid
 
-# tv.channelstarz.png
-# 28.2E
-ln -s tv.channelstarz.png tv.D7A2_900_2_11A0000.uid
-
 # tv.chartshowtv.png
 # 28.2E
 ln -s tv.chartshowtv.png tv.D075_90A_2_11A0000.uid
@@ -2374,6 +2370,10 @@ ln -s tv.daystartv.png tv.CB8E_8FD_2_11A0000.uid
 # tv.dcineespanol.png
 # 19.2E
 ln -s tv.dcineespanol.png tv.7736_416_1_C00000.uid
+
+# tv.departmentofstate.png
+# 13.0E
+ln -s tv.departmentofstate.png tv.154_0_1_82AFC2.uid
 
 # tv.deutschesmusikfernsehen.png
 # 19.2E
@@ -7077,6 +7077,10 @@ ln -s tv.qvc.png tv.1C3E_7E1_2_11A0000.uid
 # 19.2E
 ln -s tv.qvchd.png tv.526F_41D_1_C00000.uid
 
+# tv.qvcextra.png
+# 28.2E
+ln -s tv.qvcextra.png tv.1C3F_7E1_2_11A0000.uid
+
 # tv.qvcbeauty.png
 # 28.2E
 ln -s tv.qvcbeauty.png tv.D361_A2A_2_11A0000.uid
@@ -8076,6 +8080,10 @@ ln -s tv.skycalcio-it.png tv.2BD7_1A90_FBFF_820000.uid
 ln -s tv.skycalcio-it.png tv.2BD9_1A90_FBFF_820000.uid
 ln -s tv.skycalcio-it.png tv.2C2F_251C_FBFF_820000.uid
 
+# tv.skycinema007hd-it.png
+# 13.0E
+ln -s tv.skycinema007hd-it.png tv.106C_2008_FBFF_820000.uid
+
 # tv.skycinemaclassicshd-it.png
 # 13.0E
 ln -s tv.skycinemaclassicshd-it.png tv.1C58_206C_FBFF_820000.uid
@@ -8139,9 +8147,6 @@ ln -s tv.skycinemahits-de.png tv.29_3_85_C00000.uid
 ln -s tv.skycinemahitshd-de.png tv.6B_C_85_C00000.uid
 
 # tv.skycinemahitshd-it.png
-# 13.0E
-ln -s tv.skycinemahitshd-it.png tv.2C4F_251C_FBFF_820000.uid
-ln -s tv.skycinemahitshd-it.png tv.106C_2008_FBFF_820000.uid
 
 # tv.skycinemahits-it.png
 # 13.0E
@@ -9042,6 +9047,10 @@ ln -s tv.startvukr.png tv.19A0_F_55_300000.uid
 # tv.starstv.png
 # 13.0E
 ln -s tv.starstv.png tv.3E1F_2EE0_13E_820000.uid
+
+# tv.starztv-gb.png
+# 28.2E
+ln -s tv.starztv-gb.png tv.D7A2_900_2_11A0000.uid
 
 # tv.sterktv.png
 # 13.0E
@@ -10911,6 +10920,16 @@ ln -s tv.vod.png tv.4279_2BC0_13E_820000.uid
 ln -s tv.vod.png tv.427A_2BC0_13E_820000.uid
 ln -s tv.vod.png tv.427B_2BC0_13E_820000.uid
 ln -s tv.vod.png tv.4285_2BC0_13E_820000.uid
+
+# tv.voiceofamerica.png
+# 13.0E
+ln -s tv.voiceofamerica.png tv.64_0_1_82AFC2.uid
+ln -s tv.voiceofamerica.png tv.F0_0_1_82AFC2.uid
+ln -s tv.voiceofamerica.png tv.F1_0_1_82AFC2.uid
+ln -s tv.voiceofamerica.png tv.F2_0_1_82AFC2.uid
+ln -s tv.voiceofamerica.png tv.FB_0_1_82AFC2.uid
+ln -s tv.voiceofamerica.png tv.FC_0_1_82AFC2.uid
+ln -s tv.voiceofamerica.png tv.154_0_1_820000.uid
 
 # tv.volkstv.png
 
