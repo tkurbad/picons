@@ -1944,29 +1944,23 @@ ln -s tv.cinefx.png tv.1C8_26AC_13F_820000.uid
 ln -s tv.cinefx.png tv.428A_446_1_C00000.uid
 
 # tv.cinemax.png
-# 9.0E
-ln -s tv.cinemax.png tv.1AA6_1A90_9E_5A0000.uid
 # 13.0E
-ln -s tv.cinemax.png tv.13F7_5DC_13E_820000.uid
-
-# tv.cinemaxce.png
-# 13.0E
-ln -s tv.cinemaxce.png tv.141A_5DC_13E_820000.uid
+ln -s tv.cinemax.png tv.141A_5DC_13E_820000.uid
 # 23.5E
-ln -s tv.cinemaxce.png tv.3339_C89_3_EB0000.uid
+ln -s tv.cinemax.png tv.3339_C89_3_EB0000.uid
 
 # tv.cinemaxhd.png
 # 13.0E
 ln -s tv.cinemaxhd.png tv.3B67_12C_13E_820000.uid
 
-# tv.cinemax2ce.png
+# tv.cinemax2.png
 # 13.0E
-ln -s tv.cinemax2ce.png tv.1CCA_1CE8_71_820000.uid
+ln -s tv.cinemax2.png tv.1CCA_1CE8_71_820000.uid
 
-# tv.cinemax2hdce.png
+# tv.cinemax2hd.png
 # 13.0E
-ln -s tv.cinemax2hdce.png tv.C26_1E78_71_820000.uid
-ln -s tv.cinemax2hdce.png tv.3E36_2EE0_13E_820000.uid
+ln -s tv.cinemax2hd.png tv.C26_1E78_71_820000.uid
+ln -s tv.cinemax2hd.png tv.3E36_2EE0_13E_820000.uid
 
 # tv.cinepolar.png
 # 13.0E
@@ -2376,8 +2370,6 @@ ln -s tv.davincilearning.png tv.4280_2BC0_13E_820000.uid
 ln -s tv.daystartv.png tv.34C0_3C28_13E_820000.uid
 # 28.2E
 ln -s tv.daystartv.png tv.CB8E_8FD_2_11A0000.uid
-# 23.5E
-ln -s tv.daystartv.png tv.D165_2717_F001_EB0000.uid
 
 # tv.dcineespanol.png
 # 19.2E
@@ -4038,13 +4030,10 @@ ln -s tv.glorytv.png tv.D39A_81C_2_11A0000.uid
 # 4.8E
 ln -s tv.godtv.png tv.FDC_6_56_300000.uid
 # 13.0E
-ln -s tv.godtv.png tv.F_300C_13E_820000.uid
 ln -s tv.godtv.png tv.2988_3D54_13E_820000.uid
 # 19.2E
 ln -s tv.godtv.png tv.306_7_85_C00000.uid
 # 28.2E
-ln -s tv.godtv.png tv.C75B_96B_2_11A0000.uid
-ln -s tv.godtv.png tv.D3C2_A2B_2_11A0000.uid
 ln -s tv.godtv.png tv.CB9E_8FE_2_11A0000.uid
 
 # tv.gospelchannel.png
