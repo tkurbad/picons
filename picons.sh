@@ -1385,8 +1385,6 @@ ln -s tv.canal+1hd-es.png tv.74D5_3F8_1_C00000.uid
 ln -s tv.canal+1hd-es.png tv.74CC_3F8_1_C00000.uid
 
 # tv.canal+1-es.png
-# 19.2E
-ln -s tv.canal+1-es.png tv.7479_3F0_1_C00000.uid
 
 # tv.canal+2hd-es.png
 # 19.2E
@@ -2918,8 +2916,6 @@ ln -s tv.domo+hd.png tv.379E_44C_13E_820000.uid
 ln -s tv.donautv_isartv_trp1.png tv.1201_3FD_1_C00000.uid
 
 # tv.dovetv.png
-# 13.0E
-ln -s tv.dovetv.png tv.3C01_64_FBFF_820000.uid
 
 # tv.dr1.png
 # 4.8E
@@ -7108,8 +7104,6 @@ ln -s tv.qvcextra.png tv.1C3F_7E1_2_11A0000.uid
 # 28.2E
 ln -s tv.qvcbeauty.png tv.D361_A2A_2_11A0000.uid
 ln -s tv.qvcbeauty.png tv.D361_81C_2_11A0000.uid
-# 19.2E
-ln -s tv.qvcbeauty.png tv.40_5_85_C00000.uid
 
 # tv.qvcbeautyandstyle.png
 # 19.2E
