@@ -1215,17 +1215,17 @@ ln -s tv.btv.png tv.B72_34_55_300000.uid
 
 # tv.btsport1.png
 # 28.2E
-ln -s tv.btsport1.png tv.CB2E_907_2_11A0000.uid
 ln -s tv.btsport1.png tv.C4BD_964_2_11A0000.uid
 ln -s tv.btsport1.png tv.C4BE_964_2_11A0000.uid
+ln -s tv.btsport1.png tv.C4BD_819_2_11A0000.uid
+ln -s tv.btsport1.png tv.C4BE_819_2_11A0000.uid
 
 # tv.btsport2.png
 # 28.2E
-ln -s tv.btsport2.png tv.D44E_A2C_2_11A0000.uid
-ln -s tv.btsport2.png tv.D827_A36_2_11A0000.uid
-ln -s tv.btsport2.png tv.D828_A36_2_11A0000.uid
 ln -s tv.btsport2.png tv.C4C7_964_2_11A0000.uid
 ln -s tv.btsport2.png tv.C4C8_964_2_11A0000.uid
+ln -s tv.btsport2.png tv.C4C7_819_2_11A0000.uid
+ln -s tv.btsport2.png tv.C4C8_819_2_11A0000.uid
 
 # tv.btsport1hd.png
 # 28.2E
@@ -3185,6 +3185,8 @@ ln -s tv.eskatv.png tv.10DB_3E8_13E_820000.uid
 # 28.2E
 ln -s tv.espn.png tv.C4CC_964_2_11A0000.uid
 ln -s tv.espn.png tv.C4CD_964_2_11A0000.uid
+ln -s tv.espn.png tv.C4CC_819_2_11A0000.uid
+ln -s tv.espn.png tv.C4CD_819_2_11A0000.uid
 
 # tv.espnamerica.png
 # 13.0E
@@ -4529,6 +4531,11 @@ ln -s tv.investigationdiscoveryplus1.png tv.CCCA_90B_2_11A0000.uid
 # 13.0E
 ln -s tv.iris.png tv.4_3DE_110_820000.uid
 
+# tv.italiachannel.png
+# 13.0E
+ln -s tv.italiachannel.png tv.29D2_3CF0_13E_820000.uid
+ln -s tv.italiachannel.png tv.29FA_3CF0_13E_820000.uid
+
 # tv.italiauno.png
 # 13.0E
 ln -s tv.italiauno.png tv.1_3DE_110_820000.uid
@@ -5084,6 +5091,14 @@ ln -s tv.lcp.png tv.139_3E1C_13F_820000.uid
 # 19.2E
 ln -s tv.lcp.png tv.2203_44C_1_C00000.uid
 ln -s tv.lcp.png tv.2217_44C_1_C00000.uid
+
+# tv.lei.png
+# 13.0E
+ln -s tv.lei.png tv.3C01_64_FBFF_820000.uid
+
+# tv.leiplus1.png
+# 13.0E
+ln -s tv.leiplus1.png tv.585320_FBFF_820000.uid
 
 # tv.lequipe21.png
 # 19.2E
@@ -5818,6 +5833,10 @@ ln -s tv.n24.png tv.D17B_2718_F001_EB0000.uid
 # 19.2E
 ln -s tv.n24hd.png tv.5274_41D_1_C00000.uid
 ln -s tv.n24hd.png tv.527E_41D_1_C00000.uid
+
+# tv.napolimia.png
+# 13.0E
+ln -s tv.napolimia.png tv.1274_578_13E_820000.uid
 
 # tv.nauticalchannel.png
 # 19.2E
