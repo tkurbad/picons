@@ -1374,6 +1374,10 @@ ln -s tv.canal+.png tv.201D_430_1_C00000.uid
 ln -s tv.canal+.png tv.76C0_40E_1_C00000.uid
 ln -s tv.canal+.png tv.2031_430_1_C00000.uid
 
+# tv.canal+130-es.png
+# 19.2E
+ln -s tv.canal+130-es.png tv.7479_3F0_1_C00000.uid
+
 # tv.canal+1hd-es.png
 # 19.2E
 ln -s tv.canal+1hd-es.png tv.7612_408_1_C00000.uid
@@ -8196,7 +8200,6 @@ ln -s tv.skycinemamaxhd-it.png tv.106E_2008_FBFF_820000.uid
 
 # tv.skycinemamaxplus1hd-it.png
 # 13.0E
-ln -s tv.skycinemamaxplus1hd-it.png tv.2C4B_251C_FBFF_820000.uid
 ln -s tv.skycinemamaxplus1hd-it.png tv.1E5E_15E0_FBFF_820000.uid
 
 # tv.skycinemamax-it.png
