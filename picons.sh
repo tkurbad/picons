@@ -7088,6 +7088,10 @@ ln -s tv.qvcbeauty.png tv.D361_81C_2_11A0000.uid
 # 19.2E
 ln -s tv.qvcbeauty.png tv.40_5_85_C00000.uid
 
+# tv.qvcbeautyandstyle.png
+# 19.2E
+ln -s tv.qvcbeautyandstyle.png tv.40_5_85_C00000.uid
+
 # tv.qvcplus.png
 # 9.0E
 ln -s tv.qvcplus.png tv.D4_14B4_9C_5A0000.uid
@@ -10281,6 +10285,10 @@ ln -s tv.tvnorge.png tv.5E5_47_46_7120000.uid
 # 0.8W
 ln -s tv.tvnorgehd.png tv.106F_43_46_7120000.uid
 ln -s tv.tvnorgehd.png tv.1007_43_46_7120000.uid
+
+# tv.tvnturbo.png
+# 13.0E
+ln -s tv.tvnturbo.png tv.10DF_3E8_13E_820000.uid
 
 # tv.tvnturbohd.png
 # 13.0E
