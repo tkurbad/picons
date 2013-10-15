@@ -10279,7 +10279,7 @@ ln -s tv.tvn7siedem.png tv.10D9_3E8_13E_820000.uid
 
 # tv.tvn7hd.png
 # 13.0E
-ln -s tv.tvn7hd.png tv.32E3_190_13E_820000.uid
+ln -s tv.tvn7hd.png tv.3DD3_640_13E_820000.uid
 
 # tv.tvncnbcbiznes.png
 # 13.0E
