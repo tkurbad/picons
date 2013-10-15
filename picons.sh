@@ -8167,12 +8167,6 @@ ln -s tv.skycinemahits-de.png tv.29_3_85_C00000.uid
 # 19.2E
 ln -s tv.skycinemahitshd-de.png tv.6B_C_85_C00000.uid
 
-# tv.skycinemahitshd-it.png
-
-# tv.skycinemahits-it.png
-# 13.0E
-ln -s tv.skycinemahits-it.png tv.2DCC_1A2C_FBFF_820000.uid
-
 # tv.skycinema-it.png
 # 13.0E
 ln -s tv.skycinema-it.png tv.2B5D_19C8_FBFF_820000.uid
