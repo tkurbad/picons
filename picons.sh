@@ -1131,9 +1131,6 @@ ln -s tv.bluemovie3.png tv.16D_1_85_C00000.uid
 ln -s tv.bodyinbalance.png tv.ABE_1BBC_9C_5A0000.uid
 # 23.5E
 ln -s tv.bodyinbalance.png tv.17AC_C82_3_EB0000.uid
-# 28.2E
-ln -s tv.bodyinbalance.png tv.D74B_A2B_2_11A0000.uid
-ln -s tv.bodyinbalance.png tv.1E29_7F5_2_11A0000.uid
 
 # tv.boing.png
 # 13.0E
