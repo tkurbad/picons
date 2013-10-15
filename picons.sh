@@ -1208,6 +1208,10 @@ ln -s tv.britasiatv.png tv.D744_81A_2_11A0000.uid
 # 4.8E
 ln -s tv.btv.png tv.B72_34_55_300000.uid
 
+# tv.btv-de.png
+# 19.2E
+ln -s tv.btv-de.png tv.3355_45B_1_C00000.uid
+
 # tv.btsport.png
 
 # tv.btsport1.png
@@ -1985,6 +1989,11 @@ ln -s tv.classtvmoda.png tv.313_1B58_13E_820000.uid
 ln -s tv.classica.png tv.2CC8_2580_FBFF_820000.uid
 # 19.2E
 ln -s tv.classica.png tv.18_11_85_C00000.uid
+
+# tv.classicahd.png
+# 13.0E
+ln -s tv.classicahd.png tv.104A_1D4C_FBFF_820000.uid
+ln -s tv.classicahd.png tv.104B_1D4C_FBFF_820000.uid
 
 # tv.classtv.png
 # 13.0E
@@ -3613,6 +3622,10 @@ ln -s tv.fishingtv.png tv.6D0_578_13E_82ACCE.uid
 # 28.2E
 ln -s tv.fitnesstv.png tv.D395_A2A_2_11A0000.uid
 ln -s tv.fitnesstv.png tv.D395_81C_2_11A0000.uid
+
+# tv.fundoradotv.png
+# 19.2E
+ln -s tv.fundoradotv.png tv.315C_459_1_C00000.uid
 
 # tv.channel5.png
 # 28.2E
@@ -9609,10 +9622,6 @@ ln -s tv.tinypop.png tv.D052_90A_2_11A0000.uid
 ln -s tv.tinypopplus1.png tv.CC79_96A_2_11A0000.uid
 ln -s tv.tinypopplus1.png tv.D061_90A_2_11A0000.uid
 
-# tv.tiroltv.png
-# 19.2E
-ln -s tv.tiroltv.png tv.3355_45B_1_C00000.uid
-
 # tv.tlc.png
 # 28.2E
 ln -s tv.tlc.png tv.1859_7D9_2_11A0000.uid
@@ -10881,6 +10890,10 @@ ln -s tv.vijf.png tv.3214_45F_35_C00000.uid
 # tv.vintagetv.png
 # 28.2E
 ln -s tv.vintagetv.png tv.CBD4_8FD_2_11A0000.uid
+
+# tv.visitxtv.png
+# 19.2E
+ln -s tv.visitxtv.png tv.3333_45B_1_C00000.uid
 
 # tv.visjonnorge.png
 # 4.8E
