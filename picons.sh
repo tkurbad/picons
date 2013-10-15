@@ -1886,6 +1886,10 @@ ln -s tv.childrussia.png tv.32D_3BC4_13E_820000.uid
 # 13.0E
 ln -s tv.cielo.png tv.2B66_19C8_FBFF_820000.uid
 
+# tv.cielohd.png
+# 13.0E
+ln -s tv.cielohd.png tv.2502_170C_FBFF_820000.uid
+
 # tv.cine+classic.png
 # 19.2E
 ln -s tv.cine+classic.png tv.1FA5_434_1_C00000.uid
@@ -8116,6 +8120,8 @@ ln -s tv.skycalcio-it.png tv.2C2F_251C_FBFF_820000.uid
 # tv.skycinema1hd-it.png
 
 # tv.skycinema007-it.png
+# 13.0E
+ln -s tv.skycinema007-it.png tv.2DCC_1A2C_FBFF_820000.uid
 
 # tv.skycinema007hd-it.png
 # 13.0E
