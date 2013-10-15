@@ -5094,11 +5094,11 @@ ln -s tv.lcp.png tv.2217_44C_1_C00000.uid
 
 # tv.lei.png
 # 13.0E
-ln -s tv.lei.png tv.3C01_64_FBFF_820000.uid
+ln -s tv.lei.png tv.3C03_64_FBFF_820000.uid
 
 # tv.leiplus1.png
 # 13.0E
-ln -s tv.leiplus1.png tv.585320_FBFF_820000.uid
+ln -s tv.leiplus1.png tv.585_320_FBFF_820000.uid
 
 # tv.lequipe21.png
 # 19.2E
