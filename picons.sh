@@ -8105,6 +8105,8 @@ ln -s tv.skycalcio-it.png tv.2C2F_251C_FBFF_820000.uid
 
 # tv.skycinema1hd-it.png
 
+# tv.skycinema007-it.png
+
 # tv.skycinema007hd-it.png
 # 13.0E
 ln -s tv.skycinema007hd-it.png tv.106C_2008_FBFF_820000.uid
