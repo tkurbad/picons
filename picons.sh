@@ -8150,6 +8150,10 @@ ln -s tv.skycinemacomedy-it.png tv.2DCD_1A2C_FBFF_820000.uid
 ln -s tv.skycinemacomedyhd-it.png tv.2C4A_251C_FBFF_820000.uid
 ln -s tv.skycinemacomedyhd-it.png tv.2B16_1900_FBFF_820000.uid
 
+# tv.skycinemacult-it.png
+# 13.0E
+ln -s tv.skycinemacult-it.png tv.1FC9_189C_FBFF_820000.uid
+
 # tv.skycinemaculthd-it.png
 # 13.0E
 ln -s tv.skycinemaculthd-it.png tv.DEC_1AF4_FBFF_820000.uid
