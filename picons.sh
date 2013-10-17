@@ -5796,7 +5796,7 @@ ln -s tv.n24hd.png tv.527E_41D_1_C00000.uid
 
 # tv.napolimia.png
 # 13.0E
-ln -s tv.napolimia.png tv.1274_578_13E_820000.uid
+ln -s tv.napolimia.png tv.1274_578_13E_82ACCE.uid
 
 # tv.nauticalchannel.png
 # 19.2E
@@ -7347,7 +7347,7 @@ ln -s tv.romancetvhd.png tv.3ABE_514_13E_820000.uid
 
 # tv.romaunosat.png
 # 13.0E
-ln -s tv.romaunosat.png tv.3A98_1FA4_13E_820000.uid
+ln -s tv.romaunosat.png tv.E2C_708_C8_820000.uid
 
 # tv.rt.png
 # 4.8E
