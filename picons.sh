@@ -1020,9 +1020,12 @@ ln -s tv.bfmbusiness.png tv.2156_400_1_C00000.uid
 ln -s tv.bibeltv.png tv.19F_1964_9C_5A0000.uid
 # 19.2E
 ln -s tv.bibeltv.png tv.2F5A_454_1_C00000.uid
-ln -s tv.bibeltv.png tv.33A8_3EB_1_C00000.uid # HD
 # 23.5E
 ln -s tv.bibeltv.png tv.D09B_2718_F001_EB0000.uid
+
+# tv.bibeltvhd.png
+# 19.2E
+ln -s tv.bibeltvhd.png tv.33A8_3EB_1_C00000.uid
 
 # tv.bibigon.png
 
@@ -1966,15 +1969,15 @@ ln -s tv.classhorsetv.png tv.310_1B58_13E_820000.uid
 ln -s tv.classtvmoda.png tv.313_1B58_13E_820000.uid
 
 # tv.classica.png
-# 13.0E
-ln -s tv.classica.png tv.2CC8_2580_FBFF_820000.uid
-# 19.2E
-ln -s tv.classica.png tv.18_11_85_C00000.uid
 
 # tv.classicahd.png
 # 13.0E
+ln -s tv.classicahd.png tv.2C36_251C_FBFF_820000.uid
+ln -s tv.classicahd.png tv.2C37_251C_FBFF_820000.uid
 ln -s tv.classicahd.png tv.104A_1D4C_FBFF_820000.uid
 ln -s tv.classicahd.png tv.104B_1D4C_FBFF_820000.uid
+ln -s tv.classicahd.png tv.F8C_2198_FBFF_820000.uid
+ln -s tv.classicahd.png tv.F8D_2198_FBFF_820000.uid
 
 # tv.classtv.png
 # 13.0E
@@ -2841,8 +2844,6 @@ ln -s tv.dmaxplus1.png tv.CCC4_90B_2_11A0000.uid
 ln -s tv.dmaxplus2.png tv.CCC9_90B_2_11A0000.uid
 
 # tv.dhammakayamediachannel.png
-# 13.0E
-ln -s tv.dhammakayamediachannel.png tv.1D23_2FA8_13E_820000.uid
 
 # tv.dmdigital.png
 # 28.2E
@@ -2917,8 +2918,6 @@ ln -s tv.dr2.png tv.7D7_14_46_7120000.uid
 ln -s tv.drama-gb.png tv.197A_7D6_2_11A0000.uid
 
 # tv.drdish.png
-# 19.2E
-ln -s tv.drdish.png tv.1523_455_1_C00000.uid
 
 # tv.drhd.png
 # 4.8E
@@ -4339,20 +4338,12 @@ ln -s tv.hororfilm.png tv.333B_C89_3_EB0000.uid
 ln -s tv.horseandcountry.png tv.D37C_81C_2_11A0000.uid
 
 # tv.hrttv1.png
-# 13.0E
-ln -s tv.hrttv1.png tv.206D_2328_13E_820000.uid
 
 # tv.hrttv2.png
-# 13.0E
-ln -s tv.hrttv2.png tv.206E_2328_13E_820000.uid
 
 # tv.hrttv3.png
-# 13.0E
-ln -s tv.hrttv3.png tv.206F_2328_13E_820000.uid
 
 # tv.hrttv4.png
-# 13.0E
-ln -s tv.hrttv4.png tv.2076_2328_13E_820000.uid
 
 # tv.hse24.png
 # 9.0E
@@ -5129,6 +5120,10 @@ ln -s tv.lrttv.png tv.18E2_E_55_300000.uid
 # tv.lt1.png
 # 19.2E
 ln -s tv.lt1.png tv.3330_45B_1_C00000.uid
+
+# tv.ltc.png
+# 19.2E
+ln -s tv.ltc.png tv.749D_41C_1_C00000.uid
 
 # tv.ltv_tvm.png
 # 19.2E
@@ -6696,12 +6691,8 @@ ln -s tv.rnf.png tv.300_7_85_C00000.uid
 # tv.rtvpinkplus.png
 
 # tv.rtvslo1.png
-# 13.0E
-ln -s tv.rtvslo1.png tv.C81_2328_13E_820000.uid
 
 # tv.rtvslo2.png
-# 13.0E
-ln -s tv.rtvslo2.png tv.C82_2328_13E_820000.uid
 
 # tv.pinktv.png
 # 19.2E
@@ -7697,6 +7688,7 @@ ln -s tv.saudisports1.png tv.1F2_1964_13E_820000.uid
 # tv.saudisports2.png
 # 13.0E
 ln -s tv.saudisports2.png tv.67_1E14_13E_820000.uid
+ln -s tv.saudisports2.png tv.1E5_1964_13E_820000.uid
 
 # tv.sbs6.png
 # 19.2E
@@ -8758,6 +8750,10 @@ ln -s tv.skyunohd-it.png tv.2C43_251C_FBFF_820000.uid
 # 13.0E
 ln -s tv.skyunoplus1-it.png tv.2B70_19C8_FBFF_820000.uid
 
+# tv.skyunoplus2-it.png
+# 13.0E
+ln -s tv.skyunoplus2-it.png tv.596_320_FBFF_820000.uid
+
 # tv.showcasetv.png
 # 28.2E
 ln -s tv.showcasetv.png tv.D020_909_2_11A0000.uid
@@ -9307,6 +9303,10 @@ ln -s tv.tcm2.png tv.1592_7E5_2_11A0000.uid
 # tv.tcmautor.png
 # 19.2E
 ln -s tv.tcmautor.png tv.760C_408_1_C00000.uid
+
+# tv.tectimetv.png
+# 19.2E
+ln -s tv.tectimetv.png tv.1523_455_1_C00000.uid
 
 # tv.tefchannel.png
 # 13.0E
@@ -10370,8 +10370,6 @@ ln -s tv.tvela1.png tv.77C0_40A_1_C00000.uid
 ln -s tv.tvela2.png tv.77C2_40A_1_C00000.uid
 
 # tv.tvslovenija3.png
-# 13.0E
-ln -s tv.tvslovenija3.png tv.C87_2328_13E_820000.uid
 
 # tv.tvverdade.png
 # 13.0E
@@ -10493,6 +10491,8 @@ ln -s tv.universalchannelplus1.png tv.C7A6_96C_2_11A0000.uid
 ln -s tv.universalchannelplus1.png tv.CBFC_8FF_2_11A0000.uid
 
 # tv.unitelclassica.png
+# 19.2E
+ln -s tv.unitelclassica.png tv.18_11_85_C00000.uid
 
 # tv.unitelclassicahd.png
 # 23.5E
