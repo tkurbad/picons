@@ -334,6 +334,10 @@ ln -s tv.alibiplus1.png tv.1DCE_7DF_2_11A0000.uid
 # 13.0E
 ln -s tv.alice.png tv.E2E_16A8_FBFF_820000.uid
 
+# tv.alicekochen-de.png
+# 19.2E
+ln -s tv.alicekochen-de.png tv.13FF_403_1_C00000.uid
+
 # tv.aljazeera.png
 # 9.0E
 ln -s tv.aljazeera.png tv.43C_2_AA_5A0000.uid
@@ -2844,6 +2848,8 @@ ln -s tv.dmaxplus1.png tv.CCC4_90B_2_11A0000.uid
 ln -s tv.dmaxplus2.png tv.CCC9_90B_2_11A0000.uid
 
 # tv.dhammakayamediachannel.png
+# 13.0E
+ln -s tv.dhammakayamediachannel.png tv.29D8_3CF0_13E_820000.uid
 
 # tv.dmdigital.png
 # 28.2E
@@ -11026,6 +11032,10 @@ ln -s tv.wdrhd.png tv.6EA5_4B1_1_C00000.uid
 # tv.weddingtv.png
 
 # tv.weddingtvitalia.png
+
+# tv.weltderwunder.png
+# 19.2E
+ln -s tv.weltderwunder.png tv.332F_45B_1_C00000.uid
 
 # tv.worldfashionchannel.png
 # 9.0E
