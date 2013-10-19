@@ -597,10 +597,6 @@ ln -s tv.atvhd.png tv.33AC_3EB_1_C00000.uid
 
 # tv.atvavrupa.png
 
-# tv.atvinternational.png
-# 13.0E
-ln -s tv.atvinternational.png tv.1264_3458_13E_820000.uid
-
 # tv.automotorsport.png
 # 9.0E
 ln -s tv.automotorsport.png tv.26D_206C_9C_5A0000.uid
@@ -1459,6 +1455,10 @@ ln -s tv.canal+deporteshd-es.png tv.7828_428_1_C00000.uid
 ln -s tv.canal+deporteshd-es.png tv.7619_408_1_C00000.uid
 ln -s tv.canal+deporteshd-es.png tv.782A_428_1_C00000.uid
 
+# tv.canal+family2-pl.png
+# 13.0E
+ln -s tv.canal+family2-pl.png tv.113D_2AF8_13E_820000.uid
+
 # tv.canal+family2hd-pl.png
 # 13.0E
 ln -s tv.canal+family2hd-pl.png tv.377A_44C_13E_820000.uid
@@ -1472,11 +1472,17 @@ ln -s tv.canal+family-fr.png tv.2072_432_1_C00000.uid
 ln -s tv.canal+familyhd-fr.png tv.2265_438_1_C00000.uid
 ln -s tv.canal+familyhd-fr.png tv.2279_438_1_C00000.uid
 
+# tv.canal+family-pl.png
+# 13.0E
+ln -s tv.canal+family-pl.png tv.113E_2AF8_13E_820000.uid
+
 # tv.canal+familyhd-pl.png
 # 13.0E
 ln -s tv.canal+familyhd-pl.png tv.377B_44C_13E_820000.uid
 
-# tv.canal+family-pl.png
+# tv.canal+film2-pl.png
+# 13.0E
+ln -s tv.canal+film2-pl.png tv.12C3_2E7C_13E_820000.uid
 
 # tv.canal+film2hd-pl.png
 # 13.0E
@@ -1487,6 +1493,8 @@ ln -s tv.canal+film2hd-pl.png tv.3782_44C_13E_820000.uid
 ln -s tv.canal+filmhd-pl.png tv.3779_44C_13E_820000.uid
 
 # tv.canal+film-pl.png
+# 13.0E
+ln -s tv.canal+film-pl.png tv.1308_2E7C_13E_820000.uid
 
 # tv.canal+futbolhd-es.png
 # 19.2E
@@ -1683,6 +1691,10 @@ ln -s tv.cazaypesca.png tv.772B_416_1_C00000.uid
 # 28.2E
 ln -s tv.cbbc.png tv.18AD_7FD_2_11A0000.uid
 ln -s tv.cbbc.png tv.2870_800_2_11A0000.uid
+
+# tv.cbctv.png
+# 13.0E
+ln -s tv.cbctv.png tv.1264_3458_13E_820000.uid
 
 # tv.cbeebies.png
 # 13.0E
@@ -4937,9 +4949,10 @@ ln -s tv.kix.png tv.D066_90A_2_11A0000.uid
 ln -s tv.kixplus1.png tv.D07A_90A_2_11A0000.uid
 
 # tv.kombatsport.png
+
+# tv.kombatsporthd.png
 # 19.2E
-ln -s tv.kombatsport.png tv.196B_44E_1_C00000.uid
-ln -s tv.kombatsport.png tv.197F_44E_1_C00000.uid
+ln -s tv.kombatsporthd.png tv.196B_44E_1_C0000.uid
 
 # tv.kontrachannel.png
 # 13.0E
@@ -9516,6 +9529,10 @@ ln -s tv.theentrepreneurchannel.png tv.CCC0_901_2_11A0000.uid
 # tv.thejewellerychannel.png
 # 28.2E
 ln -s tv.thejewellerychannel.png tv.D110_90C_2_11A0000.uid
+
+# tv.themall.png
+# 28.2E
+ln -s tv.themall.png tv.D7C6_822_2_11A0000.uid
 
 # tv.thestore.png
 # 28.2E
