@@ -5880,6 +5880,78 @@ ln -s tv.natgeowildhd.png tv.F2D_7EC_2_11A0000.uid
 ln -s tv.natgeowildhd.png tv.12C6_26_46_7120000.uid
 ln -s tv.natgeowildhd.png tv.12C5_26_46_7120000.uid
 
+# tv.nationalgeographic.png
+# 4.8E
+ln -s tv.nationalgeographic.png tv.E6A_16_56_300000.uid
+ln -s tv.nationalgeographic.png tv.E38_16_56_300000.uid
+ln -s tv.nationalgeographic.png tv.C62_5_56_300000.uid
+# 9.0E
+ln -s tv.nationalgeographic.png tv.4E8B_2134_9C_5A0000.uid
+ln -s tv.nationalgeographic.png tv.27_19C8_9E_5A0000.uid
+# 13.0E
+ln -s tv.nationalgeographic.png tv.3D5E_2C88_13E_820000.uid
+ln -s tv.nationalgeographic.png tv.1D54_2F44_13E_820000.uid
+ln -s tv.nationalgeographic.png tv.E39_16A8_FBFF_820000.uid
+# 19.2E
+ln -s tv.nationalgeographic.png tv.778D_424_1_C00000.uid
+ln -s tv.nationalgeographic.png tv.D_4_85_C00000.uid
+ln -s tv.nationalgeographic.png tv.1FAC_434_1_C00000.uid
+ln -s tv.nationalgeographic.png tv.325D_45F_35_C00000.uid
+# 23.5E
+ln -s tv.nationalgeographic.png tv.CFD8_2714_F001_EB0000.uid
+ln -s tv.nationalgeographic.png tv.C614_2712_F001_EB0000.uid
+ln -s tv.nationalgeographic.png tv.CFD8_2712_F001_EB0000.uid
+ln -s tv.nationalgeographic.png tv.151E_C86_3_EB0000.uid
+ln -s tv.nationalgeographic.png tv.1587_C92_3_EB0000.uid
+ln -s tv.nationalgeographic.png tv.13DD_C8A_3_EB0000.uid
+# 28.2E
+ln -s tv.nationalgeographic.png tv.12C5_7E9_2_11A0000.uid
+# 0.8W
+ln -s tv.nationalgeographic.png tv.60D_47_46_7120000.uid
+ln -s tv.nationalgeographic.png tv.C9_2_46_7120000.uid
+ln -s tv.nationalgeographic.png tv.407_3_1_7120000.uid
+
+# tv.nationalgeographichd.png
+# 4.8E
+ln -s tv.nationalgeographichd.png tv.6AE_19_56_300000.uid
+# 9.0E
+ln -s tv.nationalgeographichd.png tv.28_20D0_6B2_5A0000.uid
+ln -s tv.nationalgeographichd.png tv.DB6_16A8_9C_5A0000.uid
+ln -s tv.nationalgeographichd.png tv.2_1A90_9E_5A0000.uid
+# 13.0E
+ln -s tv.nationalgeographichd.png tv.379C_14B4_FBFF_820000.uid
+ln -s tv.nationalgeographichd.png tv.2C2B_251C_FBFF_820000.uid
+ln -s tv.nationalgeographichd.png tv.32DF_190_13E_820000.uid
+ln -s tv.nationalgeographichd.png tv.3C8F_1BBC_13E_820000.uid
+# 19.2E
+ln -s tv.nationalgeographichd.png tv.232B_442_1_C00000.uid
+ln -s tv.nationalgeographichd.png tv.233F_442_1_C00000.uid
+ln -s tv.nationalgeographichd.png tv.70_D_85_C00000.uid
+ln -s tv.nationalgeographichd.png tv.761E_408_1_C00000.uid
+ln -s tv.nationalgeographichd.png tv.7821_428_1_C00000.uid
+ln -s tv.nationalgeographichd.png tv.7829_428_1_C00000.uid
+# 23.5E
+ln -s tv.nationalgeographichd.png tv.7F_8_3_EB0000.uid
+ln -s tv.nationalgeographichd.png tv.C356_271C_F001_EB0000.uid
+ln -s tv.nationalgeographichd.png tv.1B67_C88_3_EB0000.uid
+ln -s tv.nationalgeographichd.png tv.70_271B_85_EB0000.uid
+ln -s tv.nationalgeographichd.png tv.15E5_C9A_3_EB0000.uid
+ln -s tv.nationalgeographichd.png tv.15ED_C9A_3_EB0000.uid
+ln -s tv.nationalgeographichd.png tv.51E5_C96_3_EB0000.uid
+ln -s tv.nationalgeographichd.png tv.2BD_C9A_3_EB0000.uid
+# 28.2E
+ln -s tv.nationalgeographichd.png tv.EF8_7E4_2_11A0000.uid
+ln -s tv.nationalgeographichd.png tv.EF7_7F1_2_11A0000.uid
+# 0.8W
+ln -s tv.nationalgeographichd.png tv.EDE_26_46_7120000.uid
+ln -s tv.nationalgeographichd.png tv.EDF_26_46_7120000.uid
+
+# tv.nationalgeographicplus1.png
+# 13.0E
+ln -s tv.nationalgeographicplus1.png tv.DB1_2DB4_FBFF_820000.uid
+# 28.2E
+ln -s tv.nationalgeographicplus1.png tv.12C6_7E9_2_11A0000.uid
+
 # tv.ndr.png
 # 19.2E
 ln -s tv.ndr.png tv.6E40_431_1_C00000.uid
@@ -5962,78 +6034,6 @@ ln -s tv.newsone.png tv.196E_F_55_300000.uid
 # tv.nex1.png
 # 13.0E
 ln -s tv.nex1.png tv.1F54_319C_13E_820000.uid
-
-# tv.nationalgeographic.png
-# 4.8E
-ln -s tv.nationalgeographic.png tv.E6A_16_56_300000.uid
-ln -s tv.nationalgeographic.png tv.E38_16_56_300000.uid
-ln -s tv.nationalgeographic.png tv.C62_5_56_300000.uid
-# 9.0E
-ln -s tv.nationalgeographic.png tv.4E8B_2134_9C_5A0000.uid
-ln -s tv.nationalgeographic.png tv.27_19C8_9E_5A0000.uid
-# 13.0E
-ln -s tv.nationalgeographic.png tv.3D5E_2C88_13E_820000.uid
-ln -s tv.nationalgeographic.png tv.1D54_2F44_13E_820000.uid
-ln -s tv.nationalgeographic.png tv.E39_16A8_FBFF_820000.uid
-# 19.2E
-ln -s tv.nationalgeographic.png tv.778D_424_1_C00000.uid
-ln -s tv.nationalgeographic.png tv.D_4_85_C00000.uid
-ln -s tv.nationalgeographic.png tv.1FAC_434_1_C00000.uid
-ln -s tv.nationalgeographic.png tv.325D_45F_35_C00000.uid
-# 23.5E
-ln -s tv.nationalgeographic.png tv.CFD8_2714_F001_EB0000.uid
-ln -s tv.nationalgeographic.png tv.C614_2712_F001_EB0000.uid
-ln -s tv.nationalgeographic.png tv.CFD8_2712_F001_EB0000.uid
-ln -s tv.nationalgeographic.png tv.151E_C86_3_EB0000.uid
-ln -s tv.nationalgeographic.png tv.1587_C92_3_EB0000.uid
-ln -s tv.nationalgeographic.png tv.13DD_C8A_3_EB0000.uid
-# 28.2E
-ln -s tv.nationalgeographic.png tv.12C5_7E9_2_11A0000.uid
-# 0.8W
-ln -s tv.nationalgeographic.png tv.60D_47_46_7120000.uid
-ln -s tv.nationalgeographic.png tv.C9_2_46_7120000.uid
-ln -s tv.nationalgeographic.png tv.407_3_1_7120000.uid
-
-# tv.nationalgeographichd.png
-# 4.8E
-ln -s tv.nationalgeographichd.png tv.6AE_19_56_300000.uid
-# 9.0E
-ln -s tv.nationalgeographichd.png tv.28_20D0_6B2_5A0000.uid
-ln -s tv.nationalgeographichd.png tv.DB6_16A8_9C_5A0000.uid
-ln -s tv.nationalgeographichd.png tv.2_1A90_9E_5A0000.uid
-# 13.0E
-ln -s tv.nationalgeographichd.png tv.379C_14B4_FBFF_820000.uid
-ln -s tv.nationalgeographichd.png tv.2C2B_251C_FBFF_820000.uid
-ln -s tv.nationalgeographichd.png tv.32DF_190_13E_820000.uid
-ln -s tv.nationalgeographichd.png tv.3C8F_1BBC_13E_820000.uid
-# 19.2E
-ln -s tv.nationalgeographichd.png tv.232B_442_1_C00000.uid
-ln -s tv.nationalgeographichd.png tv.233F_442_1_C00000.uid
-ln -s tv.nationalgeographichd.png tv.70_D_85_C00000.uid
-ln -s tv.nationalgeographichd.png tv.761E_408_1_C00000.uid
-ln -s tv.nationalgeographichd.png tv.7821_428_1_C00000.uid
-ln -s tv.nationalgeographichd.png tv.7829_428_1_C00000.uid
-# 23.5E
-ln -s tv.nationalgeographichd.png tv.7F_8_3_EB0000.uid
-ln -s tv.nationalgeographichd.png tv.C356_271C_F001_EB0000.uid
-ln -s tv.nationalgeographichd.png tv.1B67_C88_3_EB0000.uid
-ln -s tv.nationalgeographichd.png tv.70_271B_85_EB0000.uid
-ln -s tv.nationalgeographichd.png tv.15E5_C9A_3_EB0000.uid
-ln -s tv.nationalgeographichd.png tv.15ED_C9A_3_EB0000.uid
-ln -s tv.nationalgeographichd.png tv.51E5_C96_3_EB0000.uid
-ln -s tv.nationalgeographichd.png tv.2BD_C9A_3_EB0000.uid
-# 28.2E
-ln -s tv.nationalgeographichd.png tv.EF8_7E4_2_11A0000.uid
-ln -s tv.nationalgeographichd.png tv.EF7_7F1_2_11A0000.uid
-# 0.8W
-ln -s tv.nationalgeographichd.png tv.EDE_26_46_7120000.uid
-ln -s tv.nationalgeographichd.png tv.EDF_26_46_7120000.uid
-
-# tv.nationalgeographicplus1.png
-# 13.0E
-ln -s tv.nationalgeographicplus1.png tv.DB1_2DB4_FBFF_820000.uid
-# 28.2E
-ln -s tv.nationalgeographicplus1.png tv.12C6_7E9_2_11A0000.uid
 
 # tv.nhkworld.png
 # 4.8E
