@@ -1323,10 +1323,13 @@ ln -s tv.canaldelasestrellas.png tv.74A3_41C_1_C00000.uid
 
 # tv.canaldigitaal.png
 
+# tv.canalhollywood.png
+# 19.2E
+ln -s tv.canalhollywood.png tv.77C1_40A_1_C00000.uid
+
 # tv.canalhollywoodhd.png
 # 19.2E
 ln -s tv.canalhollywoodhd.png tv.7882_414_1_C00000.uid
-ln -s tv.canalhollywoodhd.png tv.7887_414_1_C00000.uid
 
 # tv.canale5.png
 # 13.0E
@@ -4294,11 +4297,6 @@ ln -s tv.hightv3d.png tv.1AF9_46_46_7120000.uid
 # tv.hollanddoc24.png
 # 23.5E
 ln -s tv.hollanddoc24.png tv.177F_C82_3_EB0000.uid
-
-# tv.hollywoodtv.png
-# 19.2E
-ln -s tv.hollywoodtv.png tv.7625_408_1_C00000.uid
-ln -s tv.hollywoodtv.png tv.77C1_40A_1_C00000.uid
 
 # tv.holiday.png
 # 19.2E
