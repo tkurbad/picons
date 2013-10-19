@@ -6071,6 +6071,12 @@ ln -s tv.nickelodeon.png tv.CE_A_46_7120000.uid
 ln -s tv.nickelodeon.png tv.401_A_46_7120000.uid
 
 # tv.nickelodeonhd.png
+# 9.0E
+ln -s tv.nickelodeonhd.png tv.445_4_AA_5A0000.uid
+# 13.0E
+ln -s tv.nickelodeonhd.png tv.1F_578_13E_82ACCE.uid
+# 28.2E
+ln -s tv.nickelodeonhd.png tv.F1D_7E4_2_11A0000.uid
 
 # tv.nickelodeonplus1.png
 # 13.0E
@@ -6081,6 +6087,20 @@ ln -s tv.nickelodeonplus1.png tv.15B9_804_2_11A0000.uid
 # tv.nickelodeon_comedycentral.png
 # 4.8E
 ln -s tv.nickelodeon_comedycentral.png tv.C58_5_56_300000.uid
+# 9.0E
+ln -s tv.nickelodeon_comedycentral.png tv.D5_14B4_9C_5A0000.uid
+# 19.2E
+ln -s tv.nickelodeon_comedycentral.png tv.3D_7_85_C00000.uid
+ln -s tv.nickelodeon_comedycentral.png tv.7008_436_1_C00000.uid
+# 23.5E
+ln -s tv.nickelodeon_comedycentral.png tv.CF0E_2717_F001_EB0000.uid
+# 0.8W
+ln -s tv.nickelodeon_comedycentral.png tv.404_A_46_7120000.uid
+
+# tv.nickelodeonhd_comedycentralhd.png
+# 19.2E
+ln -s tv.nickelodeonhd_comedycentralhd.png tv.5273_41D_1_C00000.uid
+ln -s tv.nickelodeonhd_comedycentralhd.png tv.527D_41D_1_C00000.uid
 
 # tv.nickelodeon_mtv.png
 # 4.8E
@@ -6091,33 +6111,7 @@ ln -s tv.nickelodeon_mtv.png tv.D7A_15_56_300000.uid
 ln -s tv.nickelodeon_vh1classic.png tv.402_A_46_7120000.uid
 ln -s tv.nickelodeon_vh1classic.png tv.400_A_46_7120000.uid
 
-# tv.nick_comedycentral.png
-# 9.0E
-ln -s tv.nick_comedycentral.png tv.D5_14B4_9C_5A0000.uid
-# 19.2E
-ln -s tv.nick_comedycentral.png tv.3D_7_85_C00000.uid
-ln -s tv.nick_comedycentral.png tv.7008_436_1_C00000.uid
-# 23.5E
-ln -s tv.nick_comedycentral.png tv.CF0E_2717_F001_EB0000.uid
-# 0.8W
-ln -s tv.nick_comedycentral.png tv.404_A_46_7120000.uid
-
-# tv.nickhd_comedycentralhd.png
-# 19.2E
-ln -s tv.nickhd_comedycentralhd.png tv.5273_41D_1_C00000.uid
-ln -s tv.nickhd_comedycentralhd.png tv.527D_41D_1_C00000.uid
-
 # tv.nickelodeonkindernet.png
-
-# tv.nick.png
-
-# tv.nickhd.png
-# 9.0E
-ln -s tv.nickhd.png tv.445_4_AA_5A0000.uid
-# 13.0E
-ln -s tv.nickhd.png tv.1F_578_13E_82ACCE.uid
-# 28.2E
-ln -s tv.nickhd.png tv.F1D_7E4_2_11A0000.uid
 
 # tv.nickjr.png
 # 9.0E
