@@ -5823,18 +5823,10 @@ ln -s tv.nasn.png tv.6C2_1388_9C_5A0000.uid
 ln -s tv.nasn.png tv.CF71_2715_F001_EB0000.uid
 
 # tv.natgeoadventure.png
-# 13.0E
-ln -s tv.natgeoadventure.png tv.1FB9_189C_FBFF_820000.uid
 
 # tv.natgeoadventurehd.png
-# 13.0E
-ln -s tv.natgeoadventurehd.png tv.2C73_251C_FBFF_820000.uid
-ln -s tv.natgeoadventurehd.png tv.DBA_2DB4_FBFF_820000.uid
-ln -s tv.natgeoadventurehd.png tv.DBA_1AF4_FBFF_820000.uid
 
 # tv.natgeomusic.png
-# 13.0E
-ln -s tv.natgeomusic.png tv.1109_1644_FBFF_820000.uid
 
 # tv.natgeowild.png
 # 4.8E
