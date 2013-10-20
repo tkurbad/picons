@@ -2383,8 +2383,6 @@ ln -s tv.deluxemusichd.png tv.17D4_C91_3_EB0000.uid
 
 # tv.deutscheswetterfernsehen.png
 
-# tv.dhd24tv.png
-
 # tv.diabloxtv.png
 
 # tv.diabloxtv2.png
