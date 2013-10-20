@@ -2685,8 +2685,6 @@ ln -s tv.disneyjunior.png tv.232C_803_2_11A0000.uid
 ln -s tv.disneyjunior.png tv.1A_11_85_C00000.uid
 ln -s tv.disneyjunior.png tv.22CB_45A_1_C00000.uid
 ln -s tv.disneyjunior.png tv.746B_3F0_1_C00000.uid
-# 23.5E
-ln -s tv.disneyjunior.png tv.C615_2712_F001_EB0000.uid
 # 0.8W
 ln -s tv.disneyjunior.png tv.D7A_C_1_7120000.uid
 ln -s tv.disneyjunior.png tv.608_19_46_7120000.uid
@@ -2728,8 +2726,7 @@ ln -s tv.disneyxd.png tv.772A_416_1_C00000.uid
 ln -s tv.disneyxd.png tv.1C_11_85_C00000.uid
 ln -s tv.disneyxd.png tv.22C8_45A_1_C00000.uid
 # 23.5E
-ln -s tv.disneyxd.png tv.CF74_2719_F001_EB0000.uid
-ln -s tv.disneyxd.png tv.C483_2715_F001_EB0000.uid
+ln -s tv.disneyxd.png tv.522B_C99_3_EB0000.uid
 # 0.8W
 ln -s tv.disneyxd.png tv.C87_3E_46_7120000.uid
 ln -s tv.disneyxd.png tv.CD0_A_1_7120000.uid
