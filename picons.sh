@@ -4108,6 +4108,12 @@ ln -s tv.hessenfernsehen.png tv.6DCC_44D_1_C00000.uid
 ln -s tv.highstreettv.png tv.D73E_81A_2_11A0000.uid
 ln -s tv.highstreettv.png tv.D740_81A_2_11A0000.uid
 
+# tv.hightv3d.png
+# 23.5E
+ln -s tv.hightv3d.png tv.14C1_C84_3_EB0000.uid
+# 0.8W
+ln -s tv.hightv3d.png tv.1AF9_46_46_7120000.uid
+
 # tv.hidayattv.png
 # 28.2E
 ln -s tv.hidayattv.png tv.D02A_909_2_11A0000.uid
@@ -4187,12 +4193,6 @@ ln -s tv.hitradiooe3.png tv.32D5_45D_1_C00000.uid
 # 28.2E
 ln -s tv.hitv.png tv.D3C0_A2B_2_11A0000.uid
 ln -s tv.hitv.png tv.D6DC_A33_2_11A0000.uid
-
-# tv.hightv3d.png
-# 23.5E
-ln -s tv.hightv3d.png tv.14C1_C84_3_EB0000.uid
-# 0.8W
-ln -s tv.hightv3d.png tv.1AF9_46_46_7120000.uid
 
 # tv.hollanddoc24.png
 # 23.5E
