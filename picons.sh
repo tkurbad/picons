@@ -2832,6 +2832,8 @@ ln -s tv.dorceltv.png tv.3252_45F_35_C00000.uid
 # 13.0E
 ln -s tv.doctorslife.png tv.1101_1644_FBFF_820000.uid
 
+# tv.docubox.png
+
 # tv.docuboxhd.png
 # 23.5E
 ln -s tv.docuboxhd.png tv.36E3_C8C_3_EB0000.uid
@@ -3440,8 +3442,6 @@ ln -s tv.filmboxhd.png tv.13B3_C95_3_EB0000.uid
 # tv.filmboxaction.png
 # 13.0E
 ln -s tv.filmboxaction.png tv.3D65_2C88_13E_820000.uid
-
-# tv.filmboxactionhd.png
 
 # tv.filmboxextra.png
 # 13.0E
