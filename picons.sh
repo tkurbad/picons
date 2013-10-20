@@ -10397,7 +10397,6 @@ ln -s tv.venustv.png tv.C6C4_969_2_11A0000.uid
 # tv.veronica_disneyxd.png
 # 19.2E
 ln -s tv.veronica_disneyxd.png tv.1483_40D_1_C00000.uid
-ln -s tv.veronica_disneyxd.png tv.7EF_449_35_C00000.uid
 
 # tv.veronicahd_disneyxdhd.png
 # 23.5E
