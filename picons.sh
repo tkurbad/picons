@@ -1154,6 +1154,7 @@ ln -s tv.bravahd.png tv.26B0_43E_1_C00000.uid
 ln -s tv.bravahd.png tv.26C4_43E_1_C00000.uid
 # 23.5E
 ln -s tv.bravahd.png tv.1B71_C88_3_EB0000.uid
+ln -s tv.bravahd.png tv.1B72_C88_3_EB0000.uid
 
 # tv.britasiatv.png
 # 28.2E
@@ -1619,10 +1620,6 @@ ln -s tv.cartoonnetwork.png tv.1D2B_2FA8_13E_820000.uid
 ln -s tv.cartoonnetwork.png tv.7696_41E_1_C00000.uid
 ln -s tv.cartoonnetwork.png tv.6F69_42C_1_C00000.uid
 ln -s tv.cartoonnetwork.png tv.27_F_85_C00000.uid
-# 23.5E
-ln -s tv.cartoonnetwork.png tv.C612_2712_F001_EB0000.uid
-ln -s tv.cartoonnetwork.png tv.C617_2712_F001_EB0000.uid
-ln -s tv.cartoonnetwork.png tv.158D_C92_3_EB0000.uid
 # 28.2E
 ln -s tv.cartoonnetwork.png tv.1BBC_7E2_2_11A0000.uid
 ln -s tv.cartoonnetwork.png tv.1BC5_7E2_2_11A0000.uid
@@ -1792,8 +1789,6 @@ ln -s tv.channel21.png tv.CC_14B4_9C_5A0000.uid
 # 19.2E
 ln -s tv.channel21.png tv.2F30_441_1_C00000.uid
 ln -s tv.channel21.png tv.301_7_85_C00000.uid
-# 23.5E
-ln -s tv.channel21.png tv.D10A_2711_F001_EB0000.uid
 
 # tv.channeli.png
 # 28.2E
@@ -1911,8 +1906,6 @@ ln -s tv.cinefx.png tv.428A_446_1_C00000.uid
 # tv.cinemax.png
 # 13.0E
 ln -s tv.cinemax.png tv.141A_5DC_13E_820000.uid
-# 23.5E
-ln -s tv.cinemax.png tv.3339_C89_3_EB0000.uid
 
 # tv.cinemaxhd.png
 # 13.0E
@@ -1935,8 +1928,6 @@ ln -s tv.cinepolar.png tv.1C9_26AC_13F_820000.uid
 ln -s tv.cinepolar.png tv.4289_446_1_C00000.uid
 
 # tv.citytv.png
-# 23.5E
-ln -s tv.citytv.png tv.151C_C86_3_EB0000.uid
 
 # tv.classcnbc.png
 # 13.0E
@@ -2076,8 +2067,6 @@ ln -s tv.cnbc.png tv.3912_32C8_13E_820000.uid
 ln -s tv.cnbc.png tv.1405_5DC_13E_820000.uid
 # 19.2E
 ln -s tv.cnbc.png tv.272E_402_1_C00000.uid
-# 23.5E
-ln -s tv.cnbc.png tv.D049_271A_F001_EB0000.uid
 # 28.2E
 ln -s tv.cnbc.png tv.C6C2_820_2_11A0000.uid
 ln -s tv.cnbc.png tv.C6C2_969_2_11A0000.uid
@@ -2097,8 +2086,6 @@ ln -s tv.cnn.png tv.2011_24B8_13E_820000.uid
 ln -s tv.cnn.png tv.2BCB_1A90_FBFF_820000.uid
 # 19.2E
 ln -s tv.cnn.png tv.6F6A_42C_1_C00000.uid
-# 23.5E
-ln -s tv.cnn.png tv.D16D_2715_F001_EB0000.uid
 # 28.2E
 ln -s tv.cnn.png tv.1BE4_7E2_2_11A0000.uid
 # 0.8W
@@ -2197,7 +2184,7 @@ ln -s tv.createandcraftextra.png tv.CC0B_8FF_2_11A0000.uid
 # 28.2E
 ln -s tv.crimeandinvestigation.png tv.12C2_7E9_2_11A0000.uid
 # 23.5E
-ln -s tv.crimeandinvestigation.png tv.515B_C8B_3_EB0000.uid
+ln -s tv.crimeandinvestigation.png tv.515C_C8B_3_EB0000.uid
 
 # tv.crimeandinvestigationhd.png
 # 28.2E
@@ -2285,8 +2272,6 @@ ln -s tv.dajto.png tv.13F4_C87_3_EB0000.uid
 # tv.dancetrippin.png
 # 9.0E
 ln -s tv.dancetrippin.png tv.69A_1_9D_5A0000.uid
-# 23.5E
-ln -s tv.dancetrippin.png tv.145A_C98_3_EB0000.uid
 
 # tv.dantoto.png
 # 0.8W
@@ -2390,8 +2375,6 @@ ln -s tv.deluxemusichd.png tv.17D4_C91_3_EB0000.uid
 # tv.detskijmir.png
 
 # tv.deutscheswetterfernsehen.png
-# 23.5E
-ln -s tv.deutscheswetterfernsehen.png tv.C3BD_2713_F001_EB0000.uid
 
 # tv.dhd24tv.png
 
@@ -2402,12 +2385,8 @@ ln -s tv.deutscheswetterfernsehen.png tv.C3BD_2713_F001_EB0000.uid
 ln -s tv.diabloxtv2.png tv.35C1_1388_13E_820000.uid
 
 # tv.diema.png
-# 23.5E
-ln -s tv.diema.png tv.1582_C92_3_EB0000.uid
 
 # tv.diemafamily.png
-# 23.5E
-ln -s tv.diemafamily.png tv.1584_C92_3_EB0000.uid
 
 # tv.dieneuezeit.png
 # 19.2E
@@ -2478,8 +2457,6 @@ ln -s tv.discoveryhd.png tv.1015_1D4C_FBFF_820000.uid
 ln -s tv.discoveryhd.png tv.26AD_43E_1_C00000.uid
 ln -s tv.discoveryhd.png tv.26C1_43E_1_C00000.uid
 ln -s tv.discoveryhd.png tv.82_6_85_C00000.uid
-# 23.5E
-ln -s tv.discoveryhd.png tv.1B63_C88_3_EB0000.uid
 # 28.2E
 ln -s tv.discoveryhd.png tv.EDB_7F0_2_11A0000.uid
 ln -s tv.discoveryhd.png tv.FC2_7F0_2_11A0000.uid
@@ -2491,6 +2468,7 @@ ln -s tv.discoveryhdshowcase.png tv.1069_2008_FBFF_820000.uid
 ln -s tv.discoveryhdshowcase.png tv.3C91_1BBC_13E_820000.uid
 # 23.5E
 ln -s tv.discoveryhdshowcase.png tv.1B62_C88_3_EB0000.uid
+ln -s tv.discoveryhdshowcase.png tv.1B63_C88_3_EB0000.uid
 # 0.8W
 ln -s tv.discoveryhdshowcase.png tv.1006_29_46_7120000.uid
 ln -s tv.discoveryhdshowcase.png tv.100A_29_46_7120000.uid
@@ -2629,9 +2607,7 @@ ln -s tv.disneychannel.png tv.76C3_40E_1_C00000.uid
 ln -s tv.disneychannel.png tv.22_11_85_C00000.uid
 ln -s tv.disneychannel.png tv.1FA9_434_1_C00000.uid
 # 23.5E
-ln -s tv.disneychannel.png tv.2336_C8F_3_EB0000.uid
 ln -s tv.disneychannel.png tv.3336_C89_3_EB0000.uid
-ln -s tv.disneychannel.png tv.1598_C92_3_EB0000.uid
 ln -s tv.disneychannel.png tv.17B1_C82_3_EB0000.uid
 # 28.2E
 ln -s tv.disneychannel.png tv.2329_803_2_11A0000.uid
