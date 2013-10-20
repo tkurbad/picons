@@ -2725,8 +2725,6 @@ ln -s tv.disneyxd.png tv.2333_803_2_11A0000.uid
 ln -s tv.disneyxd.png tv.772A_416_1_C00000.uid
 ln -s tv.disneyxd.png tv.1C_11_85_C00000.uid
 ln -s tv.disneyxd.png tv.22C8_45A_1_C00000.uid
-# 23.5E
-ln -s tv.disneyxd.png tv.522B_C99_3_EB0000.uid
 # 0.8W
 ln -s tv.disneyxd.png tv.C87_3E_46_7120000.uid
 ln -s tv.disneyxd.png tv.CD0_A_1_7120000.uid
@@ -3305,7 +3303,6 @@ ln -s tv.eurosporthd.png tv.84_B_85_C00000.uid
 # 23.5E
 ln -s tv.eurosporthd.png tv.1422_C85_3_EB0000.uid
 ln -s tv.eurosporthd.png tv.13A9_C85_3_EB0000.uid
-ln -s tv.eurosporthd.png tv.1421_C85_3_EB0000.uid
 ln -s tv.eurosporthd.png tv.1421_C85_3_EB0000.uid
 # 28.2E
 ln -s tv.eurosporthd.png tv.EDC_7D8_2_11A0000.uid
@@ -6761,7 +6758,6 @@ ln -s tv.pricedrop.png tv.CD1E_902_2_11A0000.uid
 
 # tv.primacool.png
 # 23.5E
-ln -s tv.primacool.png tv.3338_C89_3_EB0000.uid
 ln -s tv.primacool.png tv.3351_C93_3_EB0000.uid
 # 0.8W
 ln -s tv.primacool.png tv.C30_8_1_7120000.uid
