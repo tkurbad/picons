@@ -7679,6 +7679,7 @@ ln -s tv.sky2-gb.png tv.13F0_7EB_2_11A0000.uid
 ln -s tv.sky2-gb.png tv.13F0_961_2_11A0000.uid
 ln -s tv.sky2-gb.png tv.1290_7EA_2_11A0000.uid
 ln -s tv.sky2-gb.png tv.13F4_963_2_11A0000.uid
+ln -s tv.sky2-gb.png tv.13F4_807_2_11A0000.uid
 
 # tv.sky3d-de.png
 # 19.2E
