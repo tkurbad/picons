@@ -10942,9 +10942,11 @@ ln -s radio.3fm.png radio.14A3_40D_1_C00000.uid
 # 23.5E
 ln -s radio.arrowclassicrock.png radio.519C_C8B_3_EB0000.uid
 
-# radio.arrowjazz.png
+# radio.arrowcaz.png
 # 23.5E
-ln -s radio.arrowjazz.png radio.519E_C8B_3_EB0000.uid
+ln -s radio.arrowcaz.png radio.519E_C8B_3_EB0000.uid
+
+# radio.arrowjazz.png
 
 # radio.b5aktuell.png
 # 19.2E
