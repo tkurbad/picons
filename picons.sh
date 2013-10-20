@@ -2190,6 +2190,7 @@ ln -s tv.createandcraftextra.png tv.CC0B_8FF_2_11A0000.uid
 ln -s tv.crimeandinvestigation.png tv.12C2_7E9_2_11A0000.uid
 # 23.5E
 ln -s tv.crimeandinvestigation.png tv.515C_C8B_3_EB0000.uid
+ln -s tv.crimeandinvestigation.png tv.515B_C8B_3_EB0000.uid
 
 # tv.crimeandinvestigationhd.png
 # 28.2E
@@ -9911,6 +9912,8 @@ ln -s tv.tveinternacional.png tv.358E_1388_13E_820000.uid
 ln -s tv.tvfinland.png tv.1F6_14_46_7120000.uid
 
 # tv.tvgalicia.png
+# 19.2E
+ln -s tv.tvgalicia.png tv.7A4A_410_1_C00000.uid
 
 # tv.tvglobo.png
 # 13.0E
