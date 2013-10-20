@@ -12020,8 +12020,8 @@ ln -s tv.ndr.png tv.6E40_431_A401_FFFF0000.uid
 ln -s tv.ndr.png tv.6E41_431_A401_FFFF0000.uid
 ln -s tv.ndr.png tv.6E42_431_A401_FFFF0000.uid
 ln -s tv.ndr.png tv.6E43_431_A401_FFFF0000.uid
-ln -s tv.nick_comedycentral.png tv.2B60_BF_270F_FFFF0000.uid
-ln -s tv.nick_comedycentral.png tv.56AB_E3_A018_FFFF0000.uid
+ln -s tv.nickelodeon_comedycentral.png tv.2B60_BF_270F_FFFF0000.uid
+ln -s tv.nickelodeon_comedycentral.png tv.56AB_E3_A018_FFFF0000.uid
 ln -s tv.nickjr.png tv.5272_D3_270F_FFFF0000.uid
 ln -s tv.nickjr.png tv.C611_2715_F001_FFFF0000.uid
 ln -s tv.nicktoons.png tv.526F_D3_270F_FFFF0000.uid
