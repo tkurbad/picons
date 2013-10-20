@@ -4952,7 +4952,7 @@ ln -s tv.kixplus1.png tv.D07A_90A_2_11A0000.uid
 
 # tv.kombatsporthd.png
 # 19.2E
-ln -s tv.kombatsporthd.png tv.196B_44E_1_C0000.uid
+ln -s tv.kombatsporthd.png tv.196B_44E_1_C00000.uid
 
 # tv.kontrachannel.png
 # 13.0E
@@ -5825,6 +5825,8 @@ ln -s tv.nasn.png tv.CF71_2715_F001_EB0000.uid
 # tv.natgeoadventure.png
 
 # tv.natgeoadventurehd.png
+# 13.0E
+ln -s tv.natgeoadventurehd.png tv.DBA_1AF4_FBFF_820000.uid
 
 # tv.natgeomusic.png
 
