@@ -3434,6 +3434,8 @@ ln -s tv.fightboxhd.png tv.36E2_C8C_3_EB0000.uid
 ln -s tv.fightklub.png tv.4283_2BC0_13E_820000.uid
 
 # tv.filmbox.png
+# 13.0E
+ln -s tv.filmbox.png tv.3D61_2C88_13E_820000.uid
 # 23.5E
 ln -s tv.filmbox.png tv.334A_C93_3_EB0000.uid
 
