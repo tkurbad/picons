@@ -2989,6 +2989,7 @@ ln -s tv.eentertainment.png tv.6D8_1388_9C_5A0000.uid
 ln -s tv.eentertainment.png tv.1BBE_17D4_13E_820000.uid
 ln -s tv.eentertainment.png tv.2CD0_2580_FBFF_820000.uid
 ln -s tv.eentertainment.png tv.4462_1F40_13E_820000.uid
+ln -s tv.eentertainment.png tv.427F_2BC0_13E_820000.uid
 # 19.2E
 ln -s tv.eentertainment.png tv.22CF_45A_1_C00000.uid
 # 28.2E
@@ -5106,8 +5107,11 @@ ln -s tv.m6musicclub.png tv.2585_458_1_C00000.uid
 ln -s tv.m6music.png tv.4463_1F40_13E_820000.uid
 # 19.2E
 ln -s tv.m6music.png tv.1904_3FA_1_C00000.uid
-ln -s tv.m6music.png tv.1967_44E_1_C00000.uid # HD
-ln -s tv.m6music.png tv.197B_44E_1_C00000.uid # HD
+
+# tv.m6musichd.png
+# 19.2E
+ln -s tv.m6musichd.png tv.1967_44E_1_C00000.uid
+ln -s tv.m6musichd.png tv.197B_44E_1_C00000.uid
 
 # tv.m6replay.png
 
