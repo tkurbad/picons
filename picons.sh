@@ -881,8 +881,6 @@ ln -s tv.bbcworldnews.png tv.191_1964_9C_5A0000.uid
 ln -s tv.bbcworldnews.png tv.200C_24B8_13E_820000.uid
 # 19.2E
 ln -s tv.bbcworldnews.png tv.2742_402_1_C00000.uid
-# 23.5E
-ln -s tv.bbcworldnews.png tv.CF09_2718_F001_EB0000.uid
 # 0.8W
 ln -s tv.bbcworldnews.png tv.3E9_31_46_7120000.uid
 
@@ -994,8 +992,6 @@ ln -s tv.bfmbusiness.png tv.2156_400_1_C00000.uid
 ln -s tv.bibeltv.png tv.19F_1964_9C_5A0000.uid
 # 19.2E
 ln -s tv.bibeltv.png tv.2F5A_454_1_C00000.uid
-# 23.5E
-ln -s tv.bibeltv.png tv.D09B_2718_F001_EB0000.uid
 
 # tv.bibeltvhd.png
 # 19.2E
@@ -1021,8 +1017,6 @@ ln -s tv.bio.png tv.4E99_2134_9C_5A0000.uid
 # 19.2E
 ln -s tv.bio.png tv.772D_416_1_C00000.uid
 ln -s tv.bio.png tv.39_F_85_C00000.uid
-# 23.5E
-ln -s tv.bio.png tv.C619_2712_F001_EB0000.uid
 # 28.2E
 ln -s tv.bio.png tv.122F_7E9_2_11A0000.uid
 
@@ -1053,8 +1047,6 @@ ln -s tv.bloomberg.png tv.1C86_332C_13E_820000.uid
 ln -s tv.bloomberg.png tv.3_3D54_13E_820000.uid
 # 19.2E
 ln -s tv.bloomberg.png tv.2753_402_1_C00000.uid
-# 23.5E
-ln -s tv.bloomberg.png tv.CF0C_2717_F001_EB0000.uid
 # 28.2E
 ln -s tv.bloomberg.png tv.CD46_902_2_11A0000.uid
 # 0.8W
@@ -1151,8 +1143,6 @@ ln -s tv.boomerangplus1.png tv.2507_2260_FBFF_820000.uid
 ln -s tv.boomerangplus1.png tv.1BBD_7E2_2_11A0000.uid
 
 # tv.bntworld.png
-# 23.5E
-ln -s tv.bntworld.png tv.157E_C92_3_EB0000.uid
 
 # tv.bralpha.png
 # 19.2E
@@ -1164,7 +1154,6 @@ ln -s tv.bravahd.png tv.26B0_43E_1_C00000.uid
 ln -s tv.bravahd.png tv.26C4_43E_1_C00000.uid
 # 23.5E
 ln -s tv.bravahd.png tv.1B71_C88_3_EB0000.uid
-ln -s tv.bravahd.png tv.1B72_C88_3_EB0000.uid
 
 # tv.britasiatv.png
 # 28.2E
