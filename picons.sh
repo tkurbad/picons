@@ -5637,10 +5637,12 @@ ln -s tv.mtvhd.png tv.F40_7E4_2_11A0000.uid
 # tv.mtvbase.png
 # 19.2E
 ln -s tv.mtvbase.png tv.6FF5_42A_1_C00000.uid
-ln -s tv.mtvbase.png tv.1F4B_42E_1_C00000.uid # HD
-ln -s tv.mtvbase.png tv.1F41_42E_1_C00000.uid # HD
 # 28.2E
 ln -s tv.mtvbase.png tv.1B5F_7DA_2_11A0000.uid
+
+# tv.mtvbasehd.png
+# 19.2E
+ln -s tv.mtvbasehd.png tv.1F41_42E_1_C00000.uid
 
 # tv.mtvbrandnew.png
 # 13.0E
