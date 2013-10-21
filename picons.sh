@@ -7893,6 +7893,12 @@ ln -s tv.skycinemafamilyhd-it.png tv.2C47_251C_FBFF_820000.uid
 # 13.0E
 ln -s tv.skycinemafamily-it.png tv.2B61_19C8_FBFF_820000.uid
 
+# tv.skycinemafamilyplus1hd-it.png
+# 13.0E
+ln -s tv.skycinemafamilyplus1hd-it.png tv.2CF4_2774_FBFF_820000.uid
+
+# tv.skycinemafamilyplus1-it.png
+
 # tv.skycinemahd-de.png
 # 19.2E
 ln -s tv.skycinemahd-de.png tv.83_6_85_C00000.uid
@@ -8242,7 +8248,6 @@ ln -s tv.skyprimafilahd-it.png tv.37AA_14B4_FBFF_820000.uid
 ln -s tv.skyprimafilahd-it.png tv.37D2_14B4_FBFF_820000.uid
 ln -s tv.skyprimafilahd-it.png tv.24BE_2260_FBFF_820000.uid
 ln -s tv.skyprimafilahd-it.png tv.24BF_2260_FBFF_820000.uid
-ln -s tv.skyprimafilahd-it.png tv.2CF4_2774_FBFF_820000.uid
 ln -s tv.skyprimafilahd-it.png tv.F71_2198_FBFF_820000.uid
 ln -s tv.skyprimafilahd-it.png tv.F72_2198_FBFF_820000.uid
 
